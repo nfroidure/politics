@@ -1,0 +1,81 @@
+/* Google Fonts: Here to be included in both Storybook and the app */
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:ital,wght@0,300;0,400;0,700;0,800;0,900;1,300;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,300;0,400;0,700;0,800;0,900;1,300;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,400;0,700;0,800;0,900;1,300;1,400;1,700&display=swap");
+
+:root {
+  /* Colors */
+  /* See https://coolors.co/eff1ed-97ad5c-65743a-465129-33658a-a41623-f85e00 */
+  --dark: #141712;
+  --grey: #66725a;
+  --light: #eff1ed;
+
+  --primary: #9aaf66;
+  --secondary: #cddba6;
+  --secondary-darker: #c8d6a3;
+  --tertiary: #dbc994;
+  --quaternary: #6f7f4a;
+  --quinary: #838d69;
+  --senary: #6b5b2b;
+
+  --success: #63c132;
+  --warning: #ff521b;
+  --danger: #ea2b1f;
+
+  /* Atomic values */
+  --hGrid: 0.55rem;
+  --gutter: calc(var(--hGrid) * 3);
+  --column: calc(var(--hGrid) * 8);
+  --block: calc(var(--column) * 3 + var(--gutter) * 2);
+  --vGrid: 0.1875rem;
+  --vRythm: calc(8 * var(--vGrid));
+  --border: calc(var(--vGrid) / 2);
+  --borderRadius: calc(var(--hGrid));
+  --shadowX: calc(var(--vGrid) * 2);
+  --shadowY: calc(var(--hGrid) * 1);
+  --shadowBlur: calc(var(--vGrid) * 8);
+
+  /* Animations */
+  --baseAnimationRate: 0.3s;
+
+  /* Fonts */
+  --writingFont: "Dancing Script", sans-serif;
+  --contentFont: "Karla", sans-serif;
+  --headingFont: "Bona Nova", sans-serif;
+
+  /* Font sizes */
+  --smallFontSize: calc(5 * var(--vGrid));
+  --smallLineHeight: calc(8 * var(--vGrid));
+  --smallFontWeight: 300;
+
+  --mediumFontSize: calc(6 * var(--vGrid));
+  --mediumLineHeight: calc(8 * var(--vGrid));
+  --mediumFontWeight: 400;
+
+  --bigFontSize: calc(8 * var(--vGrid));
+  --bigLineHeight: calc(12 * var(--vGrid));
+  --bigFontWeight: 700;
+
+  --greatFontSize: calc(10 * var(--vGrid));
+  --greatLineHeight: calc(16 * var(--vGrid));
+  --greatFontWeight: 800;
+
+  --giantFontSize: calc(12 * var(--vGrid));
+  --giantLineHeight: calc(16 * var(--vGrid));
+  --giantFontWeight: 800;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
+  font-size: var(--mediumFontSize);
+  line-height: var(--mediumLineHeight);
+  font-family: var(--contentFont);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
