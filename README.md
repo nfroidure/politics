@@ -2,7 +2,7 @@
 
 Political blog
 
-## Développement
+## Development
 
 Install NodeJS and clone the project. Then run:
 ```sh

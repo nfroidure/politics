@@ -6,14 +6,14 @@ import type { AppProps } from "next/app";
 import useDimensions from "../hooks/useDimensions";
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
-  const [ref, { width, height }] = useDimensions({ liveMeasure: true });
+  const [ref, dimensions] = useDimensions({ liveMeasure: true });
 
   return (
     <>
       <GridContext.Provider
         value={{
-          v: height || DEFAULT_GRID_V,
-          h: width || DEFAULT_GRID_H,
+          v: dimensions == "none" ? DEFAULT_GRID_V : dimensions.height,
+          h: dimensions == "none" ? DEFAULT_GRID_H : dimensions.width,
         }}
       >
         <Component {...pageProps} />

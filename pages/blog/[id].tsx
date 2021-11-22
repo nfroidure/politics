@@ -19,7 +19,7 @@ const BlogPost = ({ entry }: Props) => {
     <Layout
       title={`${fixText(entry.title)}`}
       description={fixText(entry.description)}
-      image={ entry.illustration?.href}
+      image={ entry.illustration?.url}
     >
       <ContentBlock>
         <Heading1>{fixText(entry.title)}</Heading1>
