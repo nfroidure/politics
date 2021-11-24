@@ -31,8 +31,5 @@ tags:
 
 📰 Sources :
 
-- Le numérique dans le premier degré
-  https://eduscol.education.fr/pid29714/le-numerique-dans-le-premier-degre.html
-- Quelques liens sur l'intelligence et le développement cognitif
-  https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Cattell-Horn-Carroll
-  https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_intelligences_multiples
+- [Le numérique dans le premier degré](https://eduscol.education.fr/pid29714/le-numerique-dans-le-premier-degre.html),
+- [Quelques liens sur l'intelligence](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Cattell-Horn-Carroll) et [le développement cognitif](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_intelligences_multiples).

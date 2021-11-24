@@ -18,7 +18,8 @@ import Emphasis from "../components/em";
 import Code from "../components/code";
 import Cite from "../components/cite";
 import { fixText } from "./text";
-import YError from 'yerror';
+import YError from "yerror";
+import { publicRuntimeConfig } from "../utils/config";
 import type { ReactNode } from "react";
 
 export type MarkdownRootNode = {
@@ -34,7 +35,7 @@ type MarkdownTextNode = {
   value: "string";
 };
 type MarkdownBoldNode = {
-  type: "bold";
+  type: "bold" | "strong";
   value: "string";
   children: MarkdownNode[];
 };
@@ -241,13 +242,21 @@ const blockquoteMap: NodeToElementMapper<MarkdownBlockquoteNode> = (
     )}
   </Blockquote>
 );
-const embeddedAssetMap: NodeToElementMapper<MarkdownImageNode> = (
-  context,
-  node
-) => {
+const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
   return (
-    <Paragraph key={context.index}>
-      <img src={node.url} alt={node.alt} title={node.title} />
+    <span key={context.index}>
+      <img
+        src={
+          node.url.startsWith("http")
+            ? node.url
+            : publicRuntimeConfig.baseURL +
+              publicRuntimeConfig.buildPrefix +
+              "/" +
+              node.url
+        }
+        alt={node.alt}
+        title={node.title}
+      />
       <style jsx>{`
         img {
           clear: both;
@@ -255,11 +264,12 @@ const embeddedAssetMap: NodeToElementMapper<MarkdownImageNode> = (
           width: 100%;
         }
       `}</style>
-    </Paragraph>
+    </span>
   );
 };
 const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) =>
-  (node.url || "").startsWith("https://www.youtube.com/watch") ? (
+  (node.url || "").startsWith("https://www.youtube.com/watch") &&
+  node?.title === "📺" ? (
     <span className="root" key={context.index}>
       <iframe
         width="560"
@@ -291,7 +301,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) =>
       `}</style>
     </span>
   ) : (
-    <Anchor href={node.url} key={context.index}>
+    <Anchor href={node.url} title={node.title} key={context.index}>
       {node.children.map((node, index) =>
         renderMarkdown({ ...context, index }, node)
       )}
@@ -304,7 +314,7 @@ const elementsMapping: Record<MarkdownNodeType, NodeToElementMapper<any>> = {
   heading: headingMap,
   list: listMap,
   listItem: listItemMap,
-  image: embeddedAssetMap,
+  image: imageMap,
   link: hyperlinkMap,
   blockquote: blockquoteMap,
   thematicBreak: hrMap,
@@ -312,6 +322,7 @@ const elementsMapping: Record<MarkdownNodeType, NodeToElementMapper<any>> = {
   emphasis: emphasisMap,
   inlineCode: codeMap,
   bold: boldMap,
+  strong: boldMap,
   html: htmlMap,
 };
 
@@ -327,9 +338,13 @@ export function renderMarkdown<T extends MappingContext>(
     node = eventuallyConvertHTMLNodes(node as MarkdownRootNode);
   }
 
-  return elementsMapping[node.type]
-    ? elementsMapping[node.type](context, node)
-    : "";
+  if (elementsMapping[node.type]) {
+    return elementsMapping[node.type](context, node);
+  }
+
+  console.warn(`Unrecognized Markdown element:`, node);
+
+  return null;
 }
 
 function eventuallyConvertHTMLNodes(rootNode: MarkdownRootNode): MarkdownNode {

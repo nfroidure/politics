@@ -121,7 +121,7 @@ const Page = () => (
       </Paragraph>
       <Heading2>Crédits</Heading2>
       <Paragraph>
-        Site entièrement réalisé par nos soins, code source{" "}
+        Site entièrement réalisé par mes soins, le code source est{" "}
         <Anchor
           href="https://github.com/nfroidure/politics"
           title="Voir le dépôt du site"

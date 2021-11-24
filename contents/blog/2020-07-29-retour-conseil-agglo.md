@@ -8,9 +8,14 @@ categories:
   - Politique locale
 tags:
   - Douaisis Agglo
+illustration:
+  - url: illustrations/greenwashing.jpg
+  - alt: Publicité sur le Green Washing
 ---
 
 🔙 Petit retour sur les deux derniers conseils communautaires
+
+![Publicité sur le Green Washing](illustrations/greenwashing.jpg)
 
 📽️ On apprend qu'un investissement de 1.5M€ sera réalisé dans les 10 projecteurs 8K pour "doter le territoire du planétarium le plus performant au nord de Paris".
 
@@ -44,6 +49,6 @@ Cela tombe bien car, a priori, "Le diplôme préparé par l’apprenti est un Ma
 
 🌻 Enfin, je voudrais revenir sur le développement durable à l'agglo. Lors des derniers conseils nous avons assisté à l'incessante justification des efforts réalisés en matière de développement durable.
 
-Au delà de la chimère que représente cette idée (il faudrait plutôt parler d'économie circulaire et d'écologie), je souhaite rappeler que faire quelques actions pour l'environnement , et en même temps, saccager des terres cultivables sous des sarcophages de béton, c'est un concept bien connu, ça s'appelle le green washing.
+Au delà de la chimère que représente cette idée (il faudrait plutôt parler d'économie circulaire et d'écologie), je souhaite rappeler que faire quelques actions pour l'environnement, et en même temps, saccager des terres cultivables sous des sarcophages de béton, c'est un concept bien connu, ça s'appelle le green washing.
 
 Il est temps de sortir de cette attitude, les citoyen-nes ne sont plus dupes de ces tours de passe-passe !

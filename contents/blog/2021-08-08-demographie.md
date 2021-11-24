@@ -2,7 +2,7 @@
 title: Pour une politique démographique écologique en France
 description: Régulièrement, la surpopulation mondiale ressurgit, comme étant une variable écologiste sous-exploitée. Je vous délivre ici ma vision de la démographie.
 date: "2021-08-08T08:46:42.567Z"
-draft: true
+draft: false
 categories:
   - Opinions politiques
 tags:
@@ -67,11 +67,11 @@ Il peut en être de même pour les avantages fiscaux, par exemple. L'idée étan
 
 Les avantages concernant la retraite alloués aux parents sont une forme d'avoeu implicite du fait que la fonction de parent est aussi prenante qu'un métier.
 
-Il faut dès à présent transformer ces avantages en réels points retraite pendant la durée de disponibilité prise pour élever ses enfants. Qu'ils soient plusieurs ou uniques, nos enfants méritent la présence de leurs parents à leurs côté durant les premières années de leur enfance.
+Il faut dès à présent transformer ces avantages en réels points retraite pendant la durée de disponibilité prise pour élever ses enfants. Qu'ils soient plusieurs ou uniques, nos enfants méritent la présence de leurs parents à leurs côté durant les premières années de leur enfance. Les parents, elleux, méritent que le travail d'éducation qui leur incombe soit pris en compte et traité comme ce qu'il est, un apport significatif à l'avenir de la France.
 
 ### Conséquence d'une démographie naturelle
 
-Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugiés climatiques que l'on imagine croissants malheureusement dans les décennies à venir.
+Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l'on imagine croissante malheureusement dans les décennies à venir étant donné l'inaction climatique de nos dirigeant·es.
 
 **Avec un taux de natalité qui pourrait décroître La France ne risque pas de disparaître progressivement ?**
 
@@ -81,7 +81,7 @@ Cette croyance, n'a aucun fondement autre que le fantasme d'une nation basée su
 
 Il n'y a en réalité dans l'idée de la Nation Française qu'une association entre un territoire, un ensemble de citoyen·nes et un socle de valeurs communes, fondatrices, communément appelé le socle Républicain.
 
-Ces éléments sont à mon sens indépendants de la démographie, des cycles migratoires et ont plutôt trait à l'unité de la Nation. Cette unité existe et perdure tant que les citoyen·nes adhèrent à ce soclent idéologique et en perçoivent les bénéfices concrets. Des bénéfices difficilement palpables pour une partie de la population actuellement. Et pourtant.
+Ces éléments sont à mon sens indépendants de la démographie, des cycles migratoires et ont plutôt trait à l'unité de la Nation. Cette unité existe et perdure tant que les citoyen·nes adhèrent à ce soclent idéologique et en perçoivent les bénéfices concrets. Des bénéfices difficilement palpables pour une partie de la population actuellement. Et pourtant...
 
 Si aujourd'hui, il fallait s'inquièter de la perrénité de la Nation, je pense que c'est plutôt du côté des politiques de ghétoïsation, d'encouragement de l'individualisme, d'accroissement des inégalités, d'abandon du service public et d'une manière générale, de sécession des français·es les plus riches qu'il faut creuser.
 
@@ -91,7 +91,7 @@ Nous l'avons vu avec la crise du coronavirus, les personnes utiles à notre soci
 
 C'est donc paradoxalement qu'un certain nombre de nos concitoyen·nes vivent comme un péril des forces vives qui sont pourtant aujourd'hui en première ligne pour faire perdurer le modèle français, pourtant si imparfait et souvent, si ingrât suite à la casse libérale orchestrée par les gourvernements successifs.
 
-La France continuera, c'est certain, d'acceuillir des vagues d'immigration successives, et il s'agirait d'ailleurs en ce moment, de prendre notre part dans l'acceuil de celles et ceux qui s'apprêtent à sombrer à nouveau, en Afghanistan, dans une période de domination patriacale, de privation de liberté et de maltraitance généralisée.
+La France continuera, c'est certain, d'acceuillir des vagues d'immigration successives, et il s'agirait d'ailleurs, en ce moment, de prendre notre part dans l'acceuil de celles et ceux qui s'apprêtent à sombrer à nouveau, en Afghanistan, dans une période de domination patriacale, de privation de liberté et de maltraitance généralisée.
 
 La France, c'est certain, changera de visage au cours des siècles comme elle a changé au long de son Histoire. D'ailleurs, au delà de l'idée de Nation Française, ce sont, avant tout, des valeurs qu'il s'agit de perpétuer car liés par un destin commun, nos enfants dans toute leur diversité méritent de vivre sous les hospices bienveillants d'une France inclusive et résolument tournée vers l'avenir.
 
@@ -101,8 +101,8 @@ Il est fort probable qu'une population en nombre moindre dispose, en valeur abso
 
 Ceci dit, face à des pays dont la population dépasse le milliard, il serait vain de vouloir rivaliser en tentant de doper notre réservoir de talents de quelques dizaines de milliers d'individus au mieux chaque année.
 
-Enfin, ce n'est pas comme si les potentiels de notre population étaient à ce jour, tous révélés et transfigurés. Moins de naissances, à buget égal, c'est surtout plus de moyens par enfants dans notre système scolaire qui malheureusement est complétement désinvesti par des logiques comptables.
+Enfin, ce n'est pas comme si les potentiels de notre population étaient à ce jour, tous révélés et transfigurés. Moins de naissances, à budget égal, c'est surtout plus de moyens par enfants dans notre système scolaire qui malheureusement est complétement désinvesti par des logiques comptables.
 
 Une fois encore, la qualité vaut mieux que la quantité, bien prendre le temps de permettre à chaque enfant de développer son potentiel vaut mieux que de miser sur une explosion de naissances dont une bonne part seront livré·es à elles/eux mêmes.
 
-En conclusion, je pense qu'il faut, en démographie, comme en toutes choses finalement, accompagner et composer avec les comportements humains, suivre les désirs d'enfants et non tenter d'encourager une natalité artificielle qui n'a pour fondement que de vieilles habitudes à la dent dure, des craintes infondées et une obsession du contrôle et de la croissance indignes des fondements républicains de notre pays.
+En conclusion, je pense qu'il faut, en démographie, comme en toutes choses finalement, accompagner et composer avec les comportements humains, suivre les désirs d'enfants et non tenter d'encourager une natalité artificielle qui n'a pour fondement que de vieilles habitudes à la dent dure (des craintes infondées et une obsession du contrôle et de la croissance) indignes des fondements républicains de notre pays.

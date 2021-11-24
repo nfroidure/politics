@@ -2,7 +2,7 @@
 title: Top départ du tour !
 description: J'ai décidé de faire un tour du Douaisis afin d'aller à votre rencontre, on se retrouve sur la route ?
 date: '2021-08-24T09:00:00.000Z'
-draft: true
+draft: false
 categories:
     - Déplacements
 tags:

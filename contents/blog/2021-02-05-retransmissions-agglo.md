@@ -20,7 +20,7 @@ tags:
 ➡️ Lors du dernier conseil municipal, dans le chat du live, on me faisait remarquer très justement "45 personnes seulement qui regardent ce live...".
 Aujourd'hui, c'est 1021 vues :
 
-[Conseil Municipal de la Ville de Douai](https://www.youtube.com/watch?v=tVr35iLXCYs)
+[Conseil Municipal de la Ville de Douai](https://www.youtube.com/watch?v=tVr35iLXCYs "📺")
 
 😅 Quand on constate un facteur x20 entre le live et le différé, on peut dire que ça sert à rien, mais moi je retiens que 20 fois plus de personnes sont au courant de ce qui se passe dans leur ville. **VINGT FOIS PLUS** de citoyen-nes impliqué-es dans la vie de leur territoire moyennant le fait d'accepter que la contradiction existe en démocratie.
 

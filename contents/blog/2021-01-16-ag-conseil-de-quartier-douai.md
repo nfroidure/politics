@@ -31,4 +31,6 @@ Frédéric Chéreau l'a d'ailleurs rappelé dans une intervention que j'ai trouv
 
 Bref. Mon souhait, je l'ai rappelé en public puis en aparté à toustes celleux qui finaliseront le trait de cet aménagement piéton : limitons autant que possible le passage de véhicules motorisés en dehors des horaires d'ouverture des magasins et au compte goutte. Il sera toujours plus aisé de relâcher du mou si toutefois des problèmes logistiques sérieux advenaient.
 
-Je pense, enfin, que la navette Binbin ne doit pas circuler sur cet axe. Je vois déjà sur ce beau tableau dessiné ce jeudi un intermède déplaisant qui toutes les vingt minutes interloquera mes enfants qui se tourneront alors vers moi s'écriant : "Mais Papa, pourquoi la navette elle roule sur mon dessin ?"
+Je pense, enfin, que la navette Binbin ne doit pas circuler sur cet axe. Je vois déjà sur ce beau tableau dessiné ce jeudi un intermède déplaisant qui toutes les vingt minutes interloquera mes enfants qui se tourneront alors vers moi s'écriant :
+
+> Mais Papa, pourquoi la navette elle roule sur mon dessin ?

@@ -12,6 +12,7 @@ tags:
 💚 Comme vous le savez, je suis écologiste depuis probablement 10 ans.
 
 📅 Difficile de donner une date précise car c'est vraiment un processus progressif. Une prise de conscience globale et transversale.
+
 ♻️ Ça commence par des gestes simples : le tri, le compostage, le train puis progressivement c'est tout un tas de petits gestes quotidiens qui changent.
 
 🐣 Puis c'est l'accélération, les enfants arrivants, on se pose de plus en plus de question sur ce que nous propose la société de consommation.
@@ -22,7 +23,7 @@ tags:
 
 😢 Et pourtant, je suis peiné. Peiné de voir qu'au niveau individuel, on n'a que très peu d'impact...
 
-🌫️ Mes enfants continuent de respirer un air pollué aux particules fines. Je me souviens encore des bronchiolites de mon petit Tom... et je pense à ces 43000 morts prématurées dues à la pollution atmosphérique. Je me dis que mes enfants en feront peut-être parti.
+🌫️ Mes enfants continuent de respirer un air pollué aux particules fines. Je me souviens encore des bronchiolites de mon petit Tom... et je pense à ces 43 000 morts prématurées dues à la pollution atmosphérique. Je me dis que mes enfants en feront peut-être parti.
 
 🚗 La voiture est toujours le mode de transport roi, malgré les accidents, malgré les pollutions. On continue d'investir massivement dans les infrastructures routières alors même que des alternatives existent ! Je prends le train depuis 5 ans et jamais je ne reviendrai en arrière.
 
@@ -38,6 +39,6 @@ tags:
 
 🌍 La question n'est pas : allons nous sauver la planète ou l'humanité ? La question est : combien de vies humaines vont être gâchées ? Comment pouvons-nous limiter ce nombre ? Quel monde allons nous léguer à nos enfants ?
 
-🇪🇺 Aujourd'hui, l'échéance, c'est les élections européennes. Demain ce seront les municipales. Je vous appelle tous à vous impliquer comme jamais dans la vie politique. Interpellez vos élus, exprimez votre envie d'écologie. Et s'ils restent sourds à vos demandes, entrez dans la vie politique par la grande porte : celle des convictions et de l'intérêt général.
+🇪🇺 Aujourd'hui, l'échéance, c'est les élections européennes. Demain ce seront les municipales. Je vous appelle toutes et tous à vous impliquer comme jamais dans la vie politique. Interpellez vos élus, exprimez votre envie d'écologie. Et s'ils restent sourds à vos demandes, entrez dans la vie politique par la grande porte : celle des convictions et de l'intérêt général.
 
 🙋 Comptez sur moi pour en faire autant !

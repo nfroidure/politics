@@ -39,7 +39,12 @@ const BlogEntries = ({ entries }: Props) => (
   >
     <ContentBlock className="title">
       <Heading1 className="title">Blog</Heading1>
-      <Paragraph>Retrouvez mes billets politiques sur cette page.</Paragraph>
+      <Paragraph>
+        Retrouvez mes billets politiques sur cette page. Les propos que je tiens
+        sur ce blog ne sont pas le reflet des positions prises par Europe
+        Écologie-Les Verts, ni celles du groupe local du Douaisis et n'engagent
+        que moi.
+      </Paragraph>
 
       <div className="entries">
         {entries.map((entry) => (
@@ -119,7 +124,7 @@ export const getStaticProps = async () => {
       id: toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
-    .filter((entry) => (!entry.draft) || process.env.NODE_ENV === "development")
+    .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
     .sort(({ date: dateA }: any, { date: dateB }: any) =>
       Date.parse(dateA) > Date.parse(dateB) ? -1 : 1
     );

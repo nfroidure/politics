@@ -28,7 +28,4 @@ La Scarpe est déjà un couloir naturel mais rien n'empêche d'en penser d'autre
 
 ➕ Mettre en place une gestion forestière de la ville : certains arbres ne captent du CO2 qu'en début de vie. Pourquoi ne pas gérer certaines zones arborées de la ville comme une ressource renouvelable et valorisable en cycle court, notamment pour les essences les plus communes ? Cela peut aussi être l'occasion de diversifier les essences. L'uniformisation et l'urbanisme rectiligne ont eu raison de la diversification appauvrissant ainsi les espaces arborés et fragilisant leur résilience aux maladies. La beauté naît souvent de la diversité 😉
 
-📰 Source :
-
-- Quelles sont les villes les plus vertes du Nord et du Pas-de-Calais?
-  https://www.lavoixdunord.fr/721080/article/2020-03-06/quelles-sont-les-villes-les-plus-vertes-du-nord-et-du-pas-de-calais
+📰 Source : [Quelles sont les villes les plus vertes du Nord et du Pas-de-Calais?](https://www.lavoixdunord.fr/721080/article/2020-03-06/quelles-sont-les-villes-les-plus-vertes-du-nord-et-du-pas-de-calais)

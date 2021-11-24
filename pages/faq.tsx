@@ -35,8 +35,8 @@ const Page = ({ entries }: Props) => (
     <ContentBlock>
       <Heading1>La FAQ</Heading1>
       <Paragraph>
-        Les réseaux sociaux représentent un bon moyen de toucher une population
-        plus large que les seul·es initié·es du milieu politique.
+        Les réseaux sociaux représentent un bon moyen de s'adresser à une
+        population plus large que les seul·es initié·es du milieu politique.
       </Paragraph>
       <Paragraph>
         Ils sont cependant aussi le lieu idéal pour les personnes mal
@@ -47,11 +47,11 @@ const Page = ({ entries }: Props) => (
         Pour gagner en temps, mais aussi en qualité, au lieu de répondre
         individuellement,{" "}
         <Strong>je prendrais le temps de détailler mes réponses</Strong> aux
-        divers attaques et je les consignerais ici afin d'ensuite partager un
+        diverses attaques et je les consignerai ici afin d'ensuite partager un
         lien vers celles-ci à la suite des commentaires sur les réseaux sociaux.
       </Paragraph>
       <Paragraph>
-        Une belle manière, d'illustrer mon approche bienveillante envers nos
+        Une manière simple, d'illustrer mon approche bienveillante envers nos
         concitoyen·ne·s en menant{" "}
         <Strong>des réflexions construites et constructives</Strong>.
       </Paragraph>
@@ -76,7 +76,7 @@ export const getStaticProps = async () => {
       id: toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
-    .filter((entry) => (!entry.draft) || process.env.NODE_ENV === "development")
+    .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
     .sort(({ date: dateA }: any, { date: dateB }: any) =>
       new Date(dateA).getTime() > new Date(dateB).getTime() ? -1 : 1
     );

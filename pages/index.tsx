@@ -22,32 +22,29 @@ const Page = () => {
           <br /> Nicolas Froidure
         </Heading1>
         <Paragraph>
-          Lassé de constater l'inaction des personnalités politique classiques,
+          Lassé de constater l'inaction des personnalités politiques classiques,
           j'ai décidé de ne plus être spectateur de la vie politique, mais au
           contraire de m'engager{" "}
-          <Strong>
-            pour que l'écologie soit enfin mise en oeuvre par les politiques
-            publiques&nbsp;!
-          </Strong>
+          <Strong>pour que l'écologie soit enfin mise en oeuvre&nbsp;!</Strong>
         </Paragraph>
         <Paragraph>
-          C'est donc naturellement que j'ai créé ce site Internet pour vous
-          permettre de mieux connaître mon engagement et vous tenir informé·es
-          de mon actualité.
+          C'est donc naturellement que j'ai créé ce site pour vous permettre de
+          mieux connaître mon engagement et vous tenir informé·es de mon
+          actualité.
         </Paragraph>
-        <Heading2>Sur ce site, retrouvez</Heading2>
+        <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
         <UnorderedList>
           <ListItem>
-            <Anchor href="/blog">Mon blog politique&nbsp;:</Anchor> j'y parle de
-            politique locale mais aussi de sujet plus généraux,
+            <Anchor href="/blog">Un blog politique&nbsp;:</Anchor> j'y parle de
+            politique locale, nationale mais aussi de sujet plus globaux,
           </ListItem>
           <ListItem>
-            <Anchor href="/blog">Ma biographie&nbsp;:</Anchor> pour vous
+            <Anchor href="/biographie">Ma biographie&nbsp;:</Anchor> pour vous
             permettre de découvrir qui je suis et en quoi je porte une
             expérience différente des personnalités politiques usuelles,
           </ListItem>
           <ListItem>
-            <Anchor href="/blog">Une FAQ&nbsp;:</Anchor> pour répondre aux
+            <Anchor href="/faq">Une FAQ&nbsp;:</Anchor> pour répondre aux
             questions que vous me posez.
           </ListItem>
         </UnorderedList>
