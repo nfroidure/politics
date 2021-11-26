@@ -17,7 +17,7 @@ tags:
 
 🍀 Le fait est que le Douaisis est un magnifique territoire inscrit dans un belle région où la plupart des gens sont accueillants.
 
-🚲 Et comme, de surcroît, celui-ci reste facilement traversable à vélo, j'ai décidé de faire le tour du Douaisis à vélo pour cette fin d'été !
+🚲 Et comme, de surcroît, celui-ci reste facilement traversable en bicyclette, j'ai décidé de faire le tour du Douaisis à vélo pour cette fin d'été !
 
 ✅ L'idée est d'aller revoir les coins où j'ai vécu, joué, ri, de dire bonjour à des ami-es et de rencontrer de nouvelles personnes et accessoirement remplir ma gourde ! Je ferais des publications au gré de mes rencontres.
 
@@ -25,4 +25,4 @@ tags:
 
 📢 Cette aventure va s'appeler "Le Douaisis : On n'a pas fait le tour !" et elle commence maintenant ! À bientôt !
 
-Suivez le hastag pour voir les étapes de ce tour : [#ledouaisisonnapasfaitletour](https://www.facebook.com/hashtag/ledouaisisonnapasfaitletour)
+Suivez le hashtag pour voir les étapes de ce tour : [#ledouaisisonnapasfaitletour](https://www.facebook.com/hashtag/ledouaisisonnapasfaitletour)

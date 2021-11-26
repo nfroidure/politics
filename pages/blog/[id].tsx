@@ -20,6 +20,7 @@ const BlogPost = ({ entry }: Props) => {
       description={fixText(entry.description)}
       image={ entry.illustration?.url}
     >
+      {JSON.stringify(entry)}
       <ContentBlock>
         {renderMarkdown({ index: 0 }, entry.content)}
         <div className="clear"></div>

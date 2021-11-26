@@ -39,8 +39,8 @@ const Page = ({ entries }: Props) => (
         population plus large que les seul·es initié·es du milieu politique.
       </Paragraph>
       <Paragraph>
-        Ils sont cependant aussi le lieu idéal pour les personnes mal
-        intentionnées de dire tout et n'importe quoi, notamment sous couvert
+        Ils sont cependant aussi le lieu privilégié par les personnes mal
+        intentionnées pour dire tout et n'importe quoi, notamment sous couvert
         d'anonymat.
       </Paragraph>
       <Paragraph>

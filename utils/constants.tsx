@@ -6,7 +6,7 @@ export const ORGANISATION_PRIMARY_COLOR = "#00ff00";
 export const PUBLISHER = "Nicolas Froidure";
 export const DOMAIN_NAME = "nicolasfroidure.fr";
 export const TWITTER_ACCOUNT = "nfroidure";
-export const FACEBOOK_ACCOUNT = "nfroidure";
+export const FACEBOOK_ACCOUNT = "nicolas.froidure.douai";
 
 // Sadly, breakpoints can't currently use CSS var() / calc()
 // so let's use those constants

@@ -9,8 +9,8 @@ categories:
 tags:
   - Douaisis Agglo
 illustration:
-  - url: illustrations/greenwashing.jpg
-  - alt: Publicité sur le Green Washing
+  url: illustrations/greenwashing.jpg
+  alt: Publicité sur le Green Washing
 ---
 
 # Retour sur les deux derniers conseils communautaires
