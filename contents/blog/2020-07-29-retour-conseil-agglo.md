@@ -13,7 +13,7 @@ illustration:
   - alt: Publicité sur le Green Washing
 ---
 
-🔙 Petit retour sur les deux derniers conseils communautaires
+# Retour sur les deux derniers conseils communautaires
 
 ![Publicité sur le Green Washing](illustrations/greenwashing.jpg)
 

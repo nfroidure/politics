@@ -10,6 +10,8 @@ tags:
 origin: https://www.facebook.com/nfroidure/posts/10158312162364201
 ---
 
+# Les arbres à Douai
+
 🌳 Avec 18% de patrimoine arboré et 63% de surface arborée par habitant, notre chère ville de Douai se place plutôt bien par rapport aux villes comparables.
 
 🌻 À Douai, planter des arbres reste bien-sûr possible, la question c'est lesquels et dans quel but. J'en entrevois quelques-uns :

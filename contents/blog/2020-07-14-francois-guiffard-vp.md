@@ -9,7 +9,7 @@ tags:
   - exemplarité
 ---
 
-🤦🏻‍♂️ Tout n'est pas possible en politique !
+# Tout n'est pas possible en politique !
 
 La colère passée, je tiens à revenir sur l'élection de Douaisis Agglo qui, comme certain-es s'en sont rendu-es compte, a crée une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
 

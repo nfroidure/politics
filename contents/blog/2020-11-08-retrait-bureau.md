@@ -9,6 +9,8 @@ tags:
   - démocratie
 ---
 
+# Nouveau bureau d'EÉLV Douaisis
+
 J'ai l'honneur de vous annoncer l'élection lors de l'assemblée générale de notre groupe local du 7 novembre, d'un nouveau bureau pour EÉLV Douaisis.
 
 Pour ma part, je n'ai pas souhaité candidater à nouveau la fonction de secrétaire que j'ai occupé précedemment. Je souhaite me recentrer sur mon action militante afin de préparer, au mieux, les prochaines échéances et agir d'une autre manière (plus concrète) pour l'écologie dans le Douaisis.

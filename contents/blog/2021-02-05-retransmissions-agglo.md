@@ -9,6 +9,8 @@ tags:
   - démocratie
 ---
 
+# De la retransmission des conseils communautaires
+
 🚫 Aussitôt, fini, aussitôt supprimé. Le live du conseil communautaire de l'agglomération du Douaisis ne sera pas disponible à la diffusion tout comme les précédents qui ont honteusement été supprimés car des questions gênantes y ont été posées.
 
 🤷 Il n'y a pourtant AUCUNE impossibilité technique à cela puisque cela a déjà été fait. Je suis outré que les membres du bureau communautaire, et notamment Mr Guiffard qui a fait campagne sur le thème du retour des citoyens dans la vie politique, permettent ce déni de démocratie.

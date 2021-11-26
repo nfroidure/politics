@@ -9,6 +9,8 @@ tags:
   - démocratie
 ---
 
+# Point sur l'entrepôt Goodman
+
 ✔️ J'ai pu accéder au dossier de consultation concernant la nouvelle plateforme logistique qui va sortir de terre à Lambres-lez-Douai.
 
 🤷 C'est en fait un site SEVESO seuil bas qui nous est proposé sur l'aire de l'Ermitage II... une continuité logique puisque l'une des entreprises qui y stockera des produits est elle-même classée SEVESO. Tout cela à 200m d'habitations et à 100m d'une crèche.

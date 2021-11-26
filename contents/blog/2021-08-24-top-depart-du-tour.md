@@ -9,6 +9,8 @@ tags:
     - vélo
 ---
 
+# Top départ du tour !
+
 🌻 Durant les Journées D'été des écologistes à Poitiers, j'ai eu l'occasion, grâce Damien Deville (anthropologue spécialiste des territoires participant à la Mission territoires EELV) de réfléchir un peu à ma relation au territoire sur lequel je vis, le Douaisis.
 
 😅 Il se trouve que j'ai réalisé que, depuis ma naissance, je n'ai jamais résidé ailleurs que dans une bande de 15km de long et de quelques kilomètres de mètres de large : Douai => Oisy-le-Verger/Douai => Douai => Oisy-le-Verger/Corbehem => Douai. Ce n'est pas par chauvinisme, simplement, je ne me suis jamais posé la question de bouger, je n'en ai jamais eu envie non-plus ;).

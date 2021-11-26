@@ -22,7 +22,6 @@ const BlogPost = ({ entry }: Props) => {
       image={ entry.illustration?.url}
     >
       <ContentBlock>
-        <Heading1>{fixText(entry.title)}</Heading1>
         {renderMarkdown({ index: 0 }, entry.content)}
         <div className="clear"></div>
         <Share

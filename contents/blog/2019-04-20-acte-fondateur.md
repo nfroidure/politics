@@ -9,6 +9,8 @@ tags:
   - europe
 ---
 
+# C'est décidé, je m'engage en politique
+
 💚 Comme vous le savez, je suis écologiste depuis probablement 10 ans.
 
 📅 Difficile de donner une date précise car c'est vraiment un processus progressif. Une prise de conscience globale et transversale.

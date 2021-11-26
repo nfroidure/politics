@@ -19,7 +19,7 @@ Le thème de la [surpopulation](https://fr.wikipedia.org/wiki/Surpopulation) mon
 
 En effet, dans son dernier rapport le GIEC indique que 10% des plus riches sont responsables de 36 à 45% des émissions mondiales. On voit donc bien qu'il est davantage question de limiter les émissions de CO2 des plus riches que de limiter la croissance de la population mondiale.
 
-Bien que cette limitation des naissances ne serait pas, en soi, malvenue, elle ne peut à elle seule résoudre le problème. En effet, si nous limitions les inégalités, de fait, la consommation des ressources diminuerait sans qu'il soit nécessaire de limiter la croissance de la population.
+Bien que moins de naissance ne serait pas, en soi, malvenue, cela ne ne va pas résoudre le problème. En effet, si nous limitions les inégalités, de fait, la consommation des ressources diminuerait sans qu'il soit nécessaire de limiter la croissance de la population.
 
 Ceci dit, par effet mécanique, un réduction des inégalités (et donc de meilleures conditions de vie pour les populations les plus pauvres) engendrerait très probablement une diminution de la croissance démographique des pays les plus pauvres de la planète : l'accès à l'éducation, à la contraception, à une certaine sécurité est connu pour avoir cet effet sur la dynamique démographique d'un pays (d'où la fameuse [transition démographique](https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique)).
 

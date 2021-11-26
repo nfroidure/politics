@@ -32,7 +32,7 @@ const Anchor = ({
     <a
       className={`root${className ? " " + className : ""}`}
       {...props}
-      target={href.startsWith("/") ? "_self" : "_blank"}
+      target={href.startsWith("http") ? "_blank" : "_self"}
     >
       {children}
       <style jsx>{`

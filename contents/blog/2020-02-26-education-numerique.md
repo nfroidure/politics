@@ -9,6 +9,8 @@ tags:
   - numérique
 ---
 
+# Éducation et numérique
+
 🤖 Des ordinateurs ou microcontrôleurs du type RaspberryPi / Arduino dans les écoles ? Je dis mille fois oui ! J'en parlais déjà en juillet et je suis toujours de cet avis.
 
 📳 Les téléphones et tablettes ne sont pas des outils faits pour créer, mais consommer le numérique.

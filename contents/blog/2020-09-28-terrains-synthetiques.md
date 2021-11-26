@@ -9,6 +9,8 @@ tags:
   - sport
 ---
 
+# Les terrains synthétiques, écologiques ?
+
 🔎 Quand c'est flou, c'est qu'il y a un loup.
 
 ⚽  Pendant mes pérégrinations sur l'EPDM, je suis tombé sur une communication d'un lobby expliquant à quel point l'innocuité des terrains synthétiques (à base de pneu recyclés) était prouvée.

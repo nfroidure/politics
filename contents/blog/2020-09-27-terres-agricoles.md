@@ -9,6 +9,8 @@ tags:
   - agriculture
 ---
 
+# Du déplacement économique sur des terres arables
+
 👨‍🌾👩🏾‍🌾 Il y a cinq jours, l'organisation des jeunes agriculteurs communiquait :
 
 > 800 000 hectares perdus pour l'agriculture en 10 ans ! Nous devons mettre en place un principe de 0 artificialisation des terres ! Sans terres agricoles, pas de souveraineté alimentaire !

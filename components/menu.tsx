@@ -16,7 +16,7 @@ const Menu = () => {
       <nav>
         <Link href="/">
           <a
-            className={`home ${router.pathname === "/" ? "selected" : ""}`}
+            className={`home ${router.asPath === "/" ? "selected" : ""}`}
             title="Revenir à l'accueil"
           >
             <span>Accueil</span>
@@ -24,7 +24,7 @@ const Menu = () => {
         </Link>
         <Link href="/blog">
           <a
-            className={router.pathname === "/blog" ? "selected" : ""}
+            className={router.asPath.startsWith("/blog") ? "selected" : ""}
             title="Lire le blog"
           >
             <span>Blog</span>
@@ -32,15 +32,15 @@ const Menu = () => {
         </Link>
         <Link href="/biographie">
           <a
-            className={router.pathname === "/biographie" ? "selected" : ""}
-            title="Lire le biographie"
+            className={router.asPath === "/biographie" ? "selected" : ""}
+            title="Lire ma biographie"
           >
             <span>Biographie</span>
           </a>
         </Link>
         <Link href="/faq">
           <a
-            className={router.pathname === "/faq" ? "selected" : ""}
+            className={router.asPath === "/faq" ? "selected" : ""}
             title="Lire mes questions/réponses"
           >
             <span>FAQ</span>
@@ -80,6 +80,7 @@ const Menu = () => {
         }
         nav a.selected {
           text-decoration: underline;
+          color: var(--secondary-darker);
         }
         nav a.newsletter {
           margin-left: auto;

@@ -9,6 +9,8 @@ tags:
   - numérique
 ---
 
+# Les vols intérieurs, ça suffit !
+
 🚫✈️ Je vous ai beaucoup parlé récemment de l'interdiction ou la taxation des vols intérieurs et de cette loi qui ne sera donc pas mise en application durant ce quinquennat suite à la décision inconséquente de la majorité parlementaire.
 
 🌍 Bien-sûr, derrière cette interdiction, il y a le soucis du réchauffement climatique et ses conséquences désastreuses pour la survie de nos enfants.

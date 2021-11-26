@@ -9,6 +9,8 @@ tags:
   - numérique
 ---
 
+# Travailleur du numérique
+
 💻 Depuis le temps, que je parle de faire une publication là dessus, je m'y mets 🙂
 
 🎉 Je suis un geek (voire un nerd) 🎉

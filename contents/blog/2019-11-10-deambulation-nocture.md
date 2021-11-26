@@ -9,6 +9,8 @@ tags:
   - éclairage
 ---
 
+# Déambulation nocturne
+
 💡 Hier, lors de notre déambulation nocturne, nous avons bénéficié d'un exposé très clair de la part des services de la ville de Douai sur la gestion de l'éclairage et le plan de remplacement de ces derniers.
 
 ➡️ L'occasion pour moi de préciser ma position sur l'énergie.

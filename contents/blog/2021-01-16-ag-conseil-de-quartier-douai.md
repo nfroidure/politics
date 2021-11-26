@@ -9,6 +9,8 @@ tags:
   - démocratie
 ---
 
+# AG de mon conseil de quartier
+
 ✅ J'ai assisté à la dernière AG du conseil de quartier dont je dépends (Barlet centre / Faubourg de Cambrai). En présence de l'adjointe de notre quartier Virginie Malolepszy.
 
 😅 Pour la petite histoire, le conseil de quartier ayant eu lieu à 18h (pour respecter le couvre feu), ce sont au final, les 7 personnes de la startup dans laquelle je travaille qui ont décalé le jour de télétravail à vendredi pour que je puisse assister à l'événement. Merci à elles 🙂.
