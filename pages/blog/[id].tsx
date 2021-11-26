@@ -1,6 +1,5 @@
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
-import Heading1 from "../../components/h1";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Share from "../../components/share";
