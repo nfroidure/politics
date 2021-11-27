@@ -2,6 +2,7 @@
 title: Biographie de Nicolas Froidure
 description: Pour porter les idées, il faut des personnes, je vous livre ici, une petite fenêtre sur mon histoire.
 date: "2021-08-08T08:52:24.614Z"
+draft: false
 ---
 
 # Biographie de Nicolas Froidure

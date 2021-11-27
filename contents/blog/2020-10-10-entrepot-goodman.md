@@ -2,7 +2,7 @@
 title: Point sur l'entrepôt Goodman
 description: Mon analyse du dossier de consultation concernant la nouvelle plateforme logistique qui va sortir de terre à Lambres-lez-Douai.
 date: "2020-10-10T08:00:00.00Z"
-draft: true
+draft: false
 categories:
   - Opinions politiques
 tags:

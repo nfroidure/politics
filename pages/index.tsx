@@ -15,7 +15,7 @@ import Blockquote from "../components/blockquote";
 
 const Page = () => {
   return (
-    <Layout title="Blog politique de Nicolas Froidure, écologiste">
+    <Layout title="Blog politique d'un écologiste Douaisien">
       <ContentBlock>
         <Heading1>
           Bienvenue sur le site Internet de

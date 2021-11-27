@@ -2,7 +2,7 @@
 title: Éducation et numérique
 description: Comment former au numérique sans en devenir esclave.
 date: "2020-02-26T18:00:00.000Z"
-draft: true
+draft: false
 categories:
   - Divers
 tags:

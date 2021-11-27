@@ -2,7 +2,7 @@
 title: Nouveau bureau d'EÉLV Douaisis
 description: Je ne me suis pas représenté pour rester secrétaire du groupe local, mes explications sur ce choix.
 date: "2020-11-08T08:00:00.00Z"
-draft: true
+draft: false
 categories:
   - Opinions politiques
 tags:
