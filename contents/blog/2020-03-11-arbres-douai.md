@@ -1,6 +1,6 @@
 ---
 title: Les arbres à Douai
-description: "notre chère ville de Douai se place plutôt bien par rapport aux villes comparables, explications..."
+description: "Notre chère ville de Douai se place plutôt bien par rapport aux villes comparables, explications..."
 date: "2020-03-11T21:00:00.000Z"
 draft: false
 categories:
