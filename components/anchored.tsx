@@ -9,7 +9,7 @@ const Anchored = ({
   id?: string;
 }) => {
   return (
-    <div className="root">
+    <span className="root">
       {children}{" "}
       <small>
         <Link href={`#${id}`}>
@@ -44,7 +44,7 @@ const Anchored = ({
           display: none;
         }
       `}</style>
-    </div>
+    </span>
   );
 };
 

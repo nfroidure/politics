@@ -1,6 +1,7 @@
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import Anchor from "../components/a";
+import Anchored from "../components/anchored";
 import Blockquote from "../components/blockquote";
 import Heading1 from "../components/h1";
 import Heading2 from "../components/h2";
@@ -20,6 +21,7 @@ import Cite from "../components/cite";
 import { fixText } from "./text";
 import YError from "yerror";
 import { publicRuntimeConfig } from "../utils/config";
+import { toASCIIString } from "../utils/ascii";
 import type { ReactNode } from "react";
 
 export type MarkdownRootNode = {
@@ -130,44 +132,36 @@ const paragraphMap: NodeToElementMapper<MarkdownParagraphNode> = (
 const headingMap: NodeToElementMapper<MarkdownHeadingNode> = (
   context: MappingContext,
   node
-) =>
-  node.depth === 1 ? (
-    <Heading1 key={context.index}>
+) => {
+  const HeadingComponent =
+    node.depth === 1
+      ? Heading1
+      : node.depth === 2
+      ? Heading2
+      : node.depth === 3
+      ? Heading3
+      : node.depth === 4
+      ? Heading4
+      : node.depth === 5
+      ? Heading5
+      : Heading6;
+
+  return node.depth === 1 ? (
+    <HeadingComponent key={context.index}>
       {node.children.map((node, index) =>
         renderMarkdown({ ...context, index }, node)
       )}
-    </Heading1>
-  ) : node.depth === 2 ? (
-    <Heading2 key={context.index}>
-      {node.children.map((node, index) =>
-        renderMarkdown({ ...context, index }, node)
-      )}
-    </Heading2>
-  ) : node.depth === 3 ? (
-    <Heading3 key={context.index}>
-      {node.children.map((node, index) =>
-        renderMarkdown({ ...context, index }, node)
-      )}
-    </Heading3>
-  ) : node.depth === 4 ? (
-    <Heading4 key={context.index}>
-      {node.children.map((node, index) =>
-        renderMarkdown({ ...context, index }, node)
-      )}
-    </Heading4>
-  ) : node.depth === 5 ? (
-    <Heading5 key={context.index}>
-      {node.children.map((node, index) =>
-        renderMarkdown({ ...context, index }, node)
-      )}
-    </Heading5>
+    </HeadingComponent>
   ) : (
-    <Heading6 key={context.index}>
-      {node.children.map((node, index) =>
-        renderMarkdown({ ...context, index }, node)
-      )}
-    </Heading6>
+    <HeadingComponent key={context.index}>
+      <Anchored id={toASCIIString(collectMarkdownText(node))}>
+        {node.children.map((node, index) =>
+          renderMarkdown({ ...context, index }, node)
+        )}
+      </Anchored>
+    </HeadingComponent>
   );
+};
 const textMap: NodeToElementMapper<MarkdownTextNode> = (context, node) => (
   <span key={context.index}>{fixText(node.value)}</span>
 );
@@ -345,6 +339,23 @@ export function renderMarkdown<T extends MappingContext>(
   console.warn(`Unrecognized Markdown element:`, node);
 
   return null;
+}
+
+export function collectMarkdownText(
+  node: MarkdownNode,
+  str: string = ""
+): string {
+  if ("children" in node) {
+    str += (node.children || [])
+      .map((children) => collectMarkdownText(children))
+      .join("");
+  }
+
+  if (node.type === "text") {
+    str += node.value;
+  }
+
+  return str;
 }
 
 function eventuallyConvertHTMLNodes(rootNode: MarkdownRootNode): MarkdownNode {
