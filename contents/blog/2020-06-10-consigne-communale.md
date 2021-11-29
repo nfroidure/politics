@@ -8,7 +8,7 @@ categories:
 tags:
   - consigne
 illustration:
-  url: "illustrations/consigne-gayant.svg"
+  url: "illustrations/consigne-gayant.png"
   alt: "Exemple de contenants à l'effigie des Gayant·es"
 ---
 
