@@ -1,14 +1,15 @@
 export function toASCIIString(str: string): string {
   return str
     .toLowerCase()
-    .replace(/ /g, "-")
     .replace(/[éèêë]/g, "e")
-    .replace(/[ùüû]/g, "u")
-    .replace(/[ïî]/g, "i")
-    .replace(/[öôò]/g, "o")
-    .replace(/[àäâ]/g, "a")
+    .replace(/[ùüûú]/g, "u")
+    .replace(/[ïîìí]/g, "i")
+    .replace(/[öôòó]/g, "o")
+    .replace(/[àäâá]/g, "a")
     .replace(/[ç]/g, "c")
-    .replace(/[^a-z0-9\-_]/g, "-")
-    .replace(/[_\-]+$/g, "")
-    .replace(/^[_\-]+/g, "");
+    .replace(/[\s\n\r]+/g, "-")
+    .replace(/[^a-z0-9\-]/g, "-")
+    .replace(/-[\-]+/g, "-")
+    .replace(/[\-]+$/g, "")
+    .replace(/^[\-]+/g, "");
 }

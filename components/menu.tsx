@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { useState } from "react";
 import { publicRuntimeConfig } from "../utils/config";
 import {
   CSS_BREAKPOINT_END_M,
@@ -7,9 +8,14 @@ import {
   CSS_BREAKPOINT_START_L,
   CSS_BREAKPOINT_START_M,
 } from "../utils/constants";
+import Heading2 from "./h2";
+import Paragraph from "./p";
+import Anchor from "./a";
+import Popin from "./popin";
 
 const Menu = () => {
   const router = useRouter();
+  const [popinIsVisible, setPopinIsVisible] = useState(false);
 
   return (
     <div className="root">
@@ -48,12 +54,31 @@ const Menu = () => {
         </Link>
         <a
           className="newsletter"
-          href="mailto:nicolas.froidure@gmail.com?subject=Abonnement"
+          onClick={() => setPopinIsVisible(true)}
+          href="#"
           title="S'abonner à ma lettre d'information"
         >
           <span>S'abonner</span>
         </a>
       </nav>
+      <Popin {...{ popinIsVisible, setPopinIsVisible }}>
+        <Heading2>Lettre d’information</Heading2>
+        <Paragraph>
+          Bien que présent sur les réseaux sociaux, je tiens à communiquer au
+          maximum en dehors. Vous inscrire à ma lettre d'information reste le
+          moyen le plus simple et direct de suivre mon actualité.
+        </Paragraph>
+        <Paragraph>
+          <Anchor
+            href={`mailto:nicolas.froidure@gmail.com?subject=Abonnement&body=${encodeURIComponent(
+              "Je souhaite m’abonner à votre lettre d’information."
+            )}`}
+            target="_blank"
+          >
+            S’inscrire
+          </Anchor>
+        </Paragraph>
+      </Popin>
       <style jsx>{`
         .root {
           background-color: var(--primary);

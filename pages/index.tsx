@@ -15,27 +15,27 @@ import Blockquote from "../components/blockquote";
 
 const Page = () => {
   return (
-    <Layout title="Blog politique d'un écologiste Douaisien">
+    <Layout title="Blog politique d’un écologiste Douaisien">
       <ContentBlock>
         <Heading1>
           Bienvenue sur le site Internet de
           <br /> Nicolas Froidure
         </Heading1>
         <Paragraph>
-          Lassé de constater l'inaction des personnalités politiques classiques,
-          j'ai décidé de ne plus être spectateur de la vie politique, mais au
-          contraire de m'engager{" "}
-          <Strong>pour que l'écologie soit enfin mise en oeuvre&nbsp;!</Strong>
+          Lassé de constater l’inaction des personnalités politiques classiques,
+          j’ai décidé de ne plus être spectateur de la vie politique, mais au
+          contraire de m’engager{" "}
+          <Strong>pour que l’écologie soit enfin mise en oeuvre&nbsp;!</Strong>
         </Paragraph>
         <Paragraph>
-          C'est donc naturellement que j'ai créé ce site pour vous permettre de
+          C’est donc naturellement que j’ai créé ce site pour vous permettre de
           mieux connaître mon engagement et vous tenir informé·es de mon
           actualité.
         </Paragraph>
         <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
         <UnorderedList>
           <ListItem>
-            <Anchor href="/blog">Un blog politique&nbsp;:</Anchor> j'y parle de
+            <Anchor href="/blog">Un blog politique&nbsp;:</Anchor> j’y parle de
             politique locale, nationale mais aussi de sujet plus globaux,
           </ListItem>
           <ListItem>
@@ -50,7 +50,7 @@ const Page = () => {
         </UnorderedList>
         <Heading2>Rejoindre la dynamique&nbsp;!</Heading2>
         <Paragraph>
-          N'hésitez pas{" "}
+          N’hésitez pas{" "}
           <Anchor
             href={`mailto:${ORGANISATION_CONTACT}`}
             title="Contacter Nicolas Froidure"

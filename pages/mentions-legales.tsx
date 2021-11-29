@@ -17,10 +17,10 @@ import Anchor from "../components/a";
 const Page = () => (
   <Layout title="Mentions légales">
     <ContentBlock>
-      <Heading1>Conditions générales d'utilisation</Heading1>
+      <Heading1>Conditions générales d’utilisation</Heading1>
       <Paragraph>
         La navigation sur ce site est soumise aux présentes conditions
-        d'utilisation. Les personnes qui accèdent aux informations mises à
+        d’utilisation. Les personnes qui accèdent aux informations mises à
         disposition par {ORGANISATION_NAME} sur son site Internet reconnaissent
         en avoir pris connaissance et les accepter.
       </Paragraph>
@@ -45,7 +45,7 @@ const Page = () => (
       <Paragraph>
         Toute exploitation non autorisée du site ou de son contenu, des
         informations qui y sont divulguées, engagerait la responsabilité de
-        l'utilisateur et constituerait une contrefaçon sanctionnée par les
+        l’utilisateur et constituerait une contrefaçon sanctionnée par les
         articles L 335-2 et suivants du Code de la Propriété Intellectuelle. Il
         en est de même des bases de données figurant, le cas échéant, sur le
         site {DOMAIN_NAME}
@@ -56,12 +56,12 @@ const Page = () => (
       </Paragraph>
       <Paragraph>
         A ce titre, toute reproduction ou extraction engagerait la
-        responsabilité de l'utilisateur.
+        responsabilité de l’utilisateur.
       </Paragraph>
       <Heading2>Contenu du site</Heading2>
       <Paragraph>
         Malgré tous le soin apporté à la réalisation de ce site et à son
-        actualisation régulière, des erreurs peuvent s'être glissées dans les
+        actualisation régulière, des erreurs peuvent s’être glissées dans les
         informations et/ou documents présentés. Les utilisateurs du site
         procéderont donc à toutes vérifications utiles. {ORGANISATION_NAME}{" "}
         pourra à tout moment, sans préavis, apporter des améliorations ou des
@@ -69,19 +69,19 @@ const Page = () => (
       </Paragraph>
       <Paragraph>
         {ORGANISATION_NAME} décline toute responsabilité en cas de difficulté
-        d'accès à son site ou d'interruptions dans la connexion quelles qu'en
+        d’accès à son site ou d’interruptions dans la connexion quelles qu’en
         soient les causes.
       </Paragraph>
       <Paragraph>
-        De plus, {ORGANISATION_NAME} ne saurait être tenu responsable d'un
+        De plus, {ORGANISATION_NAME} ne saurait être tenu responsable d’un
         dommage ou virus qui pourrait infecter votre ordinateur ou tout matériel
         informatique, suite à une utilisation ou accès au site ou téléchargement
         provenant de ce site.
       </Paragraph>
       <Heading2>Liens hypertextes et références</Heading2>
       <Paragraph>
-        Le site {DOMAIN_NAME} donne accès à d'autres sites via des liens
-        hypertextes, notamment dans les rubriques Crédits et Annuaire. N'étant
+        Le site {DOMAIN_NAME} donne accès à d’autres sites via des liens
+        hypertextes, notamment dans les rubriques Crédits et Annuaire. N’étant
         pas les gestionnaires de ces sites, nous ne pouvons pas en contrôler le
         contenu. En conséquence, nous ne pourrons en aucun cas être tenus pour
         responsables du contenu des sites ainsi accessibles, ou des éventuelles
@@ -95,28 +95,28 @@ const Page = () => (
       </Paragraph>
       <UnorderedList>
         <ListItem>
-          que les pages de {DOMAIN_NAME} ne soient pas imbriquées à l'intérieur
-          des pages d'un autre site, notamment à l'intérieur de frames ou de
+          que les pages de {DOMAIN_NAME} ne soient pas imbriquées à l’intérieur
+          des pages d’un autre site, notamment à l’intérieur de frames ou de
           cadres,
         </ListItem>
         <ListItem>
-          de n'utiliser à l'intérieur de la balise &lt;a&gt; ainsi qu'à
-          l'intérieur de la balise &lt;title&gt; que des mots en rapport direct
+          de n’utiliser à l’intérieur de la balise &lt;a&gt; ainsi qu’à
+          l’intérieur de la balise &lt;title&gt; que des mots en rapport direct
           avec le contenu de ce site et/ou de la page pointée en particulier.
         </ListItem>
       </UnorderedList>
       <Heading2>Données personnelles</Heading2>
       <Paragraph>
-        Ce site Internet ne fait pas usage de cookie ni d'un quelconque outil de
+        Ce site Internet ne fait pas usage de cookie ni d’un quelconque outil de
         comptage/suivi de son trafic.
       </Paragraph>
       <Paragraph>
         Vous pouvez, si vous le souhaitez, vous abonner à la lettre
-        d'information. Dans ce cas, vos données seront enregistrées et
+        d’information. Dans ce cas, vos données seront enregistrées et
         conservées dans un délai maximum de deux mois après les élections.
       </Paragraph>
       <Paragraph>
-        Vous disposez d'un droit de modification et/ou de suppression de vos
+        Vous disposez d’un droit de modification et/ou de suppression de vos
         données personnelles ainsi collectées conformément à la loi en vigueur.
       </Paragraph>
       <Heading2>Crédits</Heading2>

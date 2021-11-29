@@ -4,7 +4,7 @@ import {
 } from "../utils/constants";
 import type { Dispatch, SetStateAction } from "react";
 
-export function Popin({
+export default function Popin({
   popinIsVisible,
   setPopinIsVisible,
   children,
@@ -12,7 +12,7 @@ export function Popin({
   popinIsVisible: boolean;
   setPopinIsVisible: Dispatch<SetStateAction<boolean>>;
   children: React.ReactNode;
-}) {
+}): JSX.Element {
   return (
     <div
       className={`popin ${popinIsVisible ? "visible" : "hidden"}`}
@@ -34,8 +34,7 @@ export function Popin({
           bottom: 0;
           overflow: auto;
           background-color: rgba(0, 0, 0, 0.5);
-          transition: all calc(var(--baseAnimationRate) * 2)
-            ease;
+          transition: all calc(var(--baseAnimationRate) * 2) ease;
           display: flex;
           justify-content: space-around;
           align-items: center;
@@ -69,7 +68,7 @@ export function Popin({
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
           .content {
-            width: calc(var(--block) + calc(var(--gutter) * 4));
+            width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
             padding: var(--vRythm) calc(var(--gutter) * 2);
           }
         }

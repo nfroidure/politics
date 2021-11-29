@@ -35,23 +35,23 @@ const Page = ({ entries }: Props) => (
     <ContentBlock>
       <Heading1>La FAQ</Heading1>
       <Paragraph>
-        Les réseaux sociaux représentent un bon moyen de s'adresser à une
+        Les réseaux sociaux représentent un bon moyen de s’adresser à une
         population plus large que les seul·es initié·es du milieu politique.
       </Paragraph>
       <Paragraph>
         Ils sont cependant aussi le lieu privilégié par les personnes mal
-        intentionnées pour dire tout et n'importe quoi, notamment sous couvert
-        d'anonymat.
+        intentionnées pour dire tout et n’importe quoi, notamment sous couvert
+        d’anonymat.
       </Paragraph>
       <Paragraph>
         Pour gagner en temps, mais aussi en qualité, au lieu de répondre
         individuellement,{" "}
         <Strong>je prendrais le temps de détailler mes réponses</Strong> aux
-        diverses attaques et je les consignerai ici afin d'ensuite partager un
+        diverses attaques et je les consignerai ici afin d’ensuite partager un
         lien vers celles-ci à la suite des commentaires sur les réseaux sociaux.
       </Paragraph>
       <Paragraph>
-        Une manière simple, d'illustrer mon approche bienveillante envers nos
+        Une manière simple, d’illustrer mon approche bienveillante envers nos
         concitoyen·ne·s en menant{" "}
         <Strong>des réflexions construites et constructives</Strong>.
       </Paragraph>

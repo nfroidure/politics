@@ -10,7 +10,7 @@ const Page = () => (
   <Layout title="Page non-trouvée">
     <ContentBlock>
       <Heading1>Ooops!</Heading1>
-      <Paragraph>La page que vous recherchez n'existe pas ou plus.</Paragraph>
+      <Paragraph>La page que vous recherchez n’existe pas ou plus.</Paragraph>
       <Paragraph>
         Laissez-moi vous suggérer quelques lectures sur ce site&nbsp;:
       </Paragraph>
