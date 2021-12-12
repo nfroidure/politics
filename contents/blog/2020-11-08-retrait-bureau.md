@@ -21,6 +21,6 @@ J’ai toute confiance dans ce nouveau bureau partiellement renouvelé qui perme
 
 Je souhaite remercier, une dernière fois, toutes les personnes qui m’ont fait confiance et qui m’ont soutenu dans des moments parfois difficiles, mais souvent heureux, emprunts d’humanité, d’engagement et de respect.
 
-J’ai une profonde admiration pour nombre de nos adhérent-es, leur combat de longue haleine, leur exemplarité : avoir pu représenter le groupe local d’EÉLV Douaisis restera pour moi un immense honneur.
+J’ai une profonde admiration pour nombre de nos adhérent·es, leur combat de longue haleine, leur exemplarité : avoir pu représenter le groupe local d’EÉLV Douaisis restera pour moi un immense honneur.
 
 Je souhaite enfin, remercier toustes celleux qui font progresser l’écologie, politiquement, mais aussi associativement, individuellement : l’écologie, c’est vous ! Nous sommes votre porte-voix.

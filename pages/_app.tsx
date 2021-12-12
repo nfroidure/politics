@@ -1,36 +1,30 @@
 import React from "react";
 import "../styles/normalize.css";
 import "../styles/main.css";
-import { DEFAULT_GRID_H, DEFAULT_GRID_V, GridContext } from "../contexts/grid";
+import {
+  DEFAULT_GRID_H,
+  DEFAULT_GRID_V,
+  GridContext,
+  GridSystem,
+} from "../components/_gridSystem";
+import useCSSVar from "../hooks/useCSSVar";
 import type { AppProps } from "next/app";
-import useDimensions from "../hooks/useDimensions";
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
-  const [ref, dimensions] = useDimensions({ liveMeasure: true });
+  const vGrid = useCSSVar("number", "--vGrid", DEFAULT_GRID_V);
+  const hGrid = useCSSVar("number", "--hGrid", DEFAULT_GRID_H);
 
   return (
     <>
       <GridContext.Provider
         value={{
-          v: dimensions == "none" ? DEFAULT_GRID_V : dimensions.height,
-          h: dimensions == "none" ? DEFAULT_GRID_H : dimensions.width,
+          v: vGrid,
+          h: hGrid,
         }}
       >
         <Component {...pageProps} />
       </GridContext.Provider>
-      <span className="gridMeasure" ref={ref}></span>
-      <style jsx>{`
-        span.gridMeasure {
-          display: block;
-          opacity: 0;
-          position: absolute;
-          width: var(--vGrid);
-          height: var(--hGrid);
-          top: 0;
-          left: 0;
-          pointer-events: none;
-        }
-      `}</style>
+      {process.env.NODE_ENV === "development" ? <GridSystem /> : null}
     </>
   );
 }

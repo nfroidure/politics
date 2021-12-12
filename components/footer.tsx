@@ -24,9 +24,9 @@ const Footer = () => {
       </footer>
       <style jsx>{`
         .root {
-          margin: var(--vRythm) 0 0 0;
+          margin: 0;
+          padding: var(--vRythm) var(--gutter);
           background-color: var(--primary);
-          padding: 0 var(--gutter) var(--vRythm) var(--gutter);
           color: var(--light);
         }
 
@@ -35,7 +35,8 @@ const Footer = () => {
           text-align: center;
         }
         p {
-          margin: var(--vRythm) 0 0 0;
+          padding: 0;
+          margin: 0;
         }
         a,
         a:visited,

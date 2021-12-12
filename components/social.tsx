@@ -25,13 +25,22 @@ export default function Social(): JSX.Element {
         </li>
       </ul>
       <style jsx>{`
+        nav {
+          padding: 0 0 0 var(--gutter);
+          margin: 0;
+        }
         ul {
           display: flex;
           justify-content: center;
           list-style-type: none;
+          padding: 0;
+          margin: 0;
         }
         li {
+          display: block;
           list-style-type: none;
+          padding: 0;
+          margin: 0;
         }
         a {
           display: block;
@@ -39,7 +48,7 @@ export default function Social(): JSX.Element {
           height: var(--vRythm);
           background: var(--light);
           mask-repeat: no-repeat;
-          mask-position: center;
+          mask-position: center bottom;
           mask-size: calc(var(--vRythm) * 1);
           -webkit-mask-size: calc(var(--vRythm) * 1);
           mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/twitter.svg");
