@@ -10,6 +10,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@types/inline-style-prefixer": "^5.0.0",
     "axios": "^0.24.0",
     "front-matter": "^4.0.2",
     "inline-style-prefixer": "^6.0.1",
