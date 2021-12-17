@@ -8,8 +8,8 @@ tags:
 categories:
   - "Partis"
 illustration:
-  url: "illustrations/sans_oui_c_est_non.jpg"
-  alt: "Photo d’un tag féministe : Sans oui, c’est non !"
+  url: "illustrations/fin_du_monde_fin_du_mois.jpg"
+  alt: "Photo du combat qui devrait nous rassembler"
 ---
 
 # L’Union des Écologistes et de la Gauche : pour quoi faire ?
