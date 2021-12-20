@@ -1,5 +1,5 @@
 ---
-title: Avez-vous viré Jackie Avenel ?
+title: Avez-vous viré Jackie Avenel ?
 date: "2021-08-08T08:46:42.567Z"
 draft: false
 ---
@@ -10,7 +10,7 @@ Bien-entendu, je vous rassure, il n’en est rien. EÉLV est un parti où la dé
 
 Simplement, ce dernier n’a pas digéré le fait que nos militant·es ne se reconnaissent pas en lui, ni en ses choix, lors de sa mandature en tant qu’adjoint au cadre de vie de la ville de Douai et conseiller communautaire à Douaisis Agglo.
 
-Parmi les décisions qui lui ont été reprochées, on peut citer :
+Parmi les décisions qui lui ont été reprochées, on peut citer :
 
 - son vote favorable au boulodrome à 9.5M€ initié par Christian Poiret,
 - la clôture du parc Bertin (et la mise en difficulté des cyclistes traversant le parc dû au tourniquet positionné à l’entrée),

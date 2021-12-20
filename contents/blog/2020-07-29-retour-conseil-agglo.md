@@ -23,13 +23,13 @@ Au delà de cette obsession pour avoir le plus gros équipement, on peut s’int
 
 En effet, étant donnée la rapidité d’évolution du secteur du numérique (un-e particulier-e peut déjà s’offrir une projecteur 8k...), il y a fort à parier que d’ici quelques années nous aurons la meilleure résolution au Nord d’Arras et au Sud de Valenciennes...
 
-La question est donc : ce positionnement est-il pertinent puisqu’il nous obligera à renouveler des équipements d’une valeur de 1.5M€ régulièrement ?
+La question est donc : ce positionnement est-il pertinent puisqu’il nous obligera à renouveler des équipements d’une valeur de 1.5M€ régulièrement ?
 
 Comme je l’ai proposé sur le post de Christian Poiret (avant d’y être censuré), il serait probablement plus pertinent de parier sur d’autres positionnements comme, par exemple, une thématique autour de la pollution lumineuse et satellitaire, en créant une trame sombre autour du planétarium... je ne suis pas expert, mais je pense qu’il y a matière à trouver un positionnement moins primaire, mais surtout plus durable car moins conditionné par l’évolution de la technologie.
 
-Enfin, on aurait aimé, maintenant qu’on connaît le prix de la "console", connaître le prix des "jeux". Ce matériel est-il standard ou serons nous obligés de commander les contenus audio-visuels à un acteur "compatible" ?
+Enfin, on aurait aimé, maintenant qu’on connaît le prix de la "console", connaître le prix des "jeux". Ce matériel est-il standard ou serons nous obligés de commander les contenus audio-visuels à un acteur "compatible" ?
 
-🙋 Le recrutement : On apprend également la création de trois postes : bâtiments neufs, lots techniques et voirie le 17 juillet puis le 24 juillet d’un CDD pour la "requalification et reconquête du bâti afin de lutter contre la vacance".
+🙋 Le recrutement : On apprend également la création de trois postes : bâtiments neufs, lots techniques et voirie le 17 juillet puis le 24 juillet d’un CDD pour la "requalification et reconquête du bâti afin de lutter contre la vacance".
 
 C’est intéressant de voir comme la politique de l’agglomération "ruisselle" sur l’organisation des services. En effet, là où la réutilisation des bâtiments (autrement dit, l’urbanisme circulaire) ne mérite qu’un CDD, les bâtiments neufs sur des terres cultivables et les routes et parkings attenant s’inscrivent dans la durée avec des créations de poste.
 
@@ -37,7 +37,7 @@ C’est intéressant de voir comme la politique de l’agglomération "ruisselle
 
 💻 Aussi, je vais parler de ce que je connais, on a appris également que la communauté d’agglomération prévoyait l’acquisition d’un CRM (Customer Relationship Management).
 
-Pour gérer ce projet, on a bien-sûr prévu de recruter un-e stagiaire... Nous avons posé la question en séance de la destination de ce dernier : qui sont les "consommateurs" dont on doit gérer les relations à l’agglo ?
+Pour gérer ce projet, on a bien-sûr prévu de recruter un-e stagiaire... Nous avons posé la question en séance de la destination de ce dernier : qui sont les "consommateurs" dont on doit gérer les relations à l’agglo ?
 
 La réponse fournie me laisse songeur. A minima, il y a un problème sémantique et ce serait probablement un ERP qu’il faudrait mettre en place (cf https://www.choisirmonerp.com/erp/definition-d-un-erp).
 
@@ -51,4 +51,4 @@ Cela tombe bien car, a priori, "Le diplôme préparé par l’apprenti est un Ma
 
 Au delà de la chimère que représente cette idée (il faudrait plutôt parler d’économie circulaire et d’écologie), je souhaite rappeler que faire quelques actions pour l’environnement, et en même temps, saccager des terres cultivables sous des sarcophages de béton, c’est un concept bien connu, ça s’appelle le green washing.
 
-Il est temps de sortir de cette attitude, les citoyen-nes ne sont plus dupes de ces tours de passe-passe !
+Il est temps de sortir de cette attitude, les citoyen-nes ne sont plus dupes de ces tours de passe-passe !

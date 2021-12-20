@@ -1,5 +1,5 @@
 ---
-title: Les terrains synthétiques, écologiques ?
+title: Les terrains synthétiques, écologiques ?
 description: Quelques réflexions en pagaille sur l’intérêt des terrains synthétiques.
 date: "2020-09-28T12:00:00.000Z"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - sport
 ---
 
-# Les terrains synthétiques, écologiques ?
+# Les terrains synthétiques, écologiques ?
 
 🔎 Quand c’est flou, c’est qu’il y a un loup.
 
@@ -21,13 +21,13 @@ tags:
 
 ➡️ En creusant plus profondément les sources du dépliant, je constate qu’on passe de sans danger à risque très faible... mais quand même, c’est bien si on se lave les mains et si on mesure le taux de telle et telle substance... et bon, c’est vrai des gens se plaignent d’irritations...
 
-🌍 Et l’environnement ? Au delà du fait que le synthétique, c’est de la vie en moins (ce qui en soi, est un sujet majeur pour moi), je ne mets pas longtemps à trouver des études sur l’impact environnemental de ces terrains. Les consignes sont claires : c’est pas top pour l’environnement (These substances are bad for the ecosystem because they detrimentally affect biodiversity.). Et l’on se retrouve avec une palanquée de consignes d’entretien pour éviter que les micro-plastiques envahissent les environs...
+🌍 Et l’environnement ? Au delà du fait que le synthétique, c’est de la vie en moins (ce qui en soi, est un sujet majeur pour moi), je ne mets pas longtemps à trouver des études sur l’impact environnemental de ces terrains. Les consignes sont claires : c’est pas top pour l’environnement (These substances are bad for the ecosystem because they detrimentally affect biodiversity.). Et l’on se retrouve avec une palanquée de consignes d’entretien pour éviter que les micro-plastiques envahissent les environs...
 
 🚿 Dès lors, l’argument du peu d’entretien des entreprises qui proposent ces revêtements saute également puisque finalement, entre les mesures d’information des usagers et l’entretien pour contenir l’invasion micro-plastique, de l’entretien, il y en a. Et le risque, c’est pas une pelouse jaunie, mais un environnement dégradé...
 
-❓ Ma question est donc, que reste-t-il de séduisant dans les terrains synthétiques ?
+❓ Ma question est donc, que reste-t-il de séduisant dans les terrains synthétiques ?
 
-🕶️ Sources : 
+🕶️ Sources : 
 - [Le trafic routier et les microplastiques](https://www.lemonde.fr/planete/article/2020/07/19/le-trafic-routier-source-de-pollution-par-les-microplastiques_6046666_3244.html)
 - [Les pneus et les océans](https://www.echa.europa.eu/-/recycled-rubber-infill-causes-a-very-low-level-of-concern)
 - [Étude d’impact sur les enrobés](https://www.rivm.nl/en/rubber-granulate/environmental-impact-study-on-rubber-granulate-2018)

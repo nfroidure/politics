@@ -1,6 +1,6 @@
 ---
 title: De la retransmission des conseils communautaires
-description: "Le conseil communautaire sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !"
+description: "Le conseil communautaire sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !"
 date: "2021-02-05T21:00:00.000Z"
 draft: false
 categories:
@@ -20,7 +20,7 @@ tags:
 ➡️ J’invite les citoyen-nes à prendre acte, ce soir, du fait que nous avons affaire à des élu-es qui n’assument pas leurs interventions, au point d’en rendre le visionnage impossible pour une bonne partie de la population.
 
 ➡️ Lors du dernier conseil municipal, dans le chat du live, on me faisait remarquer très justement "45 personnes seulement qui regardent ce live...".
-Aujourd’hui, c’est 1021 vues :
+Aujourd’hui, c’est 1021 vues :
 
 [Conseil Municipal de la Ville de Douai](https://www.youtube.com/watch?v=tVr35iLXCYs "📺")
 

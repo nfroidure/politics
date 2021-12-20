@@ -22,9 +22,9 @@ En effet, dans son dernier rapport le GIEC indique que 10% des plus riches sont 
 
 Bien que moins de naissance ne serait pas, en soi, malvenue, cela ne ne va pas résoudre le problème. En effet, si nous limitions les inégalités, de fait, la consommation des ressources diminuerait sans qu’il soit nécessaire de limiter la croissance de la population.
 
-Ceci dit, par effet mécanique, un réduction des inégalités (et donc de meilleures conditions de vie pour les populations les plus pauvres) engendrerait très probablement une diminution de la croissance démographique des pays les plus pauvres de la planète : l’accès à l’éducation, à la contraception, à une certaine sécurité est connu pour avoir cet effet sur la dynamique démographique d’un pays (d’où la fameuse [transition démographique](https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique)).
+Ceci dit, par effet mécanique, un réduction des inégalités (et donc de meilleures conditions de vie pour les populations les plus pauvres) engendrerait très probablement une diminution de la croissance démographique des pays les plus pauvres de la planète : l’accès à l’éducation, à la contraception, à une certaine sécurité est connu pour avoir cet effet sur la dynamique démographique d’un pays (d’où la fameuse [transition démographique](https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique)).
 
-Ce n’est, bien-sûr, pas une règle absolue, mais cela m’apparaît comme étant un moyen plus simple (et juste !) d’atteindre un objectif de stabilisation de la population mondiale, si l’on recherche effectivement ce but.
+Ce n’est, bien-sûr, pas une règle absolue, mais cela m’apparaît comme étant un moyen plus simple (et juste !) d’atteindre un objectif de stabilisation de la population mondiale, si l’on recherche effectivement ce but.
 
 ## En France
 
@@ -32,9 +32,9 @@ En France, nous n’avons pas de problème de surpopulation, bien que celle-ci a
 
 Ceci a d’ailleurs provoqué depuis presque un siècle l’établissement d’une [politique nataliste](https://fr.wikipedia.org/wiki/Politique_familiale_fran%C3%A7aise) qui a rencontré un succès relatif étant donnée la natalité actuelle tout juste capable de renouveler la population.
 
-### Pourquoi encourager les naissances ?
+### Pourquoi encourager les naissances ?
 
-On peut s’interroger sur la nécessité de cette politique. En effet, quel avantage à souhaiter un fort taux de natalité en France ?
+On peut s’interroger sur la nécessité de cette politique. En effet, quel avantage à souhaiter un fort taux de natalité en France ?
 
 Mettons de côté les raisons historiques qui ne sont dors et déjà plus valables comme l’obsession de la croissance et peut-être, en sous main, le désir inavouable de gouverner toujours plus de personne ou, encore, la vielle habitude de former de la [chair à canon](https://www.cairn.info/revue-population-et-avenir-2014-2-page-14.htm) pour faire face aux conflits récurrents avec une Allemagne autrefois plus dynamique en terme de natalité.
 
@@ -46,13 +46,13 @@ De plus, la productivité d’une personne qui se tient sur les épaules de géa
 
 Enfin, en dopant artificiellement les naissances, notamment via la politique du troisième enfant, on encourage un phénomène moins connu qui veut qu’[une fratrie plus grande mène à une réussite plus modeste](https://www.liberation.fr/france-archive/2007/11/15/plus-grande-la-fratrie-plus-modeste-la-reussite_106315/).
 
-Faut-il dès lors, tenter d’accélérer artificiellement la natalité dans un pays industrialisé ?
+Faut-il dès lors, tenter d’accélérer artificiellement la natalité dans un pays industrialisé ?
 
-### Aller de plus naître vers mieux naître ?
+### Aller de plus naître vers mieux naître ?
 
 Je pense que non. Il s’agit, comme en toute autre chose, d’aller vers du mieux plutôt que du plus. Ceci doit s’accompagner, à mon sens, de mesures à contre courant de celles qui ont cours aujourd’hui.
 
-Des mesures qui, je tiens à le préciser, **ne doivent pas être** rétroactives et ne concerner que les naissances futures : dans un soucis de respect du contrat social avec nos concitoyen·nes sur un sujet aussi sérieux que la famille, mais aussi pour éviter des situations complexes pour les familles dors et déjà nombreuses.
+Des mesures qui, je tiens à le préciser, **ne doivent pas être** rétroactives et ne concerner que les naissances futures : dans un soucis de respect du contrat social avec nos concitoyen·nes sur un sujet aussi sérieux que la famille, mais aussi pour éviter des situations complexes pour les familles dors et déjà nombreuses.
 
 #### Mettre un terme à la progressivité
 
@@ -60,7 +60,7 @@ Un excellent moyen d’aller vers le mieux, plutôt que le plus, serait, d’ins
 
 En effet, de mon expérience de père, j’ai pu constater que de nombreuses économies d’échelle peuvent être réalisées. Il en va également d’une égalité de traitement entre enfants de la République.
 
-En quoi le fait d’avoir ou non des frères et sœurs devrait déterminer les moyens que l’État décide de mettre à la disposition des parents d’un·e petit·e français·e ?
+En quoi le fait d’avoir ou non des frères et sœurs devrait déterminer les moyens que l’État décide de mettre à la disposition des parents d’un·e petit·e français·e ?
 
 Il peut en être de même pour les avantages fiscaux, par exemple. L’idée étant qu’il n’est pas utile d’encourager les naissances et de mettre le même effort pour toute naissance sur le sol français sans préjuger de leur nombre ou des conditions initiales de leur avènement.
 
@@ -74,7 +74,7 @@ Il faut dès à présent transformer ces avantages en réels points retraite pen
 
 Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l’on imagine croissante malheureusement dans les décennies à venir étant donné l’inaction climatique de nos dirigeant·es.
 
-**Avec un taux de natalité qui pourrait décroître La France ne risque pas de disparaître progressivement ?**
+**Avec un taux de natalité qui pourrait décroître La France ne risque pas de disparaître progressivement ?**
 
 Il existe cette vieille rengaine agitée par la droite de la disparition des civilisations occidentales qui ne se reproduiraient pas suffisamment rapidement au regard de l’explosion démographique que l’on peut observer sur d’autres continents et finirait par se diluer dans la masse.
 
@@ -86,7 +86,7 @@ Ces éléments sont à mon sens indépendants de la démographie, des cycles mig
 
 Si aujourd’hui, il fallait s’inquiéter de la pérennité de la Nation, je pense que c’est plutôt du côté des politiques de ghettoïsation, d’encouragement de l’individualisme, d’accroissement des inégalités, d’abandon du service public et d’une manière générale, de sécession des français·es les plus riches qu’il faut creuser.
 
-Paradoxalement, ce sont principalement des personnes implantées en France depuis de nombreuses générations mais dont la quête effrénée vers plus de richesses a fini par déconnecter de l’idée de fraternité. Parfois drapés dans un patriotisme de façade, ces individus font finalement plus allégeance aux symboles plutôt qu’à ceux qui les portent, les font vivre : leurs concitoyen·nes.
+Paradoxalement, ce sont principalement des personnes implantées en France depuis de nombreuses générations mais dont la quête effrénée vers plus de richesses a fini par déconnecter de l’idée de fraternité. Parfois drapés dans un patriotisme de façade, ces individus font finalement plus allégeance aux symboles plutôt qu’à ceux qui les portent, les font vivre : leurs concitoyen·nes.
 
 Nous l’avons vu avec la crise du coronavirus, les personnes utiles à notre société sont bien souvent les moins considérées, elles sont aussi, souvent, des personnes issues des successives vagues d’immigration qui ont participé à l’édifice d’une France industrialisée.
 
@@ -96,7 +96,7 @@ La France continuera, c’est certain, d’accueillir des vagues d’immigration
 
 La France, c’est certain, changera de visage au cours des siècles comme elle a changé au long de son Histoire. D’ailleurs, au delà de l’idée de Nation Française, ce sont, avant tout, des valeurs qu’il s’agit de perpétuer car liés par un destin commun, nos enfants dans toute leur diversité méritent de vivre sous les hospices bienveillants d’une France inclusive et résolument tournée vers l’avenir.
 
-**Moins de population, c’est, proportionnellement, moins de talents ?**
+**Moins de population, c’est, proportionnellement, moins de talents ?**
 
 Il est fort probable qu’une population en nombre moindre dispose, en valeur absolue, de moins de talents potentiels au sein de sa population.
 

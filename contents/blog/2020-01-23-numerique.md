@@ -15,7 +15,7 @@ tags:
 
 🎉 Je suis un geek (voire un nerd) 🎉
 
-➡️ Et cela m’est parfois reproché : j’utilise des termes anglais (1984 nous voilà), je travaille dans le secteur de l’IT (j’uberise quoi...) et de surcroît dans des startups (la bande à Macron).
+➡️ Et cela m’est parfois reproché : j’utilise des termes anglais (1984 nous voilà), je travaille dans le secteur de l’IT (j’uberise quoi...) et de surcroît dans des startups (la bande à Macron).
 
 🛑 Bien que je puisse comprendre l’appréhension de certains face à cette nouvelle révolution industrielle en cours (j’ai moi-même de nombreuses craintes que je détaillerai sûrement un jour ici), je pense qu’il est nécessaire de revenir sur quelques points.
 
@@ -61,7 +61,7 @@ D’ailleurs, on est loin de n’avoir que des néo-libéraux dans nos rangs et 
 
 Quand mes développements permettent d’éviter des allers-retours en automobile, bizarrement, il n’y a personne pour encenser mon apport dans la lutte contre le réchauffement climatique.
 
-Par contre, je serais responsable de la perte des emplois des gens ? Désolé, mais si vous cherchez des responsables, allez voir du côté des néolibéraux et voyez comme ils n’ont pas besoin d’ordinateur pour massacrer vos retraites en ce moment.
+Par contre, je serais responsable de la perte des emplois des gens ? Désolé, mais si vous cherchez des responsables, allez voir du côté des néolibéraux et voyez comme ils n’ont pas besoin d’ordinateur pour massacrer vos retraites en ce moment.
 
 ✊ Bref, si vous aussi vous luttez pour un monde plus humain qui ne soit pas subordonné à l’économie et qui replace cette dernière comme ce qu’elle est, c’est à dire, un outil, alors, je suis votre allié, même si je suis un peu "différent".
 

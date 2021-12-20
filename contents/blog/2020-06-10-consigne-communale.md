@@ -14,13 +14,13 @@ illustration:
 
 # Une consigne communale à Douai
 
-À mi-chemin entre la monnaie locale et le circuit court, la consigne communale peut devenir un atout pour la ville de Douai. Je vous propose de faire une projection sur ce dispositif transversal et écologique !
+À mi-chemin entre la monnaie locale et le circuit court, la consigne communale peut devenir un atout pour la ville de Douai. Je vous propose de faire une projection sur ce dispositif transversal et écologique !
 
-## Pourquoi ?
+## Pourquoi ?
 
 La consigne est un moyen simple et ancestral de limiter les déchets produits par les ménages. L’utilisation du verre a également pour avantage l’innocuité de ce contenant au regard des différents problèmes générés par les contenants plastiques (perturbateurs endocriniens).
 
-## Comment ?
+## Comment ?
 
 ![Exemple de contenants à l'effigie des Gayant·es](illustrations/consigne-gayant.svg)
 
@@ -70,7 +70,7 @@ Des caisses de transport seront également à prévoir.
 
 ## Avantages sur la monnaie locale
 
-La consigne communale adresse certaines critiques faîtes aux monnaies locales : le protectionnisme par exemple. Un contenant consigné ne peut être retourné que dans les commerces qui acceptent la consigne, mais il a un usage, où qu'il se trouve sur Terre.
+La consigne communale adresse certaines critiques faîtes aux monnaies locales : le protectionnisme par exemple. Un contenant consigné ne peut être retourné que dans les commerces qui acceptent la consigne, mais il a un usage, où qu'il se trouve sur Terre.
 
 Gravé, il devient même un souvenir. On imagine bien les touristes repartir avec leurs souvenirs consignés gravés de nos Géant·es.
 
@@ -78,9 +78,9 @@ Même en cas d'échec pur et simple de la démarche, ces verres resteront utilis
 
 Les difficultés de mise en place sont aussi moindres, un contenant est quelque chose de palpable, on en devine facilement l'usage. C'est probablement une meilleure garantie d'adoption.
 
-Les monnaies locales s’accompagnent souvent d'une charte éthique : dans la cadre de la consigne, ce n’est pas nécessaire.
+Les monnaies locales s’accompagnent souvent d'une charte éthique : dans la cadre de la consigne, ce n’est pas nécessaire.
 
-La charte éthique de l'utilisation de la consigne est liée physiquement à l'idée même de consigne : réutiliser les contenants, éviter les déchets. Celui qui utilise la consigne, par son geste, s'engage intrinsèquement dans une démarche éthique.
+La charte éthique de l'utilisation de la consigne est liée physiquement à l'idée même de consigne : réutiliser les contenants, éviter les déchets. Celui qui utilise la consigne, par son geste, s'engage intrinsèquement dans une démarche éthique.
 
 Enfin, toujours dans l'optique des transversalités et l'inscription dans une vision globale, cela est cohérent avec l'idée d'une cuisine centrale et le remplacement des contenants en plastique. Cuisine centrale et laverie centrale, cela a du sens.
 

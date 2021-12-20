@@ -1,10 +1,10 @@
 ---
-title: Une personne dit être bannie de votre page Facebook / Twitter ?
+title: Une personne dit être bannie de votre page Facebook / Twitter ?
 date: "2021-08-08T08:46:42.567Z"
 draft: false
 ---
 
-C’est possible, si tel est le cas, voici les différents cas de figure :
+C’est possible, si tel est le cas, voici les différents cas de figure :
 
 - des insultes, menaces ou propos tendancieux et/ou incohérents on été formulés, dans ce cas, ils ont été supprimés et la personne bannie,
 - des actions négatives répétées, de nature à provoquer le désordre dans les différents débats / commentaires ont été relevés,

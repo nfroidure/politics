@@ -72,12 +72,12 @@ De plus, en cas de réalisation de ce projet, ces dernier·es doivent être form
 
 Si les nouvelles unités de production venaient à se réaliser (4 au total), nous aurons donc une cinquantaine de camions supplémentaires sur nos routes en sus de ceux de Renault, Amazon, Goodman et autres entrepôts logistiques se situant dans la région.
 
-Il y a de quoi être circonspect quand on sait qu’en 2020, pour Douai, selon le dernier [bilan annuel d’Atmo HDF](https://www.atmo-hdf.fr/joomlatools-files/docman-files/Bilan_annuel/AtmoHDF_BC2020.pdf) les seuils de concentrations suivant n’ont pas été respectés :
+Il y a de quoi être circonspect quand on sait qu’en 2020, pour Douai, selon le dernier [bilan annuel d’Atmo HDF](https://www.atmo-hdf.fr/joomlatools-files/docman-files/Bilan_annuel/AtmoHDF_BC2020.pdf) les seuils de concentrations suivant n’ont pas été respectés :
 
-- **Ozone :** Valeur cible santé non respectée (120 µg/m3 en moyenne glissante sur 8 heures à ne pas dépasser plus de 25 jours/an sur 3 ans),
-- **Particules PM2.5 :** Objectif de qualité non respecté (10 µg/m3 en moyenne annuelle).
+- **Ozone :** Valeur cible santé non respectée (120 µg/m3 en moyenne glissante sur 8 heures à ne pas dépasser plus de 25 jours/an sur 3 ans),
+- **Particules PM2.5 :** Objectif de qualité non respecté (10 µg/m3 en moyenne annuelle).
 
-Les différents matériaux évoqués pour la construction des batteries sont loins d’être sans dangers pour la santé. Un attention sur leur stockage et leur transport me semble importante étant données les propriétés de ces derniers :
+Les différents matériaux évoqués pour la construction des batteries sont loins d’être sans dangers pour la santé. Un attention sur leur stockage et leur transport me semble importante étant données les propriétés de ces derniers :
 
 - [Effets sur l’environnement du Manganèse](https://www.researchgate.net/publication/237079224_Manganese_Environmental_Pollution_and_Health_Effects)
 - [Propriétés du Nickel](https://www.lenntech.fr/francais/data-perio/ni.htm)
@@ -92,17 +92,17 @@ De plus, on apprend (p40) que la fabrication d’électrode nécessite que les m
 
 L’explication du processus de fabrication appelle également à de nombreuses questions sur les risques environnementaux.
 
-Il est, par exemple, question du refroidissement en circuit fermé de l’usine (p50). Cependant, l’évaporation de ce fluide est évoquée pour expliquer la nécessité de régulièrement amender le circuit en eau. Où s’évapore le liquide, y-t-il des risques que ce dernier soit contaminé ?
+Il est, par exemple, question du refroidissement en circuit fermé de l’usine (p50). Cependant, l’évaporation de ce fluide est évoquée pour expliquer la nécessité de régulièrement amender le circuit en eau. Où s’évapore le liquide, y-t-il des risques que ce dernier soit contaminé ?
 
-Le processus de fabrication des cellules évoque un processus de dégazage, quelle est la nature de ces gaz ? Où sont-ils rejetés ?
+Le processus de fabrication des cellules évoque un processus de dégazage, quelle est la nature de ces gaz ? Où sont-ils rejetés ?
 
 L’unité de filtration d’eau existante de Renault (p42) serait utilisée dans un premier temps. Toute la question est de savoir si une unité de filtration prévue pour d’autres usages peut convenir pour celui-ci. Il faut que l’agglomération soit vigilante à ce sujet.
 
-Les bâtiments abritant du Lithium seront "sous atmosphère contrôlée avec des filtres absolus" (p44), mais on apprend, en lisant la note de bas de page qu’ils sont efficaces à 99.8%. Deux questions : que représentent les 0.2% restant en terme d’émission de polluants ? Et ces filtres que deviennent-ils puisquʼils doivent nécessairement être changés régulièrement ?
+Les bâtiments abritant du Lithium seront "sous atmosphère contrôlée avec des filtres absolus" (p44), mais on apprend, en lisant la note de bas de page qu’ils sont efficaces à 99.8%. Deux questions : que représentent les 0.2% restant en terme d’émission de polluants ? Et ces filtres que deviennent-ils puisquʼils doivent nécessairement être changés régulièrement ?
 
 Des émissions de CoV (composés organiques volatiles) dans l’air sont également prévues (p51), mais leur nature n’est pas précisée, il semble pourtant clair que ce n’est pas la première usine de batterie du groupe, nous devons exiger plus de transparence.
 
-Sur la même page, on apprend que les eaux utilisées pour la production de l’anode seront "récupérées et traitées" par un prestataire externe, quid de leur transport, des sécurités mise en oeuvre et des garanties d’un véritable traitement de ces dernières ?
+Sur la même page, on apprend que les eaux utilisées pour la production de l’anode seront "récupérées et traitées" par un prestataire externe, quid de leur transport, des sécurités mise en oeuvre et des garanties d’un véritable traitement de ces dernières ?
 
 Difficile d’en savoir plus puisquʼune pratique loi anti-terroriste empêche le quidam d’avoir des informations sur le stockage des [matières dangereuses dans les sites SEVESO](https://www.legifrance.gouv.fr/circulaire/id/42788) (note de bas de page 44)... On reconnaît la patte écologique du gouvernement Macron qui nous a produit cette circulaire en 2017.
 
@@ -116,7 +116,7 @@ Enfin, pour être mieux suivies, mais aussi pour favoriser leur stabilité finan
 
 ## Des objectifs à porter par nos élu·es
 
-Étant donné que l’agglomération du Douaisis offre une ligne de crédit à Renault en rachetant cette emprise, il apparaît logique que Renault et Enviosion puissent s’engager sur quelques points :
+Étant donné que l’agglomération du Douaisis offre une ligne de crédit à Renault en rachetant cette emprise, il apparaît logique que Renault et Enviosion puissent s’engager sur quelques points :
 
 - le recrutement et la formation des salarié·es doit être fait sur le territoire du Douaisis notamment pour éviter les déplacements, mais que les effets négatifs soient, a minima, contrebalancés par la création d’emploi pour la population locale concernée,
 - Envision et Renault doivent s’engager à ne pas vendre de batteries PB pour des usages de mobilité afin de ne pas créer les gilets jaunes de demain,
@@ -134,5 +134,5 @@ Enfin, pour être mieux suivies, mais aussi pour favoriser leur stabilité finan
 
 - [Lien vers le PDF de la consultation](https://www.concertation-envision-aesc.fr/download/files/documentation/Dossier-Concertation_Envision-AESC.pdf)
 - [emission de GeS du transport en France](https://ree.developpement-durable.gouv.fr/themes/defis-environnementaux/changement-climatique/emissions-de-gaz-a-effet-de-serre/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports)
-- [Pourquoi les batteries lithium ion explosent et comment l’éviter ?](https://www.usinenouvelle.com/editorial/pourquoi-les-batteries-lithium-ion-explosent-et-comment-l-eviter.N492279)
+- [Pourquoi les batteries lithium ion explosent et comment l’éviter ?](https://www.usinenouvelle.com/editorial/pourquoi-les-batteries-lithium-ion-explosent-et-comment-l-eviter.N492279)
 - [Bilan Atmo HDF 2020](https://www.atmo-hdf.fr/joomlatools-files/docman-files/Bilan_annuel/AtmoHDF_BC2020.pdf)

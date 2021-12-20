@@ -13,9 +13,9 @@ tags:
 
 La région Hauts-de-France s’engouffre dans le numérique sans vision, reléguée au rang de suiveuse, copiant-collant, en retard, le modèle hyper-financiarisé de la Silicon Valley, en recherche de “licornes” éphémères dopées à l’argent public.
 
-Ce faisant, elle ignore, au passage, le peu de bonnes initiatives lancées outre atlantique pourtant majeures dans l’essor du développement humain grâce au numérique : le logiciel libre, l’open-data et les communautés collaboratives.
+Ce faisant, elle ignore, au passage, le peu de bonnes initiatives lancées outre atlantique pourtant majeures dans l’essor du développement humain grâce au numérique : le logiciel libre, l’open-data et les communautés collaboratives.
 
-Cela doit changer ! Il est temps de mettre le numérique au service des citoyen-nes et de la transition écologique.
+Cela doit changer ! Il est temps de mettre le numérique au service des citoyen-nes et de la transition écologique.
 
 ## Une fuite en avant sans vision politique
 
@@ -29,13 +29,13 @@ Rien n’est perdu cependant, il existe de nombreuses compétences numériques e
 
 Il est temps de mettre ces compétences au service des citoyen-nes pour passer d’une région largement consommatrice du numérique à une région actrice d’un autre numérique, plus vertueux et plus respectueux des humain-es et de l’environnement,
 
-## Remettre le numérique à sa place : un outil
+## Remettre le numérique à sa place : un outil
 
-Le numérique n’est pas une fin en soi. On a pas besoin d’acheter un multimètre pour bénéficier du courant électrique. Pourquoi en serait-il autrement pour le numérique ?
+Le numérique n’est pas une fin en soi. On a pas besoin d’acheter un multimètre pour bénéficier du courant électrique. Pourquoi en serait-il autrement pour le numérique ?
 
 La digitalisation des services publics mène au concept de fracture numérique quand il existe des moyens tout à fait fonctionnels de permettre aux personnes qui ont embrassé la technologie d'accéder rapidement et librement à l’information, aux services publics, et en même temps, de permettre un accès alternatif à ceux qui ne souhaitent pas consacrer une part non négligeable de leur temps et de leur budget à faire parti d’un monde pour lequel iels n’ont aucun attrait.
 
-Il est de la responsabilité des professionnel-les du numérique de prendre en charge des alternatives à l’accès via un terminal : envois de courrier automatisé, serveurs vocaux, reconnaissance de caractères/vocale, traitement du langage naturel… les solutions fiables et pérennes ne manquent pas pour combler le manque flagrant d’inclusivité du numérique.
+Il est de la responsabilité des professionnel-les du numérique de prendre en charge des alternatives à l’accès via un terminal : envois de courrier automatisé, serveurs vocaux, reconnaissance de caractères/vocale, traitement du langage naturel… les solutions fiables et pérennes ne manquent pas pour combler le manque flagrant d’inclusivité du numérique.
 
 Un numérique ouvert et inclusif n’exige pas l’achat d’un smartphone ou la création d’un compte Facebook pour faire parti intégrante de la société.
 
@@ -57,9 +57,9 @@ Conséquence du développement effréné et inconséquent de la consommation num
 
 Le toujours plus vite, au delà du stress qu’il génère, fait exploser l’[impact environnemental du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf).
 
-La responsabilité de la région Hauts-de-France est de développer les initiatives qui permettent un usage raisonné du numérique. Faut-il toujours disposer en temps réel des informations calculées par les ordinateurs ? Rien n’est moins sûr.
+La responsabilité de la région Hauts-de-France est de développer les initiatives qui permettent un usage raisonné du numérique. Faut-il toujours disposer en temps réel des informations calculées par les ordinateurs ? Rien n’est moins sûr.
 
-La sobriété numérique doit être au cœur de l’action régionale car elle induit une remise en cause des usages salutaire, loin du toujours plus vite, faisons toujours mieux !
+La sobriété numérique doit être au cœur de l’action régionale car elle induit une remise en cause des usages salutaire, loin du toujours plus vite, faisons toujours mieux !
 
 ## Sensibiliser aux risques
 
@@ -67,8 +67,8 @@ Les usages numériques se multiplient. Aujourd’hui, nous connaissons l’impac
 
 L’heure n’est pas à mettre un écran de plus sous les yeux de nos enfants, mais au contraire, de les sensibiliser à ce monde qui les entoure et qui est plein de surprises et d’expérience autrement plus enrichissantes.
 
-Bien-sûr, il s’agit de développer des compétences numériques qui sont indispensables pour les citoyen-nes et travailleurs d’aujourd’hui, mais qui peut penser qu’une tablette bloquée dans un environnement maîtrisé par un GAFAM est un environnement propice à devenir acteur plutôt que consommateur du numérique ?
+Bien-sûr, il s’agit de développer des compétences numériques qui sont indispensables pour les citoyen-nes et travailleurs d’aujourd’hui, mais qui peut penser qu’une tablette bloquée dans un environnement maîtrisé par un GAFAM est un environnement propice à devenir acteur plutôt que consommateur du numérique ?
 
 La région Hauts-de-France a une responsabilité importante pour donner aux lycéens les moyens de se servir du numérique sans en être esclave. Il existe de nombreux outils, souvent libre pour ce faire, plus durables et bien moins onéreux de surcroît (Arduino, RaspberryPI, GNU/Linux…).
 
-La région Hauts-de-France peut et doit devenir actrice du numérique. Pour ce faire, elle aura besoin d’acteurs capables d’en saisir les enjeux sociaux et environnementaux, formons-les dès aujourd’hui !
+La région Hauts-de-France peut et doit devenir actrice du numérique. Pour ce faire, elle aura besoin d’acteurs capables d’en saisir les enjeux sociaux et environnementaux, formons-les dès aujourd’hui !

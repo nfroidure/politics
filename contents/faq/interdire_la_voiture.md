@@ -1,5 +1,5 @@
 ---
-title: Êtes-vous pour interdire la voiture ?
+title: Êtes-vous pour interdire la voiture ?
 date: "2021-11-08T08:00:00.000Z"
 draft: false
 ---

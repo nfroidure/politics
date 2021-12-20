@@ -30,17 +30,17 @@ Je ne compte pas le nombre de réunions où une femme est interrompue par un hom
 
 Alors, certain·es diront que ces sujets sont anecdotiques par rapport aux faits reprochés à certains, mais en fait, j’ai la conviction que si ces derniers s’y autorisent, c’est parce que nous baignons justement dans un monde où les limites du respect de l’égalité femme-homme sont trop basses. À nous de donner l’exemple en relevant la barre.
 
-Un exemple : quand je constate cette situation, et que j’en ai le réflexe à cet instant, je continue de fixer la femme qui parlait pour lui signifier que je suis toujours en train de l’écouter. Souvent, cela fonctionne et la personne se rend compte de sa bévue.
+Un exemple : quand je constate cette situation, et que j’en ai le réflexe à cet instant, je continue de fixer la femme qui parlait pour lui signifier que je suis toujours en train de l’écouter. Souvent, cela fonctionne et la personne se rend compte de sa bévue.
 
 Mais à la moindre inattention, où quand il n’y a pas d’alliés, ou simplement quand cette femme n’a sur l’instant pas l'énergie pour se rebeller car très certainement, à la maison, c’est en mode ["fallait demander"](https://emmaclit.com/2017/05/09/repartition-des-taches-hommes-femmes/), cela passe, et on retombe dans cette culture machiste, qui finalement, s’applique "par défaut".
 
 ## Le pouvoir, un frein à la Justice
 
-Mais, au delà du quotidien, dans l’affaire Hulot, il y a un petit supplément, le pouvoir ! Il est de coutume de dire que "le pouvoir corrompt". Je pense que cette maxime est pleine de bon sens, mais ce n’est pas une raison pour s’y résigner.
+Mais, au delà du quotidien, dans l’affaire Hulot, il y a un petit supplément, le pouvoir ! Il est de coutume de dire que "le pouvoir corrompt". Je pense que cette maxime est pleine de bon sens, mais ce n’est pas une raison pour s’y résigner.
 
 N’oublions pas que Nicolas Hulot n’est pas n’importe qui. C’était d’abord, une vedette, ensuite un symbole, et enfin, sous le gouvernement d’Emmanuel Macron, un ministre.
 
-Dans ce type d’affaire, c’est un poids supplémentaire qui entrave la libération de la parole. Le nombre de personnes condamnées, accusées ou mises en examen dans le monde politique est conséquent. [Gérald Darmanin](https://www.mediapart.fr/journal/france/dossier/laffaire-gerald-darmanin) (encore en poste !), [Dominique Strauss-Kahn](https://fr.wikipedia.org/wiki/Affaire_Dominique_Strauss-Kahn), [François Asselineau](https://www.lemonde.fr/police-justice/article/2021/02/03/le-president-de-l-upr-francois-asselineau-accuse-d-agressions-sexuelles-place-en-garde-a-vue_6068688_1653578.html).
+Dans ce type d’affaire, c’est un poids supplémentaire qui entrave la libération de la parole. Le nombre de personnes condamnées, accusées ou mises en examen dans le monde politique est conséquent. [Gérald Darmanin](https://www.mediapart.fr/journal/france/dossier/laffaire-gerald-darmanin) (encore en poste !), [Dominique Strauss-Kahn](https://fr.wikipedia.org/wiki/Affaire_Dominique_Strauss-Kahn), [François Asselineau](https://www.lemonde.fr/police-justice/article/2021/02/03/le-president-de-l-upr-francois-asselineau-accuse-d-agressions-sexuelles-place-en-garde-a-vue_6068688_1653578.html).
 
 Ces personnes se trouvent même parfois des allié·es innatendu·es comme Marlène Schiappa qui affichait son [soutien à Nicolas Hulot en 2018](https://www.ladepeche.fr/2021/11/26/nicolas-hulot-accuse-dagressions-sexuelles-et-de-viol-marlene-schiappa-confrontee-a-son-soutien-affiche-en-2018-9953350.php).
 
@@ -52,7 +52,7 @@ Donc, la parole se libère, et c’est une bonne chose. Les différentes manifes
 
 Je pense aussi que les symboles du quotidien y participent: utilisation de l’écriture inclusive, création de cours d’école dégenrées, communications individuelles des féministes, respect de la parité dans les diverses instances, etc.
 
-Le message que ces derniers envoient, malgré la cacophonie des pourfendeurs et parfois pourfendeuses du iel, c’est que vous n’êtes pas seules ! Le monde avance et il existe un camp que vous pouvez rejoindre, celui de celles et ceux qui ne se résignent pas, qui veulent faire avancer la société et le font, qui ne veulent pas d’impunité pour des actes répréhensibles.
+Le message que ces derniers envoient, malgré la cacophonie des pourfendeurs et parfois pourfendeuses du iel, c’est que vous n’êtes pas seules ! Le monde avance et il existe un camp que vous pouvez rejoindre, celui de celles et ceux qui ne se résignent pas, qui veulent faire avancer la société et le font, qui ne veulent pas d’impunité pour des actes répréhensibles.
 
 Enfin, les structures, doivent également évoluer et je suis fier d’adhérer à un parti où Sandrine Rousseau a pu être entendue et devenir aujourd’hui l’une des figures de notre mouvement quand Denis Baupin a été, finalement, contraint par la force des choses de retourner à la société civile.
 
@@ -60,7 +60,7 @@ Enfin, les structures, doivent également évoluer et je suis fier d’adhérer 
 
 ![Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint](illustrations/manifestation-aurelie.jpg)
 
-Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheureusement, à Douai encore, dans la nuit du 30 au 31 mai, Aurélie Langelin, [décédait sous les coups de son conjoint](https://www.lobservateur.fr/faits-divers/faits-divers-douaisis/2021/10/14/douai-feminicide-aurelie-langelin-semble-avoir-ete-abandonnee-a-son-triste-sort/). Elle devenait la 46ème victime de féminicide, un nombre qui depuis a [dépassé la centaine](https://www.franceinter.fr/justice/au-moins-100-feminicides-conjugaux-ont-eu-lieu-en-france-en-2021-selon-un-collectif-qui-les-recense)...
+Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheureusement, à Douai encore, dans la nuit du 30 au 31 mai, Aurélie Langelin, [décédait sous les coups de son conjoint](https://www.lobservateur.fr/faits-divers/faits-divers-douaisis/2021/10/14/douai-feminicide-aurelie-langelin-semble-avoir-ete-abandonnee-a-son-triste-sort/). Elle devenait la 46ème victime de féminicide, un nombre qui depuis a [dépassé la centaine](https://www.franceinter.fr/justice/au-moins-100-feminicides-conjugaux-ont-eu-lieu-en-france-en-2021-selon-un-collectif-qui-les-recense)...
 
 ### À la municipalité
 
@@ -98,7 +98,7 @@ La place de la femme en ville ne va pas de soi, il faut lutter contre les mauvai
 
 EÉLV Douai s’est saisi de ce sujet durant l’été 2019 avec ses propositions d’ajout de Madame Gayant sur le logo de la ville et d’inauguration de la place Olympe de Gouge en lieu et place du square du Dauphin.
 
-Il reste encore fort à faire : 75% des budgets publics destinés aux loisirs des jeunes profitent aux garçons ([1] p17). En moyenne, en France, 10 à 15% des noms de rues des villes mettent des femmes à l’honneur ([1] p10, [1] p75). Seulement 16% des maires sont des femmes, 12% dans les villes de plus de 30 000 habitants ([1] p13).
+Il reste encore fort à faire : 75% des budgets publics destinés aux loisirs des jeunes profitent aux garçons ([1] p17). En moyenne, en France, 10 à 15% des noms de rues des villes mettent des femmes à l’honneur ([1] p10, [1] p75). Seulement 16% des maires sont des femmes, 12% dans les villes de plus de 30 000 habitants ([1] p13).
 
 Notre volonté d’agir sur ce sujet est forte, nos propositions le sont donc également.
 
@@ -106,9 +106,9 @@ _Commune_
 
 - ajout de madame Gayant sur le logo de la ville,
 - signature de [La Charte européenne pour l’égalité des femmes et des hommes dans la vie locale](http://www.afccre.org/mailing/Charte-égalité-FR.pdf) et création et nomination du poste de maire adjoint au respect de l’égalité femme/homme dont le rôle sera transversal et prescriptif dans l’action communale,
-- 25% des noms de rues à l’honneur de femmes en fin de mandat : recensement des rues, création de l’outil de détermination de genre (cf travail de Armand Gilles), discussions publiques et au sein des comités de quartier,
-- plan de mixité des infrastructures de loisirs : moratoire sur la création d’infrastructures réputées exclusivement masculines, création ou reconversion de lieux favorisant les activités mixtes et particulièrement aux âges où les femmes semblent déserter les équipements (12 ans et plus),
-- bureau et conseil communaux gérés de façon paritaire et égalitaire : temps et prises de parole respectés,
+- 25% des noms de rues à l’honneur de femmes en fin de mandat : recensement des rues, création de l’outil de détermination de genre (cf travail de Armand Gilles), discussions publiques et au sein des comités de quartier,
+- plan de mixité des infrastructures de loisirs : moratoire sur la création d’infrastructures réputées exclusivement masculines, création ou reconversion de lieux favorisant les activités mixtes et particulièrement aux âges où les femmes semblent déserter les équipements (12 ans et plus),
+- bureau et conseil communaux gérés de façon paritaire et égalitaire : temps et prises de parole respectés,
 - réévaluation des salaires des femmes employées communales au regard des salaires de leur homologues hommes,
 - création/adaptation des lieux dédiés aux loisirs pour les rendre plus inclusifs et qu’ils ne soient pas la chasse gardée des hommes,
 - plan de formation et de sensibilisation à l’égalité femme / homme des employés communaux avec en priorité ceux accueillant du public (gardiens de parcs/infrastructures sportives/services accueillant du public),

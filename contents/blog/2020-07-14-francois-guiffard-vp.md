@@ -1,5 +1,5 @@
 ---
-title: Tout n’est pas possible en politique !
+title: Tout n’est pas possible en politique !
 description: Difficile de ne pas réagir face à la négociation avec la droite d’un poste de Vice Président à Douaisis Agglo par François Guiffard.
 date: "2020-07-14T12:00:00.000Z"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - exemplarité
 ---
 
-# Tout n’est pas possible en politique !
+# Tout n’est pas possible en politique !
 
 La colère passée, je tiens à revenir sur l’élection de Douaisis Agglo qui, comme certain·es s’en sont rendu·es compte, a crée une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
 
@@ -31,14 +31,14 @@ Et les voilà, toustes, la bouche en cœur, nous expliquant que la ville de Doua
 
 Tous ces grands projets inutiles, toutes ces zones commerciales sont le tombeau du Douaisis et nous ne sommes pas prêts de l’en sortir si il y a toujours quelques opportunistes pour refuser d’aller au front et porter ses fossoyeurs sur un piédestal.
 
-Alors à ces "ami·es" du Douaisis, je dis : avec de tel·les ami·es, le Douaisis n’a pas besoin d’ennemi·es...
+Alors à ces "ami·es" du Douaisis, je dis : avec de tel·les ami·es, le Douaisis n’a pas besoin d’ennemi·es...
 
-Et aux douaisien·nes, je dis : l’écologie politique c’est le réemploi, l’urbanisme circulaire, la ville nourricière et la frugalité. La bonne nouvelle, c’est que ça ne coûte pas cher.
+Et aux douaisien·nes, je dis : l’écologie politique c’est le réemploi, l’urbanisme circulaire, la ville nourricière et la frugalité. La bonne nouvelle, c’est que ça ne coûte pas cher.
 
 Bien-sûr, les fonds de l’agglomération seraient utiles pour la lutte contre les passoires énergétiques, la gratuité des transports et la création d’emplois basés sur les savoirs faire et non délocalisables.
 
-Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville activiste et donnons au Douaisis ce dont il a besoin : une ville centre où l’espoir et et la créativité sont le fruit de l’innovation, la vraie, celle qui parle pouvoir de vivre avant de parler pouvoir d’achat, celle qui développe l’humain avant de développer l’économie, celle qui fait société et respecte le vivant, celle qui vit, de sa diversité, de son Histoire et qui crée les possibles pour un futur surprenant et désirable.
+Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville activiste et donnons au Douaisis ce dont il a besoin : une ville centre où l’espoir et et la créativité sont le fruit de l’innovation, la vraie, celle qui parle pouvoir de vivre avant de parler pouvoir d’achat, celle qui développe l’humain avant de développer l’économie, celle qui fait société et respecte le vivant, celle qui vit, de sa diversité, de son Histoire et qui crée les possibles pour un futur surprenant et désirable.
 
-Nous ferons vivre l’écologie politique avec passion et détermination. Nous questionnerons et nous nous opposerons quand cela sera nécessaire car, pour nous, l’audace, c’est avant tout oser dire non au consensus quand il mène un territoire entier dans l’impasse !
+Nous ferons vivre l’écologie politique avec passion et détermination. Nous questionnerons et nous nous opposerons quand cela sera nécessaire car, pour nous, l’audace, c’est avant tout oser dire non au consensus quand il mène un territoire entier dans l’impasse !
 
 En pièce jointe de [ma publication Facebook](https://www.facebook.com/nfroidure/posts/10158751141494201), la page disparue du site de campagne de François Guiffard, disparue en même temps que ses principes politiques.

@@ -29,7 +29,7 @@ J’ai donc toujours oscillé entre vie rurale et plaisir de côtoyer les rues d
 
 J’ai grandi dans une famille nombreuse de 6 frères et sœurs avec d’importants écarts d’âge dûs aux remariages de mes parents. J’ai donc eu très tôt le sens du partage et des responsabilités.
 
-J’ai aussi pu profiter d’un cadre naturel verdoyant une bonne partie de l’année, construction de cabanes, pêche à la ligne... j’ai nourri un lien étroit avec la nature : j’ai vécu avec de nombreux animaux de compagnie (jusqu’à 4 chien·nes en même temps), mais aussi d’élevage (poules, canards, oies, lapins et moutons) et, bien-sûr, j’ai jouit des avantages de la vie en milieu rural (vendre les fruits du verger, glâner dans les champs, vagabonder librement).
+J’ai aussi pu profiter d’un cadre naturel verdoyant une bonne partie de l’année, construction de cabanes, pêche à la ligne... j’ai nourri un lien étroit avec la nature : j’ai vécu avec de nombreux animaux de compagnie (jusqu’à 4 chien·nes en même temps), mais aussi d’élevage (poules, canards, oies, lapins et moutons) et, bien-sûr, j’ai jouit des avantages de la vie en milieu rural (vendre les fruits du verger, glâner dans les champs, vagabonder librement).
 
 Mais j’ai également pu assister aux moments forts de Douai en ne ratant que quelques fêtes de Gayant, en visitant régulièrement la ville pour y voir parents, grands-parents, oncles et tantes). J’ai pu expérimenter les apports qu’une ville centre comme Douai prodigue aux habitant·es des villages alentours.
 
@@ -51,13 +51,13 @@ Aujourd’hui encore, je suis littéralement fasciné par celleux qui ont su ét
 
 ## Parcours professionnel
 
-Obtenir un premier emploi sans diplôme ni expérience n’est pas une mince affaire. J’ai cumulé plusieurs petits contrats : tour à tour vendeur en magasin le temps d’un remplacement congé maternité, technico-commercial en bureautique... J’ai connu quelques périodes de chômage.
+Obtenir un premier emploi sans diplôme ni expérience n’est pas une mince affaire. J’ai cumulé plusieurs petits contrats : tour à tour vendeur en magasin le temps d’un remplacement congé maternité, technico-commercial en bureautique... J’ai connu quelques périodes de chômage.
 
 J’ai commencé à chercher du travail en informatique suite à la rencontre de ma compagne qui me voyant programmer le week-end me demanda pourquoi je ne cherchais pas de travail dans ce secteur.
 
 En effet, l’informatique était une passion dévorante, j’y passais parfois des journées entières depuis l’âge de 11 ans quand j’ai utilisé un ordinateur pour la première fois.
 
-Je faisais des sites Internet et des programmes à mes heures perdues, pourquoi ne pas les faire contre rémunération ? Malheureusement (ou heureusement ?), je n’ai trouvé aucune entreprise pour recruter un développeur qui n’avait pas de diplôme.
+Je faisais des sites Internet et des programmes à mes heures perdues, pourquoi ne pas les faire contre rémunération ? Malheureusement (ou heureusement ?), je n’ai trouvé aucune entreprise pour recruter un développeur qui n’avait pas de diplôme.
 
 J’ai donc créé en 2006 ma propre société de développement de sites Internet. L’absence totale de réseau et de visibilité m’a valut des débuts difficiles mais au final, j’ai vécu de cette activité pendant 7 ans. Passant de webmestre à développeur d’application web accessibles à toutes et tous et engagé dans le logiciel libre.
 
@@ -67,7 +67,7 @@ Suite à cela, j’ai été sollicité pour écrire un livre technique ([Javascr
 
 J’ai eu la chance de participer à la fondation de plusieurs startups qui ont connu un succès international, de parfaire mon anglais en voyageant à Londres régulièrement...
 
-Je donne, enfin, des cours dans une école d’ingénieur·es sur une thématique qui m’est chère : le GreenIT (où comment créer des services informatiques à faible consommation énergétique/en matières premières).
+Je donne, enfin, des cours dans une école d’ingénieur·es sur une thématique qui m’est chère : le GreenIT (où comment créer des services informatiques à faible consommation énergétique/en matières premières).
 
 C’est [ce parcours](https://www.linkedin.com/in/nfroidure/), un peu particulier, mais couronné de petites victoires qui aujourd’hui me permet de travailler à 80% et de consacrer du temps à œuvrer au changement de notre société.
 
@@ -79,7 +79,7 @@ Je suis issu d’une famille gaulliste. Mon grand-père maternel, plusieurs fois
 
 De cet héritage culturel, je pense que j’ai su garder le meilleur. Le soucis de la cohérence et la sobriété. La culture du combat et de la résistance à l’oppression.
 
-Mais l’ennemi d’hier n’est pas celui d’aujourd’hui. Qui, portant ces valeurs, se retrouve aujourd’hui dans celleux qui s’auto-désignent héritiers du gaullisme ?
+Mais l’ennemi d’hier n’est pas celui d’aujourd’hui. Qui, portant ces valeurs, se retrouve aujourd’hui dans celleux qui s’auto-désignent héritiers du gaullisme ?
 
 Résister aujourd’hui, n’a rien à voir avec la résistance à cette époque. Résister, pour moi, cela a été de ne pas céder au formatage des esprits et des désirs, ne pas entrer dans le petit jeu de l’apparence et de l’apparât.
 
@@ -91,7 +91,7 @@ D’abord, rejet de "l’américanisation", puis de la société de consommation
 
 À cela, s’est ajouté, la découverte du pic pétrolier, la prise de conscience de la finitude des ressources planétaires et le triste spectacle du fossé grandissant entre pays riches et pays pauvres, entre citoyen·nes riches et citoyen·nes pauvres (la mixité des milieux ruraux aidant à en prendre pleine conscience).
 
-Comment, dès lors, ne pas considérer notre mode de vie comme un formidable gâchis ? Un quête du plus sans le moindre sens.
+Comment, dès lors, ne pas considérer notre mode de vie comme un formidable gâchis ? Un quête du plus sans le moindre sens.
 
 Paradoxalement, j’ai fait trois enfants. J’ai toujours voulu avoir des enfants aussi loin que je me souvienne d’avoir pensé à cette éventualité. Cette volonté n’a jamais faibli.
 
@@ -103,14 +103,14 @@ C’est au terme de cette lente mais sûre progression vers la conviction que l�
 
 Les revendications des gilets jaunes ont agit comme un électrochoc. Le malaise dont elles et ils ont pu témoigner et dont j’ai, un temps, partagé les causes et la violence répressive sans aucune tentative de dialogue m’ont littéralement révulsé.
 
-J’ai donc décidé d’agir là où c’est de mise en démocratie : au travers des urnes par mon engagement en faveur de l’écologie politique.
+J’ai donc décidé d’agir là où c’est de mise en démocratie : au travers des urnes par mon engagement en faveur de l’écologie politique.
 
-Deux piliers à ce dernier :
+Deux piliers à ce dernier :
 
 - léguer à mes enfants une Terre habitable,
 - agir pour celles et ceux qui n’en ont pas la possibilité
 
-En effet, je jouis maintenant d’un confort financier, je n’ai pas démérité, je pense, mais quel sens aurait ma vie si je ne faisais que consommer les fruits de mon labeur, en vase clos, hermétique à notre destin commun ?
+En effet, je jouis maintenant d’un confort financier, je n’ai pas démérité, je pense, mais quel sens aurait ma vie si je ne faisais que consommer les fruits de mon labeur, en vase clos, hermétique à notre destin commun ?
 
 J’ai donc participé à la campagne des européennes de 2019, à la campagne municipale de Douai en 2020 puis, en tant que co-directeur de campagne, aux départementales 2021 pour le canton de Douai avec le binôme Katia Bittner et Frédéric Chéreau mais aussi aux élections régionales pour la liste de Karima Delli. Face à des campagnes aux moyens gigantesques, nous avons, avec peu de moyens tenu, la dragée haute aux barons locaux.
 
@@ -122,4 +122,4 @@ C’est ainsi qu’il faudra compter sur ma présence pour toujours défendre un
 
 Sur mon blog, je m’efforcerai de vous exposer mes positions sur les divers sujets de société qui seront peut-être, demain, si vous me témoignez votre confiance, des sujets que j’aurais à trancher au sein de l’appareil démocratique de notre pays.
 
-Je suis bien-sûr disponible pour échanger avec chacun·es d’entre vous et venir à votre rencontre, [il suffit de m’écrire](mailto:nicolas.froidure@gmail.com) !
+Je suis bien-sûr disponible pour échanger avec chacun·es d’entre vous et venir à votre rencontre, [il suffit de m’écrire](mailto:nicolas.froidure@gmail.com) !
