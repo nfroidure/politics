@@ -9,6 +9,7 @@ import { fixText } from "../../utils/text";
 import { renderMarkdown } from "../../utils/markdown";
 import type { Entry } from ".";
 import type { GetStaticProps, GetStaticPaths } from "next";
+import { buildAssets } from "../../utils/build";
 
 type Params = { id: string };
 type Props = { entry: Entry };
@@ -53,6 +54,11 @@ export default BlogPost;
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const result = await baseGetStaticProps({});
+  
+  // WARNING: This is not a nice way to generate the news feeds
+  // but having scripts run in the NextJS build context is a real
+  // pain
+  await buildAssets(result)
 
   if ("props" in result) {
     const paths = result.props.entries.map((entry) => ({

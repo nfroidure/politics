@@ -6,7 +6,6 @@
     "build": "next build",
     "start": "next start",
     "export": "next export && touch out/.nojekyll && echo 'nicolasfroidure.fr' > out/CNAME",
-    "post-export": "node bin/build.mjs",
     "deploy": "push-dir --dir=out --branch=gh-pages --cleanup",
     "type-check": "tsc"
   },

@@ -5,12 +5,13 @@ import Heading1 from "../../components/h1";
 import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
+import Head from "next/head";
 import { readEntries } from "../../utils/frontmatter";
 import { toASCIIString } from "../../utils/ascii";
 import { CSS_BREAKPOINT_START_L } from "../../utils/constants";
 import { parseMarkdown } from "../../utils/markdown";
 import type { MarkdownRootNode } from "../../utils/markdown";
-import type { GetStaticProps } from 'next';
+import type { GetStaticProps } from "next";
 
 export type Metadata = {
   title: string;
@@ -29,7 +30,7 @@ export type Entry = {
   content: MarkdownRootNode;
 } & Metadata;
 
-type Props = {
+export type Props = {
   title: string;
   description: string;
   entries: Entry[];
@@ -37,6 +38,20 @@ type Props = {
 
 const BlogEntries = ({ title, description, entries }: Props) => (
   <Layout title={title} description={description}>
+    <Head>
+      <link
+        rel="alternate"
+        type="application/atom+xml"
+        title={`${title} (Atom)`}
+        href="/blog.atom"
+      />
+      <link
+        rel="alternate"
+        type="application/rss+xml"
+        title={`${title} (RSS)`}
+        href="/blog.rss"
+      />
+    </Head>
     <ContentBlock className="title">
       <Heading1 className="title">Blog</Heading1>
       <Paragraph>
@@ -115,7 +130,7 @@ const BlogEntries = ({ title, description, entries }: Props) => (
   </Layout>
 );
 
-export const getStaticProps:GetStaticProps<Props> = async () => {
+export const getStaticProps: GetStaticProps<Props> = async () => {
   const title = "Blog politique de Nicolas Froidure";
   const description =
     "Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.";

@@ -1,25 +1,22 @@
 import { writeFile } from "fs";
 import { promisify } from "util";
 import { join as joinPath } from "path";
-import { getStaticProps } from "../pages/blog/index";
 import { generateAtomFeed, generateRSSFeed } from "./feeds";
 import { publicRuntimeConfig } from "./config";
-import { DOMAIN_NAME, ORGANISATION_NAME } from "./constants";
+import { ORGANISATION_NAME } from "./constants";
 import type { FeedDescription, FeedItem } from "./feeds";
+import type { GetStaticPropsResult } from "next";
+import type { Props } from "../pages/blog/index";
 
 const doWriteFile = promisify(writeFile);
 
-const OUT_DIR = joinPath(__dirname, "..", "out");
+const PROJECT_DIR = joinPath(".");
 const baseURL = publicRuntimeConfig.baseURL;
 const builtAt = new Date().toISOString();
 
-export async function buildAssets() {
+export async function buildAssets(result: GetStaticPropsResult<Props>) {
   await Promise.all([
-    doWriteFile(joinPath(OUT_DIR, "CNAME"), DOMAIN_NAME),
-    doWriteFile(joinPath(OUT_DIR, ".nojekyll"), ""),
     (async () => {
-      const result = await getStaticProps({});
-
       if ("props" in result) {
         const {
           props: { title, description, entries },
@@ -30,6 +27,9 @@ export async function buildAssets() {
           url: baseURL + "/blog/" + entry.id,
           updatedAt: entry.date,
           publishedAt: entry.date,
+          author: {
+            name: ORGANISATION_NAME,
+          },
         }));
         const commonDescription: Omit<FeedDescription, "url"> = {
           title: `${title} - ${ORGANISATION_NAME}`,
@@ -66,7 +66,7 @@ async function buildAtomFeed(
     feedItems
   );
 
-  doWriteFile(joinPath(OUT_DIR, "public", "blog.atom"), content);
+  await doWriteFile(joinPath(PROJECT_DIR, "public", "blog.atom"), content);
 }
 
 async function buildRSSFeed(
@@ -81,5 +81,5 @@ async function buildRSSFeed(
     feedItems
   );
 
-  doWriteFile(joinPath(OUT_DIR, "public", "blog.rss"), content);
+  await doWriteFile(joinPath(PROJECT_DIR, "public", "blog.rss"), content);
 }
