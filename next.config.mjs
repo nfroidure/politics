@@ -4,7 +4,7 @@ const baseURL =
     ? "https://nicolasfroidure.fr"
     : "http://nfroidure.localhost:3000";
 
-module.exports = {
+export default {
   publicRuntimeConfig: {
     environment: process.env.NODE_ENV,
     buildPrefix,

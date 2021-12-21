@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/normalize.css";
-import "../styles/main.css";
+import "../../styles/normalize.css";
+import "../../styles/main.css";
 import {
   DEFAULT_GRID_H,
   DEFAULT_GRID_V,

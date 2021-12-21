@@ -10,6 +10,7 @@ import { toASCIIString } from "../../utils/ascii";
 import { CSS_BREAKPOINT_START_L } from "../../utils/constants";
 import { parseMarkdown } from "../../utils/markdown";
 import type { MarkdownRootNode } from "../../utils/markdown";
+import type { GetStaticProps } from 'next';
 
 export type Metadata = {
   title: string;
@@ -29,14 +30,13 @@ export type Entry = {
 } & Metadata;
 
 type Props = {
+  title: string;
+  description: string;
   entries: Entry[];
 };
 
-const BlogEntries = ({ entries }: Props) => (
-  <Layout
-    title="Blog politique de Nicolas Froidure"
-    description="Découvrez le blog politique de Nicolas Froidure, écologiste à Douai."
-  >
+const BlogEntries = ({ title, description, entries }: Props) => (
+  <Layout title={title} description={description}>
     <ContentBlock className="title">
       <Heading1 className="title">Blog</Heading1>
       <Paragraph>
@@ -115,7 +115,10 @@ const BlogEntries = ({ entries }: Props) => (
   </Layout>
 );
 
-export const getStaticProps = async () => {
+export const getStaticProps:GetStaticProps<Props> = async () => {
+  const title = "Blog politique de Nicolas Froidure";
+  const description =
+    "Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.";
   const entries = (
     await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
   )
@@ -129,7 +132,7 @@ export const getStaticProps = async () => {
       Date.parse(dateA) > Date.parse(dateB) ? -1 : 1
     );
 
-  return { props: { entries } as Props };
+  return { props: { title, description, entries } as Props };
 };
 
 export default BlogEntries;

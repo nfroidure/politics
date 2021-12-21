@@ -20,8 +20,8 @@ import Code from "../components/code";
 import Cite from "../components/cite";
 import { fixText } from "./text";
 import YError from "yerror";
-import { publicRuntimeConfig } from "../utils/config";
-import { toASCIIString } from "../utils/ascii";
+import { publicRuntimeConfig } from "./config";
+import { toASCIIString } from "./ascii";
 import type { ReactNode } from "react";
 
 export type MarkdownRootNode = {

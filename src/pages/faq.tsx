@@ -8,10 +8,11 @@ import { readEntries } from "../utils/frontmatter";
 import { toASCIIString } from "../utils/ascii";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
 import { publicRuntimeConfig } from "../utils/config";
-import type { MarkdownRootNode } from "../utils/markdown";
 import Strong from "../components/strong";
 import Anchored from "../components/anchored";
 import { fixText } from "../utils/text";
+import type { MarkdownRootNode } from "../utils/markdown";
+import type { GetStaticProps } from "next";
 
 export type Metadata = {
   title: string;
@@ -71,7 +72,7 @@ const Page = ({ entries }: Props) => (
   </Layout>
 );
 
-export const getStaticProps = async () => {
+export const getStaticProps: GetStaticProps<Props> = async () => {
   const entries = (
     await readEntries<Metadata>(pathJoin(".", "contents", "faq"))
   )

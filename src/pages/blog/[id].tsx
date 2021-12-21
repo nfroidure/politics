@@ -18,7 +18,7 @@ const BlogPost = ({ entry }: Props) => {
     <Layout
       title={`${fixText(entry.title)}`}
       description={fixText(entry.description)}
-      image={ entry.illustration?.url}
+      image={entry.illustration?.url}
     >
       <ContentBlock>
         {renderMarkdown({ index: 0 }, entry.content)}
@@ -52,25 +52,31 @@ const BlogPost = ({ entry }: Props) => {
 export default BlogPost;
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const { props: baseProps } = await baseGetStaticProps();
+  const result = await baseGetStaticProps({});
 
-  const paths = baseProps.entries.map((entry) => ({
-    params: { id: entry.id },
-  }));
+  if ("props" in result) {
+    const paths = result.props.entries.map((entry) => ({
+      params: { id: entry.id },
+    }));
 
-  return { paths, fallback: false };
+    return { paths, fallback: false };
+  }
+  throw Error('E_BAD_PROPS');
 };
 
 export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
-  const { props: baseProps } = await baseGetStaticProps();
+  const result = await baseGetStaticProps({});
 
-  return {
-    props: {
-      entry: baseProps.entries.find(
-        ({ id }) => id === (params || {}).id
-      ) as Entry,
-    },
-  };
+  if ("props" in result) {
+    return {
+      props: {
+        entry: result.props.entries.find(
+          ({ id }) => id === (params || {}).id
+        ) as Entry,
+      },
+    };
+  }
+  throw Error('E_BAD_PROPS');
 };
