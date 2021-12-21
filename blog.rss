@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog politique de Nicolas Froidure - Nicolas Froidure</title>
     <description>Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Mon, 20 Dec 2021 15:15:00 GMT</lastBuildDate>
-    <pubDate>Tue, 21 Dec 2021 18:33:32 GMT</pubDate>
+    <pubDate>Tue, 21 Dec 2021 18:40:24 GMT</pubDate>
     <ttl>1800</ttl>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/quels-outils-numeriques-pour-eelv</guid>
