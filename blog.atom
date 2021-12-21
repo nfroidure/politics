@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">    
+  <id>https://nicolasfroidure.fr/blog</id>
+  <title>Blog politique de Nicolas Froidure - Nicolas Froidure</title>
+  <subtitle>Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.</subtitle>
+  <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
+  <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
+  <updated>2021-12-20T15:15:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/quels-outils-numeriques-pour-eelv</id>
+    <title>Quels outils numériques pour EELV ?</title>
+    <link href="https://nicolasfroidure.fr/blog/quels-outils-numeriques-pour-eelv" rel="alternate" type="text/html" />
+    <updated>2021-12-20T15:15:00.000Z</updated>
+    <published>2021-12-20T15:15:00.000Z</published>
+    <summary>Suite à mon élection au sein du Com’On, article exploratoire sur la vision des outils numériques que je défends.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/l-union-pour-quoi-faire</id>
+    <title>L’Union : pour quoi faire ?</title>
+    <link href="https://nicolasfroidure.fr/blog/l-union-pour-quoi-faire" rel="alternate" type="text/html" />
+    <updated>2021-12-14T10:56:28.000Z</updated>
+    <published>2021-12-14T10:56:28.000Z</published>
+    <summary>Point sur l’état de l’union après la récente déclaration d’Anne Hidalgo, candidate du Parti Socialiste.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/un-festival-electronique-a-douai</id>
+    <title>Un festival électronique à Douai ?</title>
+    <link href="https://nicolasfroidure.fr/blog/un-festival-electronique-a-douai" rel="alternate" type="text/html" />
+    <updated>2021-12-12T19:20:28.000Z</updated>
+    <published>2021-12-12T19:20:28.000Z</published>
+    <summary>Ce jour, dans le centre ville de Douai, la musique électronique était de nouveau à l’honneur. L’occasion de se poser quelques question sur les événements à venir.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/metoopolitique-les-langues-se-delient</id>
+    <title>#MeTooPolitique: Les langues se délient</title>
+    <link href="https://nicolasfroidure.fr/blog/metoopolitique-les-langues-se-delient" rel="alternate" type="text/html" />
+    <updated>2021-11-27T10:20:28.000Z</updated>
+    <published>2021-11-27T10:20:28.000Z</published>
+    <summary>Les récents témoignages au sujet de Nicolas Hulot sont l’occasion pour moi de faire le point sur l’action féministe passée et à venir dans le Douaisis.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/projet-d-usine-de-batterie-envision-douai</id>
+    <title>Projet d’usine de batterie Envision Douai</title>
+    <link href="https://nicolasfroidure.fr/blog/projet-d-usine-de-batterie-envision-douai" rel="alternate" type="text/html" />
+    <updated>2021-11-24T09:00:00.000Z</updated>
+    <published>2021-11-24T09:00:00.000Z</published>
+    <summary>La consultation préalable sur ce projet vient d’être lancée, je m&apos;y suis plongé et vous livre le contenu de ma participation.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/top-depart-du-tour</id>
+    <title>Top départ du tour !</title>
+    <link href="https://nicolasfroidure.fr/blog/top-depart-du-tour" rel="alternate" type="text/html" />
+    <updated>2021-08-24T09:00:00.000Z</updated>
+    <published>2021-08-24T09:00:00.000Z</published>
+    <summary>J’ai décidé de faire un tour du Douaisis afin d’aller à votre rencontre, on se retrouve sur la route ?</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/pour-une-politique-demographique-ecologique-en-france</id>
+    <title>Pour une politique démographique écologique en France</title>
+    <link href="https://nicolasfroidure.fr/blog/pour-une-politique-demographique-ecologique-en-france" rel="alternate" type="text/html" />
+    <updated>2021-08-08T08:46:42.567Z</updated>
+    <published>2021-08-08T08:46:42.567Z</published>
+    <summary>Régulièrement, la surpopulation mondiale ressurgit, comme étant une variable écologiste sous-exploitée. Je vous délivre ici ma vision de la démographie.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/c-est-officiel-je-donne-des-cours-sur-le-greenit</id>
+    <title>C’est officiel, je donne des cours sur le GreenIT</title>
+    <link href="https://nicolasfroidure.fr/blog/c-est-officiel-je-donne-des-cours-sur-le-greenit" rel="alternate" type="text/html" />
+    <updated>2021-04-02T18:00:00.000Z</updated>
+    <published>2021-04-02T18:00:00.000Z</published>
+    <summary>Des cours pour sensibiliser les étudiant-es à l’impact du numérique.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires</id>
+    <title>De la retransmission des conseils communautaires</title>
+    <link href="https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires" rel="alternate" type="text/html" />
+    <updated>2021-02-05T21:00:00.000Z</updated>
+    <published>2021-02-05T21:00:00.000Z</published>
+    <summary>Le conseil communautaire sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/ag-de-mon-conseil-de-quartier</id>
+    <title>AG de mon conseil de quartier</title>
+    <link href="https://nicolasfroidure.fr/blog/ag-de-mon-conseil-de-quartier" rel="alternate" type="text/html" />
+    <updated>2021-01-16T20:00:00.000Z</updated>
+    <published>2021-01-16T20:00:00.000Z</published>
+    <summary>Le conseil de quartier du Faubourg de Cambrai avait lieu à 18h.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/nouveau-bureau-d-eelv-douaisis</id>
+    <title>Nouveau bureau d’EÉLV Douaisis</title>
+    <link href="https://nicolasfroidure.fr/blog/nouveau-bureau-d-eelv-douaisis" rel="alternate" type="text/html" />
+    <updated>2020-11-08T08:00:00.00Z</updated>
+    <published>2020-11-08T08:00:00.00Z</published>
+    <summary>Je ne me suis pas représenté pour rester secrétaire du groupe local, mes explications sur ce choix.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/point-sur-l-entrepot-goodman</id>
+    <title>Point sur l’entrepôt Goodman</title>
+    <link href="https://nicolasfroidure.fr/blog/point-sur-l-entrepot-goodman" rel="alternate" type="text/html" />
+    <updated>2020-10-10T08:00:00.00Z</updated>
+    <published>2020-10-10T08:00:00.00Z</published>
+    <summary>Mon analyse du dossier de consultation concernant la nouvelle plateforme logistique qui va sortir de terre à Lambres-lez-Douai.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/les-terrains-synthetiques-ecologiques</id>
+    <title>Les terrains synthétiques, écologiques ?</title>
+    <link href="https://nicolasfroidure.fr/blog/les-terrains-synthetiques-ecologiques" rel="alternate" type="text/html" />
+    <updated>2020-09-28T12:00:00.000Z</updated>
+    <published>2020-09-28T12:00:00.000Z</published>
+    <summary>Quelques réflexions en pagaille sur l’intérêt des terrains synthétiques.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/du-deplacement-economique-sur-des-terres-arables</id>
+    <title>Du déplacement économique sur des terres arables</title>
+    <link href="https://nicolasfroidure.fr/blog/du-deplacement-economique-sur-des-terres-arables" rel="alternate" type="text/html" />
+    <updated>2020-09-27T12:00:00.000Z</updated>
+    <published>2020-09-27T12:00:00.000Z</published>
+    <summary>Quelques réflexions concernant le développement anarchique des entrepôts et autres ZAC dans le Douaisis.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/pour-une-region-actrice-d-un-numerique-humain</id>
+    <title>Pour une région actrice d’un numérique humain</title>
+    <link href="https://nicolasfroidure.fr/blog/pour-une-region-actrice-d-un-numerique-humain" rel="alternate" type="text/html" />
+    <updated>2020-09-13T11:00:00.000Z</updated>
+    <published>2020-09-13T11:00:00.000Z</published>
+    <summary>Le rôle des collectivités est d&apos;influer sur les tendances pour les rendre plus humaines. Le numérique ne devrait pas être en reste.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/retour-sur-les-conseils-communautaires</id>
+    <title>Retour sur les conseils communautaires</title>
+    <link href="https://nicolasfroidure.fr/blog/retour-sur-les-conseils-communautaires" rel="alternate" type="text/html" />
+    <updated>2020-07-29T12:00:00.000Z</updated>
+    <published>2020-07-29T12:00:00.000Z</published>
+    <summary>Les deux derniers conseils communautaires de Douaisis Agglo m’ont amenés à quelques réflexions que je vous livre ici.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/tout-n-est-pas-possible-en-politique</id>
+    <title>Tout n’est pas possible en politique !</title>
+    <link href="https://nicolasfroidure.fr/blog/tout-n-est-pas-possible-en-politique" rel="alternate" type="text/html" />
+    <updated>2020-07-14T12:00:00.000Z</updated>
+    <published>2020-07-14T12:00:00.000Z</published>
+    <summary>Difficile de ne pas réagir face à la négociation avec la droite d’un poste de Vice Président à Douaisis Agglo par François Guiffard.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/une-consigne-communale-a-douai</id>
+    <title>Une consigne communale à Douai</title>
+    <link href="https://nicolasfroidure.fr/blog/une-consigne-communale-a-douai" rel="alternate" type="text/html" />
+    <updated>2020-06-10T15:00:00.000Z</updated>
+    <published>2020-06-10T15:00:00.000Z</published>
+    <summary>À mi-chemin entre la monnaie locale et le circuit court, la consigne communale peut devenir un atout pour la ville de Douai.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/les-arbres-a-douai</id>
+    <title>Les arbres à Douai</title>
+    <link href="https://nicolasfroidure.fr/blog/les-arbres-a-douai" rel="alternate" type="text/html" />
+    <updated>2020-03-11T21:00:00.000Z</updated>
+    <published>2020-03-11T21:00:00.000Z</published>
+    <summary>Notre chère ville de Douai se place plutôt bien par rapport aux villes comparables, explications...</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/education-et-numerique</id>
+    <title>Éducation et numérique</title>
+    <link href="https://nicolasfroidure.fr/blog/education-et-numerique" rel="alternate" type="text/html" />
+    <updated>2020-02-26T18:00:00.000Z</updated>
+    <published>2020-02-26T18:00:00.000Z</published>
+    <summary>Comment former au numérique sans en devenir esclave ?</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/travailleur-du-numerique</id>
+    <title>Travailleur du numérique</title>
+    <link href="https://nicolasfroidure.fr/blog/travailleur-du-numerique" rel="alternate" type="text/html" />
+    <updated>2020-01-23T08:46:42.567Z</updated>
+    <published>2020-01-23T08:46:42.567Z</published>
+    <summary>Régulièrement attaqué sur mon métier et la façon dont il déteint sur ma manière d’aborder la politique, j’entre un peu dans le détail.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/deambulation-nocturne</id>
+    <title>Déambulation nocturne</title>
+    <link href="https://nicolasfroidure.fr/blog/deambulation-nocturne" rel="alternate" type="text/html" />
+    <updated>2019-11-10T08:46:42.567Z</updated>
+    <published>2019-11-10T08:46:42.567Z</published>
+    <summary>Retour sur l’exposé par les services de la ville au sujet de l’éclairage.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/les-vols-interieurs-ca-suffit</id>
+    <title>Les vols intérieurs, ça suffit !</title>
+    <link href="https://nicolasfroidure.fr/blog/les-vols-interieurs-ca-suffit" rel="alternate" type="text/html" />
+    <updated>2019-06-15T08:46:42.567Z</updated>
+    <published>2019-06-15T08:46:42.567Z</published>
+    <summary>Interdire ou taxer prohibitivement les vols intérieurs ne doit plus être un tabou dans un monde qui se réchauffe dangereusement !</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/debat-des-europeennes-a-douai</id>
+    <title>Débat des européennes à Douai</title>
+    <link href="https://nicolasfroidure.fr/blog/debat-des-europeennes-a-douai" rel="alternate" type="text/html" />
+    <updated>2019-04-27T08:00:00.000Z</updated>
+    <published>2019-04-27T08:00:00.000Z</published>
+    <summary>Retranscription de ma question à Dominique Riquet lors du débat européen à Douai.</summary>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/c-est-decide-je-m-engage-en-politique</id>
+    <title>C’est décidé, je m’engage en politique</title>
+    <link href="https://nicolasfroidure.fr/blog/c-est-decide-je-m-engage-en-politique" rel="alternate" type="text/html" />
+    <updated>2019-04-20T08:00:00.000Z</updated>
+    <published>2019-04-20T08:00:00.000Z</published>
+    <summary>J’ai décidé de ne plus être spectateur du marasme politique ambiant, découvrez mes motivations détaillées.</summary>
+  </entry>
+</feed>
