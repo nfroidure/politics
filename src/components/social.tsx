@@ -23,6 +23,15 @@ export default function Social(): JSX.Element {
             <span>Facebook</span>
           </a>
         </li>
+        <li className="feed">
+          <a
+            href="/blog.atom"
+            title="S'abonner aux mises à jour"
+            target="_blank"
+          >
+            <span>Flux de syncdication</span>
+          </a>
+        </li>
       </ul>
       <style jsx>{`
         nav {
@@ -55,6 +64,9 @@ export default function Social(): JSX.Element {
         }
         li.facebook a {
           mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/facebook.svg");
+        }
+        li.feed a {
+          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/feed.svg");
         }
         span {
           display: none;
