@@ -6,9 +6,16 @@
     <description>Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 02 Jan 2022 14:33:00 GMT</lastBuildDate>
-    <pubDate>Sun, 02 Jan 2022 14:09:42 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Jan 2022 09:33:00 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Jan 2022 21:32:35 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/quel-avenir-pour-l-automobile</guid>
+        <title>Quel avenir pour l’automobile ?</title>
+        <description>L’avenir de l’automobile n’est peut-être pas si sombre, dans le monde comme à Douai.</description>
+        <link>https://nicolasfroidure.fr/blog/quel-avenir-pour-l-automobile</link>
+        <pubDate>Mon, 03 Jan 2022 09:33:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/retrospective-2021-et-perspectives-2022</guid>
         <title>Rétrospective 2021 et perspectives 2022</title>
