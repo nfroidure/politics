@@ -113,7 +113,8 @@ const Page = () => (
       <Paragraph>
         Vous pouvez, si vous le souhaitez, vous abonner à la lettre
         d’information. Dans ce cas, vos données seront enregistrées et
-        conservées dans un délai maximum de deux mois après les élections.
+        conservées par mes soins et vous pourrez à tout moment vous en
+        désincrire par simple retour de mail.
       </Paragraph>
       <Paragraph>
         Vous disposez d’un droit de modification et/ou de suppression de vos
