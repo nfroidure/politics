@@ -5,8 +5,7 @@ import { generateAtomFeed, generateRSSFeed } from "./feeds";
 import { publicRuntimeConfig } from "./config";
 import { ORGANISATION_NAME } from "./constants";
 import type { FeedDescription, FeedItem } from "./feeds";
-import type { GetStaticPropsResult } from "next";
-import type { Props } from "../pages/blog/index";
+import type { BaseProps } from "../pages/blog/index";
 
 const doWriteFile = promisify(writeFile);
 
@@ -14,42 +13,38 @@ const PROJECT_DIR = joinPath(".");
 const baseURL = publicRuntimeConfig.baseURL;
 const builtAt = new Date().toISOString();
 
-export async function buildAssets(result: GetStaticPropsResult<Props>) {
+export async function buildAssets(props: BaseProps) {
   await Promise.all([
     (async () => {
-      if ("props" in result) {
-        const {
-          props: { title, description, entries },
-        } = result;
-        const feedItems = entries.map((entry) => ({
-          title: entry.title,
-          description: entry.description,
-          url: baseURL + "/blog/" + entry.id,
-          updatedAt: entry.date,
-          publishedAt: entry.date,
-          author: {
-            name: ORGANISATION_NAME,
-          },
-        }));
-        const commonDescription: Omit<FeedDescription, "url"> = {
-          title: `${title} - ${ORGANISATION_NAME}`,
-          sourceURL: baseURL + "/blog",
-          description,
-          updatedAt: new Date(
-            entries.reduce(
-              (higherTimestamp, entry) =>
-                Math.max(higherTimestamp, Date.parse(entry.date)),
-              0
-            )
-          ).toISOString(),
-          builtAt,
-        };
+      const { title, description, entries } = props;
+      const feedItems = entries.map((entry) => ({
+        title: entry.title,
+        description: entry.description,
+        url: baseURL + "/blog/" + entry.id,
+        updatedAt: entry.date,
+        publishedAt: entry.date,
+        author: {
+          name: ORGANISATION_NAME,
+        },
+      }));
+      const commonDescription: Omit<FeedDescription, "url"> = {
+        title: `${title} - ${ORGANISATION_NAME}`,
+        sourceURL: baseURL + "/blog",
+        description,
+        updatedAt: new Date(
+          entries.reduce(
+            (higherTimestamp, entry) =>
+              Math.max(higherTimestamp, Date.parse(entry.date)),
+            0
+          )
+        ).toISOString(),
+        builtAt,
+      };
 
-        await Promise.all([
-          buildAtomFeed(commonDescription, feedItems),
-          buildRSSFeed(commonDescription, feedItems),
-        ]);
-      }
+      await Promise.all([
+        buildAtomFeed(commonDescription, feedItems),
+        buildRSSFeed(commonDescription, feedItems),
+      ]);
     })(),
   ]);
 }

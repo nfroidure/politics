@@ -1,15 +1,17 @@
+import { join as pathJoin } from "path";
+import { entriesToBaseProps } from "./index";
+import { readEntries } from "../../utils/frontmatter";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Share from "../../components/share";
 import { DOMAIN_NAME } from "../../utils/constants";
-import { getStaticProps as baseGetStaticProps } from ".";
 import { fixText } from "../../utils/text";
 import { renderMarkdown } from "../../utils/markdown";
+import type { Metadata } from "./index";
 import type { Entry } from ".";
 import type { GetStaticProps, GetStaticPaths } from "next";
-import { buildAssets } from "../../utils/build";
 
 type Params = { id: string };
 type Props = { entry: Entry };
@@ -53,36 +55,29 @@ const BlogPost = ({ entry }: Props) => {
 export default BlogPost;
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const result = await baseGetStaticProps({});
-  
-  // WARNING: This is not a nice way to generate the news feeds
-  // but having scripts run in the NextJS build context is a real
-  // pain
-  await buildAssets(result)
+  const baseProps = entriesToBaseProps(
+    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  );
 
-  if ("props" in result) {
-    const paths = result.props.entries.map((entry) => ({
-      params: { id: entry.id },
-    }));
+  const paths = baseProps.entries.map((entry) => ({
+    params: { id: entry.id },
+  }));
 
-    return { paths, fallback: false };
-  }
-  throw Error('E_BAD_PROPS');
+  return { paths, fallback: false };
 };
 
 export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
-  const result = await baseGetStaticProps({});
+  const baseProps = entriesToBaseProps(
+    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  );
 
-  if ("props" in result) {
-    return {
-      props: {
-        entry: result.props.entries.find(
-          ({ id }) => id === (params || {}).id
-        ) as Entry,
-      },
-    };
-  }
-  throw Error('E_BAD_PROPS');
+  return {
+    props: {
+      entry: baseProps.entries.find(
+        ({ id }) => id === (params || {}).id
+      ) as Entry,
+    },
+  };
 };

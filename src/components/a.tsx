@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { publicRuntimeConfig } from "../utils/config";
 import type { LinkProps } from "next/link";
 
 const Anchor = ({
@@ -12,11 +13,15 @@ const Anchor = ({
   prefetch,
   locale,
   className,
+  icon,
+  iconPosition = "first",
   ...props
 }: {
   children: React.ReactNode;
-} & LinkProps &
-  Exclude<React.AnchorHTMLAttributes<HTMLAnchorElement>, "href">) => (
+} & LinkProps & {
+    icon?: string;
+    iconPosition?: "first" | "last";
+  } & Exclude<React.AnchorHTMLAttributes<HTMLAnchorElement>, "href">) => (
   <Link
     {...{
       href,
@@ -30,14 +35,19 @@ const Anchor = ({
     }}
   >
     <a
-      className={`root${className ? " " + className : ""}`}
+      className={`root${className ? " " + className : ""}${
+        icon ? ` ${iconPosition}` : ""
+      }`}
       {...props}
       target={href.startsWith("http") ? "_blank" : "_self"}
     >
+      {icon ? <span className="icon" /> : null}
       {children}
       <style jsx>{`
         a,
         a:visited {
+          display: inline-flex;
+          gap: calc(var(--gutter) / 4);
           cursor: pointer;
           text-decoration: underline;
           color: var(--primary);
@@ -46,6 +56,25 @@ const Anchor = ({
         a:hover,
         a:focus {
           color: var(--primary);
+        }
+        a.first span.icon,
+        a.last span.icon {
+          display: block;
+          display: inline-block;
+          height: var(--vRythm);
+          width: calc(var(--vRythm) * 0.55);
+          background: var(--primary);
+          mask-repeat: no-repeat;
+          mask-size: calc(var(--vRythm) * 0.55);
+          -webkit-mask-size: calc(var(--vRythm) * 0.55);
+          mask-position: left bottom;
+          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/arrow-left.svg");
+        }
+        a.last {
+          flex-direction: row-reverse;
+        }
+        a.last span.icon {
+          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/arrow-right.svg");
         }
       `}</style>
     </a>

@@ -9,9 +9,12 @@ import Head from "next/head";
 import { readEntries } from "../../utils/frontmatter";
 import { toASCIIString } from "../../utils/ascii";
 import { CSS_BREAKPOINT_START_L } from "../../utils/constants";
+import { readParams } from "../../utils/params";
 import { parseMarkdown } from "../../utils/markdown";
+import type { FrontMatterResult } from "front-matter";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type { GetStaticProps } from "next";
+import type { BuildQueryParamsType } from "../../utils/params";
 
 export type Metadata = {
   title: string;
@@ -30,13 +33,34 @@ export type Entry = {
   content: MarkdownRootNode;
 } & Metadata;
 
-export type Props = {
+export type BaseProps = {
   title: string;
   description: string;
   entries: Entry[];
+  pagesCount: number;
+};
+export type Props = BaseProps & {
+  page: number;
 };
 
-const BlogEntries = ({ title, description, entries }: Props) => (
+const PARAMS_DEFINITIONS = {
+  page: {
+    type: "number",
+    mode: "unique",
+  },
+} as const;
+
+type Params = BuildQueryParamsType<typeof PARAMS_DEFINITIONS>;
+
+const POSTS_PER_PAGE = 10;
+
+const BlogEntries = ({
+  title,
+  description,
+  entries,
+  page,
+  pagesCount,
+}: Props) => (
   <Layout title={title} description={description}>
     <Head>
       <link
@@ -68,7 +92,7 @@ const BlogEntries = ({ title, description, entries }: Props) => (
               <Paragraph className="entry_illustration">
                 <Anchor href={`/blog/${entry.id}`}>
                   <img
-                    src={entry.illustration.url}
+                    src={"/" + entry.illustration.url}
                     alt={entry.illustration.alt}
                   />
                 </Anchor>
@@ -87,6 +111,27 @@ const BlogEntries = ({ title, description, entries }: Props) => (
           </div>
         ))}
       </div>
+      <nav className="pagination">
+        {page > 1 ? (
+          <Anchor
+            icon="arrow-left"
+            href={page > 2 ? `/blog/pages/${page - 1}` : "/blog"}
+            rel="previous"
+          >
+            Précédent
+          </Anchor>
+        ) : null}{" "}
+        {page < pagesCount ? (
+          <Anchor
+            icon="arrow-right"
+            iconPosition="last"
+            href={`/blog/pages/${page + 1}`}
+            rel="next"
+          >
+            Suivant
+          </Anchor>
+        ) : null}
+      </nav>
     </ContentBlock>
     <style jsx>{`
       :global(.entry_title) {
@@ -112,6 +157,13 @@ const BlogEntries = ({ title, description, entries }: Props) => (
         border: none;
         padding: var(--vRythm) 0 0 0;
       }
+      .pagination {
+        display: flex;
+        gap: var(--gutter);
+        align-items: center;
+        justify-content: center;
+        padding: var(--vRythm) 0 0 0;
+      }
       img {
         width: 100%;
       }
@@ -130,13 +182,12 @@ const BlogEntries = ({ title, description, entries }: Props) => (
   </Layout>
 );
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
-  const title = "Blog politique de Nicolas Froidure";
-  const description =
-    "Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.";
-  const entries = (
-    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
-  )
+export const entriesToBaseProps = (
+  baseEntries: FrontMatterResult<Metadata>[]
+): BaseProps => {
+  const title = `Blog politique`;
+  const description = "Découvrez le blog d'un militant écologiste de Douai.";
+  const entries = baseEntries
     .map<Entry>((entry) => ({
       ...entry.attributes,
       id: toASCIIString(entry.attributes.title),
@@ -147,7 +198,38 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
       Date.parse(dateA) > Date.parse(dateB) ? -1 : 1
     );
 
-  return { props: { title, description, entries } as Props };
+  return {
+    title,
+    description,
+    entries,
+    pagesCount: Math.ceil(entries.length / POSTS_PER_PAGE),
+  };
+};
+
+export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
+  params,
+}) => {
+  const castedParams = readParams(PARAMS_DEFINITIONS, params || {}) as Params;
+  const page = castedParams?.page || 1;
+  const baseProps = entriesToBaseProps(
+    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  );
+  const title = `${baseProps.title}${
+    page && page !== 1 ? ` - page ${page}` : ""
+  }`;
+  const entries = baseProps.entries.slice(
+    (page - 1) * POSTS_PER_PAGE,
+    (page - 1) * POSTS_PER_PAGE + POSTS_PER_PAGE
+  );
+
+  return {
+    props: {
+      ...baseProps,
+      title,
+      entries,
+      page,
+    } as Props,
+  };
 };
 
 export default BlogEntries;
