@@ -2,8 +2,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">    
   <id>https://nicolasfroidure.fr/blog</id>
-  <title>Blog politique de Nicolas Froidure - Nicolas Froidure</title>
-  <subtitle>Découvrez le blog politique de Nicolas Froidure, écologiste à Douai.</subtitle>
+  <title>Blog politique - Nicolas Froidure</title>
+  <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
   <updated>2022-01-03T09:33:00.000Z</updated>
