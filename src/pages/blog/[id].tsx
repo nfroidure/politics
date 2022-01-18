@@ -25,6 +25,9 @@ const BlogPost = ({ entry }: Props) => {
     >
       <ContentBlock>
         {renderMarkdown({ index: 0 }, entry.content)}
+        <Paragraph>
+          Publié le {new Date(entry.date).toLocaleString()}.
+        </Paragraph>
         <div className="clear"></div>
         <Share
           url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
