@@ -46,8 +46,6 @@ const Anchor = ({
       <style jsx>{`
         a,
         a:visited {
-          display: inline-flex;
-          gap: calc(var(--gutter) / 4);
           cursor: pointer;
           text-decoration: underline;
           color: var(--primary);
@@ -57,10 +55,15 @@ const Anchor = ({
         a:focus {
           color: var(--primary);
         }
+        a.first,
+        a.last {
+          display: inline-flex;
+          flex-direction: row;
+          gap: calc(var(--gutter) / 4);
+        }
         a.first span.icon,
         a.last span.icon {
-          display: block;
-          display: inline-block;
+          display: flex;
           height: var(--vRythm);
           width: calc(var(--vRythm) * 0.55);
           background: var(--primary);

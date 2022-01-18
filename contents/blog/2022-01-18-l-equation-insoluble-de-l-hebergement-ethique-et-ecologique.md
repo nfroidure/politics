@@ -1,8 +1,8 @@
 ---
 title: "Hébergement éthique et écologique : équation insoluble ?"
-description: "C’est sont des sujets récurrents : sortir des GAFAMs et réduire notre emprunte liée au numérique. Plus facile à dire qu’à faire !"
+description: "Ce sont des sujets récurrents : sortir des GAFAMs et réduire notre emprunte liée au numérique. Plus facile à dire qu’à faire !"
 date: "2022-01-18T08:00:00.000Z"
-draft: true
+draft: false
 tags:
   - "politique"
 categories:
