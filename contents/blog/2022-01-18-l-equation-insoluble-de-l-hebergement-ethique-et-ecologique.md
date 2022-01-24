@@ -102,7 +102,7 @@ Généralement, c’est au travers de l’utilisation de logiciels open-source d
 
 C’est ainsi que, bien souvent, une partie des personnes à qui on propose ces outils finissent par les déserter. Je suis, par exemple, un utilisateur assumé de Google Mail, à mon grand regret, le pragmatisme a fait son œuvre.
 
-C’est très difficile pour ces structures de recruter des personnes compétentes car elles entrent en compétition avec des structures pouvant proposer des rémunérations très supérieures. Elles se livre d’ailleurs une compétition féroce pour ces profils.
+C’est très difficile pour ces structures de recruter des personnes compétentes car elles entrent en compétition avec des structures pouvant proposer des rémunérations très supérieures. Elles se livrent d’ailleurs une compétition féroce pour ces profils.
 
 Au niveau environnemental, ce n’est pas aisé de se distinguer des GAFAMs. Bien malin celui qui distingue une puce très polluante d’une puce moins polluante. Il suffit de voir les énormes efforts développés par [FairPhone](https://www.fairphone.com/fr/) pour parvenir à nous proposer un SmartPhone réparable et "moins pire" que les autres au niveau éthique et environnemental.
 
@@ -168,13 +168,13 @@ L’avantage du pair à pair ? Dès que plus personne n’est connecté, plus a
 
 #### Auto-hébergement
 
-Pour aller plus loin, il y a aussi la possibilité de s’auto-héberger. Nous avons tous une box qui tourne 24/24 à la maison, elle pourrait bien être suffisante pour stocker notre blog (hors medias).
+Pour aller plus loin, il y a aussi la possibilité de s’auto-héberger. Nous avons toustes une box qui tourne 24/24 à la maison, elle pourrait bien être suffisante pour stocker notre blog (hors medias).
 
 #### Un cloud libre et fédéré
 
 Enfin, puisqu’il faudra toujours un peu de serveurs, je pense que nous devons rechercher l’émergence d’un cloud libre sous la forme d’une fédération de fournisseurs de service utilisant les mêmes protocoles et standards éthiques et environnementaux.
 
-La recherche française peut être motrice pour apporter cet outil au bénéfice de l’Humanité, donnons lui les milliards des clouds souverains qui échouent ans surprise. La commande publique peut d’ailleurs amorcer la pompe : il n'existe aucun fondement sérieux pour maintenir le code source de la plupart de nos administrations fermé.
+La recherche française peut être motrice pour apporter cet outil au bénéfice de l’Humanité, donnons lui les milliards des clouds souverains qui échouent sans surprise. La commande publique peut d’ailleurs amorcer la pompe : il n'existe aucun fondement sérieux pour maintenir le code source de la plupart de nos administrations fermé.
 
 ## En conclusion
 
