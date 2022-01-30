@@ -3,5 +3,14 @@
         "Opinions politiques",
         "Le Douaisis, on a pas fait le tour!"
     ],
-    "cSpell.language": "fr-FR"
+    "cSpell.language": "fr,fr_FR",
+    "spellright.language": [
+        "fr",
+        "fr_FR"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
 }

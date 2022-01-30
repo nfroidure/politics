@@ -28,7 +28,7 @@ Mes débuts dans l’enseignement grâce aux cours que j’ai pu donner dans le 
 
 Ce sera aussi **l’année de mon Tour du Douaisis en vélo**. C’était enthousiasmant d’aller à la rencontre des habitant·es du Douaisis et quelque chose me dit que pour 2022, il y aura une suite à cela 😉. Un grand merci à celles et ceux qui m’ont accueilli lors d’une de mes étapes (Hugues Dewalle, Gisèle Blondelle, Jean-Luc Dellacherie, Coralie Cornille, Jean Marie Gotrand...), à celles et ceux qui m’ont indiqué de beaux endroits à visiter (Rudy Dillies, Cyril Cambray, Perrine Silvert...).
 
-![Illustrations avec des photos du Tour du Douaisis](illustrations/tour_douaisis_2021.jpg)
+![Illustrations avec des photos du Tour du Douaisis](illustrations/tour-douaisis-2021.jpg)
 
 Merci à toutes celles et ceux m’ont aidé à donner du sens à cette année et merci à Stéphanie Stiernon et mes 3 enfants (Liza, Emma et Thomas) qui l’ont emplie de joie !
 

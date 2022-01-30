@@ -10,7 +10,7 @@ tags:
   - batterie
   - renault
 illustration:
-  url: illustrations/site_lot_1_envision.jpg
+  url: illustrations/site-lot-1-envision.jpg
   alt: Site du futur projet Envision
 ---
 
@@ -30,7 +30,7 @@ Cela n’empêche pas d’être aussi vigilant et d’être force de proposition
 
 L’implantation de la future usine, si le projet se réalise, se fera donc à proximité immédiate de l’usine Renault (en fait, sur une partie de sa superficie actuelle comme l’indique l’illustration suivante). Elle devrait créer un millier d’emplois (p9 du dossier de concertation).
 
-![Site du futur projet Envision](illustrations/site_lot_1_envision.jpg)
+![Site du futur projet Envision](illustrations/site-lot-1-envision.jpg)
 
 Ce qui frappe au premier abord, c’est que ces terrains sont déjà occupés par de nombreux véhicules en stationnement, on peut légitiment se demander où ces véhicules seront stockés. Et si la perte de superficie ne va pas nuire au bon fonctionnement de l’usine Renault.
 

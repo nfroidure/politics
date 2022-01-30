@@ -8,7 +8,7 @@ tags:
 categories:
   - "Partis"
 illustration:
-  url: "illustrations/racines_club.jpg"
+  url: "illustrations/racines-club.jpg"
   alt: "Photo du racines club !"
 ---
 

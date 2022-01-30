@@ -8,7 +8,7 @@ tags:
 categories:
   - "Partis"
 illustration:
-  url: "illustrations/fin_du_monde_fin_du_mois.jpg"
+  url: "illustrations/fin-du-monde-fin-du-mois.jpg"
   alt: "Photo du combat qui devrait nous rassembler"
 ---
 
@@ -65,6 +65,8 @@ En revanche, à ce jour, il semble possible qu’il y ait d’autres candidature
 Ces candidatures supplémentaires possibles seraient peut-être bienvenues, mais, par exemple, les personnes qui me semblent consensuelles se sont retirées suite aux désignations internes de chaque parti.
 
 ## Considérations stratégiques
+
+![Photo du combat qui devrait nous rassembler](illustrations/fin-du-monde-fin-du-mois.jpg)
 
 Un gros point noir reste tout de même à prendre en compte : les chances de victoire. Il me semble préférable de faire un premier tour sous la bannière écologiste brute que d’aller au casse-pipe dilués dans une union insipide ou perdue d’avance.
 

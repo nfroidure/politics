@@ -9,7 +9,7 @@ categories:
   - "Personnel"
 illustration:
   url: "illustrations/terminal-linux.png"
-  alt: "Capture d'écran d'un terminal Linux"
+  alt: "Capture d’écran d’un terminal Linux"
 ---
 
 # Hébergement éthique et écologique : une équation insoluble ?
@@ -148,11 +148,15 @@ De plus, il est tout à fait possible, au sein d’un site Internet statique de 
 
 Éviter d’utiliser des serveurs permet de simplifier les aspects techniques et pave la voie à une conciliation entre éthique et écologie pour une majeure partie de l’usage du web.
 
-#### Le SASS, chemin vers l’éthique
+#### Le SaaS, chemin vers l’éthique
 
-Un autre moyen de gérer mais nécessite OAuth2/OpenID, voire une API et un compte IFTT pour gérer la glue entre les fonctionnalités du système gérées par ces tiers (GitLab).
+Le "Software as a Service" est une manière d’utiliser les logiciels sous forme d’abonnements / de facturation à l’usage. Bien-sûr, il existe de nombreuses solutions et toutes ne sont pas développées dans le respect de l’éthique ou même de la sobriété numérique.
 
-Avantage : substituable et donc, permet de remplacer des briques par d’autres plus respectueuse tout au long du cycle de vie du SI.
+Cependant, c’est un excellent moyen de maîtriser sa consommation numérique et de mutualiser les serveurs. Il faudrait favoriser l’émergence d’acteurs de l’économie solidaire dans ce secteur. On peut citer [Hello Asso](https://www.helloasso.com/) qui semble parvenir à se développer de façon vertueuse.
+
+Utiliser un SaaS nécessite cependant l’utilisation d’OAuth2/OpenID pour la connexion, voire d’une API et d’un compte IFTT pour gérer la glue entre les fonctionnalités du système gérées par ces tiers.
+
+Avantage : substituable et donc, permet de remplacer des briques par d’autres plus respectueuses tout au long du cycle de vie du SI.
 
 ### Des voies futures qui se dessinent
 
@@ -174,10 +178,10 @@ Pour aller plus loin, il y a aussi la possibilité de s’auto-héberger. Nous a
 
 Enfin, puisqu’il faudra toujours un peu de serveurs, je pense que nous devons rechercher l’émergence d’un cloud libre sous la forme d’une fédération de fournisseurs de service utilisant les mêmes protocoles et standards éthiques et environnementaux.
 
-La recherche française peut être motrice pour apporter cet outil au bénéfice de l’Humanité, donnons lui les milliards des clouds souverains qui échouent sans surprise. La commande publique peut d’ailleurs amorcer la pompe : il n'existe aucun fondement sérieux pour maintenir le code source de la plupart de nos administrations fermé.
+La recherche française peut être motrice pour apporter cet outil au bénéfice de l’Humanité, donnons lui les milliards des clouds souverains qui échouent sans surprise. La commande publique peut d’ailleurs amorcer la pompe : il n’existe aucun fondement sérieux pour maintenir le code source de la plupart de nos administrations fermé.
 
 ## En conclusion
 
-On le voit, le sujet est très complexe, raisonner de façon binaire serait délétère. Cependant, **les perspectives sont nombreuses et ne demandent qu'à être développées**.
+On le voit, le sujet est très complexe, raisonner de façon binaire serait délétère. Cependant, **les perspectives sont nombreuses et ne demandent qu’à être développées**.
 
 Les politiques peuvent y prendre leur part, que ce soit depuis leurs organisations respectives ou via les politiques qu’iels peuvent mettre en œuvre une fois élu·es.
