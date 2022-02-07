@@ -8,7 +8,7 @@ Quand j'ai commencé à m'intéresser à la politique locale, j'ai été frappé
 
 Disons-le tout de go, **je ne suis pas de celles et ceux qui jouent à ce petit jeu de dupes**.
 
-Tout d'abord, car, à ce dernier, j'ai forcément perdu d'avance. J'ai un emploi de cadre prenant, de surcroît sur Lille, et je ne peux donc me libérer en pleine semaine plusieurs fois par semaine pour assister à tous les événements et manifestations organisés en ville, même si je les soutiens de tout cœur.
+Tout d'abord, car, à ce dernier, j'ai forcément perdu d'avance. J'ai un emploi de cadre prenant, de surcroît sur Lille, et je ne peux donc me libérer en pleine semaine plusieurs fois pour assister à tous les événements et manifestations organisés en ville, même si je les soutiens de tout cœur.
 
 En effet, avec le temps qui me reste, j'essaie toujours de **gérer mon engagement selon des priorités simples** :
 - **être utile :** assister à une manifestation est utile, mais cela entre en concurrence avec d'autres usages possibles de mon temps, et il y en a tellement...

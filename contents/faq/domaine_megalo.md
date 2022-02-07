@@ -8,7 +8,7 @@ Cette question m’a été posée récemment et j’avoue qu’elle m’a un peu
 
 Bien-sûr que chacun⋅e peut disposer de son propre nom comme il/elle l’entend. Et je ne fais pas exception à la règle.
 
-En arrière fond de cette affirmation, se trouve, bien-sûr, la volonté de discréditer ma parole, en me faisant passer pour un nombriliste, c’est le jeu des élections... comme on ne voudrait plus le voir.
+En arrière fond de cette affirmation, se trouve, la volonté de discréditer ma parole, en me faisant passer pour un nombriliste, c’est le jeu des élections... comme on ne voudrait plus le voir.
 
 J’ai créé ce morceau d’Internet pour des raisons politiques et pour exprimer mon avis sur les sujets qui me tiennent à cœur, pas pour flatter mon ego.
 
