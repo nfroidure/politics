@@ -38,7 +38,7 @@ On peut s’interroger sur la nécessité de cette politique. En effet, quel ava
 
 Mettons de côté les raisons historiques qui ne sont dors et déjà plus valables comme l’obsession de la croissance et peut-être, en sous main, le désir inavouable de gouverner toujours plus de personne ou, encore, la vielle habitude de former de la [chair à canon](https://www.cairn.info/revue-population-et-avenir-2014-2-page-14.htm) pour faire face aux conflits récurrents avec une Allemagne autrefois plus dynamique en terme de natalité.
 
-La justification contemporaine est plutôt qu’il s’agit de produire la main d’oeuvre qui pourra assurer les retraites et prodiguer les bons soins dûs à nos ainé·es.
+La justification contemporaine est plutôt qu’il s’agit de produire la main d’œuvre qui pourra assurer les retraites et prodiguer les bons soins dus à nos ainé·es.
 
 Cet argument, selon moi, ne tient plus aujourd’hui. En effet, dans un profond paradoxe, nous souhaitons maintenir une population pour "sauver les retraites" alors que "dans le même temps" la retraite par répartition est sabordée.
 
@@ -64,11 +64,11 @@ En quoi le fait d’avoir ou non des frères et sœurs devrait déterminer les m
 
 Il peut en être de même pour les avantages fiscaux, par exemple. L’idée étant qu’il n’est pas utile d’encourager les naissances et de mettre le même effort pour toute naissance sur le sol français sans préjuger de leur nombre ou des conditions initiales de leur avènement.
 
-#### Fin des avantages de retraites et professionalisation des parents
+#### Fin des avantages de retraites et professionnalisation des parents
 
 Les avantages concernant la retraite alloués aux parents sont une forme d’aveu implicite du fait que la fonction de parent est aussi prenante qu’un métier.
 
-Il faut dès à présent transformer ces avantages en réels points retraite pendant la durée de disponibilité prise pour élever ses enfants. Qu’ils soient plusieurs ou uniques, nos enfants méritent la présence de leurs parents à leurs côté durant les premières années de leur enfance. Les parents, elleux, méritent que le travail d’éducation qui leur incombe soit pris en compte et traité comme ce qu’il est, un apport significatif à l’avenir de la France.
+Il faut dès à présent transformer ces avantages en réels points retraite pendant la durée de disponibilité prise pour élever ses enfants. Qu’ils soient plusieurs ou uniques, nos enfants méritent la présence de leurs parents à leurs côtés durant les premières années de leur enfance. Les parents, elleux, méritent que le travail d’éducation qui leur incombe soit pris en compte et traité comme ce qu’il est, un apport significatif à l’avenir de la France.
 
 ### Conséquence d’une démographie naturelle
 
@@ -90,7 +90,7 @@ Paradoxalement, ce sont principalement des personnes implantées en France depui
 
 Nous l’avons vu avec la crise du coronavirus, les personnes utiles à notre société sont bien souvent les moins considérées, elles sont aussi, souvent, des personnes issues des successives vagues d’immigration qui ont participé à l’édifice d’une France industrialisée.
 
-C’est donc paradoxalement qu’un certain nombre de nos concitoyen·nes vivent comme un péril des forces vives qui sont pourtant aujourd’hui en première ligne pour faire perdurer le modèle français, pourtant si imparfait et souvent, si ingrât suite à la casse libérale orchestrée par les gouvernements successifs.
+C’est donc paradoxalement qu’un certain nombre de nos concitoyen·nes vivent comme un péril des forces vives qui sont pourtant aujourd’hui en première ligne pour faire perdurer le modèle français, pourtant si imparfait et souvent, si ingrat suite à la casse libérale orchestrée par les gouvernements successifs.
 
 La France continuera, c’est certain, d’accueillir des vagues d’immigration successives, et il s’agirait d’ailleurs, en ce moment, de prendre notre part dans l’accueil de celles et ceux qui s’apprêtent à sombrer à nouveau, en Afghanistan, dans une période de domination patriarcale, de privation de liberté et de maltraitance généralisée.
 
