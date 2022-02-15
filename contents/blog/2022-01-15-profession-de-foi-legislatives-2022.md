@@ -23,7 +23,7 @@ Je précise que, pour moi, l’ancrage local est une condition majeure pour une 
 
 Je suis adhérent d’Europe écologie depuis un peu plus de 3 ans. J’ai cependant eu l’occasion de participer aux élections européennes pour EÉLV, municipales (via une union large) en tant que simple militant puis pour les départementales pour un binôme EÉLV-PS en co-direction de campagne.
 
-J’ai été secrétaire du groupe local du Douaisis, fonction à laquelle j’ai renoncé en prévision de mon souhait d’entrer en campagne en tant que candidat. J’ai dors et déjà pu nouer de nombreux liens lors de ces différentes campagnes et fonctions.
+J’ai été secrétaire du groupe local du Douaisis, fonction à laquelle j’ai renoncé en prévision de mon souhait d’entrer en campagne en tant que candidat. J’ai d’ores et déjà pu nouer de nombreux liens lors de ces différentes campagnes et fonctions.
 
 **J’ai conscience du caractère atypique de mon profil :** en effet, je ne suis pas issu d’études politiques, ni même de l’enseignement supérieur, je ne suis pas un militant de longue date.
 
