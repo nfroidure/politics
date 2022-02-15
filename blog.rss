@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Feb 2022 09:00:00 GMT</lastBuildDate>
-    <pubDate>Mon, 14 Feb 2022 07:57:27 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 08:53:00 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Feb 2022 06:13:24 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/profession-de-foi</guid>
+        <title>Profession de foi</title>
+        <description>Je candidate officiellement à l&apos;investiture du pôle écologiste pour les législatives 2022. Voici ma profession de foi.</description>
+        <link>https://nicolasfroidure.fr/blog/profession-de-foi</link>
+        <pubDate>Mon, 14 Feb 2022 08:53:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/le-clientelisme-m-horripile</guid>
         <title>Le clientélisme m’horripile !</title>
