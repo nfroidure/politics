@@ -63,7 +63,7 @@ J’ai donc créé en 2006 ma propre société de développement de sites Intern
 
 Avec plusieurs amis nous avons créé un cercle de programmeurs/euses nommé ["ChtiJS"](https://chtijs.francejs.org/) qui nous a permis de mettre en avant une technologie aujourd’hui largement utilisée dans le milieu du web. Peu de temps après, nous fîmes, en national, la même démarche avec [FranceJS](http://francejs.org/).
 
-Suite à cela, j’ai été sollicité pour écrire un livre technique ([Javascript - MA Éditions](http://www.ma-editions.com/informatique/1-micro-application/39-le-guide-complet-poche/4442/javascript/)) et de rencontrer un certain succès avec mes librairies et logiciels open-source ce qui m’a valut de nombreuses propositions d’emploi que j’ai fini par accepter.
+Suite à cela, j’ai été sollicité pour écrire un livre technique ([Javascript - MA Éditions](http://www.ma-editions.com/informatique/1-micro-application/39-le-guide-complet-poche/4442/javascript/)) et ai rencontré un certain succès avec mes librairies et logiciels open-source ce qui m’a valut de nombreuses propositions d’emploi que j’ai fini par accepter.
 
 J’ai eu la chance de participer à la fondation de plusieurs startups qui ont connu un succès international, de parfaire mon anglais en voyageant à Londres régulièrement...
 
@@ -112,7 +112,7 @@ Deux piliers à ce dernier :
 
 En effet, je jouis maintenant d’un confort financier, je n’ai pas démérité, je pense, mais quel sens aurait ma vie si je ne faisais que consommer les fruits de mon labeur, en vase clos, hermétique à notre destin commun ?
 
-J’ai donc participé à la campagne des européennes de 2019, à la campagne municipale de Douai en 2020 puis, en tant que co-directeur de campagne, aux départementales 2021 pour le canton de Douai avec le binôme Katia Bittner et Frédéric Chéreau mais aussi aux élections régionales pour la liste de Karima Delli. Face à des campagnes aux moyens gigantesques, nous avons, avec peu de moyens tenu, la dragée haute aux barons locaux.
+J’ai donc participé à la campagne des européennes de 2019, à la campagne municipale de Douai en 2020 puis, en tant que co-directeur de campagne, aux départementales 2021 pour le canton de Douai avec le binôme Katia Bittner et Frédéric Chéreau mais aussi aux élections régionales pour la liste de Karima Delli. Face à des campagnes aux moyens gigantesques, nous avons, avec peu de moyens, tenu la dragée haute aux barons locaux.
 
 Le combat ne fait que commencer et jamais plus je ne me mettrai en retrait de la vie politique. J’ai pris le temps de vous livrer ces détails pour expliquer pourquoi j’estime, de part mon expérience, mon engagement et mon état d’esprit, pouvoir représenter efficacement et durablement l’écologie politique dans le Douaisis.
 
