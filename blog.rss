@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Feb 2022 08:53:00 GMT</lastBuildDate>
-    <pubDate>Tue, 15 Feb 2022 11:47:12 GMT</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2022 23:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 04 Mar 2022 22:15:36 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/inauguration-du-boulodrome-geant-du-douaisis</guid>
+        <title>Inauguration du boulodrome géant du Douaisis</title>
+        <description>Ce samedi, c’est l’inauguration en grandes pompes du boulodrome géant voulu par la majorité de Douaisis Agglo emmenée par Christian Poiret. L’occasion de redire pourquoi nous y étions opposé·es.</description>
+        <link>https://nicolasfroidure.fr/blog/inauguration-du-boulodrome-geant-du-douaisis</link>
+        <pubDate>Fri, 04 Mar 2022 23:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/profession-de-foi-legislatives-2022</guid>
         <title>Profession de foi législatives 2022</title>
