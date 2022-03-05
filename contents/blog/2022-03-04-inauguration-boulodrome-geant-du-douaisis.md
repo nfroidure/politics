@@ -22,7 +22,7 @@ Ni notre chamboule-tout des projets inutiles de l’agglomération sur la brader
 
 Pour rappel, nous dénoncions plusieurs avaries écologiques, stratégiques et démocratiques concernant ce projet :
 
-- **manque de concertation :** les nombreux commentaires négatifs concernant ce projet sur les réseaux sociaux on largement démontré un manque d’adhésion flagrant des habitant·es du Douaisis. Mais est-ce vraiment étonnant quand on connaît l’état d’esprit de Christian Poiret pour qui, une fois élu, il n’est plus nécessaire de consulter le peuple ?
+- **manque de concertation :** les nombreux commentaires négatifs concernant ce projet sur les réseaux sociaux ont largement démontré un manque d’adhésion flagrant des habitant·es du Douaisis. Mais est-ce vraiment étonnant quand on connaît l’état d’esprit de Christian Poiret pour qui, une fois élu, il n’est plus nécessaire de consulter le peuple ?
 - **gigantisme d’un autre temps :** nous pensons que les infrastructures de notre territoire doivent se trouver au plus près des habitant·es. Pour ce faire, elle doivent être de taille modeste et équitablement distribuées sur le territoire, évitant des déplacements et permettant un accès plus égalitaire aux installations,
 - **artificialisation :** l’éco-quartier du Raquet est un excellent exemple d’étalement urbain sur des terres arables (seule une partie était sous forme de friche industrielle),
 - **multi-usage :** nous pensons, qu’une infrastructure de ce type devrait être conçue pour de multiples usages, un concept de salle omnisport où l’on pourrait faire des compétitions de boule aurait été mieux reçu plutôt qu’une infrastructure qui sera difficile à amortir et ne permet qu’une seule pratique sportive,
