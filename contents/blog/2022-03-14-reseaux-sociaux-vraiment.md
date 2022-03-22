@@ -14,7 +14,7 @@ illustration:
 
 # Réseaux sociaux : vraiment ?
 
-Donner à des plateformes telles que Facebook, Twitter et autres réseaux issus ou rachetés par des GAFAMs, l'adjectif "social" est probablement l'une des plus grande impostures du monde du numérique.
+Donner à des plateformes telles que Facebook, Twitter et autres réseaux issus ou rachetés par des GAFAMs, l'adjectif "social" est probablement l'une des plus grandes impostures du monde du numérique.
 
 ## Réseaux sociaux ou cages comportementales
 
