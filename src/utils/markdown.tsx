@@ -23,6 +23,7 @@ import YError from "yerror";
 import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
 import type { ReactNode } from "react";
+import { CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M } from "./constants";
 
 export type MarkdownRootNode = {
   type: "root";
@@ -249,13 +250,43 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
               node.url
         }
         alt={node.alt}
-        title={node.title}
+        title={(node.title || "").replace(/^🖼(➡️|⬅️)\s/, "")}
+        className={
+          node?.title?.startsWith("🖼➡️")
+            ? "right"
+            : node?.title?.startsWith("🖼⬅️")
+            ? "left"
+            : ""
+        }
       />
       <style jsx>{`
         img {
           clear: both;
           display: block;
           width: 100%;
+          max-width: 100%;
+        }
+
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
+          img.left,
+          img.right {
+            width: var(--block);
+          }
+          img.left {
+            float: left;
+            margin-right: var(--gutter);
+          }
+          img.right {
+            float: right;
+            margin-left: var(--gutter);
+          }
+        }
+
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
+          img.left,
+          img.right {
+            width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 3));
+          }
         }
       `}</style>
     </span>
