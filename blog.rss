@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Mar 2022 09:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 22 Mar 2022 11:39:55 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2022 09:00:00 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Apr 2022 07:04:51 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/presidentielles-2022-barrage-puis-ballottage</guid>
+        <title>Présidentielles 2022 : Barrage puis ballottage ?</title>
+        <description>Les résultats des élections présidentielles de 2022 sont tombés, analyse des conséquences dans le Douaisis.</description>
+        <link>https://nicolasfroidure.fr/blog/presidentielles-2022-barrage-puis-ballottage</link>
+        <pubDate>Thu, 14 Apr 2022 09:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/reseaux-sociaux-vraiment</guid>
         <title>Réseaux sociaux : vraiment ?</title>
