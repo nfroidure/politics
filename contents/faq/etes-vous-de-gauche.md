@@ -6,7 +6,7 @@ draft: false
 
 Certain⋅es prônent une écologie de droite (!?), je vous rassure tout de suite, l’écologie est incompatible avec les idéologies conservatrices et néo-libérales.
 
-Mais l’écologie est-elles de gauche et donc, suis-je de gauche en tant qu’écologiste ?
+Mais l’écologie est-elle de gauche, et donc, suis-je de gauche en tant qu’écologiste ?
 
 En fait, tout dépend de la définition qu’on donne à la gauche. Si, la gauche, est un segment sur lequel on trouve le socialisme et le communisme, alors, non. Via cette lecture, la gauche est tout au plus compatible en partie avec l’écologie.
 

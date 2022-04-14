@@ -45,7 +45,7 @@ Tout ceci m’a amené au lycée Corot où j’ai doublé une première fois en 
 
 J’ai tenté une licence en informatique en étant, en parallèle, assistant d’éducation au collège de Marquion, mais j’ai arrêté mes études après une première année où il fût difficile de lier activité professionnelle et cours pour finalement entrer définitivement dans le monde professionnel.
 
-En effet, pris dans le fameux trou entre bénéficiaires des bourses et milieux aisés pouvant mettre la main à la poche pour les études de leurs enfants (les crédits contractés ne sont pas pris en compte pour l’attribution des bourses...), je n’avais d’autre choix que de travailler mais les horaires étaient compliquées et cela relevait de l’abnégation totale pour suivre des cours que je ne considérais pas à l’époque comme très utiles.
+En effet, pris dans le fameux trou entre bénéficiaires des bourses et milieux aisés pouvant mettre la main à la poche pour les études de leurs enfants (les crédits contractés ne sont pas pris en compte pour l’attribution des bourses...), je n’avais d’autre choix que de travailler mais les horaires étaient compliqués et cela relevait de l’abnégation totale pour suivre des cours que je ne considérais pas à l’époque comme très utiles.
 
 Aujourd’hui encore, je suis littéralement fasciné par celleux qui ont su étudier avec succès tout en ayant pas eu d’aide de la part de leurs parents.
 
@@ -83,7 +83,7 @@ Mais l’ennemi d’hier n’est pas celui d’aujourd’hui. Qui, portant ces v
 
 Résister aujourd’hui, n’a rien à voir avec la résistance à cette époque. Résister, pour moi, cela a été de ne pas céder au formatage des esprits et des désirs, ne pas entrer dans le petit jeu de l’apparence et de l’apparât.
 
-S’intéresser au fond des choses, s’attacher à la cohérence dans une société hors-sol. Refuser le conformiste.
+S’intéresser au fond des choses, s’attacher à la cohérence dans une société hors-sol. Refuser le conformisme.
 
 J’ai, dès l’adolescence, nourri une forte réticence vis à vis de la société de consommation. C’est certes plus facile quand on a pas vraiment les moyens de la suivre, mais c’est resté comme une conviction chevillée au corps.
 
@@ -93,7 +93,7 @@ D’abord, rejet de "l’américanisation", puis de la société de consommation
 
 Comment, dès lors, ne pas considérer notre mode de vie comme un formidable gâchis ? Un quête du plus sans le moindre sens.
 
-Paradoxalement, j’ai fait trois enfants. J’ai toujours voulu avoir des enfants aussi loin que je me souvienne d’avoir pensé à cette éventualité. Cette volonté n’a jamais faibli.
+Paradoxalement, avec ma compagne, nous avons conçu trois enfants. J’ai toujours voulu avoir des enfants aussi loin que je me souvienne d’avoir pensé à cette éventualité. Cette volonté n’a jamais faibli.
 
 C’est une lueur d’espoir, une conviction que notre société peut se transformer, que de l’Humanité, peut surgir aussi le meilleur. Mais ce meilleur, il va falloir aller le chercher, en être acteur. D’où mon engagement politique qui a commencé par une "simple" adhésion à EÉLV.
 
@@ -114,7 +114,7 @@ En effet, je jouis maintenant d’un confort financier, je n’ai pas démérit�
 
 J’ai donc participé à la campagne des européennes de 2019, à la campagne municipale de Douai en 2020 puis, en tant que co-directeur de campagne, aux départementales 2021 pour le canton de Douai avec le binôme Katia Bittner et Frédéric Chéreau mais aussi aux élections régionales pour la liste de Karima Delli. Face à des campagnes aux moyens gigantesques, nous avons, avec peu de moyens, tenu la dragée haute aux barons locaux.
 
-Le combat ne fait que commencer et jamais plus je ne me mettrai en retrait de la vie politique. J’ai pris le temps de vous livrer ces détails pour expliquer pourquoi j’estime, de part mon expérience, mon engagement et mon état d’esprit, pouvoir représenter efficacement et durablement l’écologie politique dans le Douaisis.
+Le combat ne fait que commencer et jamais plus je ne me mettrai en retrait de la vie politique. J’ai pris le temps de vous livrer ces détails pour expliquer pourquoi j’estime, de par mon expérience, mon engagement et mon état d’esprit, pouvoir représenter efficacement et durablement l’écologie politique dans le Douaisis.
 
 Ce parcours non-linéaire m’a, en effet, permis de développer une conscience forte de chaque strate de la société, une conscience qui fait défaut chez la plupart des personnalités politiques. Loin des filières d’excellence, j’ai néanmoins, de façon autodidacte, pu développer suffisamment de compétences pour envisager sérieusement mon entrée dans la sphère politique.
 
