@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 14 Apr 2022 09:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 14 Apr 2022 17:31:35 GMT</pubDate>
+    <lastBuildDate>Sat, 30 Apr 2022 17:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 30 Apr 2022 15:05:13 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/second-tour-un-sursis-plus-qu-un-sursaut</guid>
+        <title>Second tour : un sursis plus qu&apos;un sursaut</title>
+        <description>Le second tour des présidentielles a un goût amer, a fortiori dans le Douaisis.</description>
+        <link>https://nicolasfroidure.fr/blog/second-tour-un-sursis-plus-qu-un-sursaut</link>
+        <pubDate>Sat, 30 Apr 2022 17:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/presidentielles-2022-barrage-puis-ballottage</guid>
         <title>Présidentielles 2022 : Barrage puis ballottage ?</title>
