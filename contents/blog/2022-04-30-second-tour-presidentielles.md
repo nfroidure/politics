@@ -39,7 +39,7 @@ On le voit, et c’est un crève cœur, le RN est en position de remporter les d
 
 ## Ça commence plutôt mal
 
-![Photo de la réunion républicaine contre l’extrême droite](illustrations/reunion-rn.jpg)
+![Photo de la réunion républicaine contre l’extrême droite](illustrations/reunion-rn.jpg "🖼➡️")
 
 Ce qui m’offre une transition car, dans le Douaisis, ça a mal commencé. En lieu et place d’aller au contact pour faire barrage au RN, notre député (Dimitri Houbron), avec la complicité de quelques élus locaux (je n’utilise pas volontairement l’écriture inclusive ici, je m’en explique ensuite) a décidé de démarrer sa campagne en surfant sur le risque RN...
 

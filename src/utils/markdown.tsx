@@ -238,6 +238,8 @@ const blockquoteMap: NodeToElementMapper<MarkdownBlockquoteNode> = (
   </Blockquote>
 );
 const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
+  const finalTitle = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/, "");
+
   return (
     <span key={context.index}>
       <img
@@ -250,7 +252,6 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
               node.url
         }
         alt={node.alt}
-        title={(node.title || "").replace(/^🖼(➡️|⬅️)\s/, "")}
         className={
           node?.title?.startsWith("🖼➡️")
             ? "right"
@@ -258,6 +259,7 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
             ? "left"
             : ""
         }
+        {...(finalTitle ? { title: finalTitle } : {})}
       />
       <style jsx>{`
         img {
