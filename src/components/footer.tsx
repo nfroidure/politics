@@ -1,10 +1,12 @@
 import Link from "next/link";
 import Social from "./social";
 import {
+  CSS_BREAKPOINT_END_L,
   CSS_BREAKPOINT_END_M,
   CSS_BREAKPOINT_END_S,
   CSS_BREAKPOINT_START_L,
   CSS_BREAKPOINT_START_M,
+  CSS_BREAKPOINT_START_XL,
   ORGANISATION_NAME,
 } from "../utils/constants";
 
@@ -53,13 +55,18 @@ const Footer = () => {
             width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
           }
         }
-        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) and (max-width: ${CSS_BREAKPOINT_END_L}) {
           footer {
             width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
           }
           .bottom {
             display: flex;
             justify-content: center;
+          }
+        }
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {
+          .contents {
+            width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
       `}</style>

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { publicRuntimeConfig } from "../utils/config";
-import { CSS_BREAKPOINT_END_M, CSS_BREAKPOINT_END_S, CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M } from "../utils/constants";
+import { CSS_BREAKPOINT_END_L, CSS_BREAKPOINT_END_M, CSS_BREAKPOINT_END_S, CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M, CSS_BREAKPOINT_START_XL } from "../utils/constants";
 
 const Header = () => {
   return (
@@ -24,7 +24,6 @@ const Header = () => {
           align-items: flex-end;
           margin: 0 auto;
           padding: var(--vRythm) var(--gutter);
-          width: 100%;
           height: calc(var(--vRythm) * 12);
           color: var(--grey);
           text-decoration: none;
@@ -58,9 +57,14 @@ const Header = () => {
             width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
           }
         }
-        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) and (max-width: ${CSS_BREAKPOINT_END_L}) {
           a {
             width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
+          }
+        }
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {
+          a {
+            width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
       `}</style>

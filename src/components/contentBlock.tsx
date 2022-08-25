@@ -1,4 +1,4 @@
-import { CSS_BREAKPOINT_START_L } from "../utils/constants";
+import { CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_XL } from "../utils/constants";
 
 export default function ContentBlock({
   children,
@@ -18,6 +18,11 @@ export default function ContentBlock({
         @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
           .root {
             padding: calc(var(--vRythm) * 2) calc(var(--gutter) * 2);
+          }
+        }
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {
+          .root {
+            padding: calc(var(--vRythm) * 3) calc(var(--gutter) * 8);
           }
         }
       `}</style>

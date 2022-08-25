@@ -7,6 +7,7 @@ import {
   CSS_BREAKPOINT_END_S,
   CSS_BREAKPOINT_START_L,
   CSS_BREAKPOINT_START_M,
+  CSS_BREAKPOINT_START_XL,
 } from "../utils/constants";
 import Heading2 from "./h2";
 import Paragraph from "./p";
@@ -108,7 +109,6 @@ const Menu = () => {
           color: var(--secondary-darker);
         }
         nav a.newsletter {
-          margin-left: auto;
           background-color: var(--quaternary);
           color: var(--light);
         }
@@ -138,6 +138,11 @@ const Menu = () => {
             mask-position: center center;
             mask-size: calc(var(--vRythm));
             mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/mail.svg");
+          }
+        }
+        @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {
+          nav {
+            width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
       `}</style>

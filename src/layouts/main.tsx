@@ -47,22 +47,26 @@ const Layout = ({ children, title, description = "", image = "" }: Props) => {
         }
         @media screen and (max-width: ${CSS_BREAKPOINT_END_S}) {
           .contents {
+            background: yellow;
             width: 100%;
           }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) and (max-width: ${CSS_BREAKPOINT_END_M}) {
           .contents {
+            background: blue;
             width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
           }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) and (max-width: ${CSS_BREAKPOINT_END_L}) {
           .contents {
+            background: red;
             width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
           }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {
           .contents {
-            width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
+            background: green;
+            width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
       `}</style>

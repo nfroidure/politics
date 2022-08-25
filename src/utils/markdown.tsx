@@ -18,6 +18,7 @@ import Strong from "../components/strong";
 import Emphasis from "../components/em";
 import Code from "../components/code";
 import Cite from "../components/cite";
+import Gallery from "../components/gallery";
 import { fixText } from "./text";
 import YError from "yerror";
 import { publicRuntimeConfig } from "./config";
@@ -29,69 +30,69 @@ export type MarkdownRootNode = {
   type: "root";
   children: MarkdownNode[];
 };
-type MarkdownParagraphNode = {
+export type MarkdownParagraphNode = {
   type: "paragraph";
   children: MarkdownNode[];
 };
-type MarkdownTextNode = {
+export type MarkdownTextNode = {
   type: "text";
   value: "string";
 };
-type MarkdownBoldNode = {
+export type MarkdownBoldNode = {
   type: "bold" | "strong";
   value: "string";
   children: MarkdownNode[];
 };
-type MarkdownEmphasisNode = {
+export type MarkdownEmphasisNode = {
   type: "emphasis";
   value: "string";
   children: MarkdownNode[];
 };
-type MarkdownCodeNode = {
+export type MarkdownCodeNode = {
   type: "inlineCode";
   value: string;
 };
-type MarkdownHeadingNode = {
+export type MarkdownHeadingNode = {
   type: "heading";
   depth: 1 | 2 | 3 | 4 | 5 | 6;
   children: MarkdownNode[];
 };
-type MarkdownListNode = {
+export type MarkdownListNode = {
   type: "list";
   ordered: boolean;
   spread: boolean;
   children: MarkdownNode[];
 };
-type MarkdownListItemNode = {
+export type MarkdownListItemNode = {
   type: "listItem";
   spread: boolean;
   children: MarkdownNode[];
 };
-type MarkdownBlockquoteNode = {
+export type MarkdownBlockquoteNode = {
   type: "blockquote";
   children: MarkdownNode[];
 };
-type MarkdownHRNode = {
+export type MarkdownHRNode = {
   type: "thematicBreak";
 };
-type MarkdownImageNode = {
+export type MarkdownImageNode = {
   type: "image";
   url: string;
   alt: string;
   title: string;
 };
-type MarkdownLinkNode = {
+export type MarkdownLinkNode = {
   type: "link";
   url: string;
   title: string;
   children: MarkdownNode[];
 };
-type MarkdownHTMLNode = {
+export type MarkdownHTMLNode = {
   type: "html";
   value: "cite" | "abbr";
   children?: MarkdownNode[];
 };
-type MarkdownNode =
+export type MarkdownNode =
   | MarkdownRootNode
   | MarkdownHeadingNode
   | MarkdownTextNode
@@ -106,9 +107,9 @@ type MarkdownNode =
   | MarkdownLinkNode
   | MarkdownHTMLNode
   | MarkdownBlockquoteNode;
-type MarkdownNodeType = MarkdownNode["type"];
-type MappingContext = { index: number };
-type NodeToElementMapper<T extends MarkdownNode> = (
+export type MarkdownNodeType = MarkdownNode["type"];
+export type MappingContext = { index: number };
+export type NodeToElementMapper<T extends MarkdownNode> = (
   context: MappingContext,
   node: T
 ) => React.ReactNode;
@@ -125,8 +126,24 @@ const paragraphMap: NodeToElementMapper<MarkdownParagraphNode> = (
   node
 ) => (
   <Paragraph key={context.index}>
-    {node.children.map((node, index) =>
-      renderMarkdown({ ...context, index }, node)
+    {node.children.length > 1 &&
+    node.children.every(
+      (childNode) =>
+        childNode.type === "image" ||
+        (childNode.type === "text" &&
+          childNode.value.replace(/[\r\n\s]+/, "") === "")
+    ) ? (
+      <Gallery
+        imagesNodes={
+          node.children.filter(
+            (childNode) => childNode.type === "image"
+          ) as MarkdownImageNode[]
+        }
+      />
+    ) : (
+      node.children.map((node, index) =>
+        renderMarkdown({ ...context, index }, node)
+      )
     )}
   </Paragraph>
 );
