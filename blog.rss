@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 07 Jul 2022 10:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 07 Jul 2022 11:38:15 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2022 10:00:00 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2022 07:39:12 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/quel-avenir-pour-l-ecologie-politique</guid>
+        <title>Quel avenir pour l’écologie politique ?</title>
+        <description>Quelques réflexions sur l’avenir de l’écologie politique et les prochaines échéances.</description>
+        <link>https://nicolasfroidure.fr/blog/quel-avenir-pour-l-ecologie-politique</link>
+        <pubDate>Thu, 25 Aug 2022 10:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/usine-de-batterie-envision-reunion-de-cloture</guid>
         <title>Usine de batterie Envision : Réunion de clôture</title>
