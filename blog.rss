@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 25 Aug 2022 10:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Aug 2022 08:07:33 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 10:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 09:04:31 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles</guid>
+        <title>Aménagement de la ville : créons les possibles !</title>
+        <description>L’écologie porte des réponses aux enjeux de l’aménagement urbain : tour d’horizon de la vision que je défends.</description>
+        <link>https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles</link>
+        <pubDate>Sat, 03 Sep 2022 10:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/quel-avenir-pour-l-ecologie-politique</guid>
         <title>Quel avenir pour l’écologie politique ?</title>
