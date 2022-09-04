@@ -20,6 +20,10 @@ illustration:
 
 Au travers de ce billet illustré de cas pratiques concernant la ville de Douai, je vais décliner une vision originale mais porteuse d’espoir pour relever les défis du réchauffement climatique et de l’augmentation des coûts de l’énergie.
 
+J’écris cet article de manière tout à fait bienveillante car je sais que ce n’est pas toujours simple de prendre de la hauteur quand on a le nez dans le guidon. Par ailleurs, de nombreuses communes, Douai comprise, ont déjà amorcé bien des actions grâce à des individus qui ne lâchent rien. C’est donc plus pour une accélération et un véritable filtre écologique que je plaide ici.
+
+Je souhaite aussi convaincre celles et ceux qui seraient encore empêtré·es dans l’habitude, le déni, le doute ou la stupeur. Nous devons changer radicalement les politiques publiques pour faire face à l’urgence climatique.
+
 ## La commune : échelon essentiel de résilience
 
 La commune est une des plus petites divisions administratives, en ce sens, elle est la plus proche des citoyen·nes. Elle facilite la démocratie participative dont je reparlerai sur ce blog.
@@ -66,7 +70,9 @@ Ainsi, il devient impossible de garder un œil sur les enfants qui jouent dehors
 
 J’ai pu constater en discutant avec Christine Garnier (élue à Grenoble) et Tristan Debray (élu à Lyon) qu’une politique de diffusion éparse d’éléments ludiques était non seulement possible mais plébiscitée par les enfants.
 
-La vision que je défends est, au contraire, de **créer les possibles**. Tout d’abord, parce que le contrôle se heurte au détournement des usages prévus, mais aussi car il me paraît prétentieux de juger de ce qui est bon pour les habitant·es.
+D'ailleurs, l'un n'empêche pas l'autre. De grandes aires de jeu sont utiles pour la sortie en famille et de petits jeux parsemés pour la vie de tous les jours aussi.
+
+La vision que je défends est de **créer les possibles**. Tout d’abord, parce que le contrôle se heurte au détournement des usages prévus, mais aussi car il me paraît prétentieux de juger de ce qui est bon pour les habitant·es.
 
 En effet, reposer sur l’intelligence individuelle et collective est souvent, non-seulement fructueux, mais produit aussi des résultats parfois étonnants d’inventivité et de bon sens.
 
@@ -82,7 +88,7 @@ Je pense même qu’il faut aller plus loin et créer des boîtes à livres pour
 
 La ville nourricière est un autre exemple que je défends corps et âme car, non seulement elle crée les possibles (offrir une variété alimentaire aux plus démuni·es, permettre aux enfants de connaître le plaisir de la cueillette) mais elle rend la ville plus résiliente en cette période de réchauffement climatique. Pas une occasion de rendre la végétation comestible ne devrait être manquée.
 
-On oppose à cela la pollution des sols mais des élu·es écologistes ont pu, dans d’autres villes, mettre en place des initiatives semblables en faisant simplement des prélèvements pour détecter au préalable une éventuelle pollution. À Lyon, une aire de jeux avec un verger en libre accès vient d’être mis en place.
+On oppose à cela la pollution des sols mais des élu·es écologistes ont pu, dans d’autres villes, mettre en place des initiatives semblables en faisant simplement des prélèvements pour détecter au préalable une éventuelle pollution. À Lyon, une aire de jeux avec un verger en libre accès vient d’être mise en place.
 
 Toujours sur la création des possibles, on entend souvent dire que notre démocratie est atone, mais quand on y réfléchit, qu’est-ce qui la dynamise dans l’aménagement des villes ? Je suis favorable à la création d’espaces d’expression libre dans des lieux fréquentés : une estrade, un micro, des espaces d’affichage réservés à l’expression politique.
 
@@ -92,15 +98,17 @@ D’ailleurs, les panneaux d’expression libre de Douai sont vampirisés par l�
 
 Indépendante du contrôle, mais souvent amplifiée par ce dernier, vient l’automatisation. C’est le fameux solutionnisme technologique. Plutôt que de rémunérer des personnes, on recherche l’automatisation, ce qui finit souvent par déplacer le besoin en main d’œuvre, plus qualifiée donc plus onéreuse.
 
-Parmi les exemples d’automatisation générés par le souhait d’exercer du contrôle, on peut citer les portes automatique vues précédemment qui sont régulièrement dégradées, mais on peut aussi citer les parcmètres (qui en sus du contrôle sont sensées générer un revenu pour la ville qui s’avère en réalité mineur).
+Parmi les exemples d’automatisation générés par le souhait d’exercer du contrôle, on peut citer les portes automatiques vues précédemment qui sont régulièrement dégradées, mais on peut aussi citer les parcmètres (qui en sus du contrôle sont sensés générer un revenu pour la ville qui s’avère en réalité mineur).
 
-Les automatisations supposées générer des économies de main d’œuvre telles que les toilettes auto-nettoyantes sont également un bon exemple de ce qui à mon sens génère finalement plus de problèmes qu’elles n’en règle.
+Les automatisations supposées générer des économies de main d’œuvre telles que les toilettes auto-nettoyantes sont également un bon exemple de ce qui à mon sens génère finalement plus de problèmes qu’elles n’en règlent.
 
 La ville automatique est une chimère. Toute technologie nécessite de la maintenance. Un exemple concret serait l’ascenseur de Gayant Expo régulièrement en panne. Malheureusement, la future passerelle d’Euradouai voulue par l’agglomération n’en tire pas d’enseignement et ce sera un ascenseur plutôt qu’une passerelle cyclable de bout en bout qu’on y trouvera.
 
 Une solution simple est pourtant disponible : la low tech. **L’idée est d’éviter de créer des systèmes trop complexes afin de limiter la difficulté de les maintenir.**
 
-En lieu et place des parcmètres, on peut utiliser des disques de stationnement. Ces derniers ne nécessitent aucun aménagement autre que de simples panneaux signalant les règles de stationnement et fonctionnent donc partout (dans toutes les villes), ne génèrent aucune maintenance, ne consomment pas d’énergie et peuvent même créer du lien avec les commerçant·es.
+En lieu et place des parcmètres, on peut utiliser des disques de stationnement. Ces derniers ne nécessitent aucun aménagement autre que de simples panneaux signalant les règles de stationnement. Ils fonctionnent donc partout (dans toutes les villes), ne génèrent aucune maintenance et ne consomment pas d’énergie.
+
+Les disques de stationnement peuvent même créer du lien avec les commerçant·es qui peuvent en revendre pour les personnes de passage.
 
 ![Photographie du parcmètre numérique rue de Bellain](illustrations/parcmetre-numerique.jpg)
 ![Photographie d’un disque de stationnement](illustrations/disque-stationnement.jpg)
@@ -110,6 +118,7 @@ Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité s
 ## Prévenir ou guérir
 
 ![Entrée du parc de la tour des dames](illustrations/entree-parc-tour-des-dames-douai.jpg "🖼⬅️")
+![Entrée du parc de Flers-en-Escrebieux](illustrations/entree-parc-flers-en-escrebieux.jpg "🖼⬅️")
 
 Une autre question, qui est finalement liée, est la prévention. En effet, la bien connue [loi de Murphy](https://fr.wikipedia.org/wiki/Loi_de_Murphy) stipule que tout ce qui peut tourner mal, tournera mal à terme.
 
@@ -137,7 +146,7 @@ C’est pour cela que je suis en faveur de l’application stricte du filtre éc
 
 Un excellent moyen d’éviter les effets de silos est de sortir des projets gigantesques où l’on part d’une feuille blanche pour créer une aire de jeu, une rue... De petites actions mélioratives me semblent préférables, même si elle sont moins visibles des citoyen·nes (et donc, ne sont pas mises au "crédit" des élu·es).
 
-Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pure visées électoraliste et/ou de postérité...
+Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pures visées électoraliste et/ou de postérité...
 
 Les silos idéologiques représentent également un danger pour notre avenir commun. Si chacun·e s’arc-boute sur sa verticale (l’écologie n’est d’ailleurs pas épargnée, du tout climat, à l’anthropomorphisme en passant par la mystification volontaire ou involontaire de la Nature), alors, il n’y a aucune chance d’advenir à une doctrine écologique qui fasse système, qui soit connectée à notre époque, ses enjeux et le contexte dans lequel la transition écologique doit prendre racine.
 
@@ -161,7 +170,7 @@ En fait, à mon sens, l’assentiment des électeurices et la postérité sont �
 
 J’ai presque envie de dire que la postérité mal acquise ne profite à personne. Et c’est là je pense le drame de notre époque. La vision court-termiste des responsables politiques les inscrit hors du cours de l’Histoire, en marge des défis réels que nous devons affronter et qui vont s’amplifier sans discontinuer.
 
-Malade de son propre essor la civilisation s’enferme dans le déni et la traduction électorale de ceci est que nous élisons des gestionnaires sans aucune vision. Mais ce faisant, nous tendons la perche aux réactionnaires, dont l’offre politique est faite de reculs et de repli sur soi, quand l’intelligence situationnelle nous somme d’impliquer toutes les parties, condition sine quoi non de notre propre survie.
+Malade de son propre essor la civilisation s’enferme dans le déni et la traduction électorale de ceci est que nous élisons des gestionnaires sans aucune vision. Mais ce faisant, nous tendons la perche aux réactionnaires, dont l’offre politique est faite de reculs et de repli sur soi. L’intelligence situationnelle nous somme d’impliquer toutes les parties, condition sine qua non de notre propre survie.
 
 Il est indéniablement urgent de sortir du statut quo pour offrir à nos concitoyen·nes une vision ambitieuse de l’avenir, quitte à essuyer des échecs, ce sera toujours mieux que l’inaction. Comme le disait Nelson Mandela, “soit je gagne, soit j’apprends”.
 
@@ -171,11 +180,9 @@ Nous avons à gagner un futur désirable, nous avons à apprendre le sens du tem
 
 La commune, plus petit échelon administratif français, doit être le berceau des possibles. L’aménagement de ces dernières conditionnera notre capacité de résilience face aux répercussions systémiques des effets du réchauffement climatique.
 
-J’espère que ces quelques réflexions feront date et que le filtre écologique sera appliqué à Douai et ailleurs dès demain.
-
-Pour cela, comme je l’ai démontré ci-dessus, il faut :
+Pour cela, comme je l’ai démontré ci-dessus, il faut appliquer une méthode simple :
 - sortir des silos et faire système,
-- créer les possible et renoncer au contrôle,
+- créer les possibles et renoncer au contrôle systématique,
 - simplifier l’action,
 - démocratiser les décisions,
 - appliquer une vision et refuser de faire de la gestion pure.
