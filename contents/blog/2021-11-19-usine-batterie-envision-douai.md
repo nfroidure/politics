@@ -112,11 +112,11 @@ Pour l’instant, il est prévu de faire tourner l’usine 24h/24, 320 jours par
 
 La protection des salarié·es contre les risques sur la santé et sur l’environnement que j’ai évoqué précédemment doit être également surveillée de très près. Au plus près du danger, **ces personnes doivent faire l’objet d’un suivi régulier**.
 
-Enfin, pour être mieux suivies, mais aussi pour favoriser leur stabilité financière et leur situation familiale, **il est important que les recrutements se fasse très largement en CDI** (90% me semble un minimum).
+Enfin, pour être mieux suivies, mais aussi pour favoriser leur stabilité financière et leur situation familiale, **il est important que les recrutements se fassent très largement en CDI** (90% me semble un minimum).
 
 ## Des objectifs à porter par nos élu·es
 
-Étant donné que l’agglomération du Douaisis offre une ligne de crédit à Renault en rachetant cette emprise, il apparaît logique que Renault et Enviosion puissent s’engager sur quelques points :
+Étant donné que l’agglomération du Douaisis offre une ligne de crédit à Renault en rachetant cette emprise, il apparaît logique que Renault et Envision puissent s’engager sur quelques points :
 
 - le recrutement et la formation des salarié·es doit être fait sur le territoire du Douaisis notamment pour éviter les déplacements, mais que les effets négatifs soient, a minima, contrebalancés par la création d’emploi pour la population locale concernée,
 - Envision et Renault doivent s’engager à ne pas vendre de batteries PB pour des usages de mobilité afin de ne pas créer les gilets jaunes de demain,
