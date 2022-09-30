@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Sep 2022 10:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 12:02:14 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 08:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 07:15:30 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/democratie-participative-des-idees-pour-douai</guid>
+        <title>Démocratie participative : des idées pour Douai !</title>
+        <description>À l’heure du renouvellement des conseils de quartier de notre ville, quelques suggestions pour en améliorer l’efficacité.</description>
+        <link>https://nicolasfroidure.fr/blog/democratie-participative-des-idees-pour-douai</link>
+        <pubDate>Fri, 30 Sep 2022 08:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles</guid>
         <title>Aménagement de la ville : créons les possibles !</title>

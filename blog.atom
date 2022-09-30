@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2022-09-03T10:00:00.000Z</updated>
+  <updated>2022-09-30T08:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/democratie-participative-des-idees-pour-douai</id>
+    <title>Démocratie participative : des idées pour Douai !</title>
+    <link href="https://nicolasfroidure.fr/blog/democratie-participative-des-idees-pour-douai" rel="alternate" type="text/html" />
+    <updated>2022-09-30T08:00:00.000Z</updated>
+    <published>2022-09-30T08:00:00.000Z</published>
+    <summary>À l’heure du renouvellement des conseils de quartier de notre ville, quelques suggestions pour en améliorer l’efficacité.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles</id>
     <title>Aménagement de la ville : créons les possibles !</title>
