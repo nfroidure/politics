@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 14 Oct 2022 10:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 07:59:06 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 10:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 14:40:26 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/conseil-municipal-du-23-octobre-2022-a-douai</guid>
+        <title>Conseil Municipal du 23 octobre 2022 à Douai</title>
+        <description>Ce vendredi 21 octobre, le conseil municipal a été mouvementé mais révélateur d’un certain nombre de postures difficilement tenables. Mes impressions.</description>
+        <link>https://nicolasfroidure.fr/blog/conseil-municipal-du-23-octobre-2022-a-douai</link>
+        <pubDate>Sun, 23 Oct 2022 10:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/gratuite-des-transports-bilan-et-projections</guid>
         <title>Gratuité des transports : bilan et projections</title>
