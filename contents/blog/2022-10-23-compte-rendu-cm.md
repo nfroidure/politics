@@ -1,5 +1,6 @@
 ---
-title: "Conseil Municipal du 23 octobre 2022 à Douai"
+leafname: "conseil-municipal-du-23-octobre-2022-a-douai"
+title: "Conseil Municipal du 21 octobre 2022 à Douai"
 description: "Ce vendredi 21 octobre, le conseil municipal a été mouvementé mais révélateur d’un certain nombre de postures difficilement tenables. Mes impressions."
 date: "2022-10-23T10:00:00.000Z"
 draft: false
@@ -12,11 +13,11 @@ illustration:
   alt: "Photographie du conseil déserté par les élu·es LReM"
 ---
 
-# Conseil Municipal du 23 octobre 2022 à Douai
+# Conseil Municipal du 21 octobre 2022 à Douai
 
 ![Photographie du conseil déserté par les élu·es LReM](illustrations/conseil-municipal-douai-octobre-2022.png "🖼➡️")
 
-**N’ayant pu assister au conseil municipal ce vendredi 22 octobre, je reviens à froid sur ce dernier après avoir visionné l’enregistrement vidéo.**
+**N’ayant pu assister au conseil municipal ce vendredi 21 octobre, je reviens à froid sur ce dernier après avoir visionné l’enregistrement vidéo.**
 
 ## Censure des conseils communautaires
 
@@ -36,7 +37,7 @@ Je prévois de proposer lors de la prochaine réunion du groupe local EÉLV que 
 
 ## Crise de l’énergie et ses conséquences
 
-Autre sujet, les économies d’énergie. Un bouquet de propositions sur lesquelles je me suis exprimé avant le conseil a été proposé. Les citoyen·nes ont été consulté·es dans un sondage ayant obtenu 738 réponses. Un procès en légitimité de ce sondage a été fait, je rappelle à toute fin utile qu’un [échantillon statistique](https://fr.wikipedia.org/wiki/%C3%89chantillon_(statistiques)) de 1000 personnes a 95% de chances de refléter la réalité. On y est pas exactement et la méthode de sélection peut introduire un biais, mais balayer totalement ce dernier d’un revers de la main témoigne de la faiblesse rhétorique de l’opposition Douaisien·ne.
+Autre sujet, les économies d’énergie. Un bouquet de propositions sur lesquelles je me suis exprimé avant le conseil a été proposé. Les citoyen·nes ont été consulté·es dans un sondage ayant obtenu 738 réponses. Un procès en légitimité de ce sondage a été fait, je rappelle à toute fin utile qu’un [échantillon statistique](<https://fr.wikipedia.org/wiki/%C3%89chantillon_(statistiques)>) de 1000 personnes a 95% de chances de refléter la réalité. On y est pas exactement et la méthode de sélection peut introduire un biais, mais balayer totalement ce dernier d’un revers de la main témoigne de la faiblesse rhétorique de l’opposition Douaisien·ne.
 
 ![Consommation électrique de la ville de Douai en kWH](illustrations/consommation-energie-electrique-douai.png)
 
@@ -68,8 +69,14 @@ La critique que j’adresserai à l’aile qui se dit de gauche mais nous prouve
 
 Enfin, le dernier sujet a été un imbroglio tragi-comique autour d’une motion de Coline Craeye pour l’armement de la Police Municipale de Douai. On notera que le dogme anti-impôts ne s’accompagne pas d’un dogme anti-dépense puisque c’est, selon Jean-Christophe Leclercq, adjoint, deux millions d’euros que cette dernière coûterait avec l’augmentation des effectifs demandée.
 
-Je vous laisse découvrir avec la retransmissiondu conseil de la ville de Douai bientôt sur YouTube, les conditions folles dans lequelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
+Je vous laisse découvrir avec la retransmission du conseil de la ville de Douai bientôt sur YouTube, les conditions folles dans lesquelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
 
 Vous pourrez observer Franz Quatreboeuf sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse.
 
 Bref, la caravane sécuritaire va bon train sans que jamais, ni l’extrême droite, ni la droite extrême ne se posent la question de ce qu’est une politique globale de sécurité qui ne soit pas focalisée sur la répression policière et le rapport viril, face à la délinquance. Mais cela, j’aurais l’occasion d’en reparler sur ce blog.
+
+Pour mémoire, à Douaisis Agglo cette fois, les élu·es de Douai avaient déjà quitté la pièce suite au comportement de Christian Poiret son président. Avec plus de classe tout de même.
+
+[Vidéo de nos élu·es quittant le conseil communautaire.](https://www.youtube.com/watch?v=5fc_LCJvb0M&start=730 "📺")
+
+À noter que, déjà à cette période, il fallait enregistrer le direct du conseil d’agglomération pour le voir survivre à la censure, chose que j'ai faite avec ces images qui permettent de comprendre la récente décision de couper purement et simplement la diffusion.

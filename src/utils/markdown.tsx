@@ -23,8 +23,9 @@ import { fixText } from "./text";
 import YError from "yerror";
 import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
-import type { ReactNode } from "react";
 import { CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M } from "./constants";
+import { parseYouTubeURL } from "./youtube";
+import type { ReactNode } from "react";
 
 export type MarkdownRootNode = {
   type: "root";
@@ -311,17 +312,18 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
     </span>
   );
 };
-const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) =>
-  (node.url || "").startsWith("https://www.youtube.com/watch") &&
-  node?.title === "📺" ? (
+
+const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
+  const youtubeURL = parseYouTubeURL(node.url);
+
+  return youtubeURL && node?.title === "📺" ? (
     <span className="root" key={context.index}>
       <iframe
         width="560"
         height="315"
-        src={`https://www.youtube.com/embed/${node.url.replace(
-          /^.*v=([^&$]+).*$/,
-          "$1"
-        )}`}
+        src={`https://www.youtube.com/embed/${youtubeURL.videoId}${
+          youtubeURL.startTime ? "?start=" + youtubeURL.startTime : ""
+        }`}
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
@@ -351,6 +353,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) =>
       )}
     </Anchor>
   );
+};
 
 const elementsMapping: Record<MarkdownNodeType, NodeToElementMapper<any>> = {
   root: rootMap,

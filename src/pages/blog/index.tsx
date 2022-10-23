@@ -17,6 +17,7 @@ import type { GetStaticProps } from "next";
 import type { BuildQueryParamsType } from "../../utils/params";
 
 export type Metadata = {
+  leafname?: string;
   title: string;
   description: string;
   date: string;
@@ -190,7 +191,7 @@ export const entriesToBaseProps = (
   const entries = baseEntries
     .map<Entry>((entry) => ({
       ...entry.attributes,
-      id: toASCIIString(entry.attributes.title),
+      id: entry.attributes.leafname || toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
     .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
