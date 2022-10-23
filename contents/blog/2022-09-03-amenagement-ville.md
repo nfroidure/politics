@@ -111,6 +111,8 @@ En lieu et place des parcmètres, on peut utiliser des disques de stationnement.
 Les disques de stationnement peuvent même créer du lien avec les commerçant·es qui peuvent en revendre pour les personnes de passage.
 
 ![Photographie du parcmètre numérique rue de Bellain](illustrations/parcmetre-numerique.jpg)
+![Photographie du parcmètre numérique rue de Bellain largement dépassé](illustrations/parcmetre-depasse.jpg)
+![Photographie d'un véhicule en mode triche sur la rue de Bellain](illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
 ![Photographie d’un disque de stationnement](illustrations/disque-stationnement.jpg)
 
 Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité souvent scabreuses, compliquées à maintenir quand les solutions durables et éprouvées s’avèrent généralement bien plus simples et flexibles.
@@ -119,6 +121,7 @@ Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité s
 
 ![Entrée du parc de la tour des dames](illustrations/entree-parc-tour-des-dames-douai.jpg "🖼⬅️")
 ![Entrée du parc de Flers-en-Escrebieux](illustrations/entree-parc-flers-en-escrebieux.jpg "🖼⬅️")
+![Entrée de l'espace vert de la piscines des Glacis/MJC de Douai](illustrations/barrieres-piscine-des-glacis.jpg "🖼⬅️")
 
 Une autre question, qui est finalement liée, est la prévention. En effet, la bien connue [loi de Murphy](https://fr.wikipedia.org/wiki/Loi_de_Murphy) stipule que tout ce qui peut tourner mal, tournera mal à terme.
 
