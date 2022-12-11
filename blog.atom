@@ -6,7 +6,29 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2022-10-23T10:00:00.000Z</updated>
+  <updated>2022-12-11T10:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/contribution-nouveau-plu-douai</id>
+    <title>Contribution au PLU de Douai</title>
+    <link href="https://nicolasfroidure.fr/blog/contribution-nouveau-plu-douai" rel="alternate" type="text/html" />
+    <updated>2022-12-11T10:00:00.000Z</updated>
+    <published>2022-12-11T10:00:00.000Z</published>
+    <summary>Le nouveau PLU de Douai est arrêté, c’est le moment de la consultation publique. Voici ma contribution.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/condition-animale-reflet-de-la-societe</id>
+    <title>Condition animale : reflet de la société !</title>
+    <link href="https://nicolasfroidure.fr/blog/condition-animale-reflet-de-la-societe" rel="alternate" type="text/html" />
+    <updated>2022-12-09T08:00:00.000Z</updated>
+    <published>2022-12-09T08:00:00.000Z</published>
+    <summary>À l’heure où la cause animale est portée de façon variée, je prends quelques instants pour préciser ma position personnelle sur le sujet.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/conseil-municipal-du-23-octobre-2022-a-douai</id>
     <title>Conseil Municipal du 21 octobre 2022 à Douai</title>

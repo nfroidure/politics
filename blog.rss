@@ -6,9 +6,23 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 23 Oct 2022 10:00:00 GMT</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 09:38:55 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Dec 2022 10:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Dec 2022 11:32:23 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/contribution-nouveau-plu-douai</guid>
+        <title>Contribution au PLU de Douai</title>
+        <description>Le nouveau PLU de Douai est arrêté, c’est le moment de la consultation publique. Voici ma contribution.</description>
+        <link>https://nicolasfroidure.fr/blog/contribution-nouveau-plu-douai</link>
+        <pubDate>Sun, 11 Dec 2022 10:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/condition-animale-reflet-de-la-societe</guid>
+        <title>Condition animale : reflet de la société !</title>
+        <description>À l’heure où la cause animale est portée de façon variée, je prends quelques instants pour préciser ma position personnelle sur le sujet.</description>
+        <link>https://nicolasfroidure.fr/blog/condition-animale-reflet-de-la-societe</link>
+        <pubDate>Fri, 09 Dec 2022 08:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/conseil-municipal-du-23-octobre-2022-a-douai</guid>
         <title>Conseil Municipal du 21 octobre 2022 à Douai</title>
