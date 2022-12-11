@@ -4,7 +4,8 @@ description: Mon analyse du dossier de consultation concernant la nouvelle plate
 date: "2020-10-10T08:00:00.00Z"
 draft: false
 categories:
-  - Industrie
+  - "Logistique"
+  - "Contributions"
 tags:
   - démocratie
 ---

@@ -4,7 +4,8 @@ description: "Le conseil de quartier du Faubourg de Cambrai avait lieu à 18h."
 date: "2021-01-16T20:00:00.000Z"
 draft: false
 categories:
-  - Humeur
+  - "Démocratie participative"
+  - "Conseil de Quartier Barlet-Centre"
 tags:
   - démocratie
 ---

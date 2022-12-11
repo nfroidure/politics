@@ -9,6 +9,7 @@ tags:
   - "Automobile"
 categories:
   - "Industrie"
+  - "Contributions"
 illustration:
   url: "illustrations/affichage-envision.jpg"
   alt: "Signalisation de la réunion de clôture de la concertation d’Envision"

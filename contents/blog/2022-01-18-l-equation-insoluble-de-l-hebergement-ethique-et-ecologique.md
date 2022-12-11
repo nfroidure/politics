@@ -16,7 +16,7 @@ illustration:
 
 Dans un secteur tel que le numérique, fourmillant d’innovations et de changements "disruptifs", difficile d’embrasser la révolution numérique en alliant à la fois l’éthique et l’écologie.
 
-J’ai, dans un précédent billet, détaillé les [principes à retenir pour un numérique qui émancipe](/blog/quels-outils-numeriques-pour-eelv). En réalité, ces grands principes sont applicables à toute organisation humaine qui poursuivrait les mêmes buts. Mais voilà, en pratique, c’est bien plus facile à dire qu’à faire ! Du moins, si on recherche la cohérence entre les valeurs et les actes.
+J’ai, dans un précédent billet, détaillé les [principes à retenir pour un numérique qui émancipe](./quels-outils-numeriques-pour-eelv). En réalité, ces grands principes sont applicables à toute organisation humaine qui poursuivrait les mêmes buts. Mais voilà, en pratique, c’est bien plus facile à dire qu’à faire ! Du moins, si on recherche la cohérence entre les valeurs et les actes.
 
 ## Considérations éthiques
 

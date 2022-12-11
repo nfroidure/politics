@@ -6,7 +6,7 @@ draft: false
 tags:
   - "Douai"
 categories:
-  - "Commune"
+  - "Urbanisme"
 illustration:
   url: "illustrations/place-aux-enfants.jpg"
   alt: "Rue piétonne à Grenoble aux abords des écoles"
@@ -70,7 +70,7 @@ Ainsi, il devient impossible de garder un œil sur les enfants qui jouent dehors
 
 J’ai pu constater en discutant avec Christine Garnier (élue à Grenoble) et Tristan Debray (élu à Lyon) qu’une politique de diffusion éparse d’éléments ludiques était non seulement possible mais plébiscitée par les enfants.
 
-D'ailleurs, l'un n'empêche pas l'autre. De grandes aires de jeu sont utiles pour la sortie en famille et de petits jeux parsemés pour la vie de tous les jours aussi.
+D’ailleurs, l’un n’empêche pas l’autre. De grandes aires de jeu sont utiles pour la sortie en famille et de petits jeux parsemés pour la vie de tous les jours aussi.
 
 La vision que je défends est de **créer les possibles**. Tout d’abord, parce que le contrôle se heurte au détournement des usages prévus, mais aussi car il me paraît prétentieux de juger de ce qui est bon pour les habitant·es.
 
@@ -112,7 +112,7 @@ Les disques de stationnement peuvent même créer du lien avec les commerçant·
 
 ![Photographie du parcmètre numérique rue de Bellain](illustrations/parcmetre-numerique.jpg)
 ![Photographie du parcmètre numérique rue de Bellain largement dépassé](illustrations/parcmetre-depasse.jpg)
-![Photographie d'un véhicule en mode triche sur la rue de Bellain](illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
+![Photographie d’un véhicule en mode triche sur la rue de Bellain](illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
 ![Photographie d’un disque de stationnement](illustrations/disque-stationnement.jpg)
 
 Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité souvent scabreuses, compliquées à maintenir quand les solutions durables et éprouvées s’avèrent généralement bien plus simples et flexibles.
@@ -121,7 +121,7 @@ Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité s
 
 ![Entrée du parc de la tour des dames](illustrations/entree-parc-tour-des-dames-douai.jpg "🖼⬅️")
 ![Entrée du parc de Flers-en-Escrebieux](illustrations/entree-parc-flers-en-escrebieux.jpg "🖼⬅️")
-![Entrée de l'espace vert de la piscines des Glacis/MJC de Douai](illustrations/barrieres-piscine-des-glacis.jpg "🖼⬅️")
+![Entrée de l’espace vert de la piscines des Glacis/MJC de Douai](illustrations/barrieres-piscine-des-glacis.jpg "🖼⬅️")
 
 Une autre question, qui est finalement liée, est la prévention. En effet, la bien connue [loi de Murphy](https://fr.wikipedia.org/wiki/Loi_de_Murphy) stipule que tout ce qui peut tourner mal, tournera mal à terme.
 

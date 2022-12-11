@@ -4,7 +4,8 @@ description: La consultation préalable sur ce projet vient d’être lancée, j
 date: "2021-11-24T09:00:00.000Z"
 draft: false
 categories:
-  - Industrie
+  - "Industrie"
+  - "Contributions"
 tags:
   - envision
   - batterie
