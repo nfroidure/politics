@@ -182,7 +182,16 @@ const headingMap: NodeToElementMapper<MarkdownHeadingNode> = (
   );
 };
 const textMap: NodeToElementMapper<MarkdownTextNode> = (context, node) => (
-  <span key={context.index}>{fixText(node.value)}</span>
+  <span key={context.index}>
+    {fixText(node.value)
+      .split(/\r?\n/gm)
+      .map((text, i) => (
+        <>
+          {i > 0 ? <br /> : null}
+          {text}
+        </>
+      ))}
+  </span>
 );
 const boldMap: NodeToElementMapper<MarkdownEmphasisNode> = (context, node) => (
   <Strong key={context.index}>
@@ -316,7 +325,18 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
 const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
   const youtubeURL = parseYouTubeURL(node.url);
 
-  return youtubeURL && node?.title === "📺" ? (
+  return node?.title.startsWith("🎧") ? (
+    <audio
+      controls
+      src={
+        publicRuntimeConfig.baseURL +
+        publicRuntimeConfig.buildPrefix +
+        "/" +
+        node.url
+      }
+      title={node.title}
+    />
+  ) : youtubeURL && node?.title === "📺" ? (
     <span className="root" key={context.index}>
       <iframe
         width="560"
