@@ -265,7 +265,7 @@ const blockquoteMap: NodeToElementMapper<MarkdownBlockquoteNode> = (
   </Blockquote>
 );
 const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
-  const finalTitle = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/, "");
+  const finalTitle = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/u, "");
 
   return (
     <span key={context.index}>
@@ -325,7 +325,7 @@ const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
 const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
   const youtubeURL = parseYouTubeURL(node.url);
 
-  return node?.title.startsWith("🎧") ? (
+  return node?.title?.startsWith("🎧") ? (
     <audio
       controls
       src={
@@ -334,9 +334,9 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
         "/" +
         node.url
       }
-      title={node.title}
+      title={node.title.replace(/^🎧\s*/u, '').trim()}
     />
-  ) : youtubeURL && node?.title === "📺" ? (
+  ) : youtubeURL && node?.title?.startsWith("📺") ? (
     <span className="root" key={context.index}>
       <iframe
         width="560"
@@ -344,6 +344,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
         src={`https://www.youtube.com/embed/${youtubeURL.videoId}${
           youtubeURL.startTime ? "?start=" + youtubeURL.startTime : ""
         }`}
+        title={node.title.replace(/^📺\s*/u, '').trim()}
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
