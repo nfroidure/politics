@@ -1,9 +1,11 @@
+import type { HTMLAttributes } from "react";
+
 const Strong = ({
   children,
   ...props
 }: {
   children: React.ReactNode;
-} & React.HTMLAttributes<HTMLElement>) => (
+} & HTMLAttributes<HTMLElement>) => (
   <strong className="root" {...props}>
     {children}
     <style jsx>{`

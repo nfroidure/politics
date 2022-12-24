@@ -1,9 +1,11 @@
+import type { HTMLAttributes } from "react";
+
 const Emphasis = ({
   children,
   ...props
 }: {
   children: React.ReactNode;
-} & React.HTMLAttributes<HTMLElement>) => (
+} & HTMLAttributes<HTMLElement>) => (
   <em className="root" {...props}>
     {children}
     <style jsx>{`

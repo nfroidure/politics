@@ -18,12 +18,12 @@ import Strong from "../components/strong";
 import Emphasis from "../components/em";
 import Code from "../components/code";
 import Cite from "../components/cite";
+import Img from "../components/img";
 import Gallery from "../components/gallery";
 import { fixText } from "./text";
 import YError from "yerror";
 import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
-import { CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M } from "./constants";
 import { parseYouTubeURL } from "./youtube";
 import type { ReactNode } from "react";
 
@@ -125,29 +125,50 @@ const rootMap: NodeToElementMapper<MarkdownRootNode> = (
 const paragraphMap: NodeToElementMapper<MarkdownParagraphNode> = (
   context: MappingContext,
   node
-) => (
-  <Paragraph key={context.index}>
-    {node.children.length > 1 &&
-    node.children.every(
-      (childNode) =>
-        childNode.type === "image" ||
-        (childNode.type === "text" &&
-          childNode.value.replace(/[\r\n\s]+/, "") === "")
-    ) ? (
-      <Gallery
-        imagesNodes={
-          node.children.filter(
-            (childNode) => childNode.type === "image"
-          ) as MarkdownImageNode[]
-        }
-      />
-    ) : (
-      node.children.map((node, index) =>
+) => {
+  const { onlyImages, images } = node.children.reduce(
+    (summary, childNode) => {
+      if (childNode.type === "image") {
+        return {
+          ...summary,
+          images: [...summary.images, childNode],
+        };
+      }
+      if (
+        childNode.type === "text" &&
+        childNode.value.replace(/[\r\n\s]+/, "") === ""
+      ) {
+        return summary;
+      }
+      return {
+        ...summary,
+        onlyImages: false,
+      };
+    },
+    {
+      images: [] as MarkdownImageNode[],
+      onlyImages: node.children.length > 0,
+    }
+  );
+
+  if (onlyImages === true) {
+    if (images.length > 1) {
+      return <Gallery key={context.index} imagesNodes={images} />;
+    }
+    return (
+      <div key={context.index}>
+        {imageMap({ ...context, index: 0 }, images[0])}
+      </div>
+    );
+  }
+  return (
+    <Paragraph key={context.index}>
+      {node.children.map((node, index) =>
         renderMarkdown({ ...context, index }, node)
-      )
-    )}
-  </Paragraph>
-);
+      )}
+    </Paragraph>
+  );
+};
 const headingMap: NodeToElementMapper<MarkdownHeadingNode> = (
   context: MappingContext,
   node
@@ -265,60 +286,8 @@ const blockquoteMap: NodeToElementMapper<MarkdownBlockquoteNode> = (
   </Blockquote>
 );
 const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
-  const finalTitle = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/u, "");
-
   return (
-    <span key={context.index}>
-      <img
-        src={
-          node.url.startsWith("http")
-            ? node.url
-            : publicRuntimeConfig.baseURL +
-              publicRuntimeConfig.buildPrefix +
-              "/" +
-              node.url
-        }
-        alt={node.alt}
-        className={
-          node?.title?.startsWith("🖼➡️")
-            ? "right"
-            : node?.title?.startsWith("🖼⬅️")
-            ? "left"
-            : ""
-        }
-        {...(finalTitle ? { title: finalTitle } : {})}
-      />
-      <style jsx>{`
-        img {
-          clear: both;
-          display: block;
-          width: 100%;
-          max-width: 100%;
-        }
-
-        @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
-          img.left,
-          img.right {
-            width: var(--block);
-          }
-          img.left {
-            float: left;
-            margin-right: var(--gutter);
-          }
-          img.right {
-            float: right;
-            margin-left: var(--gutter);
-          }
-        }
-
-        @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
-          img.left,
-          img.right {
-            width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 3));
-          }
-        }
-      `}</style>
-    </span>
+    <Img key={context.index} {...{ ...parseImageProps(node), alt: node.alt }} />
   );
 };
 
@@ -334,7 +303,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
         "/" +
         node.url
       }
-      title={node.title.replace(/^🎧\s*/u, '').trim()}
+      title={node.title.replace(/^🎧\s*/u, "").trim()}
     />
   ) : youtubeURL && node?.title?.startsWith("📺") ? (
     <span className="root" key={context.index}>
@@ -344,7 +313,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
         src={`https://www.youtube.com/embed/${youtubeURL.videoId}${
           youtubeURL.startTime ? "?start=" + youtubeURL.startTime : ""
         }`}
-        title={node.title.replace(/^📺\s*/u, '').trim()}
+        title={node.title.replace(/^📺\s*/u, "").trim()}
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
@@ -510,4 +479,29 @@ function eventuallyConvertHTMLNodes(rootNode: MarkdownRootNode): MarkdownNode {
   } while (firstHTMLNode);
 
   return rootNode;
+}
+
+function parseImageProps(node: MarkdownImageNode): {
+  title: string;
+  float?: "left" | "right";
+  src: string;
+} {
+  const title = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/u, "");
+  const float = node.title?.includes("➡️")
+    ? "right"
+    : node.title?.includes("⬅️")
+    ? "left"
+    : undefined;
+  const src = node.url.startsWith("http")
+    ? node.url
+    : publicRuntimeConfig.baseURL +
+      publicRuntimeConfig.buildPrefix +
+      "/" +
+      node.url.replace(/^(\.\/)?(\.\.\/)*public\//, "");
+
+  return {
+    title,
+    float,
+    src,
+  };
 }

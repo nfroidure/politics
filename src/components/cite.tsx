@@ -1,9 +1,11 @@
+import type { HTMLAttributes } from "react";
+
 const Cite = ({
   children,
   ...props
 }: {
   children: React.ReactNode;
-} & React.HTMLAttributes<HTMLElement>) => (
+} & HTMLAttributes<HTMLElement>) => (
   <cite className="root" {...props}>
     {children}
     <style jsx>{`

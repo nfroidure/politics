@@ -46,6 +46,7 @@ const Gallery = ({ imagesNodes }: { imagesNodes: MarkdownImageNode[] }) => {
           clear: both;
           background: var(--secondary);
           padding: calc(var(--vRythm) / 2) calc(var(--gutter) / 2);
+          margin:  0 0 var(--vRythm) 0;
         }
         p {
           text-align: center;
