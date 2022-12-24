@@ -1,9 +1,11 @@
+import type { HTMLAttributes } from "react";
+
 const Code = ({
   children,
   ...props
 }: {
   children: React.ReactNode;
-} & React.HTMLAttributes<HTMLElement>) => (
+} & HTMLAttributes<HTMLElement>) => (
   <code className="root" {...props}>
     {children}
     <style jsx>{`

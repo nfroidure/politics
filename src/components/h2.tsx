@@ -1,8 +1,10 @@
+import type { HTMLAttributes } from "react";
+
 const Heading2 = ({
   children,
   className,
   ...props
-}: { children: React.ReactNode } & React.HTMLAttributes<HTMLElement>) => (
+}: { children: React.ReactNode } & HTMLAttributes<HTMLElement>) => (
   <h2 className={`root${className ? " " + className : ""}`} {...props}>
     {children}
     <style jsx>{`

@@ -1,9 +1,11 @@
+import type { HTMLAttributes } from "react";
+
 const Paragraph = ({
   children,
   ...props
 }: {
   children: React.ReactNode;
-} & React.HTMLAttributes<HTMLParagraphElement>) => (
+} & HTMLAttributes<HTMLParagraphElement>) => (
   <p className="root" {...props}>
     {children}
     <style jsx>{`

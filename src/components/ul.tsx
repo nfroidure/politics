@@ -1,7 +1,9 @@
+import type { HTMLAttributes } from "react";
+
 const UnorderedList = ({
   children,
   ...props
-}: { children: React.ReactNode } & React.HTMLAttributes<HTMLUListElement>) => (
+}: { children: React.ReactNode } & HTMLAttributes<HTMLUListElement>) => (
   <ul className="root" {...props}>
     {children}
     <style jsx>{`

@@ -1,7 +1,9 @@
+import type { HTMLAttributes } from "react";
+
 const Heading3 = ({
   children,
   ...props
-}: { children: React.ReactNode } & React.HTMLAttributes<HTMLElement>) => (
+}: { children: React.ReactNode } & HTMLAttributes<HTMLElement>) => (
   <h3 className="root" {...props}>
     {children}
     <style jsx>{`
