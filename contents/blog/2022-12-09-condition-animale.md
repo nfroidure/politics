@@ -160,7 +160,7 @@ En ce qui concerne les zoos, je suis partagé, malheureusement, pour certaines e
 
 ## Que faire au niveau individuel ?
 
-![Photographie d’une affiche vue lors de la foire à l’ail: Adopter c’est sauver.](illustrations/adopter-c-est-sauver.jpg "🖼➡️")
+![Photographie d’une affiche vue lors de la foire à l’ail: Adopter c’est sauver.](illustrations/adopter-c-est-sauver.jpg "🖼➡️▮")
 
 Alors, vous le voyez, j’ai vraiment traité le sujet sur de nombreux aspects, en terme de politique générale. Je pense que lorsqu’il s’agit de vies, d’êtres sensibles, on se doit d’être exhaustif.
 

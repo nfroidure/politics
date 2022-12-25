@@ -2,49 +2,87 @@ import {
   CSS_BREAKPOINT_START_M,
   CSS_BREAKPOINT_START_L,
 } from "../utils/constants";
-import type { HTMLAttributes } from "react";
+import type { ImgHTMLAttributes } from "react";
+
+export type ImageOrientation = "portrait" | "landscape" | "square";
+export type ImageFloating = "left" | "right";
 
 const Img = ({
+  orientation = "landscape",
   float,
   ...props
 }: {
-  float?: "left" | "right";
-} & HTMLAttributes<HTMLImageElement>) => {
+  orientation: ImageOrientation;
+  float?: ImageFloating;
+} & ImgHTMLAttributes<HTMLImageElement>) => {
   return (
-    <>
-      <img
-        className={`${float ? float + " " : ""}${props.className || ""}`}
-        {...props}
-      />
+    <span
+      className={`root${float ? " " + float : ""}${
+        orientation ? " " + orientation : ""
+      }`}
+    >
+      <img className={props.className || ""} {...props} />
       <style jsx>{`
-        img {
+        .root {
           clear: both;
-          display: block;
+          display: flex;
           width: 100%;
           max-width: 100%;
+          background: var(--secondary);
+          padding: calc(var(--vRythm) / 2) calc(var(--gutter) / 2);
+          align-items: center;
+          justify-content: center;
         }
+        /* For mobile device we forgive layout shift
+        since what we want is the biggest image size possible */
+        img {
+          max-width: 100%;
+          max-height: 100%;
+        }
+        /* For other screens we take care of the image
+        orientation and build boxes that respect the
+        vertical rythm and horizontal dimensions of the
+        layout avoiding layout shifting */
         @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
-          img.left,
-          img.right {
-            width: var(--block);
-          }
-          img.left {
+          .root.left {
             float: left;
             margin-right: var(--gutter);
           }
-          img.right {
+          .root.right {
             float: right;
             margin-left: var(--gutter);
           }
+          .root.left,
+          .root.right {
+            width: var(--block);
+            height: calc(var(--vRythm) * 10);
+          }
+          .root.left.landscape,
+          .root.right.landscape {
+            height: calc(var(--vRythm) * 8);
+          }
+          .root.left.portrait,
+          .root.right.portrait {
+            height: calc(var(--vRythm) * 14);
+          }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
-          img.left,
-          img.right {
+          .root.left,
+          .root.right {
             width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 3));
+            height: calc(var(--vRythm) * 14);
+          }
+          .root.left.landscape,
+          .root.right.landscape {
+            height: calc(var(--vRythm) * 11);
+          }
+          .root.left.portrait,
+          .root.right.portrait {
+            height: calc(var(--vRythm) * 19);
           }
         }
       `}</style>
-    </>
+    </span>
   );
 };
 

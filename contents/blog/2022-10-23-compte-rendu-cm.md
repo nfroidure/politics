@@ -29,7 +29,7 @@ On peut concevoir que dans des petites communes comme Brunémont ou Férin, on n
 
 En revanche, expliquer qu’on a pas l’habitude à la campagne contrairement à la ville de la vidéo relève de la contortion, pour ne pas dire de la malhonnêteté intellectuelle la plus totale.
 
-![Publication de Douaisis Agglo](illustrations/annonce-diffusion-conseil.jpg "🖼➡️")
+![Publication de Douaisis Agglo](illustrations/annonce-diffusion-conseil.jpg "🖼➡️▮")
 
 Douaisis Agglo a le matériel prêt à fonctionner puisqu’elle a diffusé les conseils communautaires durant une année entière. Elle en a même fait la promotion comme vous pouvez l’observer sur la capture jointe à ce billet. Les élu·es de l’assemblée sont donc bien familier·es de l’exercice. La réalité est que celui-ci dérange car on aimerait pouvoir continuer à délibérer n’importe comment sans débat contradictoire.
 

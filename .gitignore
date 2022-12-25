@@ -119,3 +119,7 @@ dist
 
 # NextJS
 .next
+
+# Built feeds
+blog.atom
+blog.rss

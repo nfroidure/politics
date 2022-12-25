@@ -25,6 +25,7 @@ import YError from "yerror";
 import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
 import { parseYouTubeURL } from "./youtube";
+import type { ImageFloating, ImageOrientation } from "../components/img";
 import type { ReactNode } from "react";
 
 export type MarkdownRootNode = {
@@ -483,7 +484,8 @@ function eventuallyConvertHTMLNodes(rootNode: MarkdownRootNode): MarkdownNode {
 
 function parseImageProps(node: MarkdownImageNode): {
   title: string;
-  float?: "left" | "right";
+  float?: ImageFloating;
+  orientation: ImageOrientation;
   src: string;
 } {
   const title = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/u, "");
@@ -492,6 +494,11 @@ function parseImageProps(node: MarkdownImageNode): {
     : node.title?.includes("⬅️")
     ? "left"
     : undefined;
+  const orientation = node.title?.includes("◼")
+    ? "square"
+    : node.title?.includes("▮")
+    ? "portrait"
+    : "landscape";
   const src = node.url.startsWith("http")
     ? node.url
     : publicRuntimeConfig.baseURL +
@@ -502,6 +509,7 @@ function parseImageProps(node: MarkdownImageNode): {
   return {
     title,
     float,
+    orientation,
     src,
   };
 }
