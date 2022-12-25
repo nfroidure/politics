@@ -83,7 +83,7 @@ Mes interrogations sur le cycle de l’eau restent à éclaircir puisque la rép
 
 ## En conclusion
 
-![Photographie de Michel Froidure défournant le dernier coke à la cokerie d’Auby](illustrations/arret-production-cokerie-auby.jpg "🖼➡️")
+![Photographie de Michel Froidure défournant le dernier coke à la cokerie d’Auby](illustrations/arret-production-cokerie-auby.jpg "🖼➡️▮")
 
 C’est François-Xavier Bieuville, sous-préfet de Douai qui a clôturé la réunion :
 

@@ -11,6 +11,7 @@ import { toASCIIString } from "../../utils/ascii";
 import { CSS_BREAKPOINT_START_L } from "../../utils/constants";
 import { readParams } from "../../utils/params";
 import { parseMarkdown } from "../../utils/markdown";
+import Img from "../../components/img";
 import type { FrontMatterResult } from "front-matter";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type { GetStaticProps } from "next";
@@ -90,14 +91,16 @@ const BlogEntries = ({
         {entries.map((entry) => (
           <div className="entry_item" key={entry.id}>
             {entry.illustration ? (
-              <Paragraph className="entry_illustration">
+              <p className="entry_illustration">
                 <Anchor href={`/blog/${entry.id}`}>
-                  <img
+                  <Img
+                    float="left"
+                    orientation="landscape"
                     src={"/" + entry.illustration.url}
                     alt={entry.illustration.alt}
                   />
                 </Anchor>
-              </Paragraph>
+              </p>
             ) : null}
             <Heading2 className="entry_title">
               <Anchor href={`/blog/${entry.id}`} className="no_underline">
@@ -149,7 +152,7 @@ const BlogEntries = ({
       }
       .entry_item {
         padding: var(--vRythm) 0;
-        border-bottom: var(--border) solid var(--dark);
+        border-bottom: var(--border) solid var(--secondary);
       }
       .entry_item:first-child {
         padding: 0 0 var(--vRythm) 0;
@@ -165,16 +168,8 @@ const BlogEntries = ({
         justify-content: center;
         padding: var(--vRythm) 0 0 0;
       }
-      img {
-        width: 100%;
-      }
 
       @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
-        img {
-          float: left;
-          width: var(--block);
-          margin-right: var(--gutter);
-        }
         .clear {
           clear: left;
         }
