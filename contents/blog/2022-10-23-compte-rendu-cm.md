@@ -49,7 +49,7 @@ Coline Craeye et François Guiffard se sont opposés à cette mesure. Je trouve 
 
 Je rappelle que nos élu·es sont indemnisé·es pour leur présence en conseil municipal, que la commune propose de rembourser la garde d’enfants éventuelle et que [les elu·es bénéficient d’heures de délégation](https://www.demarches.interieur.gouv.fr/particuliers/elu-local-salarie-absence-credits-heures) qu’iels peuvent poser afin de se dégager de leurs obligations professionnelles.
 
-"On ne vit pas de la politique" scande Coline Craeye, comme si les élu·es de la majorité étaient des professionnels de la politique... "Nous sommes des personnes qui travaillent" nous dit François Guiffard alors que ce dernier bénéficie d’une indemnité d’élu deux fois supérieure à celle des adjoint·es de la ville... Je suis déçu du manque d’implication de la part d’élu·es d’opposition souvent si prompts à donner la leçon.
+"On ne vit pas de la politique" scande Coline Craeye, comme si les élu·es de la majorité étaient des professionnels de la politique... "Nous sommes des personnes qui travaillent" nous dit [François Guiffard alors que ce dernier bénéficie d’une indemnité d’élu deux fois supérieure à celle des adjoint·es de la ville](./tout-n-est-pas-possible-en-politique)... Je suis déçu du manque d’implication de la part d’élu·es d’opposition souvent si prompts à donner la leçon.
 
 ## La possible évolution des impôts locaux
 
@@ -69,9 +69,11 @@ La critique que j’adresserai à l’aile qui se dit de gauche mais nous prouve
 
 Enfin, le dernier sujet a été un imbroglio tragi-comique autour d’une motion de Coline Craeye pour l’armement de la Police Municipale de Douai. On notera que le dogme anti-impôts ne s’accompagne pas d’un dogme anti-dépense puisque c’est, selon Jean-Christophe Leclercq, adjoint, deux millions d’euros que cette dernière coûterait avec l’augmentation des effectifs demandée.
 
-Je vous laisse découvrir avec la retransmission du conseil de la ville de Douai bientôt sur YouTube, les conditions folles dans lesquelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
+Nous avons également découvert, dépités, les conditions folles dans lesquelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
 
-Vous pourrez observer Franz Quatreboeuf sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse.
+![Censure immédiate de Douaisis Agglo à la fin du conseil](illustrations/conseil-communautaire-censure.svg)
+
+Vous pourrez observer Franz Quatreboeuf sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse...
 
 Bref, la caravane sécuritaire va bon train sans que jamais, ni l’extrême droite, ni la droite extrême ne se posent la question de ce qu’est une politique globale de sécurité qui ne soit pas focalisée sur la répression policière et le rapport viril, face à la délinquance. Mais cela, j’aurais l’occasion d’en reparler sur ce blog.
 
@@ -79,4 +81,8 @@ Pour mémoire, à Douaisis Agglo cette fois, les élu·es de Douai avaient déj�
 
 [Vidéo de nos élu·es quittant le conseil communautaire.](https://www.youtube.com/watch?v=5fc_LCJvb0M&start=730 "📺")
 
-À noter que, déjà à cette période, il fallait enregistrer le direct du conseil d’agglomération pour le voir survivre à la censure, chose que j'ai faite avec ces images qui permettent de comprendre la récente décision de couper purement et simplement la diffusion.
+À noter que, déjà à cette période, il fallait enregistrer le direct du conseil d’agglomération pour le voir survivre à la censure, chose que j’ai faite avec ces images qui permettent de comprendre la récente décision de couper purement et simplement la diffusion.
+
+En attendant son rétablissement (malheureusement, très probablement uniquement à l’occasion d’une alternance à la gouvernance de l’agglomération), vous pouvez revoir le conseil municipal objet de ce compte rendu.
+
+[Vidéo du Conseil Municipal de Douai du 21 octobre 2022](https://www.youtube.com/watch?v=G8u8qboKL2E)

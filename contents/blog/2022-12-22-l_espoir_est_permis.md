@@ -15,7 +15,7 @@ illustration:
 
 # L’espoir est permis
 
-> Une fois n’est pas coutume, j’ai eu envie de publier cette petite composition sans prétention en hommage à toutes celles et ceux qui militent au quotidien pour que l'espoir soit permis 😉.
+> Une fois n’est pas coutume, j’ai eu envie de publier cette petite composition sans prétention en hommage à toutes celles et ceux qui militent au quotidien pour que l’espoir soit permis 😉.
 
 [Chanson : L’espoir est permis](./music/L'espoir%20est%20permis.ogg "🎧 Écouter le titre")
 

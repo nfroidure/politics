@@ -30,6 +30,7 @@ const Img = ({
           max-width: 100%;
           background: var(--secondary);
           padding: calc(var(--vRythm) / 2) calc(var(--gutter) / 2);
+          margin: var(--vRythm) 0;
           align-items: center;
           justify-content: center;
         }
@@ -46,11 +47,11 @@ const Img = ({
         @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
           .root.left {
             float: left;
-            margin-right: var(--gutter);
+            margin: 0 var(--gutter) 0 0;
           }
           .root.right {
             float: right;
-            margin-left: var(--gutter);
+            margin: 0 0 0 var(--gutter);
           }
           .root.left,
           .root.right {
