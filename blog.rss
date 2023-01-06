@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Dec 2022 16:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 25 Dec 2022 12:01:57 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2023 01:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2023 16:59:26 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/voeux-2023</guid>
+        <title>Déjà 2023 ?</title>
+        <description>Des enjeux et des résolutions à prendre : 2023 ne sera pas en reste, voici mes priorités.</description>
+        <link>https://nicolasfroidure.fr/blog/voeux-2023</link>
+        <pubDate>Sun, 01 Jan 2023 01:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/l-espoir-est-permis</guid>
         <title>Chanson : L’espoir est permis</title>
