@@ -20,9 +20,9 @@ Le thème de la [surpopulation](https://fr.wikipedia.org/wiki/Surpopulation) mon
 
 En effet, dans son dernier rapport le GIEC indique que 10% des plus riches sont responsables de 36 à 45% des émissions mondiales. On voit donc bien qu’il est davantage question de limiter les émissions de CO2 des plus riches que de limiter la croissance de la population mondiale.
 
-Bien que moins de naissance ne serait pas, en soi, malvenue, cela ne ne va pas résoudre le problème. En effet, si nous limitions les inégalités, de fait, la consommation des ressources diminuerait sans qu’il soit nécessaire de limiter la croissance de la population.
+Bien que moins de naissance ne seraient pas, en soi, malvenues, cela ne ne va pas résoudre le problème. En effet, si nous limitions les inégalités, de fait, la consommation des ressources diminuerait sans qu’il soit nécessaire de limiter la croissance de la population.
 
-Ceci dit, par effet mécanique, un réduction des inégalités (et donc de meilleures conditions de vie pour les populations les plus pauvres) engendrerait très probablement une diminution de la croissance démographique des pays les plus pauvres de la planète : l’accès à l’éducation, à la contraception, à une certaine sécurité est connu pour avoir cet effet sur la dynamique démographique d’un pays (d’où la fameuse [transition démographique](https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique)).
+Ceci dit, par effet mécanique, une réduction des inégalités (et donc de meilleures conditions de vie pour les populations les plus pauvres) engendrerait très probablement une diminution de la croissance démographique des pays les plus pauvres de la planète : l’accès à l’éducation, à la contraception, à une certaine sécurité est connu pour avoir cet effet sur la dynamique démographique d’un pays (d’où la fameuse [transition démographique](https://fr.wikipedia.org/wiki/Transition_d%C3%A9mographique)).
 
 Ce n’est, bien-sûr, pas une règle absolue, mais cela m’apparaît comme étant un moyen plus simple (et juste !) d’atteindre un objectif de stabilisation de la population mondiale, si l’on recherche effectivement ce but.
 
@@ -46,7 +46,7 @@ De plus, la productivité d’une personne qui se tient sur les épaules de géa
 
 Enfin, en dopant artificiellement les naissances, notamment via la politique du troisième enfant, on encourage un phénomène moins connu qui veut qu’[une fratrie plus grande mène à une réussite plus modeste](https://www.liberation.fr/france-archive/2007/11/15/plus-grande-la-fratrie-plus-modeste-la-reussite_106315/).
 
-Faut-il dès lors, tenter d’accélérer artificiellement la natalité dans un pays industrialisé ?
+Faut-il, dès lors, tenter d’accélérer artificiellement la natalité dans un pays industrialisé ?
 
 ### Aller de plus naître vers mieux naître ?
 
@@ -72,7 +72,7 @@ Il faut dès à présent transformer ces avantages en réels points retraite pen
 
 ### Conséquence d’une démographie naturelle
 
-Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l’on imagine croissante malheureusement dans les décennies à venir étant donné l’inaction climatique de nos dirigeant·es.
+Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l’on imagine croissante malheureusement dans les décennies à venir étant donnée l’inaction climatique de nos dirigeant·es.
 
 **Avec un taux de natalité qui pourrait décroître La France ne risque pas de disparaître progressivement ?**
 

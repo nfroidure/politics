@@ -15,7 +15,7 @@ Dans ce billet, je vous livre, simplement, le contenu de ma profession de foi po
 
 ---
 
-**Note explicative**
+**Note rétrospective :**
 
 Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux départementales sous la bannière exclusive d'Europe Écologie - Les Verts dans le canton de Douai.
 

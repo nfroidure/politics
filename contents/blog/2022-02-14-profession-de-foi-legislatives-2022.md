@@ -15,6 +15,16 @@ illustration:
 # Profession de foi
 **Élections législatives des 12 et 19 juin 2022, 17ème circonscription du Nord**
 
+---
+
+**Note rétrospective :**
+
+Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux législatives sous la bannière exclusive d'Europe Écologie - Les Verts sur la dix-septième circonscription du Nord (Douaisis).
+
+Retenue par EÉLV, ma candidature a au final été retirée [en faveur du duo Cyril Grandin / Patricia Boulan (LFI)](./legislatives-2022-pas-investi-mais-implique) à l'occasion de la formation de la [NUPES](https://fr.wikipedia.org/wiki/Nouvelle_Union_populaire_%C3%A9cologique_et_sociale) (Nouvelle Union Populaire Écologique et Sociale).
+
+---
+
 Par la présente profession de foi, je fais acte de **candidature pour les désignations aux élections législatives** en tant qu’adhérent pour le mouvement EÉLV.
 
 Je précise que, pour moi, l’ancrage local est une condition majeure pour une représentativité légitime à l’Assemblée Nationale et qu’à ce titre je candidate uniquement **pour la 17ème circonscription du Nord où je réside**.
