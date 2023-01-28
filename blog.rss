@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Jan 2023 01:00:00 GMT</lastBuildDate>
-    <pubDate>Sat, 07 Jan 2023 14:16:04 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2023 11:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Jan 2023 12:11:12 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/candidature-secretaire-eelv-douaisis</guid>
+        <title>Profession de foi EÉLV Douaisis</title>
+        <description>Profession de foi et texte stratégique de ma candidature à la fonction de secrétaire du Groupe Local d’EÉLV Douaisis.</description>
+        <link>https://nicolasfroidure.fr/blog/candidature-secretaire-eelv-douaisis</link>
+        <pubDate>Sat, 28 Jan 2023 11:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/voeux-2023</guid>
         <title>Déjà 2023 ?</title>
