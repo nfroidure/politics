@@ -1,3 +1,4 @@
+import React from "react";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import Anchor from "../components/a";
@@ -208,10 +209,10 @@ const textMap: NodeToElementMapper<MarkdownTextNode> = (context, node) => (
     {fixText(node.value)
       .split(/\r?\n/gm)
       .map((text, i) => (
-        <>
+        <React.Fragment key={1}>
           {i > 0 ? <br /> : null}
           {text}
-        </>
+        </React.Fragment>
       ))}
   </span>
 );
