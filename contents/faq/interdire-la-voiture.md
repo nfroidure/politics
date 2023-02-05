@@ -4,7 +4,7 @@ date: "2021-11-08T08:00:00.000Z"
 draft: false
 ---
 
-Le sujet mérite plus qu’une simple réponse dans cette FAQ et je me plierai à l’exercice le moment venu (c’est maintenant fait ! [Voici l'article de blog](/blog/quel-avenir-pour-l-automobile)).
+Le sujet mérite plus qu’une simple réponse dans cette FAQ et je me plierai à l’exercice le moment venu (c’est maintenant fait ! [Voici l’article de blog](/blog/quel-avenir-pour-l-automobile "Lire mon article sur l’avenir de l’automobile")).
 
 Cependant, je tiens dors et déjà à rassurer mes concitoyen·nes, je ne souhaite pas que les voitures soient interdites. J’en possède une moi-même qui nous sert peu, mais dont l’usage est important pour des raisons familiales.
 

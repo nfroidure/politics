@@ -36,7 +36,7 @@ Ceci a d’ailleurs provoqué depuis presque un siècle l’établissement d’u
 
 On peut s’interroger sur la nécessité de cette politique. En effet, quel avantage à souhaiter un fort taux de natalité en France ?
 
-Mettons de côté les raisons historiques qui ne sont dors et déjà plus valables comme l’obsession de la croissance et peut-être, en sous main, le désir inavouable de gouverner toujours plus de personne ou, encore, la vielle habitude de former de la [chair à canon](https://www.cairn.info/revue-population-et-avenir-2014-2-page-14.htm) pour faire face aux conflits récurrents avec une Allemagne autrefois plus dynamique en terme de natalité.
+Mettons de côté les raisons historiques qui ne sont dors et déjà plus valables comme l’obsession de la croissance et peut-être, en sous main, le désir inavouable de gouverner toujours plus de personnes ou, encore, la vielle habitude de former de la [chair à canon](https://www.cairn.info/revue-population-et-avenir-2014-2-page-14.htm) pour faire face aux conflits récurrents avec une Allemagne autrefois plus dynamique en terme de natalité.
 
 La justification contemporaine est plutôt qu’il s’agit de produire la main d’œuvre qui pourra assurer les retraites et prodiguer les bons soins dus à nos ainé·es.
 

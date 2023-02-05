@@ -20,4 +20,4 @@ Parmi les décisions qui lui ont été reprochées, on peut citer :
 
 Je trouve cela triste de devoir clarifier cela ici, mais avec l’article de la Voix du Nord qui est resté en ligne malgré le démenti du groupe local, je n’ai guère le choix que d’utiliser ce blog pour mettre en lumière la vérité...
 
-[Lire le communiqué d’EÉLV Douaisis à ce sujet](https://drive.google.com/file/d/1hXTDEWiWoi3v45mf9cv2ClkKcVUymAQu/view?usp=sharing)
+[Lire le communiqué d’EÉLV Douaisis à ce sujet](https://drive.google.com/file/d/1hXTDEWiWoi3v45mf9cv2ClkKcVUymAQu/view?usp=sharing "Lire le communiqué")

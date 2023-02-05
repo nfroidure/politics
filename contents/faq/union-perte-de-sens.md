@@ -16,8 +16,8 @@ De fait, par exemple, à Douai, un contrat nous lie aux autres forces de gauche 
 
 Une union est un compromis. Il est cependant fallacieux de la faire passer pour ce qu’elle n’est pas : une compromission.
 
-Elle le deviendrai si les idées étaient abandonnées en cours de route. C’est pourquoi un mandat d’union est souvent plus difficile à exercer : il faut sans cesse peser le pour et le contre, mesurer les acquis et les comparer aux compromis. La balance est souvent délicate.
+Elle le deviendrait si les idées étaient abandonnées en cours de route. C’est pourquoi un mandat d’union est souvent plus difficile à exercer : il faut sans cesse peser le pour et le contre, mesurer les acquis et les comparer aux compromis. La balance est souvent délicate.
 
-Je suis tactiquement favorable à l’Union, mais avant tout pour modifier les scrutins et permettre la pluralité grâce à la proportionnelle.
+Je suis tactiquement [favorable à l’union de la gauche](./blog/l-union-pour-quoi-faire "Lire mon article sur l’union aux présidentielles de 2022"), mais avant tout pour “hacker” les modes de scrutin désuets en vigueur. Mais au long cours, il faut permettre la pluralité grâce à la proportionnelle et à des modes de désignation plus justes (comme le jugement majoritaire).
 
 En attendant, je pense qu’il faut alterner entre union et autonomie pour agir sans être invisibilisé.

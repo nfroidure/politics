@@ -1,5 +1,5 @@
 ---
-title: Une personne dit être bannie de votre page Facebook / Twitter ?
+title: Une personne dit être bannie de votre Facebook/Twitter ?
 date: "2021-08-08T08:46:42.567Z"
 draft: false
 ---
