@@ -4,7 +4,7 @@ description: "Presque un an après son instauration, la gratuité des transports
 date: "2022-10-14T10:00:00.000Z"
 draft: false
 tags:
-  - "politique"
+  - Douaisis
 categories:
   - "Transports en commun"
 illustration:

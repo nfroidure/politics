@@ -3,10 +3,11 @@ title: "Condition animale : reflet de la société !"
 description: "À l’heure où la cause animale est portée de façon variée, je prends quelques instants pour préciser ma position personnelle sur le sujet."
 date: "2022-12-09T08:00:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Cause animale"
+  - Opinions politiques
+  - Cause animale
+tags:
+  - politique
 illustration:
   url: "illustrations/non-zoo-cirque.jpg"
   alt: "Tag contre les zoos et les cirques"

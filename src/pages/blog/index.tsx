@@ -2,16 +2,15 @@ import { join as pathJoin } from "path";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
-import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Head from "next/head";
 import { readEntries } from "../../utils/frontmatter";
 import { toASCIIString } from "../../utils/ascii";
-import { CSS_BREAKPOINT_START_L } from "../../utils/constants";
 import { readParams } from "../../utils/params";
 import { parseMarkdown } from "../../utils/markdown";
-import Img from "../../components/img";
+import { datedItemsSorter } from "../../utils/items";
+import Items from "../../components/items";
 import type { FrontMatterResult } from "front-matter";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type { GetStaticProps } from "next";
@@ -87,34 +86,8 @@ const BlogEntries = ({
         que moi.
       </Paragraph>
 
-      <div className="entries">
-        {entries.map((entry) => (
-          <div className="entry_item" key={entry.id}>
-            {entry.illustration ? (
-              <p className="entry_illustration">
-                <Anchor href={`/blog/${entry.id}`}>
-                  <Img
-                    float="left"
-                    orientation="landscape"
-                    src={"/" + entry.illustration.url}
-                    alt={entry.illustration.alt}
-                  />
-                </Anchor>
-              </p>
-            ) : null}
-            <Heading2 className="entry_title">
-              <Anchor href={`/blog/${entry.id}`} className="no_underline">
-                {entry.title}
-              </Anchor>
-            </Heading2>
-            <Paragraph className="entry_description">
-              {entry.description}{" "}
-              <Anchor href={`/blog/${entry.id}`}>Lire la suite</Anchor>
-            </Paragraph>
-            <div className="clear"></div>
-          </div>
-        ))}
-      </div>
+      <Items entries={entries} base={"/blog/"} />
+
       <nav className="pagination">
         {page > 1 ? (
           <Anchor
@@ -138,41 +111,12 @@ const BlogEntries = ({
       </nav>
     </ContentBlock>
     <style jsx>{`
-      :global(.entry_title) {
-        margin-top: 0 !important;
-      }
-      :global(.entry_title a) {
-        text-decoration: none !important;
-      }
-      :global(.entry_illustration) {
-        margin: 0 !important;
-      }
-      :global(.entry_description) {
-        margin: 0 !important;
-      }
-      .entry_item {
-        padding: var(--vRythm) 0;
-        border-bottom: var(--border) solid var(--secondary);
-      }
-      .entry_item:first-child {
-        padding: 0 0 var(--vRythm) 0;
-      }
-      .entry_item:last-child {
-        border: none;
-        padding: var(--vRythm) 0 0 0;
-      }
       .pagination {
         display: flex;
         gap: var(--gutter);
         align-items: center;
         justify-content: center;
         padding: var(--vRythm) 0 0 0;
-      }
-
-      @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
-        .clear {
-          clear: left;
-        }
       }
     `}</style>
   </Layout>
@@ -190,9 +134,7 @@ export const entriesToBaseProps = (
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
     .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
-    .sort(({ date: dateA }: any, { date: dateB }: any) =>
-      Date.parse(dateA) > Date.parse(dateB) ? -1 : 1
-    );
+    .sort(datedItemsSorter);
 
   return {
     title,

@@ -1,10 +1,12 @@
 ---
-title: Tout n’est pas possible en politique !
+title: François Guiffard, tout n’est pas possible en politique !
 description: Difficile de ne pas réagir face à la négociation avec la droite d’un poste de Vice Président à Douaisis Agglo par François Guiffard.
 date: "2020-07-14T12:00:00.000Z"
 draft: false
 categories:
   - Humeurs
+  - Politique locale
+  - Ville de Douai
 tags:
   - exemplarité
 ---

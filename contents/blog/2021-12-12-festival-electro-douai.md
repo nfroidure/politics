@@ -3,10 +3,11 @@ title: "Un festival électronique à Douai ?"
 description: "Ce jour, dans le centre ville de Douai, la musique électronique était de nouveau à l’honneur. L’occasion de se poser quelques question sur les événements à venir."
 date: "2021-12-12T19:20:28.000Z"
 draft: false
+categories:
+  - Humeurs
+  - Ville de Douai
 tags:
   - "culture"
-categories:
-  - "Ville de Douai"
 illustration:
   url: "illustrations/rue-mairie-animation.jpg"
   alt: "Photo de la rue de la Mairie animée"

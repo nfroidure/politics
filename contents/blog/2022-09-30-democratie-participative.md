@@ -4,9 +4,10 @@ description: "À l’heure du renouvellement des conseils de quartier de notre v
 date: "2022-09-30T08:00:00.000Z"
 draft: false
 tags:
-  - "politique"
+  - Douai
+  - Participation
 categories:
-  - "Démocratie participative"
+  - Démocratie
 illustration:
   url: "illustrations/quartiers-douai.png"
   alt: "Carte des quartiers de Douai"

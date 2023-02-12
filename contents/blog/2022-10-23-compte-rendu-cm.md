@@ -5,9 +5,9 @@ description: "Ce vendredi 21 octobre, le conseil municipal a été mouvementé m
 date: "2022-10-23T10:00:00.000Z"
 draft: false
 tags:
-  - "politique"
+  - Conseil Municipal
 categories:
-  - "Conseil Municipal"
+  - Ville de Douai
 illustration:
   url: "illustrations/conseil-municipal-douai-octobre-2022.png"
   alt: "Photographie du conseil déserté par les élu·es LReM"

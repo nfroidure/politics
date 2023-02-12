@@ -4,7 +4,7 @@ description: "À mi-chemin entre la monnaie locale et le circuit court, la consi
 date: "2020-06-10T15:00:00.000Z"
 draft: false
 categories:
-  - Divers
+  - Politique locale
 tags:
   - consigne
 illustration:

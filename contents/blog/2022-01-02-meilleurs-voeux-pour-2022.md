@@ -3,10 +3,10 @@ title: "Rétrospective 2021 et perspectives 2022"
 description: "Une année se termine, une nouvelle commence mais la lutte continue."
 date: "2022-01-02T14:33:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Personnel"
+  - Voeux
+tags:
+  - "2021"
 illustration:
   url: "illustrations/transports-gratuits-douaisis-2022.jpg"
   alt: "Photographies de la communication sur le tram gratuit"

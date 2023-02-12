@@ -3,10 +3,10 @@ title: "Profession de foi législatives 2022"
 description: "Je candidate officiellement à l'investiture du pôle écologiste pour les législatives 2022. Voici ma profession de foi."
 date: "2022-02-14T08:53:00.000Z"
 draft: false
-tags:
-  - "législatives"
 categories:
-  - "Politique"
+  - Élections
+tags:
+  - Législatives 2022
 illustration:
   url: "illustrations/profession-foi-legislatives-2022.png"
   alt: "Profession de foi de Nicolas Froidure pour l'investiture aux législatives 2022"

@@ -5,6 +5,7 @@ date: "2020-09-13T11:00:00.000Z"
 draft: false
 categories:
   - Numérique
+  - Hauts-de-France
 tags:
   - numérique
 ---

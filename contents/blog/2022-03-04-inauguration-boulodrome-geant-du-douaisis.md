@@ -3,10 +3,11 @@ title: "Inauguration du boulodrome géant du Douaisis"
 description: "Ce samedi, c’est l’inauguration en grandes pompes du boulodrome géant voulu par la majorité de Douaisis Agglo emmenée par Christian Poiret. L’occasion de redire pourquoi nous y étions opposé·es."
 date: "2022-03-04T23:00:00.000Z"
 draft: false
-tags:
-  - "Douaisis Agglo"
 categories:
-  - "Gigantisme"
+  - Douaisis
+  - Humeurs
+tags:
+  - agglomération
 illustration:
   url: "illustrations/boulodrome-douaisis.jpg"
   alt: "Photo des divers panneaux d’affichages pour le boulodrome"

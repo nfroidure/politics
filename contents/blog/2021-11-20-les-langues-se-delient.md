@@ -3,10 +3,11 @@ title: "#MeTooPolitique: Les langues se délient"
 description: "Les récents témoignages au sujet de Nicolas Hulot sont l’occasion pour moi de faire le point sur l’action féministe passée et à venir dans le Douaisis."
 date: "2021-11-27T10:20:28.000Z"
 draft: false
-tags:
-  - "féminisme"
 categories:
-  - "Société"
+  - Féminisme
+  - Opinions politiques
+tags:
+  - meetoopolitique
 illustration:
   url: "illustrations/manifestation-aurelie.jpg"
   alt: "Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint"

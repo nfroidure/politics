@@ -5,9 +5,10 @@ description: "Une petite chanson dédiée à toutes celles et ceux qui gardent l
 date: "2022-12-22T16:00:00.000Z"
 draft: false
 tags:
-  - "musique"
+  - musique
+  - chanson
 categories:
-  - "Musique"
+  - Culture
 illustration:
   url: "illustrations/steph-et-nico.jpg"
   alt: "Photographie de Stéphanie Stiernon et Nicolas Froidure dans un pré"

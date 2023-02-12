@@ -3,10 +3,11 @@ title: "Profession de foi aux départementales 2021"
 description: "Dans ce billet, je vous livre, simplement, le contenu de ma profession de foi pour les élections départementales 2021 sur le canton de Douai."
 date: "2020-11-01T09:00:00.000Z"
 draft: false
-tags:
-  - "élections"
 categories:
-  - "Élections"
+  - Élections
+  - Département du Nord
+tags:
+  - départementales
 ---
 
 # Élections départementales 2021

@@ -4,9 +4,10 @@ description: "Les réseaux sociaux méritent-ils cet adjectif ? Je pense que no
 date: "2022-03-14T09:00:00.000Z"
 draft: false
 tags:
-  - "Numérique"
+  - réseaux sociaux
 categories:
-  - "Société"
+  - Numérique
+  - Humeurs
 illustration:
   url: "illustrations/farcebook.jpg"
   alt: "Photo d’un tag parodiant le logo de Facebook en Farcebook"

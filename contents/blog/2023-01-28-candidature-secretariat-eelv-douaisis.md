@@ -5,9 +5,11 @@ description: "Profession de foi et texte stratégique de ma candidature à la fo
 date: "2023-01-28T11:00:00.000Z"
 draft: false
 tags:
-  - "EÉLV"
+  - candidature
+  - Douaisis
 categories:
-  - "Partis"
+  - EÉLV
+  - Élections
 illustration:
   url: "illustrations/route-de-campagne.jpg"
   alt: "Petite route de campagne"

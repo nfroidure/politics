@@ -3,10 +3,12 @@ title: "Hébergement éthique et écologique : équation insoluble ?"
 description: "Ce sont des sujets récurrents : sortir des GAFAMs et réduire notre emprunte liée au numérique. Plus facile à dire qu’à faire !"
 date: "2022-01-18T08:00:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Personnel"
+  - Numérique
+tags:
+  - hébergement
+  - gafams
+  - cloud
 illustration:
   url: "illustrations/terminal-linux.png"
   alt: "Capture d’écran d’un terminal Linux"

@@ -3,10 +3,11 @@ title: "Solidarité avec l’Ukraine !"
 description: "Suite au rassemblement pour l’Ukraine, je tiens à exprimer mon soutien à l’Ukraine et mon souhait de mettre fin à la complaisance envers les régimes totalitaires."
 date: "2022-02-28T18:00:00.000Z"
 draft: false
+categories:
+  - International
+  - Humeurs
 tags:
   - "Ukraine"
-categories:
-  - "International"
 illustration:
   url: "illustrations/soutien-ukraine.jpg"
   alt: "Photographie de l’office de tourisme illuminé aux couleurs de l’Ukraine"

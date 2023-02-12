@@ -4,9 +4,9 @@ description: "L’écologie porte des réponses aux enjeux de l’aménagement u
 date: "2022-09-03T10:00:00.000Z"
 draft: false
 tags:
-  - "Douai"
+  - Douai
 categories:
-  - "Urbanisme"
+  - Urbanisme
 illustration:
   url: "illustrations/place-aux-enfants.jpg"
   alt: "Rue piétonne à Grenoble aux abords des écoles"

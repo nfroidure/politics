@@ -3,10 +3,12 @@ title: "L’Union : pour quoi faire ?"
 description: "Point sur l’état de l’union après la récente déclaration d’Anne Hidalgo, candidate du Parti Socialiste."
 date: "2021-12-14T10:56:28.000Z"
 draft: false
+categories:
+  - Élections
 tags:
   - "politique"
-categories:
-  - "Partis"
+  - "union"
+  - "gauche"
 illustration:
   url: "illustrations/fin-du-monde-fin-du-mois.jpg"
   alt: "Photo du combat qui devrait nous rassembler"

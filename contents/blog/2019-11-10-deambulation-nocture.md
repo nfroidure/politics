@@ -5,6 +5,7 @@ date: "2019-11-10T08:46:42.567Z"
 draft: false
 categories:
   - Politique locale
+  - Ville de Douai
 tags:
   - éclairage
 ---

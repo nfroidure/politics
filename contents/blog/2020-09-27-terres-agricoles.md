@@ -5,8 +5,12 @@ date: "2020-09-27T12:00:00.000Z"
 draft: false
 categories:
   - Humeurs
+  - Politique locale
+  - Agriculture
+  - Douaisis
 tags:
   - agriculture
+  - agglomération
 ---
 
 # Du déplacement économique sur des terres arables

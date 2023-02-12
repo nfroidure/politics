@@ -4,11 +4,9 @@ description: "Quelques réflexions sur l’avenir de l’écologie politique et 
 date: "2022-08-25T10:00:00.000Z"
 draft: false
 tags:
-  - "EÉLV"
-  - "Écologie"
-  - "Politique"
+  - Écologie Politique
 categories:
-  - "Partis"
+  - EÉLV
 illustration:
   url: "illustrations/grenoble.jpg"
   alt: "Photographie de Grenoble"

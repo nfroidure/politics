@@ -3,10 +3,10 @@ title: "Présidentielles 2022 : Barrage puis ballottage ?"
 description: "Les résultats des élections présidentielles de 2022 sont tombés, analyse des conséquences dans le Douaisis."
 date: "2022-04-14T09:00:00.000Z"
 draft: false
-tags:
-  - "Présidentielles"
 categories:
-  - "Élections"
+  - Élections
+tags:
+  - Présidentielles 2022
 illustration:
   url: "illustrations/photo-scarpe.jpg"
   alt: "Photo d’un tag parodiant le logo de Facebook en Farcebook"

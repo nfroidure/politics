@@ -4,7 +4,7 @@ description: Retranscription de ma question à Dominique Riquet lors du débat e
 date: "2019-04-27T08:00:00.000Z"
 draft: false
 categories:
-  - Politique locale
+  - Europe
 tags:
   - europe
 ---

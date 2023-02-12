@@ -5,6 +5,7 @@ date: "2020-01-23T08:46:42.567Z"
 draft: false
 categories:
   - Humeurs
+  - Numérique
 tags:
   - numérique
 ---

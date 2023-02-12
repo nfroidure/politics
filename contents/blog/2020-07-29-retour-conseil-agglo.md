@@ -6,8 +6,9 @@ date: "2020-07-29T12:00:00.000Z"
 draft: false
 categories:
   - Politique locale
+  - Douaisis
 tags:
-  - Douaisis Agglo
+  - agglomération
 illustration:
   url: illustrations/greenwashing.jpg
   alt: Publicité sur de Green Wash visible à Sin-le-Noble

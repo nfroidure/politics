@@ -3,10 +3,10 @@ title: "Législatives 2022 : Pas investi, mais impliqué !"
 description: "Les négociations ont abouties à un accord d’union. Mon investiture sur la 17ème circonscription saute, pas ma détermination."
 date: "2022-05-12T07:00:00.000Z"
 draft: false
-tags:
-  - "Législatives"
 categories:
-  - "Élections"
+  - Élections
+tags:
+  - Législatives 2022
 illustration:
   url: "illustrations/logo-nupes.svg"
   alt: "Logo de NUPES"
@@ -42,7 +42,7 @@ Je soutiendrai naturellement les candidat·es investi·es par NUPES dans le Doua
 
 Ce n’est bien-sûr pas un blanc seing de ma part, il y a des différences notables entre ma façon de faire de la politique et celles des insoumis·es du Douaisis, mais je préfère voir le verre à moitié plein plutôt qu’à moitié vide.
 
-La tentative d’infiltration de François Guiffard dans l’accord NUPES n’a pas aboutie : c’est une bonne chose au vu de [l’historique de ce dernier](./tout-n-est-pas-possible-en-politique). Elle aurait éloigné plus encore les gens de la chose publique. Réconcilier les citoyen·nes avec la politique nécessite de la clarté et je ne peux me résoudre à accepter que l’on brouille les pistes pour des histoires de poste et de carrière (politique qui plus est).
+La tentative d’infiltration de [François Guiffard](./tout-n-est-pas-possible-en-politique) dans l’accord NUPES n’a pas aboutie : c’est une bonne chose au vu de l’historique peu glorieux de ce dernier. Elle aurait éloigné plus encore les gens de la chose publique. Réconcilier les citoyen·nes avec la politique nécessite de la clarté et je ne peux me résoudre à accepter que l’on brouille les pistes pour des histoires de poste et de carrière.
 
 Avec Cyril Grandin, nous avons une candidature incarnant la jeunesse et le renouveau : notre politique locale en a bien besoin. Je compte sur lui pour ne pas prendre la grosse tête et rester à l’écoute des gens si ce dernier devient député. Mais attention, ce n’est pas gagné, il va falloir mobiliser à gauche et pour cela, il est nécessaire d’incarner une union large, d’éviter le piège du repli sur soi.
 

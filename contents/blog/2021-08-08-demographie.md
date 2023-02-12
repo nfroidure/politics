@@ -4,8 +4,8 @@ description: Régulièrement, la surpopulation mondiale ressurgit, comme étant 
 date: "2021-08-08T08:46:42.567Z"
 draft: false
 categories:
+  - Démographie
   - Opinions politiques
-  - "Société"
 tags:
   - démographie
 ---

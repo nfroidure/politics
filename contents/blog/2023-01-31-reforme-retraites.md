@@ -5,9 +5,12 @@ description: "Ce mardi 31 décembre, je participe à la seconde mobilisation con
 date: "2023-01-31T11:00:00.000Z"
 draft: false
 tags:
-  - "Retraite"
+  - réforme
+  - retraite
+  - manifestation
 categories:
-  - "Société"
+  - Retraite
+  - Opinions politiques
 illustration:
   url: "illustrations/photo-nico-et-annie.jpg"
   alt: "Photographie de Nicolas Froidure et Annie Petit"

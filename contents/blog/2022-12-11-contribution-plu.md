@@ -5,10 +5,11 @@ description: "Le nouveau PLU de Douai est arrêté, c’est le moment de la cons
 date: "2022-12-11T10:00:00.000Z"
 draft: false
 tags:
-  - "douai"
+  - Douai
+  - PLU
 categories:
-  - "Contributions"
-  - "Urbanisme"
+  - Contributions
+  - Urbanisme
 illustration:
   url: "illustrations/reunion-plu-douai-1.jpg"
   alt: "Photographie de la consultation PLU du quartier Barlet-Centre"

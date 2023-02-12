@@ -4,9 +4,11 @@ description: "Le conseil communautaire sont retirés de Youtube dès la fin du c
 date: "2021-02-05T21:00:00.000Z"
 draft: false
 categories:
-  - Opinions politiques
+  - Politique locale
+  - Douaisis
 tags:
   - démocratie
+  - agglomération
 ---
 
 # De la retransmission des conseils communautaires

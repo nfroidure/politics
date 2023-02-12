@@ -3,10 +3,11 @@ title: "Le clientélisme m’horripile !"
 description: "Gangrène des dernières décennies, le clientélisme est surtout un signe d’absence de volonté sincère de changer le quotidien de nos concitoyen·nes."
 date: "2022-02-07T09:00:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Méthodologie"
+  - Humeurs
+  - Opinions politiques
+tags:
+  - clientélisme
 illustration:
   url: "illustrations/big-money.jpg"
   alt: "Photo d’un linéaire du jeu de société «Big Money»"

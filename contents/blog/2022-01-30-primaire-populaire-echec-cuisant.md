@@ -3,10 +3,10 @@ title: "Primaire populaire : un échec cuisant ?"
 description: "À l’heure où nous allons connaître son résultat, retour sur un incroyable fiasco !"
 date: "2022-01-30T08:00:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Primaire"
+  - Élections
+tags:
+  - Présidentielles 2022
 illustration:
   url: "illustrations/primaire-populaire.png"
   alt: "Capture d’écran du site de la primaire populaire"

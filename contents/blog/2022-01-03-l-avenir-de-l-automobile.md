@@ -3,10 +3,12 @@ title: "Quel avenir pour l’automobile ?"
 description: "L’avenir de l’automobile n’est peut-être pas si sombre, dans le monde comme à Douai."
 date: "2022-01-03T09:33:00.000Z"
 draft: false
-tags:
-  - "politique"
 categories:
-  - "Automobile"
+  - Opinions politiques
+  - Automobile
+tags:
+  - électrique
+  - transition
 illustration:
   url: "illustrations/avenir-automobile.jpg"
   alt: "Photographie de voiture brûlée"

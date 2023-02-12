@@ -3,10 +3,11 @@ title: "Quels outils numériques pour EELV ?"
 description: "Suite à mon élection au sein du Com’On, article exploratoire sur la vision des outils numériques que je défends."
 date: "2021-12-20T15:15:00.000Z"
 draft: false
+categories:
+  - Numérique
+  - EÉLV
 tags:
   - "politique"
-categories:
-  - "Partis"
 illustration:
   url: "illustrations/racines-club.jpg"
   alt: "Photo du racines club !"

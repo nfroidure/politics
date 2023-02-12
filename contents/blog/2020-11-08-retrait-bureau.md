@@ -4,7 +4,8 @@ description: Je ne me suis pas représenté pour rester secrétaire du groupe lo
 date: "2020-11-08T08:00:00.00Z"
 draft: false
 categories:
-  - Opinions politiques
+  - Élections
+  - EÉLV Douaisis
 tags:
   - démocratie
 ---

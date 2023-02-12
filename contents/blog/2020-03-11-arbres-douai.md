@@ -4,7 +4,8 @@ description: "Notre chère ville de Douai se place plutôt bien par rapport aux 
 date: "2020-03-11T21:00:00.000Z"
 draft: false
 categories:
-  - Divers
+  - Politique locale
+  - Ville de Douai
 tags:
   - arbres
 origin: https://www.facebook.com/nfroidure/posts/10158312162364201

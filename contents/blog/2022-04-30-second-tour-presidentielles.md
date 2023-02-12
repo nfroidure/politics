@@ -3,10 +3,10 @@ title: "Second tour : un sursis plus qu’un sursaut"
 description: "Le second tour des présidentielles a un goût amer, a fortiori dans le Douaisis."
 date: "2022-04-30T17:00:00.000Z"
 draft: false
-tags:
-  - "Présidentielles"
 categories:
-  - "Élections"
+  - Élections
+tags:
+  - Présidentielles 2022
 illustration:
   url: "illustrations/reunion-rn.jpg"
   alt: "Photo de la réunion républicaine contre l’extrême droite"

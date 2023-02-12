@@ -4,10 +4,13 @@ description: Mon analyse du dossier de consultation concernant la nouvelle plate
 date: "2020-10-10T08:00:00.00Z"
 draft: false
 categories:
-  - "Logistique"
-  - "Contributions"
+  - Politique locale
+  - Logistique
+  - Contributions
+  - Douaisis
 tags:
   - démocratie
+  - agglomération
 ---
 
 # Point sur l’entrepôt Goodman
