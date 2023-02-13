@@ -34,7 +34,6 @@ const BlogPost = ({ entry, linkedEntries }: Props) => {
         <Paragraph>
           Publié le {new Date(entry.date).toLocaleString()}.
         </Paragraph>
-        <div className="clear"></div>
         <Heading2>Commenter et partager</Heading2>
         <Share
           url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
@@ -62,20 +61,6 @@ const BlogPost = ({ entry, linkedEntries }: Props) => {
           </>
         ) : null}
       </ContentBlock>
-      <style jsx>{`
-        :global(p.illustration) {
-          float: left;
-          width: var(--block);
-          margin: 0 var(--gutter) 0 0;
-        }
-        img {
-          width: 100%;
-          margin: 0;
-        }
-        .clear {
-          clear: both;
-        }
-      `}</style>
     </Layout>
   );
 };

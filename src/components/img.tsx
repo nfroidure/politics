@@ -34,7 +34,7 @@ const Img = ({
           align-items: center;
           justify-content: center;
         }
-        /* For mobile device we forgive layout shift
+        /* For mobile device we forget layout shift
         since what we want is the biggest image size possible */
         img {
           max-width: 100%;
