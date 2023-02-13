@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 31 Jan 2023 11:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 12 Feb 2023 10:09:39 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Feb 2023 11:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2023 14:02:48 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/compte-rendu-conseil-municipal-fevrier-2023</guid>
+        <title>CR du conseil municipal de février 2023</title>
+        <description>Le dernier conseil municipal a eu lieu ce vendredi. L’occasion de revenir sur son contenu.</description>
+        <link>https://nicolasfroidure.fr/blog/compte-rendu-conseil-municipal-fevrier-2023</link>
+        <pubDate>Sun, 12 Feb 2023 11:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/reforme-des-retraites-2023</guid>
         <title>Réforme des retraites : les français·es n’en veulent pas !</title>
