@@ -297,7 +297,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
   const youtubeURL = parseYouTubeURL(node.url);
 
   return node?.title?.startsWith("🎧") ? (
-    <audio
+    <audio  key={context.index}
       controls
       src={
         publicRuntimeConfig.baseURL +

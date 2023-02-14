@@ -9,19 +9,26 @@ categories:
   - Ville de Douai
 tags:
   - exemplarité
+illustration:
+  url: "illustrations/francois-guiffard.jpg"
+  alt: "François Guiffard avant et après sa compromission"
 ---
 
-# Tout n’est pas possible en politique !
+# François Guiffard, tout n’est pas possible en politique !
+
+![François Guiffard avant et après sa compromission](illustrations/francois-guiffard.jpg "🖼➡️")
 
 La colère passée, je tiens à revenir sur l’élection de Douaisis Agglo qui, comme certain·es s’en sont rendu·es compte, a crée une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
 
-Je dois avouer que j’ai toujours été dubitatif sur le comportement populiste et les méthodes parfois limites de ce candidat. Pourtant, nous avons tout de même décidé de le rencontrer malgré son refus de travailler de concert avec tou-tes (notamment son refus catégorique de discuter avec la majorité en place de Frédéric Chéreau).
+Je dois avouer que j’ai toujours été dubitatif sur le comportement populiste et les méthodes parfois limites de ce candidat aux élections municipales de Douai. Pourtant, avec EÉLV Douaisis, nous avons tout de même décidé de le rencontrer. Et ceci malgré son refus de travailler de concert avec toutes les forces de gauches (notamment son refus catégorique de discuter avec la majorité en place de Frédéric Chéreau).
 
-Nous avons décidé que ce n’était pas souhaitable de fusionner avec la liste Ensemble Faisons Douai que ce dernier portait, mais nous étions loin de nous douter du choix judicieux que nous venions de faire.
+Après des discussions bilatérales, nous avons décidé que ce n’était pas souhaitable de fusionner avec la liste Ensemble Faisons Douai que ce dernier portait. Nous étions loin de nous douter du choix judicieux que nous venions de faire.
 
-Aujourd’hui, je constate qu’il a osé.
+**Aujourd’hui, je constate qu’il a osé.**
 
 Le candidat qui jurait, malgré sa proximité politique avec nos candidat·es, dès le lendemain du second tour, n’avoir qu’une ambition; celle d’être la première force d’opposition, ose, tout à coup, devenir la plus consensuelle des marionnettes utiles que Christian Poiret n’ait eut l’occasion de tenir sous sa botte.
+
+![Publication de Cyril Grandin sur le seul bulletin vert...](illustrations/francois-guiffard-bulletin-vert.png "🖼⬅️")
 
 Le candidat dont la liste se disait plus écologiste que les écologistes, qui est allé jusqu’à travestir toute sa communication pour profiter d’une vague verte (qu’il minimisât aussitôt les élections terminées...), a osé se muer en défenseur d’un triste bilan de notre agglomération en terme de consommation de terres agricoles.
 
@@ -43,4 +50,17 @@ Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville 
 
 Nous ferons vivre l’écologie politique avec passion et détermination. Nous questionnerons et nous nous opposerons quand cela sera nécessaire car, pour nous, l’audace, c’est avant tout oser dire non au consensus quand il mène un territoire entier dans l’impasse !
 
-En pièce jointe de [ma publication Facebook](https://www.facebook.com/nfroidure/posts/10158751141494201), la page disparue du site de campagne de François Guiffard, disparue en même temps que ses principes politiques.
+Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue en même temps que ses principes politiques...
+
+![Cache Google des sites supprimés](illustrations/recherche-site-francois-guiffard-articles-supprimes.jpg)
+![Capture d’une page supprimée](illustrations/capture-site-ensemble-faisons-douai.jpg)
+![Capture de la page avant suppression (page 1)](illustrations/capture-site-ensemble-faisons-douai-avant-supression-1.jpg)
+![Capture de la page avant suppression (page 2)](illustrations/capture-site-ensemble-faisons-douai-avant-supression-2.jpg)
+
+**Note restrospective :**
+
+C’est donc un poste de Vice-Président à Douaisis Agglo (2 500€ chaque mois) et la présidence de l’Office de Tourisme du Douaisis (300€ par mois) qui viennent s’ajouter aux 300€ en tant que conseiller municipal s’ajoutant à la rémunération de son activité professionnelle à laquelle ce dernier n’a bien-entendu, pas renoncé.
+
+Une situation qui prête à sourire quand on a pu observer, par ailleurs, avant cette compromission, les longs discours moralisateurs sur la rémunération du maire.
+
+![Publication de François Guiffard sur l’indemnité de Frédéric Chéreau](illustrations/publication-francois-guiffard-remuneration-frederic-chereau.png)

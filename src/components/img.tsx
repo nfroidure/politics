@@ -47,11 +47,11 @@ const Img = ({
         @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) {
           .root.left {
             float: left;
-            margin: 0 var(--gutter) 0 0;
+            margin: 0 var(--gutter) var(--vRythm) 0;
           }
           .root.right {
             float: right;
-            margin: 0 0 0 var(--gutter);
+            margin: 0 0 var(--vRythm) var(--gutter);
           }
           .root.left,
           .root.right {

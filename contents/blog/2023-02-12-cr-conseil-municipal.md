@@ -21,7 +21,7 @@ Ce vendredi soir nos élu·es de la municipalité se sont de nouveau réuni·es 
 
 Nous avons assisté à une belle présentation qui démontre que les choses vont dans le bon sens. Les interventions ont été peu nombreuses, celles de Franz Quatrebœuf, Xavier Thierry et François Thibaut ont été similaires et soulignaient ce qui avait été dit précédemment : il reste du travail à faire et la ville reste impactée par la société qui est encore inégalitaire.
 
-Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mise en lumière.
+Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mises en lumière.
 
 ![Rapport égalité femme/homme de la Ville de Douai](illustrations/rapport-egalite-femme-homme-ville-douai.png)
 ![Répartition femme/homme des effectifs de la Ville de Douai](illustrations/effectifs-femme-homme-ville-douai.png)
@@ -33,7 +33,7 @@ Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avai
 
 En ce qui concerne les rémunérations, il manque un chiffre qui me semble important : l’écart de rémunération moyen global pour tous les effectifs. La répartition étant segmentée par catégorie et filière, il m’est impossible de les calculer car une moyenne de moyennes n’a pas de sens en statistique. J’ai demandé par courriel au service de démocratie participative le chiffre car cette absence de vision générale manque pour se faire une véritable idée.
 
-Au niveau de l’exécutif (là où les décisions sont prises), on remarque que la balance des effectif est en défaveur des femmes. Mais un point encore plus révélateur à soulever, et qui fait défaut dans ce rapport, serait de quantifier les budgets alloués pour les différent·es chef·fes de services comme cela est fait pour les salaires.
+Au niveau de l’exécutif (là où les décisions sont prises), on remarque que la balance des effectifs est en défaveur des femmes. Mais un point encore plus révélateur à soulever, et qui fait défaut dans ce rapport, serait de quantifier les budgets alloués pour les différent·es chef·fes de services comme cela est fait pour les salaires.
 
 Cette approche me semble plus révélatrice de la répartition de la capacité d’action en fonction du genre. C’est d’ailleurs ce que nous avons pu constater dans la suite des débats avec la répartition du budget 2023 : les chefs de service bâtiment, voirie, jardins et cadre de vie concentrent 79,1% des budgets d’investissement. Ces hommes sont aussi directement subordonnés au directeur général des services qui est aussi un homme. Il reste, on le voit, bien du chemin.
 
