@@ -7,9 +7,14 @@ categories:
   - Humeurs
 tags:
   - numérique
+illustration:
+  url: "illustrations/stop-effet-de-serre.jpg"
+  alt: 'Photographie d’un autocollant "Stop effet de serre"'
 ---
 
 # Les vols intérieurs, ça suffit !
+
+![Photographie d’un autocollant "Stop effet de serre"](illustrations/stop-effet-de-serre.jpg "🖼➡️")
 
 🚫✈️ Je vous ai beaucoup parlé récemment de l’interdiction ou la taxation des vols intérieurs et de cette loi qui ne sera donc pas mise en application durant ce quinquennat suite à la décision inconséquente de la majorité parlementaire.
 

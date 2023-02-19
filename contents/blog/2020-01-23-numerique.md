@@ -8,9 +8,14 @@ categories:
   - Numérique
 tags:
   - numérique
+illustration:
+  url: "illustrations/codeurs.jpg"
+  alt: 'Détournement de logo affichant "codeur"'
 ---
 
 # Travailleur du numérique
+
+![Détournement du logo de Sencrop affichant "codeur"](illustrations/codeurs.jpg "🖼➡️")
 
 💻 Depuis le temps, que je parle de faire une publication là dessus, je m’y mets 🙂
 

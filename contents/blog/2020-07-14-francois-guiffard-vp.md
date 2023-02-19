@@ -2,6 +2,7 @@
 title: François Guiffard, tout n’est pas possible en politique !
 description: Difficile de ne pas réagir face à la négociation avec la droite d’un poste de Vice Président à Douaisis Agglo par François Guiffard.
 date: "2020-07-14T12:00:00.000Z"
+leafname: "tout-n-est-pas-possible-en-politique"
 draft: false
 categories:
   - Humeurs
@@ -46,7 +47,7 @@ Et aux douaisien·nes, je dis : l’écologie politique c’est le réemploi, l
 
 Bien-sûr, les fonds de l’agglomération seraient utiles pour la lutte contre les passoires énergétiques, la gratuité des transports et la création d’emplois basés sur les savoirs faire et non délocalisables.
 
-Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville activiste et donnons au Douaisis ce dont il a besoin : une ville centre où l’espoir et et la créativité sont le fruit de l’innovation, la vraie, celle qui parle pouvoir de vivre avant de parler pouvoir d’achat, celle qui développe l’humain avant de développer l’économie, celle qui fait société et respecte le vivant, celle qui vit, de sa diversité, de son Histoire et qui crée les possibles pour un futur surprenant et désirable.
+Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville activiste et donnons au Douaisis ce dont il a besoin : une ville centre où l’espoir et la créativité sont le fruit de l’innovation, la vraie, celle qui parle pouvoir de vivre avant de parler pouvoir d’achat, celle qui développe l’humain avant de développer l’économie, celle qui fait société et respecte le vivant, celle qui vit, de sa diversité, de son Histoire et qui crée les possibles pour un futur surprenant et désirable.
 
 Nous ferons vivre l’écologie politique avec passion et détermination. Nous questionnerons et nous nous opposerons quand cela sera nécessaire car, pour nous, l’audace, c’est avant tout oser dire non au consensus quand il mène un territoire entier dans l’impasse !
 
@@ -59,7 +60,7 @@ Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue
 
 **Note restrospective :**
 
-C’est donc un poste de Vice-Président à Douaisis Agglo (2 500€ chaque mois) et la présidence de l’Office de Tourisme du Douaisis (300€ par mois) qui viennent s’ajouter aux 300€ en tant que conseiller municipal s’ajoutant à la rémunération de son activité professionnelle à laquelle ce dernier n’a bien-entendu, pas renoncé.
+C’est donc un poste de Vice-Président à Douaisis Agglo (2 500€ chaque mois) et la présidence de l’Office de Tourisme du Douaisis (300€ par mois) qui viennent s’ajouter aux 300€ en tant que conseiller municipal s’ajoutant à la rémunération de son activité professionnelle à laquelle ce dernier n’a, bien-entendu, pas renoncé.
 
 Une situation qui prête à sourire quand on a pu observer, par ailleurs, avant cette compromission, les longs discours moralisateurs sur la rémunération du maire.
 
