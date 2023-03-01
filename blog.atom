@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2023-02-26T08:46:42.567Z</updated>
+  <updated>2023-03-01T13:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/qui-sont-les-contribuables-actifs-du-douaisis</id>
+    <title>Qui sont les Contribuables Actifs du Douaisis ?</title>
+    <link href="https://nicolasfroidure.fr/blog/qui-sont-les-contribuables-actifs-du-douaisis" rel="alternate" type="text/html" />
+    <updated>2023-03-01T13:00:00.000Z</updated>
+    <published>2023-03-01T13:00:00.000Z</published>
+    <summary>Quelques réflexions de fond suite à la création d’une association de &quot;contribuables actifs&quot;.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/la-contagion-rn-peut-etre-stoppee</id>
     <title>La contagion RN peut être stoppée !</title>
