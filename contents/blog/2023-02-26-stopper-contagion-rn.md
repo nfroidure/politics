@@ -1,6 +1,6 @@
 ---
 title: La contagion RN peut être stoppée !
-description: De l'impérieuse nécessité d'agir quand les discours alarmistes sont corrélés à l'inaction coupable.
+description: De l’impérieuse nécessité d’agir quand les discours alarmistes sont corrélés à l’inaction coupable.
 date: "2023-02-26T08:46:42.567Z"
 draft: false
 categories:
@@ -18,9 +18,9 @@ illustration:
 
 ## Deux députés pour le RN
 
-Après de nombreux rebondissements ([ma candidature](./profession-de-foi-legislatives-2022) puis son retrait en faveur du [binôme NUPES Grandin/Boulan](./legislatives-2022-pas-investi-mais-implique)), le rassemblement national a raflé les deux circonsriptions du Douaisis.
+Après de nombreux rebondissements ([ma candidature](./profession-de-foi-legislatives-2022) puis son retrait en faveur du [binôme NUPES Grandin/Boulan](./legislatives-2022-pas-investi-mais-implique)), le rassemblement national a raflé les deux circonscriptions du Douaisis.
 
-En écrivant ces mots, je me rends compte que je n’en ai même pas parlé ici. Toute la gauche était sous le choc, abbattue.
+En écrivant ces mots, je me rends compte que je n’en ai même pas parlé ici. Toute la gauche était sous le choc, abattue.
 
 Dimitri Houbron, fût battu par Thibaut François et Alain Bruneel par Matthieu Marchio. Ces deux illustres inconnus sont maintenant sensés représenter le peuple...
 
@@ -47,20 +47,20 @@ Dans la seizième circonscription, si l’on additionne les scores "républicain
 Avec un report de voix bien effectué, c’est **61.29%** qu’obtiendrait Alain Bruneel... Mais non, au second tour ce sont 2.01% de nuls (+1.44%) et 5.77% de blancs (+4.17%), une participation moindre et un report de voix prévisible de Reconquête vers le RN supplémenté d’une parti des Républicains...
 
 Les mauvaises langues diront que cela est dû à l’appartenance au Parti Communiste du candidat NUPES, mais dans la dix-septième circonscription, ce n’était pas le cas. Pourtant, là aussi, les résultats laissaient supposer le bon fonctionnement du barrage avec **61.48%** des voix au moins :
-- Thibaut FRANCOIS (RN): 20,92% (15 408 voix)
-- Dimitri HOUBRON (Horizons-Ensemble) : **24,13%** (7 636 voix)
-- Cyril GRANDIN (La France Insoumise-NUPES) : **22,91%** (7 250 voix)
-- Romain BOULANT (Union des démocrates et indépendants) : **5,33%** (1 688 voix)
-- Valérie NORREEL (Reconquête) : 3,05% (966 voix)
-- Isabelle MAMAN (Divers inclassable) : **2,66%** (841 voix)
-- Marion T’HOOFT (Parti Radical de Gauche) : **2,09%** (661 voix)
-- Thibault BRUNI (Les Patriotes) : 1,85% (586 voix)
-- Cédric FLUCKIGER (Lutte Ouvrière) : **1,50%**  (475 voix)
-- Christian DELANNOY (Parti Ouvrier Indépendant Démocratique) : **1,48%** (468 voix)
-- Jean-Luc FRYDMAN (Divers Droite) : 1,38% (438 voix)
-- Dominique GARAUD (Mouvement de la Ruralité) : 0,69% (219 voix)
+- Thibaut François (RN): 20,92% (15 408 voix)
+- Dimitri Houbron (Horizons-Ensemble) : **24,13%** (7 636 voix)
+- Cyril Grandin (La France Insoumise-NUPES) : **22,91%** (7 250 voix)
+- Romain Boulant (Union des démocrates et indépendants) : **5,33%** (1 688 voix)
+- Valérie Norreel (Reconquête) : 3,05% (966 voix)
+- Isabelle Maman (Divers inclassable) : **2,66%** (841 voix)
+- Marion T’Hooft (Parti Radical de Gauche) : **2,09%** (661 voix)
+- Thibault Bruni (Les Patriotes) : 1,85% (586 voix)
+- Cédric Fluckiger (Lutte Ouvrière) : **1,50%**  (475 voix)
+- Christian Delannoy (Parti Ouvrier Indépendant Démocratique) : **1,48%** (468 voix)
+- Jean-Luc Frydman (Divers Droite) : 1,38% (438 voix)
+- Dominique Garaud (Mouvement de la Ruralité) : 0,69% (219 voix)
 
-Pourtant, de nouveau, 5,82% de votes blancs (+4.05%) et 2,04% de votes nuls (+1.46%), un report des voix de reconquêtes, d’une partie de la droite donnent la victoire au RN malgré une plus forte participation...
+Pourtant, de nouveau, 5,82% de votes blancs (+4.05%) et 2,04% de votes nuls (+1.46%), un report des voix de Reconquête, d’une partie de la droite donnent la victoire au RN malgré une plus forte participation...
 
 Celles et ceux qui ont privilégié leur carrière à une consigne claire et à un refus ferme, de principe, du vote RN portent une lourde responsabilité.
 
@@ -68,9 +68,9 @@ Celles et ceux qui ont privilégié leur carrière à une consigne claire et à 
 
 Malheureusement, on le sait, le RN infuse lentement mais sûrement, par porosité. Ce n’est pas tant de la conquête électorale ou idéologique que de la contagion (ne parle-t-on pas de [peste brune](https://fr.wikipedia.org/wiki/Peste_brune) ?).
 
-Plus que conquises, des populations entières, oubliées de la République, sont prête à être cueillies. Mais nous aurions tort de considérer que le vote RN est un vote de désespoir uniquement, c’est aussi, un vote d’enfermement.
+Plus que conquises, des populations entières, oubliées de la République, sont prêtes à être cueillies. Mais nous aurions tort de considérer que le vote RN est un vote de désespoir uniquement, c’est aussi, un vote d’enfermement.
 
-Durant la campagne présidentielle, j’ai tracté pour Yannick Jadot à Brunémont, un village que je connais bien. J’y étais également passé lors de la seconde étape de mon [Tour du Douaisis](./top-depart-du-tour). Dans ce dernier, 70,98% des voix se sont exprimées pour le RN. À l’exclusion des trois rues historiques de ce tout petit village, on y trouve pourant des résidences proprettes. En y flânant, on peut se demander ce qui peut bien motiver des personnes vivant dans un cadre si agréable pour voter RN.
+Durant la campagne présidentielle, j’ai tracté pour Yannick Jadot à Brunémont, un village que je connais bien. J’y étais également passé lors de la seconde étape de mon [Tour du Douaisis](./top-depart-du-tour). Dans ce dernier, 70,98% des voix se sont exprimées pour le RN. À l’exclusion des trois rues historiques de ce tout petit village, on y trouve pourtant des résidences proprettes. En y flânant, on peut se demander ce qui peut bien motiver des personnes vivant dans un cadre si agréable à voter pour le RN.
 
 ![Photographie de l’entrée de la commune de Brunémont](illustrations/brunemont-panneau-entree.jpg)
 ![Gare de Brunémont](illustrations/brunemont-gare.jpg)
@@ -89,7 +89,7 @@ C’est certainement dans le délitement du collectif que l’origine de ce repl
 
 L’autre est alors fantasmé au travers des images que l’on propose sur les médias de masse. Et il faut dire que ces médias ne font pas dans la dentelle. Les raccourcis nauséabonds sur la pauvreté, la religion ou la migration y sont quotidiens.
 
-Le sensationnalisme et l’exagération médiatiques, la propension au fantasme et à la xénophobie de certain·es mènent à des imaginaires parallèles ressentis comme des réalités et amenant à une défiance vis à vis de l’autre.
+Le sensationnalisme et l’exagération médiatique, la propension au fantasme et à la xénophobie de certain·es mènent à des imaginaires parallèles ressentis comme des réalités et amenant à une défiance vis à vis de l’autre.
 
 Quand l’unique fenêtre sur le monde devient le petit écran, c’est le début des ennuis.
 
@@ -101,9 +101,9 @@ Or, c’est devenu rare de se parler dans une société où l’autre est vécu 
 
 Pourtant, je ne me suis jamais senti aussi vivant que depuis que je mets un point d’honneur à aller vers l’autre. Plus il est différent, plus il peut m’enrichir.
 
-Certes, ce n’est pas dénué de mauvaises surprises et j’ai conscience qu’avec ma carrure dissuasive, j’ai peut-être moins de mauvaises expériences que la moyenne. Mais cela vaut le coup.
+Certes, ce n’est pas dénué de mauvaises surprises et j’ai conscience qu’avec ma carrure dissuasive, j’ai peut-être moins de mauvaises expériences que la moyenne. Mais cela vaut le coup d’aller vers l’autre.
 
-C’est pourquoi toute politique de gauche devrait favoriser les rencontres physiques réelles dans un cadre sécurisant afin qu’aller vers l’autre soit un vécu enthousiamant.
+C’est pourquoi toute politique de gauche devrait favoriser les rencontres physiques réelles dans un cadre sécurisant afin qu’aller vers l’autre soit un vécu enthousiasmant.
 
 Une politique de gauche devrait aussi fournir à toutes et tous les rudiments pour faire parti et prendre part à un collectif (et non une communauté !).
 
@@ -120,7 +120,7 @@ Les élu·es doivent mettre en œuvre des politiques qui éveillent et non endor
 Ensuite, favoriser la rencontre, la mixité. Trop de communes refusent encore le logement social, trop de programmes de construction et/ou de rénovation excluent systématiquement toute mixité.
 
 L’aménagement urbain doit redonner sa place à l’échange spontané, aux rencontres fortuites. On ne peut pas tolérer des bancs conçus pour ne pas rester assis trop longtemps. On ne peut pas accepter que l’automobile, véritable bulle hermétique au monde, soit le moyen de transport privilégié par les politiques publiques.
- 
+
 Du point de vue de la rencontre et de la mixité, les transports en commun sont sans commune mesure avec cette dernière. Les rues piétonnes, les spectacles de rues, la gratuité : autant d’idées pour provoquer la rencontre.
 
 Autre phénomène : la résidentialisation. Elle doit être combattue. Réserver à chacun·e sa case n’apporte qu’une paix de façade. Donnons plutôt à chacun·e sa place dans la collectivité.
