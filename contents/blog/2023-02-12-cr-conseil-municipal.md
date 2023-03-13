@@ -129,3 +129,5 @@ Malheureusement, ce conseil a de nouveau été ponctué de tensions, notamment s
 Le thème de prédilections des oppositions (aussi bien Coline Craeye pour LReM, Xavier Thierry pour LR, Thibaut François RN et François Guiffard majorité de Christian Poiret mais absent ce soir là) a, de nouveau, été mis sur la table.
 
 Il a cependant été bien mal amené, les habitant·es des quartiers s’en souviendront... Espérons que les débats seront plus apaisés au prochain conseil.
+
+[Vidéo du conseil municipal](https://www.youtube.com/watch?v=eYrIJzhJBhU "📺 Voir ce conseil municipal en vidéo")

@@ -33,6 +33,12 @@ Au delà de la forme, peu engageante, d’une association dont les fondateurs so
 
 Selon ces derniers, ils seraient maintenant apolitiques, mais la question est, pour combien de temps ? Comment apporter du crédit aux éventuelles conclusions de cette association dès lors ?
 
+D’autant qu’au delà du simple engagement politique, pour certains membres, on est clairement sur une ligne très à droite, comme en témoignent ces publications relayant les discours de l’extrême droite ou faisant sauter le barrage républicain avec les [conséquences que l’on connaît dans le Douaisis](./la-contagion-rn-peut-etre-stoppee)...
+
+![Publication de Jacques Brenot relayant Éric Zemmour](illustrations/publication-jacques-brenot-zemmour.png)
+![Publication de Jacques Brenot relayant Marion Maréchal Le Pen](illustrations/publication-jacques-brenot-lepen.png)
+![Publication de Jean-Luc Frydman](illustrations/publication-jean-luc-frydman-second-tour.png)
+
 ## Des associations existent déjà
 
 Je ne suis pas adhérent à [Anticor](https://www.anticor.org/), justement du fait de mon engagement politique, mais je soutiens pleinement leur action qui a déjà eu ses effets sur la politique locale du Douaisis.
@@ -45,7 +51,7 @@ Elle est d’autant plus légitime à le faire qu’elle est politiquement indé
 
 Elle bénéficie également d’un réseau national et de juristes capables de peser les charges/éléments à disposition, de jauger leur légalité et des possibilités de recours.
 
-Bref, je pense que tout·e citoyen·ne du Douaisis maximisera son impact contre la corruption en adhérant à Anticor ou en leur envoyant leurs informations ou soupçons éventuels plutôt qu’à cette association aux origines politisées tentant de réinventer une roue qui s'avère carrée.
+Bref, je pense que tout·e citoyen·ne du Douaisis maximisera son impact contre la corruption en adhérant à Anticor ou en leur envoyant leurs informations ou soupçons éventuels plutôt qu’à cette association aux origines politisées tentant de réinventer une roue qui s’avère carrée.
 
 ## Nous sommes toustes contribuables
 
