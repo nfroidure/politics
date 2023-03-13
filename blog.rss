@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 01 Mar 2023 13:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 07 Mar 2023 05:50:23 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2023 20:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2023 12:35:12 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/le-douaisis-un-desert-medical</guid>
+        <title>Le Douaisis, un désert médical ?</title>
+        <description>La pénurie de médecins se fait de plus en plus sentir à Douai. Documentée depuis plus de 10 ans, elle continue de progresser avec la complicité du gouvernement.</description>
+        <link>https://nicolasfroidure.fr/blog/le-douaisis-un-desert-medical</link>
+        <pubDate>Sun, 12 Mar 2023 20:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/qui-sont-les-contribuables-actifs-du-douaisis</guid>
         <title>Qui sont les Contribuables Actifs du Douaisis ?</title>
