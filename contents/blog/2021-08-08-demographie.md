@@ -8,6 +8,9 @@ categories:
   - Opinions politiques
 tags:
   - démographie
+illustration:
+  url: "illustrations/creche-antoinette-dumont.jpg"
+  alt: "Photographie de l’intérieur de la crèche Antoinette Dumont"
 ---
 
 # Pour une politique démographique écologique en France
@@ -71,6 +74,8 @@ Les avantages concernant la retraite alloués aux parents sont une forme d’ave
 Il faut dès à présent transformer ces avantages en réels points retraite pendant la durée de disponibilité prise pour élever ses enfants. Qu’ils soient plusieurs ou uniques, nos enfants méritent la présence de leurs parents à leurs côtés durant les premières années de leur enfance. Les parents, elleux, méritent que le travail d’éducation qui leur incombe soit pris en compte et traité comme ce qu’il est, un apport significatif à l’avenir de la France.
 
 ### Conséquence d’une démographie naturelle
+
+![Photographie de l’intérieur de la crèche Antoinette Dumont](illustrations/creche-antoinette-dumont.jpg)
 
 Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l’on imagine croissante malheureusement dans les décennies à venir étant donnée l’inaction climatique de nos dirigeant·es.
 

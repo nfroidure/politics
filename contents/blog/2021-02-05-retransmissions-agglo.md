@@ -9,6 +9,9 @@ categories:
 tags:
   - démocratie
   - agglomération
+illustration:
+  url: "illustrations/mirlitons-de-la-foire-de-saint-cloud.jpg"
+  alt: "Les mirlitons à la foire de Saint-Cloud"
 ---
 
 # De la retransmission des conseils communautaires
