@@ -6,7 +6,10 @@ draft: false
 categories:
   - Humeurs
 tags:
-  - europe
+  - Nicolas Froidure
+illustration:
+  url: "images/banner.png"
+  alt: "Bannière du site de Nicolas Froidure"
 ---
 
 # C’est décidé, je m’engage en politique

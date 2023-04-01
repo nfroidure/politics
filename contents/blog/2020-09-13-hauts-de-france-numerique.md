@@ -8,6 +8,9 @@ categories:
   - Hauts-de-France
 tags:
   - numérique
+illustration:
+  url: "illustrations/terminal-linux.png"
+  alt: "Capture d’écran d’un terminal Linux"
 ---
 
 # Pour une région Hauts-de-France actrice d’un numérique humain et rationnel

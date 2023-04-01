@@ -7,9 +7,14 @@ categories:
   - Europe
 tags:
   - europe
+illustration:
+  url: "illustrations/eelv-au-debat-europeenes.jpg"
+  alt: "Photo de notre groupe dans la cour de l'hôtel de ville de Douai"
 ---
 
 # Retour sur le débat des européennes à Douai
+
+![Photo de notre groupe dans la cour de l'hôtel de ville de Douai](illustrations/eelv-au-debat-europeenes.jpg)
 
 🎙️ Comme annoncé lors du débat européen organisé à Douai par Maison De l’Europe Douai, je publie le texte de ma question adressée à Dominique Riquet, récemment engagé aux côtés de LREM dans la liste "Renaissance".
 

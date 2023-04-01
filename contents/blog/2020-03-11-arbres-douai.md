@@ -8,10 +8,15 @@ categories:
   - Ville de Douai
 tags:
   - arbres
+illustration:
+  url: "illustrations/arbres-douai.jpg"
+  alt: "Photographie des arbres visibles en cœur d'îlot à Douai"
 origin: https://www.facebook.com/nfroidure/posts/10158312162364201
 ---
 
 # Les arbres à Douai
+
+![Photographie des arbres visibles en cœur d'îlot à Douai](illustrations/arbres-douai.jpg)
 
 🌳 Avec 18% de patrimoine arboré et 63% de surface arborée par habitant, notre chère ville de Douai se place plutôt bien par rapport aux villes comparables.
 

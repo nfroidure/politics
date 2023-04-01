@@ -8,6 +8,9 @@ categories:
   - Département du Nord
 tags:
   - départementales
+illustration:
+  url: "images/banner.png"
+  alt: "Bannière du site de Nicolas Froidure"
 ---
 
 # Élections départementales 2021

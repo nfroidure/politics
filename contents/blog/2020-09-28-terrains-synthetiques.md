@@ -8,6 +8,9 @@ categories:
   - Politique locale
 tags:
   - sport
+illustration:
+  url: illustrations/terrain-football-stade-demeny.jpg
+  alt: Photographie du terrain de football du stade Demeny à Douai
 ---
 
 # Les terrains synthétiques, écologiques ?

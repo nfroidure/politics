@@ -11,12 +11,12 @@ tags:
   - agglomération
 illustration:
   url: illustrations/greenwashing.jpg
-  alt: Publicité sur de Green Wash visible à Sin-le-Noble
+  alt: Publicité de Green Wash visible à Sin-le-Noble
 ---
 
 # Retour sur les deux derniers conseils communautaires
 
-![Publicité sur de Green Wash visible à Sin-le-Noble](illustrations/greenwashing.jpg)
+![Publicité de Green Wash visible à Sin-le-Noble](illustrations/greenwashing.jpg)
 
 📽️ On apprend qu’un investissement de 1.5M€ sera réalisé dans les 10 projecteurs 8K pour "doter le territoire du planétarium le plus performant au nord de Paris".
 
