@@ -1,6 +1,6 @@
 ---
 title: De la retransmission des conseils communautaires
-description: "Le conseil communautaire sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !"
+description: "Les conseils communautaires sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !"
 date: "2021-02-05T21:00:00.000Z"
 draft: false
 categories:
