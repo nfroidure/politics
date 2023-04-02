@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Mar 2023 20:00:00 GMT</lastBuildDate>
-    <pubDate>Sat, 01 Apr 2023 14:37:34 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 10:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 12:15:33 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/coline-craeye-ou-ferrari</guid>
+        <title>Coline Craeye ou Ferrari ?</title>
+        <description>Élue d’opposition à Douai, Coline Craeye-Ferrari a récemment été nommée Directrice Générale des Services d’Anzin-Saint-Aubin. Non sans heurts.</description>
+        <link>https://nicolasfroidure.fr/blog/coline-craeye-ou-ferrari</link>
+        <pubDate>Sun, 02 Apr 2023 10:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/le-douaisis-un-desert-medical</guid>
         <title>Le Douaisis, un désert médical ?</title>
@@ -278,7 +285,7 @@
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires</guid>
         <title>De la retransmission des conseils communautaires</title>
-        <description>Le conseil communautaire sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !</description>
+        <description>Les conseils communautaires sont retirés de Youtube dès la fin du conseil de Douaisis Agglo : un déni de démocratie !</description>
         <link>https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires</link>
         <pubDate>Fri, 05 Feb 2021 21:00:00 GMT</pubDate>
       </item>
