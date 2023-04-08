@@ -41,4 +41,4 @@ Quand on pense aux accusations incessantes de dogmatisme envoyées au visage de 
 
 [Vidéo: Coline Craeye et les panneaux](https://youtu.be/QeAJ77ROWg8 "📺")
 
-Ça méritait bien un petite vidéo.
+Ça méritait bien une petite vidéo.

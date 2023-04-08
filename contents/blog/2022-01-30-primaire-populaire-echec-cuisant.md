@@ -28,7 +28,7 @@ Il faut avoir à l’esprit que la primaire populaire est une sorte de "suite" d
 
 À l’époque, d’ailleurs, je n’étais pas encore adhérent d’EÉLV et avait suivi de près son déroulement. C’est d’ailleurs, relancé le 31 octobre 2020 par l’organisation de cette primaire que j’ai appris l’existence de ce nouvel épisode.
 
-Chose formidable, très peu de temps après, constatant que la manœuvre ne lui a pas permis de décoller dans les sondage, Anne Hidago, poursuivit l’intrigue en déclarant qu’elle ne tiendrait aucun compte du résultat du vote de la Primaire Populaire devenu, entre temps, une "investiture citoyenne" pour des raisons légales, si j’ai bien suivi.
+Chose formidable, très peu de temps après, constatant que la manœuvre ne lui a pas permis de décoller dans les sondages, Anne Hidago, poursuivit l’intrigue en déclarant qu’elle ne tiendrait aucun compte du résultat du vote de la Primaire Populaire devenu, entre temps, une "investiture citoyenne" pour des raisons légales, si j’ai bien suivi.
 
 Comme si cela ne suffisait pas, une fuite a révélé une vidéo interne de cette primaire dans laquelle on peut voir un initiateur de cette dernière expliquer quelle stratégie la primaire déployait pour forcer la main des non-candidat·es.
 
@@ -52,7 +52,7 @@ Depuis que j’assure l’interim du comité de soutien de Yannick Jadot en atte
 
 Les dynamiques ne sont plus à l’union bricolée, mais à un choix binaire, que l’on peut regretter, mais qui s’impose progressivement à nous : le projet de l’union des écologistes (EÉLV, Génération.s, Mouvement des progressistes, Génération Écologie) ou celui de la France Insoumise.
 
-Et même si un de ces deux candidats était investi, alors, je ne pense pas que ce sera de nature à arbitrer le match. En effet, l’engagement de cette investiture est de faire campagne pour la/le candidat·e sélectionné. Mais sans base idéologique solide, celles et ceux qui n’ont eu, à ce jour, qu’à remplir un ou deux formulaire, vont-iels vraiment devenir des militant·es ? J’en doute fort.
+Et même si un de ces deux candidats était investi, alors, je ne pense pas que ce sera de nature à arbitrer le match. En effet, l’engagement de cette investiture est de faire campagne pour la/le candidat·e sélectionné. Mais sans base idéologique solide, celles et ceux qui n’ont eu, à ce jour, qu’à remplir un ou deux formulaires, vont-iels vraiment devenir des militant·es ? J’en doute fort.
 
 C’est un autre échec de cette primaire : faire de la politique sans politiser son audience. Une primaire saine aurait vu un combat d’idées, des débats, des discours, des prises de position, comme cela a été le cas pour les écologistes (j’ai par exemple collé pour Éric Piolle dans le Douaisis puis tiré les conclusions du vote pour faire gagner l’écologie).
 
@@ -68,7 +68,7 @@ C’est pour cela que, voyant que cette primaire ne menait à rien, j’ai natur
 
 ## Un coup manqué
 
-Pour autant, et c’est la raison d’être de ce billet, je pense qu’**il ne faut pas renoncer à l’idée de s’unir** pour offrir une alternative. Mais cela ne peut se faire qu’avec un très important travail en amont et autour de valeurs communes clairement identifiée.
+Pour autant, et c’est la raison d’être de ce billet, je pense qu’**il ne faut pas renoncer à l’idée de s’unir** pour offrir une alternative. Mais cela ne peut se faire qu’avec un très important travail en amont et autour de valeurs communes clairement identifiées.
 
 Il est trop tard pour 2022 mais il ne s’agit pas, cependant, que cet échec soit le prétexte à toute tentative future. Effectivement, ce serait probablement le moyen le plus sûr de remporter les élections présidentielles et de mettre en œuvre toutes ces idées que portent les écologistes et les humanistes de concert.
 

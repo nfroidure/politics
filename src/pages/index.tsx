@@ -66,20 +66,23 @@ const Page = () => {
             Ensemble, remettons le réel au coeur de la politique !
           </Paragraph>
         </Blockquote>
+        <Blockquote>
+          <Paragraph className="signature">
+            <img src="images/signature.svg" alt="Signature" />
+          </Paragraph>
+        </Blockquote>
       </ContentBlock>
       <style jsx>{`
-        :global(p.photo) {
+        :global(p.signature) {
           text-align: center;
+        }
+        :global(img) {
+          height: calc(var(--vRythm) * 3);
+          width: auto;
         }
         :global(.light) {
           color: var(--light) !important;
           text-align: center !important;
-        }
-        img {
-          width: 100%;
-        }
-        .nobr {
-          white-space: nowrap;
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_L}) {
           .content {
