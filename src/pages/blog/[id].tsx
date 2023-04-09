@@ -34,13 +34,15 @@ const BlogPost = ({ entry, linkedEntries }: Props) => {
         <Paragraph>
           Publié le {new Date(entry.date).toLocaleString()}.
         </Paragraph>
-        <Heading2>Commenter et partager</Heading2>
-        <Share
-          url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
-          title={entry.title}
-        />
+        <aside>
+          <Heading2>Commenter et partager</Heading2>
+          <Share
+            url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
+            title={entry.title}
+          />
+        </aside>
         {linkedEntries.length ? (
-          <>
+          <aside>
             <Heading2>
               {linkedEntries.length === 1
                 ? "Article similaire"
@@ -58,9 +60,16 @@ const BlogPost = ({ entry, linkedEntries }: Props) => {
               .
             </Paragraph>
             <Items entries={linkedEntries} base="./" />
-          </>
+          </aside>
         ) : null}
       </ContentBlock>
+      <style>{`
+      @media print {
+        aside {
+          display: none;
+        }
+      }
+      `}</style>
     </Layout>
   );
 };

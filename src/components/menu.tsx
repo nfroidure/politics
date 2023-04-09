@@ -145,6 +145,11 @@ const Menu = () => {
             width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
+        @media print {
+          .root {
+            display: none;
+          }
+        }
       `}</style>
     </div>
   );

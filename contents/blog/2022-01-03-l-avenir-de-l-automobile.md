@@ -18,6 +18,8 @@ illustration:
 
 On fait souvent le procès aux écologistes d’être anti-automobile. Pourtant, plutôt que Cassandre, c’est [Paracelse](https://fr.wikipedia.org/wiki/Paracelse) que je citerai : «Toutes les choses sont poison, et rien n’est sans poison ; seule la dose fait qu’une chose n’est pas poison».
 
+**C’est pourquoi il nous faut 10 fois moins de voitures, 3 fois moins lourdes et à l’électricité décarbonée.**
+
 ## Situation
 
 Le parc automobile français représente 38.2 millions de véhicules. Leur durée de vie est en moyenne de 10 ans.
@@ -26,7 +28,7 @@ Le parc automobile français représente 38.2 millions de véhicules. Leur duré
 
 ![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](illustrations/avenir-automobile.jpg)
 
-Un des soucis majeurs de l’automobile c’est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile...
+Un des soucis majeurs de l’automobile est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile...
 
 Autre inconvénient pour la collectivité, elles prennent de la place (beaucoup de place !) et nécessitent des routes et du stationnement. Aucune commune mesure avec les infrastructures que requièrent les vélos.
 
@@ -52,7 +54,7 @@ Pour quelqu’un comme moi qui a vécu à la campagne sans le permis, je peux vo
 
 Des transports en commun existent et sont une alternative raisonnable à l’automobile dans de nombreux cas. Je prends le train pour Lille depuis 7 ans et je m’en accommode bien. Pour les petits déplacements du quotidien, c’est le vélo.
 
-Avec la gratuité des transports qui doit absolument se généraliser, il y a fort à parier que les transports en commun seront de plus en plus usités et c’est heureux.
+Avec la [gratuité des transports](./gratuite-des-transports-bilan-et-projections) qui doit absolument se généraliser, il y a fort à parier que les transports en commun seront de plus en plus usités et c’est heureux.
 
 Mais force est de constater que ce n’est pas suffisant, les services de secours auront toujours besoin d’automobiles pour intervenir rapidement. De la même façon, les personnes porteuses de handicap bénéficient de l’automobile et il serait criminel de les en priver.
 
@@ -60,11 +62,11 @@ Pour ma part, je suis valide et écologiste. Pourtant, je possède une voiture. 
 
 ## Alors que faire ?
 
-On peut légitimement de demander s’il faut attendre simplement la fin de ce "grand soir" de la mobilité qui permet tant d’aisance dans nos déplacements pour espérer que les difficultés que posent l’automobile prennent fin ?
+On peut légitimement se demander s’il faut attendre simplement la fin de ce "grand soir" de la mobilité via la raréfaction du pétrole qui permet tant d’aisance dans nos déplacements pour espérer que les difficultés que posent l’automobile prennent fin.
 
 Un peu comme dans ce sketch du Film [Bowling for Columbine](https://fr.wikipedia.org/wiki/Bowling_for_Columbine) où un comédien se prend à imaginer un monde où les munitions coûteraient si cher qu’il faudrait des années de labeur pour projeter un crime.
 
-Non, je pense qu’entre le laxisme coupable des défenseurs de l’automobile et les présupposés anti-voitures que des anti-écolos fantasment, il existe un juste milieu qui sanctuarise notre mobilité tout en optimisant la consommation des ressources de notre planète et en épargnant les nuisances et pollutions que l’automobile génère.
+Non, je pense qu’entre le laxisme coupable des défenseurs de l’automobile et les [présupposés anti-voitures](/faq#pauvres-automobilistes) que des anti-écolos fantasment, il existe un juste milieu qui sanctuarise notre mobilité tout en optimisant la consommation des ressources de notre planète et en épargnant les nuisances et pollutions que l’automobile génère.
 
 ### Réduire la pollution
 
@@ -86,7 +88,7 @@ La fin du SUV doit être actée. Les personnes qui achètent les automobiles neu
 
 On se retrouve dans des situations ubuesques où les gens ne sont plus en mesure de payer les déplacements domicile-travail, comment peut-on laisser faire la mode des SUV ?
 
-La taxation sur le poids des véhicules doit être démultipliée pour rendre dissuasif l’achat de SUVs, qu’ils soient thermique ou électriques.
+La taxation sur le poids des véhicules doit être démultipliée pour rendre dissuasif l’achat de SUVs, qu’ils soient thermiques ou électriques.
 
 ### Limiter le nombre de voitures
 
@@ -98,15 +100,15 @@ Malheureusement, cette collectivisation reste marginale, pour débloquer la coll
 
 Ces véhicules [circulent déjà depuis quelques années aux États-Unis](https://lexpansion.lexpress.fr/actualite-economique/voiture-autonome-le-pari-de-google-bientot-a-portee-de-main_2154573.html), je pense que leur viabilité est une question de décennies (peut être une seule).
 
-Demain, posséder une voiture relèvera du luxe. Mon pari est que les services tels qu’über sont en fait à l’affût pour déployer un immense service de transport en commun à la demande, en porte à porte.
+Demain, posséder une voiture relèvera du luxe (c’est déjà le cas, il suffit de compter les vélos dans les quartiers populaires pour s’en rendre compte). Mon pari est que les services tels qu’Uber sont en fait à l’affût pour déployer un immense service de transport en commun à la demande, en porte à porte.
 
 L’investissement dans l’énorme flotte se fera très certainement par le biais des particuliers qui mettront en "gestion" leur véhicule auprès de ces services. En effet, pourquoi laisser sa voiture garée devant chez soi quand elle peut me rapporter de l’argent en faisant le taxi ?
 
 Aujourd’hui, les personnes qui achètent des véhicules neufs sont [principalement des personnes agées](https://www.ouest-france.fr/leditiondusoir/2021-12-16/voici-lage-moyen-des-proprietaires-de-voitures-neuves-selon-les-marques-b99d88f2-d10f-4fdc-a263-6e22926c1c03). On ne pourra pas leur en vouloir de s’aménager un petit complément de retraite par la même occasion.
 
-Un des freins à la mise en gestion de son propre véhicule sera certainement le fait de le voir dégradé. Ces plateformes vont très certainement reporter leur système de notation du trajet vers une notation de l’état du véhicule afin de récompenser les usagers respectueux des véhicules ainsi gérés.
+Un des freins à la mise en gestion de son propre véhicule sera certainement le fait de le voir dégradé. Ces plateformes vont très certainement reporter leur système de notation du trajet vers une notation de l’état du véhicule afin de récompenser les usagèr·es qui respecteront les véhicules ainsi gérés.
 
-Les infrastructures routières changent moins vite que le parc automobile (qui se renouvelle tous les dix ans). Il est donc urgent de penser leur évolution à l’aûne de ce nouvel outil :
+Les infrastructures routières changent moins vite que le parc automobile (qui se renouvelle tous les dix ans). Il est donc urgent de penser leur évolution à l’aune de ce nouvel outil :
 
 - les projets d’élargissement des axes routiers doivent être gelés, les réfections temporisées tant qu’elles le peuvent,
 - les exigences de stationnement doivent être revues à la baisse dans les appels à projet pour l’immobilier neuf,

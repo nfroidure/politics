@@ -67,6 +67,11 @@ const Header = () => {
             width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
           }
         }
+        @media print {
+          header {
+            display: none;
+          }
+        }
       `}</style>
     </>
   );

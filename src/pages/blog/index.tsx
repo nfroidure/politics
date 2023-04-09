@@ -118,6 +118,11 @@ const BlogEntries = ({
         justify-content: center;
         padding: var(--vRythm) 0 0 0;
       }
+      @media print {
+        .pagination {
+          display: none;
+        }
+      }
     `}</style>
   </Layout>
 );
