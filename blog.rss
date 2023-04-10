@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 08 Apr 2023 09:20:00 GMT</lastBuildDate>
-    <pubDate>Sun, 09 Apr 2023 10:41:16 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2023 15:05:00 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2023 12:08:33 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/un-systeme-de-ticket-ouvert-pour-les-collectivites</guid>
+        <title>Un système de ticket ouvert pour les collectivités</title>
+        <description>Gérer les demandes des habitant⋅es doit se faire en toute transparence et dans l’efficacité.</description>
+        <link>https://nicolasfroidure.fr/blog/un-systeme-de-ticket-ouvert-pour-les-collectivites</link>
+        <pubDate>Sun, 09 Apr 2023 15:05:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/quel-avenir-pour-la-nupes-a-douai</guid>
         <title>Quel avenir pour la NUPES à Douai ?</title>
