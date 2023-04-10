@@ -61,6 +61,7 @@ En effet, le parc est toujours squatté la nuit. Pire, les portes sont vandalis�
 ![Photographie du portail automatique mis en sécurité puis forcé au Parc Bertin](illustrations/porte-automatique-douai-parc-bertin.jpg)
 ![Photographie de l’entrée du Parc Bertin](illustrations/entree-parc-bertin.jpg)
 ![Photographie du coût du Parc Bertin](illustrations/cout-parc-bertin.jpg)
+![Photographie du portique du Parc Bertin entrain d'être réparé pour une énième fois](illustrations/parc-bertin-portique-en-maintenance.jpg)
 
 Comble de l’ironie, l’entrée du parc est signalée parc un rétro-éclairage LED alors qu’à ces heures nocturnes, il n’est plus possible d’y entrer.
 
@@ -112,6 +113,7 @@ Les disques de stationnement peuvent même créer du lien avec les commerçant·
 
 ![Photographie du parcmètre numérique rue de Bellain](illustrations/parcmetre-numerique.jpg)
 ![Photographie du parcmètre numérique rue de Bellain largement dépassé](illustrations/parcmetre-depasse.jpg)
+![Photographie des parcmètre cassés](illustrations/parcmetre-casses-douai.jpg)
 ![Photographie d’un véhicule en mode triche sur la rue de Bellain](illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
 ![Photographie d’un disque de stationnement](illustrations/disque-stationnement.jpg)
 
