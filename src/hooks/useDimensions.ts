@@ -32,12 +32,12 @@ function useDimensions(
   const [dimensions, setDimensions] = useState<UseDimensionResult>('none');
   const [node, _setNode] = useState<HTMLElement | null>(null);
   const nodeRef = useRef(node);
-  const setNode = (node: HTMLElement) => {
+  const setNode = (node: HTMLElement | null) => {
     nodeRef.current = node;
     _setNode(node);
   };
 
-  const ref = useCallback((node) => {
+  const ref = useCallback((node: HTMLElement | null) => {
     setNode(node);
   }, []);
   const measure = () => {
@@ -58,10 +58,12 @@ function useDimensions(
   useEffect(() => {
     if (liveMeasure) {
       window.addEventListener('resize', measure);
+      window.addEventListener('click', measure);
       window.addEventListener('scroll', measure, true);
 
       return () => {
         window.removeEventListener('resize', measure);
+        window.removeEventListener('click', measure);
         window.removeEventListener('scroll', measure, true);
       };
     }

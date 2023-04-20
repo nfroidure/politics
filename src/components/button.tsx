@@ -74,7 +74,11 @@ export default function Button({
           </a>
         </Link>
       ) : (
-        <button className="button" {...props} disabled={disabled}>
+        <button
+          className="button"
+          {...(props as Omit<ButtonHTMLAttributes<HTMLButtonElement>, "type">)}
+          disabled={disabled}
+        >
           {icon ? (
             <span
               className="icon"

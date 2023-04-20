@@ -23,12 +23,12 @@ export default function createUseOnClickOutside(
       .map((_, index) => {
         const [, setNode] = arrayNode[index];
         const nodeRef = arrayNodeRef[index];
-        const _setNode = (node: HTMLElement) => {
+        const _setNode = (node: HTMLElement | null) => {
           nodeRef.current = node;
           setNode(node);
         };
 
-        const ref = useCallback((node) => {
+        const ref = useCallback((node: HTMLElement | null) => {
           _setNode(node);
         }, []);
 
