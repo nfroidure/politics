@@ -12,7 +12,7 @@ const Anchored = ({
     <span className="root">
       {children}{" "}
       <small>
-        <Link href={`#${id}`}>
+        <Link legacyBehavior href={`#${id}`}>
           <a className="icon" id={id} title="Lien vers cette section">
             <span>🔗</span>
           </a>

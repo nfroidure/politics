@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <header>
-        <Link href="/">
+        <Link legacyBehavior href="/">
           <a>
             <span className="slogan">L'écologie dans le Douaisis, avec et pour vous&nbsp;!</span>
             <span className="description">Nicolas Froidure</span>

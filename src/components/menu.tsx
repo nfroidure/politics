@@ -21,15 +21,15 @@ const Menu = () => {
   return (
     <div className="root">
       <nav>
-        <Link href="/">
+        <Link legacyBehavior href="/">
           <a
-            className={`home ${router.asPath === "/" ? "selected" : ""}`}
+            className={`home${router.asPath === "/" ? " selected" : ""}`}
             title="Revenir à l’accueil"
           >
             <span>Accueil</span>
           </a>
         </Link>
-        <Link href="/blog">
+        <Link legacyBehavior href="/blog">
           <a
             className={router.asPath.startsWith("/blog") ? "selected" : ""}
             title="Lire le blog"
@@ -37,7 +37,7 @@ const Menu = () => {
             <span>Blog</span>
           </a>
         </Link>
-        <Link href="/biographie">
+        <Link legacyBehavior href="/biographie">
           <a
             className={router.asPath === "/biographie" ? "selected" : ""}
             title="Lire ma biographie"
@@ -45,7 +45,7 @@ const Menu = () => {
             <span>Biographie</span>
           </a>
         </Link>
-        <Link href="/faq">
+        <Link legacyBehavior href="/faq">
           <a
             className={router.asPath === "/faq" ? "selected" : ""}
             title="Lire mes questions/réponses"

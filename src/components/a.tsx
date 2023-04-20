@@ -23,6 +23,7 @@ const Anchor = ({
     iconPosition?: "first" | "last";
   } & Exclude<React.AnchorHTMLAttributes<HTMLAnchorElement>, "href">) => (
   <Link
+    legacyBehavior
     {...{
       href,
       as,

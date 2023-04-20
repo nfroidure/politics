@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="bottom">
           <p>
             <span>© {ORGANISATION_NAME} - Tous droits réservés</span> -{" "}
-            <Link href="/mentions-legales">
+            <Link legacyBehavior href="/mentions-legales">
               <a>Mentions légales</a>
             </Link>
           </p>

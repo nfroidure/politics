@@ -52,7 +52,7 @@ export default function Button({
   return (
     <span className={`root${icon && label ? " both" : ""}`}>
       {type === "link" ? (
-        <Link {...(props as LinkProps)}>
+        <Link legacyBehavior {...(props as LinkProps)}>
           <a
             className={`button${disabled ? " disabled" : ""}`}
             onClick={(e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) =>
