@@ -16,7 +16,7 @@ const Page = () => (
       </Paragraph>
       <UnorderedList>
         <ListItem>
-          <Anchor href="/blog/c-est-decide--je-m-engage-en-politique">
+          <Anchor href="/blog/c-est-decide-je-m-engage-en-politique">
             les raisons de mon engagement en politique
           </Anchor>
           ,

@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
-// import { darkBackground } from "../styles";
 import { publicRuntimeConfig } from "../utils/config";
 import {
   FACEBOOK_ACCOUNT,
