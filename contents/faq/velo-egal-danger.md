@@ -15,7 +15,7 @@ C’est pour la même raison qu’on peut posséder un couteau mais pas un bazoo
 Un arbitrage est nécessaire concernant la mobilité également, moins d’automobiles, c’est moins de risques, moins de danger. Les accidents mortels suite à la collision d’un vélo et d’un⋅e piétion⋅ne sont extrêmement rares (voire inédits). Ce n’est malheureusement pas le cas des décès dus à l’automobile.
 
 ![Statistique: Nombre de personnes décédées sur le réseau routier français de 2010 à 2021 | Statista](https://fr.statista.com/graphique/1/513052/accidents-circulation-nombre-de-tues-france.jpg)
-[Source]("https://fr.statista.com/statistiques/513052/accidents-circulation-nombre-de-tues-france/) - Trouver plus de statistiques sur [Statista](https://fr.statista.com).
+[Source](https://fr.statista.com/statistiques/513052/accidents-circulation-nombre-de-tues-france/) - Trouver plus de statistiques sur [Statista](https://fr.statista.com).
 
 Les transports en commun, le vélo, la marche à pied peuvent aisément se substituer à de nombreux déplacements sans perte significative de mobilité. Dès lors, pourquoi se priver de les favoriser par rapport à l’automobile ?
 
