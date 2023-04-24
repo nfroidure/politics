@@ -19,7 +19,11 @@ Difficile, en ce moment, d’échapper à la grande opération de communication 
 
 ![Photo des divers panneaux d’affichages pour le boulodrome](illustrations/boulodrome-douaisis.jpg)
 
-Ni notre chamboule-tout des projets inutiles de l’agglomération sur la braderie de Gayant de 2020, ni nos protestations régulières, ni le remarquable travail d’opposition de nos élu·es communautaires écologistes, ni mon inventaire des terrains de boule de proximité lors de [mon tour du Douaisis](./top-depart-du-tour) n’auront eu d’effet sur les dimensions démesurées de ce boulodrome.
+Ni notre chamboule-tout des projets inutiles de l’agglomération sur la braderie de Gayant de 2020, ni nos protestations régulières, ni le remarquable travail d’opposition de [nos élu·es communautaires écologistes](https://www.youtube.com/watch?v=2cjJPjkDfiw), ni mon inventaire des terrains de boule de proximité lors de [mon tour du Douaisis](./top-depart-du-tour) n’auront eu d’effet sur les dimensions démesurées de ce boulodrome.
+
+![Stand sur le boulodrome à Gayant Expo](illustrations/boulodrome-gayant-expo.jpg)
+![Intervention de Stéphanie Stiernon sur le boulodrome](illustrations/boulodrome-stephanie.jpg)
+![Sourire de Gayant sur notre chamboule-tout à la braderie](illustrations/boulodrome-sourire-de-gayant.jpg)
 
 Pour rappel, nous dénoncions plusieurs avaries écologiques, stratégiques et démocratiques concernant ce projet :
 
@@ -38,3 +42,13 @@ Pour rappel, nous dénoncions plusieurs avaries écologiques, stratégiques et d
 Pour terminer, hasard du calendrier, le 8 mars prochain ce sera la Journée Internationale des Droits des Femmes. Vu le budget consacré à l’opération de communication d’envergure pour éviter un bide (150 000€ ?!), je me dis que c’eût été plus profitable d’utiliser ces budgets pour porter une des mesures proposées par EÉLV Douai pour les municipales 2020 : « affichage contre les violences faîtes aux femmes dans les transports en commun et arrêts de bus ».
 
 En lieu et place, on a des affiches pour un boulodrome qui ne nous évoque rien d’autre qu’un gigantesque gâchis d’argent public.
+
+**Note rétrospective :**
+
+![boulodrome](illustrations/boulodrome-visiteurs.jpg "🖼➡️")
+
+Finalement, ce sont 4000 personnes qui auront fait le déplacement pour cette inauguration, soit 37,5€ de dépenses par tête.
+
+En donnant directement 10€ aux gens pour venir, on aurait eu quatre fois plus de monde... C'est un usage bien dommageable de l'argent public.
+
+Le journal en ligne, Daily Nord, a très justement titré son article sur le sujet [Douaisis : Une inauguration qui « fout les boules »](https://dailynord.fr/2022/03/douaisis-une-inauguration-qui-fout-les-boules/).
