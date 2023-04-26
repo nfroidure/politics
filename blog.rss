@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 24 Apr 2023 11:15:00 GMT</lastBuildDate>
-    <pubDate>Mon, 24 Apr 2023 11:42:42 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Apr 2023 07:15:00 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2023 09:34:15 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/stop-pub-mettons-fin-a-la-publicite</guid>
+        <title>Stop pub : mettons fin à la publicité !</title>
+        <description>La publicité est un véritable fléau. Elle envahit nos vies et crée des désirs futiles. Une collectivités se souciant de ses habitant⋅es doit viser sa suppression de l’espace public.</description>
+        <link>https://nicolasfroidure.fr/blog/stop-pub-mettons-fin-a-la-publicite</link>
+        <pubDate>Wed, 26 Apr 2023 07:15:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/noms-de-rue-du-raquet-du-bon-et-du-moins-bon</guid>
         <title>Noms de rue du Raquet, du bon et du moins bon</title>
