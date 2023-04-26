@@ -126,7 +126,9 @@ Les véhicules de fonction doivent être généralisés, il n’y a aucune raiso
 
 ## Et le Douaisis dans tout ça ?
 
-Notre agglomération souhaite, avec l’usine Renault en orchestratrice, faire du Douaisis un pôle d’excellence industriel pour le véhicule électrique.
+![Photographie de l’usine Renault ELectriCity à Douai](illustrations/renault-electricity.jpg)
+
+Notre agglomération souhaite, avec l’usine Renault en orchestratrice, faire du Douaisis un pôle d’excellence industrielle pour le véhicule électrique.
 
 J’y suis favorable pour toutes les raisons suscitées. Mais Renault doit également sortir du modèle de vente de véhicules aux particuliers et embrasser les usages de demain (ou mieux les porter) :
 

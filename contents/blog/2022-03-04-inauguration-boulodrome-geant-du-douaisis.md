@@ -23,7 +23,8 @@ Ni notre chamboule-tout des projets inutiles de l’agglomération sur la brader
 
 ![Stand sur le boulodrome à Gayant Expo](illustrations/boulodrome-gayant-expo.jpg)
 ![Intervention de Stéphanie Stiernon sur le boulodrome](illustrations/boulodrome-stephanie.jpg)
-![Sourire de Gayant sur notre chamboule-tout à la braderie](illustrations/boulodrome-sourire-de-gayant.jpg)
+![Sourire de Gayant sur notre chamboule-tout à la braderie de 2020](illustrations/boulodrome-sourire-de-gayant.jpg)
+![Photographie de notre chamboule-tout à la braderie de 2022](illustrations/braderie-chamboule-tout.jpg)
 
 Pour rappel, nous dénoncions plusieurs avaries écologiques, stratégiques et démocratiques concernant ce projet :
 
