@@ -1,3 +1,4 @@
+/** @type {import('next').NextConfig} */
 const buildPrefix = process.env.NODE_ENV === "production" ? "" : "";
 const baseURL =
   process.env.NODE_ENV === "production"
@@ -5,6 +6,7 @@ const baseURL =
     : "http://nfroidure.localhost:3000";
 
 export default {
+  reactStrictMode: true,
   publicRuntimeConfig: {
     environment: process.env.NODE_ENV,
     buildPrefix,
