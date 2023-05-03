@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2023-04-26T07:15:00.000Z</updated>
+  <updated>2023-05-03T07:15:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/des-elections-municipales-a-lambres-lez-douai-en-2023</id>
+    <title>Des élections municipales à Lambres-lez-Douai en 2023</title>
+    <link href="https://nicolasfroidure.fr/blog/des-elections-municipales-a-lambres-lez-douai-en-2023" rel="alternate" type="text/html" />
+    <updated>2023-05-03T07:15:00.000Z</updated>
+    <published>2023-05-03T07:15:00.000Z</published>
+    <summary>Suite à la dissidence de Caroline Sanchez, le siège de Bernard Goulois est remis en jeu.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/stop-pub-mettons-fin-a-la-publicite</id>
     <title>Stop pub : mettons fin à la publicité !</title>
