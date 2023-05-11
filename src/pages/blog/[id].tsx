@@ -1,25 +1,23 @@
-import { join as pathJoin } from "path";
-import { entriesToBaseProps } from "./index";
+import { DOMAIN_NAME } from "../../utils/constants";
+import { fixText } from "../../utils/text";
+import { renderMarkdown } from "../../utils/markdown";
+import { pathJoin } from "../../utils/files";
+import { entriesToBaseListingMetadata } from "./index";
 import { readEntries } from "../../utils/frontmatter";
+import { datedPagesSorter } from "../../utils/contents";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading2 from "../../components/h2";
 import Paragraph from "../../components/p";
 import Share from "../../components/share";
 import Items from "../../components/items";
-import { DOMAIN_NAME } from "../../utils/constants";
-import { fixText } from "../../utils/text";
-import { renderMarkdown } from "../../utils/markdown";
-import { datedItemsSorter, toItem } from "../../utils/items";
-import type { Metadata } from "./index";
-import type { Entry } from ".";
-import type { Item } from "../../utils/items";
+import type { BlogPost } from "../../utils/blogPost";
 import type { GetStaticProps, GetStaticPaths } from "next";
 
 type Params = { id: string };
 type Props = {
-  entry: Entry;
-  linkedEntries: Item[];
+  entry: BlogPost;
+  linkedEntries: BlogPost[];
 };
 
 const BlogPost = ({ entry, linkedEntries }: Props) => {
@@ -77,8 +75,8 @@ const BlogPost = ({ entry, linkedEntries }: Props) => {
 export default BlogPost;
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const baseProps = entriesToBaseProps(
-    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  const baseProps = entriesToBaseListingMetadata(
+    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
   );
 
   const paths = baseProps.entries.map((entry) => ({
@@ -91,12 +89,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
-  const baseProps = entriesToBaseProps(
-    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  const baseProps = entriesToBaseListingMetadata(
+    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
   );
   const entry = baseProps.entries.find(
     ({ id }) => id === (params || {}).id
-  ) as Entry;
+  ) as BlogPost;
   const linkedEntries = baseProps.entries
     .filter(
       (anEntry) =>
@@ -108,8 +106,7 @@ export const getStaticProps: GetStaticProps<Props, Params> = async ({
           )
         )
     )
-    .map(toItem)
-    .sort(datedItemsSorter);
+    .sort(datedPagesSorter);
   const pastEntries = linkedEntries.filter(
     (anEntry) => Date.parse(anEntry.date) < Date.parse(entry.date)
   );

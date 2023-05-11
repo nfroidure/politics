@@ -1,10 +1,3 @@
-import Layout from "../layouts/main";
-import ContentBlock from "../components/contentBlock";
-import Heading1 from "../components/h1";
-import Heading2 from "../components/h2";
-import Paragraph from "../components/p";
-import UnorderedList from "../components/ul";
-import ListItem from "../components/li";
 import {
   DOMAIN_NAME,
   ORGANISATION_LEGAL_NAME,
@@ -12,7 +5,14 @@ import {
   ORGANISATION_ADDRESS,
   PUBLISHER,
 } from "../utils/constants";
+import Layout from "../layouts/main";
+import ContentBlock from "../components/contentBlock";
+import Heading1 from "../components/h1";
+import Heading2 from "../components/h2";
+import Paragraph from "../components/p";
+import UnorderedList from "../components/ul";
 import Anchor from "../components/a";
+import ListItem from "../components/li";
 
 const Page = () => (
   <Layout title="Mentions légales">

@@ -36,10 +36,6 @@ jobs:
         env:
           CI: true
           NODE_ENV: production
-      - run: npm run export
-        env:
-          CI: true
-          NODE_ENV: production
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4

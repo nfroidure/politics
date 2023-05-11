@@ -1,48 +1,27 @@
-import { join as pathJoin } from "path";
+import { pathJoin } from "../../utils/files";
+import { readEntries } from "../../utils/frontmatter";
+import { toASCIIString } from "../../utils/ascii";
+import { readParams } from "../../utils/params";
+import { parseMarkdown } from "../../utils/markdown";
+import { datedPagesSorter } from "../../utils/contents";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
 import Heading1 from "../../components/h1";
 import Paragraph from "../../components/p";
 import Anchor from "../../components/a";
 import Head from "next/head";
-import { readEntries } from "../../utils/frontmatter";
-import { toASCIIString } from "../../utils/ascii";
-import { readParams } from "../../utils/params";
-import { parseMarkdown } from "../../utils/markdown";
-import { datedItemsSorter } from "../../utils/items";
 import Items from "../../components/items";
 import type { FrontMatterResult } from "front-matter";
+import type { BlogPost } from "../../utils/blogPost";
 import type { MarkdownRootNode } from "../../utils/markdown";
+import type {
+  BaseListingPageMetadata,
+  BasePagingPageMetadata,
+} from "../../utils/contents";
 import type { GetStaticProps } from "next";
 import type { BuildQueryParamsType } from "../../utils/params";
 
-export type Metadata = {
-  leafname?: string;
-  title: string;
-  description: string;
-  date: string;
-  draft: boolean;
-  tags: string[];
-  categories: string[];
-  illustration?: {
-    url: string;
-    alt: string;
-  };
-};
-export type Entry = {
-  id: string;
-  content: MarkdownRootNode;
-} & Metadata;
-
-export type BaseProps = {
-  title: string;
-  description: string;
-  entries: Entry[];
-  pagesCount: number;
-};
-export type Props = BaseProps & {
-  page: number;
-};
+export type Props = BasePagingPageMetadata<BlogPost>;
 
 const PARAMS_DEFINITIONS = {
   page: {
@@ -127,19 +106,19 @@ const BlogEntries = ({
   </Layout>
 );
 
-export const entriesToBaseProps = (
-  baseEntries: FrontMatterResult<Metadata>[]
-): BaseProps => {
+export const entriesToBaseListingMetadata = (
+  baseEntries: FrontMatterResult<BlogPost>[]
+): BaseListingPageMetadata<BlogPost> => {
   const title = `Blog politique`;
   const description = "Découvrez le blog d'un militant écologiste de Douai.";
   const entries = baseEntries
-    .map<Entry>((entry) => ({
+    .map<BlogPost>((entry) => ({
       ...entry.attributes,
       id: entry.attributes.leafname || toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
     .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
-    .sort(datedItemsSorter);
+    .sort(datedPagesSorter);
 
   return {
     title,
@@ -154,8 +133,8 @@ export const getStaticProps: GetStaticProps<Props, { page: string }> = async ({
 }) => {
   const castedParams = readParams(PARAMS_DEFINITIONS, params || {}) as Params;
   const page = castedParams?.page || 1;
-  const baseProps = entriesToBaseProps(
-    await readEntries<Metadata>(pathJoin(".", "contents", "blog"))
+  const baseProps = entriesToBaseListingMetadata(
+    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
   );
   const title = `${baseProps.title}${
     page && page !== 1 ? ` - page ${page}` : ""

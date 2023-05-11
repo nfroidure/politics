@@ -1,11 +1,11 @@
+import { CSS_BREAKPOINT_START_L } from "../utils/constants";
 import Heading2 from "./h2";
 import Paragraph from "./p";
 import Anchor from "./a";
 import Img from "./img";
-import { Item } from "../utils/items";
-import { CSS_BREAKPOINT_START_L } from "../utils/constants";
+import type { BaseContentPageMetadata } from "../utils/contents";
 
-const Items = <T extends Item>({
+const Items = <T extends BaseContentPageMetadata>({
   entries,
   base,
 }: {

@@ -1,3 +1,7 @@
+import {
+  CSS_BREAKPOINT_START_L,
+  ORGANISATION_CONTACT,
+} from "../utils/constants";
 import Layout from "../layouts/main";
 import ContentBlock from "../components/contentBlock";
 import Heading1 from "../components/h1";
@@ -7,10 +11,6 @@ import Strong from "../components/strong";
 import Anchor from "../components/a";
 import UnorderedList from "../components/ul";
 import ListItem from "../components/li";
-import {
-  CSS_BREAKPOINT_START_L,
-  ORGANISATION_CONTACT,
-} from "../utils/constants";
 import Blockquote from "../components/blockquote";
 
 const Page = () => {

@@ -1,20 +1,20 @@
-import { join as pathJoin } from "path";
+import { pathJoin } from "../utils/files";
+import { readEntries } from "../utils/frontmatter";
+import { toASCIIString } from "../utils/ascii";
+import { parseMarkdown, renderMarkdown } from "../utils/markdown";
+import { publicRuntimeConfig } from "../utils/config";
+import { fixText } from "../utils/text";
 import Layout from "../layouts/main";
 import ContentBlock from "../components/contentBlock";
 import Heading1 from "../components/h1";
 import Heading2 from "../components/h2";
 import Paragraph from "../components/p";
-import { readEntries } from "../utils/frontmatter";
-import { toASCIIString } from "../utils/ascii";
-import { parseMarkdown, renderMarkdown } from "../utils/markdown";
-import { publicRuntimeConfig } from "../utils/config";
 import Strong from "../components/strong";
 import Anchored from "../components/anchored";
-import { fixText } from "../utils/text";
 import type { MarkdownRootNode } from "../utils/markdown";
 import type { GetStaticProps } from "next";
 
-export type Metadata = {
+export type FAQItemMetadata = {
   title: string;
   date: string;
   draft: boolean;
@@ -22,7 +22,7 @@ export type Metadata = {
 export type Entry = {
   id: string;
   content: MarkdownRootNode;
-} & Metadata;
+} & FAQItemMetadata;
 
 type Props = {
   entries: Entry[];
@@ -74,7 +74,7 @@ const Page = ({ entries }: Props) => (
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const entries = (
-    await readEntries<Metadata>(pathJoin(".", "contents", "faq"))
+    await readEntries<FAQItemMetadata>(pathJoin(".", "contents", "faq"))
   )
     .map<Entry>((entry) => ({
       ...entry.attributes,

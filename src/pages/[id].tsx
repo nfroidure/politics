@@ -1,18 +1,18 @@
-import { join as pathJoin } from "path";
+import { DOMAIN_NAME } from "../utils/constants";
+import { fixText } from "../utils/text";
+import { parseMarkdown, renderMarkdown } from "../utils/markdown";
+import { readEntry } from "../utils/frontmatter";
+import { toASCIIString } from "../utils/ascii";
+import { readDir, pathJoin } from "../utils/files";
 import Layout from "../layouts/main";
 import ContentBlock from "../components/contentBlock";
 import Paragraph from "../components/p";
 import Anchor from "../components/a";
 import Share from "../components/share";
-import { DOMAIN_NAME } from "../utils/constants";
-import { fixText } from "../utils/text";
-import { parseMarkdown, renderMarkdown } from "../utils/markdown";
-import { readEntry, readPaths } from "../utils/frontmatter";
-import { toASCIIString } from "../utils/ascii";
 import type { GetStaticProps, GetStaticPaths } from "next";
 import type { MarkdownRootNode } from "../utils/markdown";
 
-type Metadata = {
+type PageFrontmatterMetadata = {
   date: string;
   title: string;
   description: string;
@@ -25,7 +25,7 @@ type Metadata = {
 type Entry = {
   id: string;
   content: MarkdownRootNode;
-} & Metadata;
+} & PageFrontmatterMetadata;
 
 type Params = { id: string };
 type Props = { entry: Entry };
@@ -69,7 +69,7 @@ const Page = ({ entry }: Props) => {
 export default Page;
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = (await readPaths(pathJoin(".", "contents", "pages"))).map(
+  const paths = (await readDir(pathJoin(".", "contents", "pages"))).map(
     (path) => ({
       params: { id: path.replace(".md", "") },
     })
@@ -81,7 +81,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<Props, Params> = async ({
   params,
 }) => {
-  const result = await readEntry<Metadata>(
+  const result = await readEntry<PageFrontmatterMetadata>(
     pathJoin("contents", "pages", (params?.id as string) + ".md")
   );
 
