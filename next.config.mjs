@@ -6,6 +6,9 @@ const baseURL =
     : "http://nfroidure.localhost:3000";
 
 export default {
+  output: 'export',
+  trailingSlash: false,
+  distDir: 'out',
   reactStrictMode: true,
   publicRuntimeConfig: {
     environment: process.env.NODE_ENV,

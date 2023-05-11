@@ -46,17 +46,17 @@ const QUERY_PARAMS_TYPE_CASTERS: Record<
 const QUERY_PARAMS_TYPE_STRINGIFYERS: Record<QueryParamType, ParamStringifyer> =
   {
     boolean: ((queryValue: boolean | undefined): string | undefined =>
-      queryValue === true
+      typeof queryValue === "undefined"
+        ? undefined
+        : queryValue === true
         ? "true"
-        : queryValue === false
-        ? "false"
-        : undefined) as ParamStringifyer,
+        : "false") as unknown as ParamStringifyer,
     string: (queryValue: string | undefined): string | undefined =>
       typeof queryValue === "string" ? queryValue : undefined,
     number: ((queryValue: number | undefined): string | undefined =>
       typeof queryValue === "number"
         ? queryValue.toString(10)
-        : undefined) as ParamStringifyer,
+        : undefined) as unknown as ParamStringifyer,
   };
 
 export function readParams<T extends CastedQueryParams>(

@@ -54,14 +54,14 @@ Maintenant élue au département, Caroline Sanchez se lance à l'assaut du sièg
 
 Alors, je ne vais clairement pas regretter que la droite se flagelle, mais plutôt, l'absence très probable de la gauche. En effet, depuis trois élections consécutives, la gauche a complètement disparu du paysage.
 
-C'est donc, une seule et même liste qui est proposée aux lambrésien⋅nes depuis 18 ans... Les protagonistes de cette affaire font parti de la même majorité depuis tout ce temps, comment ne pas les renvoyer dos à dos ? Ne sont-iels pas tout autant comptables de la situation financière de la commune ?
+C'est donc, une seule et même liste qui est proposée aux lambrésien⋅nes depuis 18 ans... Les protagonistes de cette affaire font parti de la même majorité depuis tout ce temps, comment ne pas les renvoyer dos à dos ? Ne sont-iels pas toustes autant comptables de la situation financière de la commune ?
 
 ## Temps contraint
 
 La véritable aberration est le délai très court pour l'organisation des nouvelles élections. Celles-cis auront lieu mi-juin, autant dire qu'il sera extrêmement compliqué pour toute liste alternative de se constituer dans un temps aussi limité.
 
-On se souvient que pour cause de COVID, le second tour des élections municipales avait été reporté, pourquoi ne pas attendre septembre afin que le jeu démocratique puisse se faire ? Un délai maximal de trois mois est prévu par la loi, sachant que les habitant⋅es du Douaisis sont plutôt des aoutiens (fêtes de Gayant oblige), début juillet a minima était possible.
+On se souvient que pour cause de COVID, le second tour des élections municipales avait été reporté, pourquoi ne pas attendre septembre afin que le jeu démocratique puisse se faire ? Un délai maximal de trois mois est prévu par la loi, sachant que les habitant⋅es du Douaisis sont plutôt des aoutiens (fêtes de Gayant obligent), début juillet a minima était possible.
 
-Bref, bien qu'il n'y ait probablement pas de liste à gauche, je pense qu'il faut, a minima, préparer les élections municipales de 2026 à Lambres car il n'est pas acceptable, au vu du contexte climatique actuel, de voir la politique municipale au travers d'une dualité entre faire la fête et préparer l'avenir.
+Bref, bien qu'il n'y ait probablement pas de liste à gauche, je pense qu'il faut préparer les élections municipales de 2026 à Lambres car il n'est pas acceptable, au vu du contexte climatique actuel, de voir la politique municipale au travers d'une dualité entre faire la fête et préparer l'avenir.
 
 **La commune de Lambres-lez-Douai mérite qu'on lui fasse d'autres propositions !** N'hésitez pas à me contacter si vous avez d'autres informations sur le sujet.

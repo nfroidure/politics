@@ -1,6 +1,7 @@
 export function toASCIIString(str: string): string {
   return str
     .toLowerCase()
+    .replace(/[œ]/g, "oe")
     .replace(/[éèêë]/g, "e")
     .replace(/[ùüûú]/g, "u")
     .replace(/[ïîìí]/g, "i")

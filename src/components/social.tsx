@@ -8,7 +8,7 @@ export default function Social(): JSX.Element {
         <li className="twitter">
           <a
             href={`https://twitter.com/${TWITTER_ACCOUNT}`}
-            title="Suivre notre campagne sur Twitter"
+            title="Me suivre sur Twitter"
             target="_blank"
           >
             <span>Twitter</span>
@@ -17,7 +17,7 @@ export default function Social(): JSX.Element {
         <li className="facebook">
           <a
             href={`https://facebook.com/${FACEBOOK_ACCOUNT}`}
-            title="Suivre notre campagne sur Facebook"
+            title="Me suivre sur Facebook"
             target="_blank"
           >
             <span>Facebook</span>
@@ -26,10 +26,10 @@ export default function Social(): JSX.Element {
         <li className="feed">
           <a
             href="/blog.atom"
-            title="S'abonner aux mises à jour"
+            title="S’abonner aux mises à jour"
             target="_blank"
           >
-            <span>Flux de syncdication</span>
+            <span>Flux de syndication</span>
           </a>
         </li>
       </ul>
