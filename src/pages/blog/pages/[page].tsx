@@ -6,14 +6,16 @@ import BlogEntries, {
   getStaticProps,
 } from "../index";
 import type { GetStaticPaths } from "next";
-import type { BlogPost } from "../../../utils/blogPost";
+import type { BlogPostFrontmatterMetadata } from "../../../utils/blogPost";
 
 export { getStaticProps };
 export default BlogEntries;
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const baseProps = entriesToBaseListingMetadata(
-    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
+    await readEntries<BlogPostFrontmatterMetadata>(
+      pathJoin(".", "contents", "blog")
+    )
   );
 
   // WARNING: This is not a nice way to generate the news feeds

@@ -12,7 +12,10 @@ import Anchor from "../../components/a";
 import Head from "next/head";
 import Items from "../../components/items";
 import type { FrontMatterResult } from "front-matter";
-import type { BlogPost } from "../../utils/blogPost";
+import type {
+  BlogPost,
+  BlogPostFrontmatterMetadata,
+} from "../../utils/blogPost";
 import type { MarkdownRootNode } from "../../utils/markdown";
 import type {
   BaseListingPageMetadata,
@@ -107,7 +110,7 @@ const BlogEntries = ({
 );
 
 export const entriesToBaseListingMetadata = (
-  baseEntries: FrontMatterResult<BlogPost>[]
+  baseEntries: FrontMatterResult<BlogPostFrontmatterMetadata>[]
 ): BaseListingPageMetadata<BlogPost> => {
   const title = `Blog politique`;
   const description = "Découvrez le blog d'un militant écologiste de Douai.";

@@ -4,6 +4,7 @@ import { toASCIIString } from "../utils/ascii";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
 import { publicRuntimeConfig } from "../utils/config";
 import { fixText } from "../utils/text";
+import { datedPagesSorter } from "../utils/contents";
 import Layout from "../layouts/main";
 import ContentBlock from "../components/contentBlock";
 import Heading1 from "../components/h1";
@@ -14,18 +15,18 @@ import Anchored from "../components/anchored";
 import type { MarkdownRootNode } from "../utils/markdown";
 import type { GetStaticProps } from "next";
 
-export type FAQItemMetadata = {
+export type FAQItemFrontmatterMetadata = {
   title: string;
   date: string;
   draft: boolean;
 };
-export type Entry = {
+export type FAQItem = {
   id: string;
   content: MarkdownRootNode;
-} & FAQItemMetadata;
+} & FAQItemFrontmatterMetadata;
 
 type Props = {
-  entries: Entry[];
+  entries: FAQItem[];
 };
 
 const Page = ({ entries }: Props) => (
@@ -74,19 +75,17 @@ const Page = ({ entries }: Props) => (
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const entries = (
-    await readEntries<FAQItemMetadata>(pathJoin(".", "contents", "faq"))
+    await readEntries<FAQItemFrontmatterMetadata>(pathJoin(".", "contents", "faq"))
   )
-    .map<Entry>((entry) => ({
+    .map((entry) => ({
       ...entry.attributes,
       id: toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))
     .filter((entry) => !entry.draft || process.env.NODE_ENV === "development")
-    .sort(({ date: dateA }: any, { date: dateB }: any) =>
-      new Date(dateA).getTime() > new Date(dateB).getTime() ? -1 : 1
-    );
+    .sort(datedPagesSorter);
 
-  return { props: { entries } as Props };
+  return { props: { entries } };
 };
 
 export default Page;
