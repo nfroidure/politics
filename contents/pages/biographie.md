@@ -9,7 +9,7 @@ draft: false
 
 Parler de soi n’est jamais un exercice facile, mais c’est un passage obligé lorsque l’on souhaite représenter les citoyen·nes d’un territoire ou d’une tendance politique. C’est mon cas, et à ce titre, je me prête à cet exercice de bon cœur.
 
-Je me présente, Nicolas Froidure, 38 ans, pacsé depuis 10 ans et père de deux filles et un garçon (7, 9 et 11 ans). Je vis à Douai, dans une jolie petite rue du quartier du Faubourg de Cambrai à Douai.
+Je me présente, Nicolas Froidure, 40 ans, pacsé depuis 15 ans et père de deux filles et un garçon (9, 11 et 13 ans). Je vis à Douai, dans une jolie petite rue du quartier du Faubourg de Cambrai à Douai.
 
 J’exerce en qualité de responsable technique à Lille dans le secteur du numérique où j’ai contribué au succès de plusieurs startups dans des domaines aussi variés que le merchandising, la météo agricole, l’industrie ou encore le streaming audio.
 

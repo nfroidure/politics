@@ -4,7 +4,7 @@ description: "Je me suis rendu à Somain pour constater un gâchis regrettable, 
 date: "2023-05-14T07:15:00.000Z"
 draft: false
 categories:
-  - Élections
+  - Politique locale
 tags:
   - Somain
   - CCCO
