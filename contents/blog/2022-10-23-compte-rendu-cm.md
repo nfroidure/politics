@@ -9,13 +9,13 @@ tags:
 categories:
   - Ville de Douai
 illustration:
-  url: "illustrations/conseil-municipal-douai-octobre-2022.png"
+  url: "illustrations/conseil-municipal-douai-octobre-2022.jpg"
   alt: "Photographie du conseil déserté par les élu·es LReM"
 ---
 
 # Conseil Municipal du 21 octobre 2022 à Douai
 
-![Photographie du conseil déserté par les élu·es LReM](illustrations/conseil-municipal-douai-octobre-2022.png "🖼➡️")
+![Photographie du conseil déserté par les élu·es LReM](illustrations/conseil-municipal-douai-octobre-2022.jpg "🖼➡️")
 
 **N’ayant pu assister au conseil municipal ce vendredi 21 octobre, je reviens à froid sur ce dernier après avoir visionné l’enregistrement vidéo.**
 

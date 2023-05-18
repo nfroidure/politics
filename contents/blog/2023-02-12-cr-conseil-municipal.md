@@ -9,7 +9,7 @@ tags:
 categories:
   - Ville de Douai
 illustration:
-  url: "illustrations/conseil-municipal-douai-fevrier-2023.png"
+  url: "illustrations/conseil-municipal-douai-fevrier-2023.jpg"
   alt: "Photographie du Conseil Municipal de Douai"
 ---
 
@@ -56,8 +56,9 @@ Jamila Mekki (conseillère municipale déléguée logement, handicap, droits des
 Une idée pour 2025, mettre en valeur ces femmes qui investissent des métiers longtemps réservés aux hommes au sein des effectifs de la mairie.
 
 **Note rétrospective :**
+![Courrier reçu de la Ville de Douai](illustrations/courrier-mairie-egalite-f-h.jpg "🖼➡️")En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
 
-En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
+
 - la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
 - la rémunération moyenne par catégorie :
 - - catégorie A : 37 343€ pour les hommes et 34 204€ pour les femmes (3 139€ de plus),
@@ -65,8 +66,6 @@ En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les ch
 - - catégorie C : 22 552€ pour les hommes et 20 081€ pour les femmes (2 471€ de plus).
 
 Le document ne précise pas si ce sont des moyennes en équivalent temps plein (ETP) ce qui peut changer beaucoup de choses sur le résultat final (notamment l’écart en catégorie C qui me semble énorme). À la vue des chiffres du courrier, je regrette de ne pas avoir demandé le salaire médian en ETP également. Je vais donc formuler une nouvelle demande avant d’interpréter ces résultats.
-
-Il est, cependant, étonnant que l'écart de rémunération globale soit supérieur à tous les écarts par catégorie.
 
 ## Rapport d’orientation budgétaire (ROB)
 
