@@ -55,6 +55,17 @@ Jamila Mekki (conseillère municipale déléguée logement, handicap, droits des
 
 Une idée pour 2025, mettre en valeur ces femmes qui investissent des métiers longtemps réservés aux hommes au sein des effectifs de la mairie.
 
+**Note rétrospective :**
+
+En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
+- la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
+- la rémunération moyenne par catégorie :
+- - catégorie A : 37 343€ pour les hommes et 34 204€ pour les femmes (3 139€ de plus),
+- - catégorie B : 27648€ pour les hommes et 25631€ pour les femmes (2017€ de plus),
+- - catégorie C : 22 552€ pour les hommes et 20 081€ pour les femmes (2471€ de plus).
+
+Le document ne précise pas si ce sont des moyennes en équivalent temps plein (ETP) ce qui peut changer beaucoup de choses sur le résultat final (notamment l’écart en catégorie C qui me semble énorme). À la vue des chiffres du courrier, je regrette de ne pas avoir demandé le salaire médian en ETP également. Je vais donc formuler une nouvelle demande avant d’interpréter ces résultats.
+
 ## Rapport d’orientation budgétaire (ROB)
 
 Yvon Sipieter (adjoint au maire en charge des bâtiments, finances, marchés publics et de la sécurité incendie) a présenté longuement les chiffres de ce ROB.
