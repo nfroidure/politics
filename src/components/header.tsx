@@ -1,6 +1,13 @@
 import Link from "next/link";
 import { publicRuntimeConfig } from "../utils/config";
-import { CSS_BREAKPOINT_END_L, CSS_BREAKPOINT_END_M, CSS_BREAKPOINT_END_S, CSS_BREAKPOINT_START_L, CSS_BREAKPOINT_START_M, CSS_BREAKPOINT_START_XL } from "../utils/constants";
+import {
+  CSS_BREAKPOINT_END_L,
+  CSS_BREAKPOINT_END_M,
+  CSS_BREAKPOINT_END_S,
+  CSS_BREAKPOINT_START_L,
+  CSS_BREAKPOINT_START_M,
+  CSS_BREAKPOINT_START_XL,
+} from "../utils/constants";
 
 const Header = () => {
   return (
@@ -8,7 +15,9 @@ const Header = () => {
       <header>
         <Link legacyBehavior href="/">
           <a>
-            <span className="slogan">L'écologie dans le Douaisis, avec et pour vous&nbsp;!</span>
+            <span className="slogan">
+              L'écologie dans le Douaisis, avec et pour vous&nbsp;!
+            </span>
             <span className="description">Nicolas Froidure</span>
           </a>
         </Link>
@@ -47,9 +56,26 @@ const Header = () => {
           line-height: var(--normalLineHeight);
         }
 
+        @media screen and (max-width: ${CSS_BREAKPOINT_END_M}) {
+          span.slogan,
+          span.description {
+            color: var(--light);
+            font-weight: bolder;
+            text-shadow: calc(var(--vGrid) * 2) calc(var(--vGrid) * 2)
+                calc(var(--vGrid) * 5) var(--grey),
+              calc(var(--vGrid) * -2) calc(var(--vGrid) * -2)
+                calc(var(--vGrid) * 5) var(--grey);
+          }
+        }
+
         @media screen and (max-width: ${CSS_BREAKPOINT_END_S}) {
           a {
             width: 100%;
+          }
+          span.slogan {
+            font-family: var(--writingFont);
+            font-size: var(--bigFontSize);
+            line-height: var(--bigLineHeight);
           }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_M}) and (max-width: ${CSS_BREAKPOINT_END_M}) {

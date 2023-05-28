@@ -35,9 +35,10 @@ C’est ainsi que des personnes de la liste Ensemble Faisons Douai ont maintenu 
 Une analyse plus fine des résultats démontre les effets délétères concrets de ce manque de clarté.
 
 Dans la seizième circonscription, si l’on additionne les scores "républicains" du premier tour, la victoire du RN est improbable :
+
 - Matthieu Marchio (Rassemblement National) : 35,86% (12 416 voix)
 - Alain Bruneel (PC/NUPES) : **33,59%** (11 632 voix)
-- Chantal Rybak (MoDem-Ensemble) : **15,15%** (5 245 voix)
+- [Chantal Rybak](https://keskidiz.nicolasfroidure.fr/elu-es/chantal-rybak) (MoDem-Ensemble) : **15,15%** (5 245 voix)
 - Mady Dorchies (Les Républicains) : **5,31%** (1 838 voix)
 - Tanneguy Adriencense (Reconquête) : 2,86% (990 voix)
 - Delphine Zagacki (Parti Radical de Gauche) : **2,79%** (967 voix)
@@ -47,7 +48,8 @@ Dans la seizième circonscription, si l’on additionne les scores "républicain
 Avec un report de voix bien effectué, c’est **61.29%** qu’obtiendrait Alain Bruneel... Mais non, au second tour ce sont 2.01% de nuls (+1.44%) et 5.77% de blancs (+4.17%), une participation moindre et un report de voix prévisible de Reconquête vers le RN supplémenté d’une parti des Républicains...
 
 Les mauvaises langues diront que cela est dû à l’appartenance au Parti Communiste du candidat NUPES, mais dans la dix-septième circonscription, ce n’était pas le cas. Pourtant, là aussi, les résultats laissaient supposer le bon fonctionnement du barrage avec **61.48%** des voix au moins :
-- Thibaut François (RN): 20,92% (15 408 voix)
+
+- [Thibaut François](https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois) (RN): 20,92% (15 408 voix)
 - Dimitri Houbron (Horizons-Ensemble) : **24,13%** (7 636 voix)
 - Cyril Grandin (La France Insoumise-NUPES) : **22,91%** (7 250 voix)
 - Romain Boulant (Union des démocrates et indépendants) : **5,33%** (1 688 voix)
@@ -55,7 +57,7 @@ Les mauvaises langues diront que cela est dû à l’appartenance au Parti Commu
 - Isabelle Maman (Divers inclassable) : **2,66%** (841 voix)
 - Marion T’Hooft (Parti Radical de Gauche) : **2,09%** (661 voix)
 - Thibault Bruni (Les Patriotes) : 1,85% (586 voix)
-- Cédric Fluckiger (Lutte Ouvrière) : **1,50%**  (475 voix)
+- Cédric Fluckiger (Lutte Ouvrière) : **1,50%** (475 voix)
 - Christian Delannoy (Parti Ouvrier Indépendant Démocratique) : **1,48%** (468 voix)
 - Jean-Luc Frydman (Divers Droite) : 1,38% (438 voix)
 - Dominique Garaud (Mouvement de la Ruralité) : 0,69% (219 voix)
@@ -126,6 +128,7 @@ Du point de vue de la rencontre et de la mixité, les transports en commun sont 
 Autre phénomène : la résidentialisation. Elle doit être combattue. Réserver à chacun·e sa case n’apporte qu’une paix de façade. Donnons plutôt à chacun·e sa place dans la collectivité.
 
 Quelques mesures simples peuvent faire renaître les communs et l’idée du collectif :
+
 - du mobilier urbain confortable, convivial et inclusif (des bancs avec dossier, des tables de jeu, des rues piétonnes, des aires de jeu qui créent du lien aussi pour les parents, des tiers-lieux...),
 - des règles collaboratives (pour les boîtes à livre, pour la démocratie participative, pour l’affichage de la commune, pour les débats politiques...),
 - la proximité des élu·es et la transparence des politiques publiques (permanences publiques, systèmes de tickets, files d’attente transparentes pour le logement social, votation citoyenne...),

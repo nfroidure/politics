@@ -22,7 +22,7 @@ Avec un peu de retard, certes, mais je souhaitais prendre le temps d’accompagn
 
 En 2021, il s’est passé tant de choses que ce sera difficile de faire un résumé exhaustif. Je vais cependant retenir quelques belles aventures.
 
-**Les belles campagnes que nous avons portées** pour les élections régionales et départementales. J’ai été heureux de co-diriger la campagne de Katia Bittner, Frédéric Chéreau, Auriane Ait Lasri et Jean-Luc Dellacherie avec Virginie Malolepszy. **Il s’en est fallu de peu pour que le Douaisis fasse un pas de plus vers l’écologie !**
+**Les belles campagnes que nous avons portées** pour les élections régionales et départementales. J’ai été heureux de co-diriger la campagne de Katia Bittner, Frédéric Chéreau, [Auriane Ait Lasri](https://keskidiz.nicolasfroidure.fr/elu-es/auriane-ait-lasri) et Jean-Luc Dellacherie avec Virginie Malolepszy. **Il s’en est fallu de peu pour que le Douaisis fasse un pas de plus vers l’écologie !**
 
 Mes débuts dans l’enseignement grâce aux cours que j’ai pu donner dans le domaine du GreenIT. Un excellent moyen d’allier conviction, transmission et compétences informatiques.
 

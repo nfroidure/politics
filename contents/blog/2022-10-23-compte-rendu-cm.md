@@ -21,9 +21,9 @@ illustration:
 
 ## Censure des conseils communautaires
 
-En premier lieu, et je vais commencer par la fin du conseil, je tiens à remercier Maxime Decupper-Laud de s’être fait le porte voix des citoyen·nes en demandant que les membres du conseil communautaire exigent de Douaisis Agglo le retour de la diffusion en direct des débats communautaires (supprimée la semaine dernière) et de leur redifusion ([supprimée en mai 2021](https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires)).
+En premier lieu, et je vais commencer par la fin du conseil, je tiens à remercier [Maxime Decupper-Laud](https://keskidiz.nicolasfroidure.fr/elu-es/maxime-decupper-laud) de s’être fait le porte voix des citoyen·nes en demandant que les membres du conseil communautaire exigent de Douaisis Agglo le retour de la diffusion en direct des débats communautaires (supprimée la semaine dernière) et de leur redifusion ([supprimée en mai 2021](https://nicolasfroidure.fr/blog/de-la-retransmission-des-conseils-communautaires)).
 
-La réponse formulée par François Guiffard qui s’est senti particulièrement visé (on le comprend puisqu’il a [rejoint la majorité de l’agglomération](https://nicolasfroidure.fr/blog/tout-n-est-pas-possible-en-politique)) a été non-seulement fallacieuse avec une victimisation frôlant le ridicule, mais également condescendante envers les petites communes.
+La réponse formulée par [François Guiffard](https://keskidiz.nicolasfroidure.fr/elu-es/francois-guiffard) qui s’est senti particulièrement visé (on le comprend puisqu’il a [rejoint la majorité de l’agglomération](https://nicolasfroidure.fr/blog/tout-n-est-pas-possible-en-politique)) a été non-seulement fallacieuse avec une victimisation frôlant le ridicule, mais également condescendante envers les petites communes.
 
 On peut concevoir que dans des petites communes comme Brunémont ou Férin, on n’ait pas trouvé utile d’investir dans du matériel pour rediffuser le conseil d’agglomération (même si l’investissement est de plus en plus abordable).
 
@@ -67,13 +67,13 @@ La critique que j’adresserai à l’aile qui se dit de gauche mais nous prouve
 
 ## Le cirque municipal
 
-Enfin, le dernier sujet a été un imbroglio tragi-comique autour d’une motion de Coline Craeye pour l’armement de la Police Municipale de Douai. On notera que le dogme anti-impôts ne s’accompagne pas d’un dogme anti-dépense puisque c’est, selon Jean-Christophe Leclercq, adjoint, deux millions d’euros que cette dernière coûterait avec l’augmentation des effectifs demandée.
+Enfin, le dernier sujet a été un imbroglio tragi-comique autour d’une motion de Coline Craeye pour l’armement de la Police Municipale de Douai. On notera que le dogme anti-impôts ne s’accompagne pas d’un dogme anti-dépense puisque c’est, selon [Jean-Christophe Leclercq](https://keskidiz.nicolasfroidure.fr/elu-es/jean-christophe-leclercq), adjoint, deux millions d’euros que cette dernière coûterait avec l’augmentation des effectifs demandée.
 
 Nous avons également découvert, dépités, les conditions folles dans lesquelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
 
 ![Censure immédiate de Douaisis Agglo à la fin du conseil](illustrations/conseil-communautaire-censure.svg)
 
-Vous pourrez observer Franz Quatreboeuf sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse...
+Vous pourrez observer [Franz Quatreboeuf](https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs) sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse...
 
 Bref, la caravane sécuritaire va bon train sans que jamais, ni l’extrême droite, ni la droite extrême ne se posent la question de ce qu’est une politique globale de sécurité qui ne soit pas focalisée sur la répression policière et le rapport viril, face à la délinquance. Mais cela, j’aurais l’occasion d’en reparler sur ce blog.
 
