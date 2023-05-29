@@ -26,7 +26,7 @@ Il ne m’a pas fallut déambuler longtemps pour découvrir, en effet, de nombre
 ![Affiche : "Les petites gouttes d’eau font les grands gâchis"](/public/illustrations/somain-poubelles-salle-camus-couvercles-demandes.jpg)
 ![Affiche : "Les petites gouttes d’eau font les grands gâchis"](/public/illustrations/somain-poubelles-salle-camus-gachis.jpg)
 
-Il semble que les couvercles des poubelles de la CCCO soient fragiles et qu’en déversant leur contenu dans le camion benne, il ne soit pas rare que ces derniers se brisent.
+Il semble que les couvercles des poubelles de la CCCO sont fragiles et qu’en déversant leur contenu dans le camion benne, il ne soit pas rare que ces derniers se brisent.
 
 Or, si les poubelles ont des couvercles, c’est pour des raisons pratiques :
 - protection contre l’éparpillement des déchets : que ce soit par des animaux ou le vent, le couvercle évite que des déchets se retrouvent dans la nature,
@@ -38,7 +38,7 @@ Or, si les poubelles ont des couvercles, c’est pour des raisons pratiques :
 
 ## Le cas particulier de la salle Albert Camus
 
-La salle Albert Camus devant laquelle nous nous sommes retrouvé⋅es a le même problème, sauf que la mairie en est propriétaire, c’est pourquoi nous avions choisi ce lieu car ce qu’on fait reposer sur les habitant⋅es (c’est à dire, demander un nouveau couvercle), n’est même pas fait par la mairie de Somain. Là où il faudrait montrer l’exemple, nous avons une négligence de plus.
+La salle Albert Camus devant laquelle nous nous sommes retrouvé⋅es a le même problème, sauf que la mairie en est propriétaire, c’est pourquoi nous avions choisi ce lieu car ce que l’on fait reposer sur les habitant⋅es (c’est à dire, demander un nouveau couvercle), n’est même pas fait par la mairie de Somain. Là où il faudrait montrer l’exemple, nous avons une négligence de plus.
 
 Autre problème, cette fois rapporté par des usager⋅es, l’absence de benne à verre. Cette salle recevant du public, et donc produisant des déchets (dont du verre) ne permet pas de faire le tri correctement puisqu’il n’y pas pas de benne pour le verre.
 
