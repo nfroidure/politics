@@ -12,13 +12,13 @@ tags:
   - agriculture
   - agglomération
 illustration:
-  url: "illustrations/zac-a-vendre.jpg"
+  url: "/public/illustrations/zac-a-vendre.jpg"
   alt: "Photographie de la ZAC de Flers-en-Escrebieux désertée"
 ---
 
 # Du déplacement économique sur des terres arables
 
-![Photographie de la ZAC de Flers-en-Escrebieux désertée](illustrations/zac-a-vendre.jpg "🖼➡️")
+![Photographie de la ZAC de Flers-en-Escrebieux désertée](/public/illustrations/zac-a-vendre.jpg "🖼➡️")
 
 👨‍🌾👩🏾‍🌾 Il y a cinq jours, l’organisation des jeunes agriculteurs communiquait :
 

@@ -10,7 +10,7 @@ tags:
 categories:
   - Culture
 illustration:
-  url: "illustrations/steph-et-nico.jpg"
+  url: "/public/illustrations/steph-et-nico.jpg"
   alt: "Photographie de Stéphanie Stiernon et Nicolas Froidure dans un pré"
 ---
 
@@ -18,7 +18,7 @@ illustration:
 
 > Une fois n’est pas coutume, j’ai eu envie de publier cette petite composition sans prétention en hommage à toutes celles et ceux qui militent au quotidien pour que l’espoir soit permis 😉.
 
-[Chanson : L’espoir est permis](./music/L'espoir%20est%20permis.ogg "🎧 Écouter le titre")
+[Chanson : L’espoir est permis](/public/music/L'espoir%20est%20permis.ogg "🎧 Écouter le titre")
 
 **Accords :** Dm Am C G
 

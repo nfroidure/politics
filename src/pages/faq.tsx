@@ -2,7 +2,6 @@ import { pathJoin } from "../utils/files";
 import { readEntries } from "../utils/frontmatter";
 import { toASCIIString } from "../utils/ascii";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
-import { publicRuntimeConfig } from "../utils/config";
 import { fixText } from "../utils/text";
 import { datedPagesSorter } from "../utils/contents";
 import Layout from "../layouts/main";
@@ -32,7 +31,7 @@ type Props = {
 const Page = ({ entries }: Props) => (
   <Layout
     title="La FAQ"
-    image={`${publicRuntimeConfig.buildPrefix}/images/faq.png`}
+    image={`/public/images/faq.png`}
   >
     <ContentBlock>
       <Heading1>La FAQ</Heading1>

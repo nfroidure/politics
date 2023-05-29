@@ -8,7 +8,7 @@ categories:
 tags:
   - Lambres-lez-Douai
 illustration:
-  url: "illustrations/entree-lambres-lez-douai.jpg"
+  url: "/public/illustrations/entree-lambres-lez-douai.jpg"
   alt: "Photographie de l’entrée de Lambres-lez-Douai"
 ---
 
@@ -18,7 +18,7 @@ illustration:
 
 ## Caroline Sanchez à la manœuvre
 
-![Photographie de l’entrée de Lambres-lez-Douai](illustrations/entree-lambres-lez-douai.jpg "🖼➡️")
+![Photographie de l’entrée de Lambres-lez-Douai](/public/illustrations/entree-lambres-lez-douai.jpg "🖼➡️")
 
 Tout à commencé lors du vote du budget de la commune au conseil municipal du 5 avril. En effet, comme plusieurs communes du Douaisis, les finances ont été impactées :
 - par la crise de l’énergie (triplement de la facture, la portant à 400 000€),
@@ -42,13 +42,13 @@ Enfin, c’est, en apparence, le point de clivage qui ressort. Sur le fond, on s
 
 ## La mémoire courte
 
-![Photographie du courrier de soutien de Bernard Goulois](illustrations/courrier-bernard-goulois.jpg)
+![Photographie du courrier de soutien de Bernard Goulois](/public/illustrations/courrier-bernard-goulois.jpg)
 
 Cette situation prête à sourire quand on pense, qu’il y a à peine deux ans, Bernard Goulois soutenait Caroline Sanchez alors candidate aux élections départementales aux côtés de Christian Poiret (avec pour suppléant⋅es Nina Debail et Jean-Jacques Peyraud, maire de Flers-en-Escrebieux).
 
 On ne peut que constater que la fidélité, en politique, ne garantit pas la loyauté en retour, surtout dans le microcosme poiretiste...
 
-![Photographie du camion "le département est là"](illustrations/le-departement-du-nord-est-la.jpg)
+![Photographie du camion "le département est là"](/public/illustrations/le-departement-du-nord-est-la.jpg)
 
 Maintenant élue au département, Caroline Sanchez se lance à l’assaut du siège du maire qui a participé à la faire élire. Il se déchirent pour des postes, mais qui s’arrache pour Lambres-lez-Douai ? Mystère !
 

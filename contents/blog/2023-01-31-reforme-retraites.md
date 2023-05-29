@@ -12,7 +12,7 @@ categories:
   - Retraite
   - Opinions politiques
 illustration:
-  url: "illustrations/photo-nico-et-annie.jpg"
+  url: "/public/illustrations/photo-nico-et-annie.jpg"
   alt: "Photographie de Nicolas Froidure et Annie Petit"
 ---
 
@@ -77,9 +77,9 @@ En attendant, poursuivons la mobilisation !
 
 Ce sont 5000 personnes (contre 4000 le 19 janvier) qui se sont réunies à Douai ce 31 janvier 2023. La contestation s’amplifie !
 
-![Photographie de la manifestation](illustrations/manifestation-retraites.jpg)
-![Photo de groupe des vert·es du Douaisis](illustrations/photo-verts-douai.jpg)
-![Photo avec Annie](illustrations/photo-nico-et-annie.jpg)
+![Photographie de la manifestation](/public/illustrations/manifestation-retraites.jpg)
+![Photo de groupe des vert·es du Douaisis](/public/illustrations/photo-verts-douai.jpg)
+![Photo avec Annie](/public/illustrations/photo-nico-et-annie.jpg)
 
 Je vous propose de visualiser [cette vidéo de Blast pour comprendre la réforme](https://www.blast-info.fr/emissions/2023/retraites-decryptage-dune-reforme-injuste-n-N4pAlgSre-9S0BrwZH7Q).
 
@@ -89,6 +89,6 @@ Une ineptie car la capitalisation en partant d’un système par répartition n�
 
 De plus, le système par répartition est bien plus résilient puisqu’il résiste à l’inflation (augmentation des retraites en fonction des salaires), aux crises économiques (quand la [capitalisation est bien fragile](https://www.lemonde.fr/la-crise-financiere/article/2008/10/29/le-krach-boursier-menace-les-retraites-dans-de-nombreux-pays_1112372_1101386.html)) et son seul défaut est amené à se résorber puisque la “pyramide des âges” n’en est plus une du tout, elle n’a quasiment plus les stigmates de la transition démographique et ressemblera de plus en plus à un simple tronc.
 
-![Projection de la pyramide des âges de la France en 2070](illustrations/pyramide-age-2070.png)
+![Projection de la pyramide des âges de la France en 2070](/public/illustrations/pyramide-age-2070.png)
 
 Source: [Statistiques de l’Insee](https://www.insee.fr/fr/statistiques/3676587?sommaire=3696937)

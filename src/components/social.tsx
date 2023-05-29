@@ -60,13 +60,13 @@ export default function Social(): JSX.Element {
           mask-position: center bottom;
           mask-size: calc(var(--vRythm) * 1);
           -webkit-mask-size: calc(var(--vRythm) * 1);
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/twitter.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/twitter.svg");
         }
         li.facebook a {
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/facebook.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/facebook.svg");
         }
         li.feed a {
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/feed.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/feed.svg");
         }
         span {
           display: none;

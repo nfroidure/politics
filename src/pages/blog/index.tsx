@@ -2,7 +2,7 @@ import { pathJoin } from "../../utils/files";
 import { readEntries } from "../../utils/frontmatter";
 import { toASCIIString } from "../../utils/ascii";
 import { readParams } from "../../utils/params";
-import { parseMarkdown } from "../../utils/markdown";
+import { parseMarkdown, qualifyPath } from "../../utils/markdown";
 import { datedPagesSorter } from "../../utils/contents";
 import Layout from "../../layouts/main";
 import ContentBlock from "../../components/contentBlock";
@@ -117,6 +117,14 @@ export const entriesToBaseListingMetadata = (
   const entries = baseEntries
     .map<BlogPost>((entry) => ({
       ...entry.attributes,
+      ...(entry.attributes.illustration
+        ? {
+            illustration: {
+              ...entry.attributes.illustration,
+              url: qualifyPath(entry.attributes.illustration.url),
+            },
+          }
+        : {}),
       id: entry.attributes.leafname || toASCIIString(entry.attributes.title),
       content: parseMarkdown(entry.body) as MarkdownRootNode,
     }))

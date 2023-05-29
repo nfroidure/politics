@@ -8,7 +8,7 @@ categories:
 tags:
   - Législatives 2022
 illustration:
-  url: "illustrations/profession-foi-legislatives-2022.png"
+  url: "/public/illustrations/profession-foi-legislatives-2022.png"
   alt: "Profession de foi de Nicolas Froidure pour l'investiture aux législatives 2022"
 ---
 

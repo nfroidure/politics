@@ -9,13 +9,13 @@ categories:
 tags:
   - démocratie
 illustration:
-  url: "illustrations/group-eeelv-douai.jpg"
+  url: "/public/illustrations/group-eeelv-douai.jpg"
   alt: "Photo du groupe EÉLV de Douai"
 ---
 
 # Nouveau bureau d’EÉLV Douaisis
 
-![Photo du groupe EÉLV de Douai](illustrations/group-eeelv-douai.jpg)
+![Photo du groupe EÉLV de Douai](/public/illustrations/group-eeelv-douai.jpg)
 
 J’ai l’honneur de vous annoncer l’élection lors de l’assemblée générale de notre groupe local du 7 novembre, d’un nouveau bureau pour EÉLV Douaisis.
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - démographie
 illustration:
-  url: "illustrations/creche-antoinette-dumont.jpg"
+  url: "/public/illustrations/creche-antoinette-dumont.jpg"
   alt: "Photographie de l’intérieur de la crèche Antoinette Dumont"
 ---
 
@@ -75,7 +75,7 @@ Il faut dès à présent transformer ces avantages en réels points retraite pen
 
 ### Conséquence d’une démographie naturelle
 
-![Photographie de l’intérieur de la crèche Antoinette Dumont](illustrations/creche-antoinette-dumont.jpg)
+![Photographie de l’intérieur de la crèche Antoinette Dumont](/public/illustrations/creche-antoinette-dumont.jpg)
 
 Accepter de ne plus tenter de contrôler notre démographie aura (bien que ce ne soit pas une certitude) pour conséquence, une réduction de la population française qui pourrait cependant être contrebalancée par une immigration plus intense notamment de réfugié·es climatiques que l’on imagine croissante malheureusement dans les décennies à venir étant donnée l’inaction climatique de nos dirigeant·es.
 

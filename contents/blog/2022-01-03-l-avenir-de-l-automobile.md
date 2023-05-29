@@ -10,7 +10,7 @@ tags:
   - électrique
   - transition
 illustration:
-  url: "illustrations/avenir-automobile.jpg"
+  url: "/public/illustrations/avenir-automobile.jpg"
   alt: "Photographie de voiture brûlée"
 ---
 
@@ -26,7 +26,7 @@ Le parc automobile français représente 38.2 millions de véhicules. Leur duré
 
 ### Les problèmes que pose l’automobile
 
-![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](illustrations/avenir-automobile.jpg)
+![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](/public/illustrations/avenir-automobile.jpg)
 
 Un des soucis majeurs de l’automobile est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile...
 
@@ -70,7 +70,7 @@ Non, je pense qu’entre le laxisme coupable des défenseurs de l’automobile e
 
 ### Réduire la pollution
 
-![Photographie de l’action pour dénoncer la pollution de l’air à Douai](illustrations/action-pollution-air.jpg)
+![Photographie de l’action pour dénoncer la pollution de l’air à Douai](/public/illustrations/action-pollution-air.jpg)
 
 La dernière fois que j’ai regardé les chiffres, nous en étions à 43 000 morts prématurées dues à la pollution de l’air en France. Derrière ces chiffres, des personnes. Nos enfants, nous.
 
@@ -126,7 +126,7 @@ Les véhicules de fonction doivent être généralisés, il n’y a aucune raiso
 
 ## Et le Douaisis dans tout ça ?
 
-![Photographie de l’usine Renault ELectriCity à Douai](illustrations/renault-electricity.jpg)
+![Photographie de l’usine Renault ELectriCity à Douai](/public/illustrations/renault-electricity.jpg)
 
 Notre agglomération souhaite, avec l’usine Renault en orchestratrice, faire du Douaisis un pôle d’excellence industrielle pour le véhicule électrique.
 

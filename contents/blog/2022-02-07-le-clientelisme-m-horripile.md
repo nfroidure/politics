@@ -9,7 +9,7 @@ categories:
 tags:
   - clientélisme
 illustration:
-  url: "illustrations/big-money.jpg"
+  url: "/public/illustrations/big-money.jpg"
   alt: "Photo d’un linéaire du jeu de société «Big Money»"
 ---
 
@@ -19,7 +19,7 @@ Mis au devant de la scène, lors du [dernier conseil municipal de Douai](https:/
 
 L’idée est d’entrer dans le jeu du lobbying économique, citoyen ou associatif. L’élu·e arbitre les moyens et/ou décisions qu’iel met en œuvre en fonction du poids qu’iel estime pour tel ou tel groupement d’intérêt ou revendication individuelle.
 
-![Photo d’un linéaire du jeu de société «Big Money»](illustrations/big-money.jpg)
+![Photo d’un linéaire du jeu de société «Big Money»](/public/illustrations/big-money.jpg)
 
 ## Un mécanisme inefficient
 

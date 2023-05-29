@@ -297,14 +297,10 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
   const youtubeURL = parseYouTubeURL(node.url);
 
   return node?.title?.startsWith("🎧") ? (
-    <audio  key={context.index}
+    <audio
+      key={context.index}
       controls
-      src={
-        publicRuntimeConfig.baseURL +
-        publicRuntimeConfig.buildPrefix +
-        "/" +
-        node.url
-      }
+      src={qualifyPath(node.url)}
       title={node.title.replace(/^🎧\s*/u, "").trim()}
     />
   ) : youtubeURL && node?.title?.startsWith("📺") ? (
@@ -316,7 +312,6 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
           youtubeURL.startTime ? "?start=" + youtubeURL.startTime : ""
         }`}
         title={node.title.replace(/^📺\s*/u, "").trim()}
-        frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
       ></iframe>
@@ -335,6 +330,7 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
           height: 100%;
           width: 100%;
           position: absolute;
+          border: none;
         }
       `}</style>
     </span>
@@ -500,12 +496,7 @@ function parseImageProps(node: MarkdownImageNode): {
     : node.title?.includes("▮")
     ? "portrait"
     : "landscape";
-  const src = node.url.startsWith("http")
-    ? node.url
-    : publicRuntimeConfig.baseURL +
-      publicRuntimeConfig.buildPrefix +
-      "/" +
-      node.url.replace(/^(\.\/)?(\.\.\/)*public\//, "");
+  const src = qualifyPath(node.url);
 
   return {
     title,
@@ -513,4 +504,15 @@ function parseImageProps(node: MarkdownImageNode): {
     orientation,
     src,
   };
+}
+
+// Change VSCode autocompleted paths to URLs
+export function qualifyPath(path: string): string {
+  if (/^https?:\/\//.test(path)) {
+    return path;
+  }
+  if (path.startsWith("/public/")) {
+    return publicRuntimeConfig.staticPrefix + path.replace("/public/", "/");
+  }
+  return path;
 }

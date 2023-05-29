@@ -8,7 +8,7 @@ categories:
 tags:
   - Nicolas Froidure
 illustration:
-  url: "images/banner.png"
+  url: "/public/images/banner.png"
   alt: "Bannière du site de Nicolas Froidure"
 ---
 

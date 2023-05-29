@@ -137,7 +137,7 @@ const Menu = () => {
             mask-repeat: no-repeat;
             mask-position: center center;
             mask-size: calc(var(--vRythm));
-            mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/mail.svg");
+            mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/mail.svg");
           }
         }
         @media screen and (min-width: ${CSS_BREAKPOINT_START_XL}) {

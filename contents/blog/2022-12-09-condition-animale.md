@@ -9,7 +9,7 @@ categories:
 tags:
   - politique
 illustration:
-  url: "illustrations/non-zoo-cirque.jpg"
+  url: "/public/illustrations/non-zoo-cirque.jpg"
   alt: "Tag contre les zoos et les cirques"
 ---
 
@@ -33,7 +33,7 @@ J’assume bien-sûr cette position car mettre toute la faune (humanité compris
 
 ## Les animaux, des êtres sentients
 
-![Photographie de vaches paissant à Courchelettes](illustrations/vaches-courchelettes.jpg "🖼➡️")
+![Photographie de vaches paissant à Courchelettes](/public/illustrations/vaches-courchelettes.jpg "🖼➡️")
 
 Ceci dit, bien que je ne mette pas les animaux et l’humain sur le même plan, il me semble évident pour la plupart des animaux que ce sont des êtres dotés de [sentience](https://fr.wikipedia.org/wiki/Sentience).
 
@@ -101,7 +101,7 @@ Désormais, les animaux sont élevés dans des cages, et croyez-moi, ces poulail
 
 On peut valider une certaine hiérarchie entre les espèces, sans pour autant positionner le curseur jusqu’à faire des animaux de simples rouages comme s’ils étaient insensibles.
 
-![Photographie d’un train avec des wagons pleins de céréales](illustrations/wagon-cereales.jpg "🖼➡️")
+![Photographie d’un train avec des wagons pleins de céréales](/public/illustrations/wagon-cereales.jpg "🖼➡️")
 
 Autant, je récuse l’anthropomorphisme, qui d’une certaine manière, découle de la déculturation paysanne créée par la société de consommation, autant, je ne peux accepter le sort qu’on réserve aujourd’hui dans les fermes-usines aux animaux.
 
@@ -153,7 +153,7 @@ La complaisance actuelle du gouvernement d’Emmanuel Macron pour des raisons é
 
 ## Zoos et cirques
 
-![Tag contre les zoo et les cirques](illustrations/non-zoo-cirque.jpg "🖼➡️")
+![Tag contre les zoo et les cirques](/public/illustrations/non-zoo-cirque.jpg "🖼➡️")
 
 Les cirques sans animaux sont tout aussi sympas que les autres, la souffrance animale en moins. Il est donc urgent de cesser cette exploitation inutile.
 
@@ -161,7 +161,7 @@ En ce qui concerne les zoos, je suis partagé, malheureusement, pour certaines e
 
 ## Que faire au niveau individuel ?
 
-![Photographie d’une affiche vue lors de la foire à l’ail: Adopter c’est sauver.](illustrations/adopter-c-est-sauver.jpg "🖼➡️▮")
+![Photographie d’une affiche vue lors de la foire à l’ail: Adopter c’est sauver.](/public/illustrations/adopter-c-est-sauver.jpg "🖼➡️▮")
 
 Alors, vous le voyez, j’ai vraiment traité le sujet sur de nombreux aspects, en terme de politique générale. Je pense que lorsqu’il s’agit de vies, d’êtres sensibles, on se doit d’être exhaustif.
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - départementales
 illustration:
-  url: "images/banner.png"
+  url: "/public/images/banner.png"
   alt: "Bannière du site de Nicolas Froidure"
 ---
 

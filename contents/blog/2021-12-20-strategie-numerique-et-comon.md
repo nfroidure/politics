@@ -9,7 +9,7 @@ categories:
 tags:
   - "politique"
 illustration:
-  url: "illustrations/racines-club.jpg"
+  url: "/public/illustrations/racines-club.jpg"
   alt: "Photo du racines club !"
 ---
 

@@ -8,13 +8,13 @@ tags:
 categories:
   - "Transports en commun"
 illustration:
-  url: "illustrations/gratuite-transports-douai.jpg"
+  url: "/public/illustrations/gratuite-transports-douai.jpg"
   alt: "Photographie d’un bus avec communication de la gratuité"
 ---
 
 # Gratuité des transports : bilan et projections
 
-![Photographie de Stéphanie Stiernon demandant une étude sur la gratuité](illustrations/citation-agglo-stephanie-stiernon-gratuite.jpg "🖼➡️")
+![Photographie de Stéphanie Stiernon demandant une étude sur la gratuité](/public/illustrations/citation-agglo-stephanie-stiernon-gratuite.jpg "🖼➡️")
 
 **Défendue lors du conseil communautaire de Douaisis Agglo par Stéphanie Stiernon, élue EÉLV de la ville de Douai**, la gratuité des transport en commun, [jugée compliquée par l’éxécutif en place](https://www.lobservateur.fr/douaisis/2020/08/04/transports-du-douaisis-pourquoi-la-gratuite-est-compliquee/) a fini par être instaurée à l’occasion de la campagne des départementales 2021.
 
@@ -38,7 +38,7 @@ Dans le Douaisis, on a pu constater, selon Claude Hégo, président du SMTD et m
 
 ## Des externalités positives
 
-![Photographie d’un bus avec communication de la gratuité](illustrations/gratuite-transports-douai.jpg "🖼➡️")
+![Photographie d’un bus avec communication de la gratuité](/public/illustrations/gratuite-transports-douai.jpg "🖼➡️")
 
 La gratuité des transports en commun c’est aussi de nombreux effets bénéfiques indirects.
 

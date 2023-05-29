@@ -10,7 +10,7 @@ tags:
   - démocratie
   - agglomération
 illustration:
-  url: "illustrations/mirlitons-de-la-foire-de-saint-cloud.jpg"
+  url: "/public/illustrations/mirlitons-de-la-foire-de-saint-cloud.jpg"
   alt: "Les mirlitons à la foire de Saint-Cloud"
 ---
 
@@ -18,8 +18,8 @@ illustration:
 
 **Aussitôt, fini, aussitôt supprimé.** Le live du conseil communautaire de l’agglomération du Douaisis ne sera pas disponible à la diffusion tout comme les précédents qui ont honteusement été supprimés car des questions gênantes y ont été posées.
 
-![Censure immédiate de Douaisis Agglo à la fin du conseil](illustrations/conseil-communautaire-censure.svg)
-![Publication de Douaisis Agglo ventant les mérites du direct](illustrations/annonce-diffusion-conseil.jpg)
+![Censure immédiate de Douaisis Agglo à la fin du conseil](/public/illustrations/conseil-communautaire-censure.svg)
+![Publication de Douaisis Agglo ventant les mérites du direct](/public/illustrations/annonce-diffusion-conseil.jpg)
 
 Il n’y a pourtant **aucune impossibilité technique** à cela puisque cela a déjà été fait. Je suis outré que les membres du bureau communautaire, et notamment Mr Guiffard qui a fait campagne sur le thème du retour des citoyens dans la vie politique, permettent ce déni de démocratie.
 

@@ -9,13 +9,13 @@ categories:
 tags:
   - éclairage
 illustration:
-  url: "illustrations/poste-de-transformation-danger-de-mort.jpg"
+  url: "/public/illustrations/poste-de-transformation-danger-de-mort.jpg"
   alt: "Photographie d’un avertissement de danger sur un poste de transformation"
 ---
 
 # Déambulation nocturne
 
-![Photographie d’un avertissement de danger sur un poste de transformation](illustrations/poste-de-transformation-danger-de-mort.jpg "🖼➡️")
+![Photographie d’un avertissement de danger sur un poste de transformation](/public/illustrations/poste-de-transformation-danger-de-mort.jpg "🖼➡️")
 
 💡 Hier, lors de notre déambulation nocturne, nous avons bénéficié d’un exposé très clair de la part des services de la ville de Douai sur la gestion de l’éclairage et le plan de remplacement de ces derniers.
 

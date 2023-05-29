@@ -9,7 +9,7 @@ categories:
 tags:
   - "culture"
 illustration:
-  url: "illustrations/rue-mairie-animation.jpg"
+  url: "/public/illustrations/rue-mairie-animation.jpg"
   alt: "Photo de la rue de la Mairie animée"
 ---
 
@@ -22,7 +22,7 @@ Hier, nous pouvions assister à quelques animations dans le centre de Douai. Des
 - rando vélo électro pour petits et grands,
 - et enfin, un mix par un DJ.
 
-![Photo de la scène qui a été installée pour l’occasion](illustrations/scene-dj.jpg)
+![Photo de la scène qui a été installée pour l’occasion](/public/illustrations/scene-dj.jpg)
 
 ## Des animations bienvenues
 
@@ -36,7 +36,7 @@ Mais, la grande question reste : pourquoi un festival électronique de plein ai
 
 ## Le festival de trop
 
-![Photo de la rue de la Mairie vue d’en face](illustrations/rue-mairie-douai.jpg)
+![Photo de la rue de la Mairie vue d’en face](/public/illustrations/rue-mairie-douai.jpg)
 
 Disons-le tout de go : je ne suis pas un grand fan de la musique électronique. Je suis plutôt Rock n’ Saint Amé 😉. Certain·es pourront donc dire que c’est par pure insensibilité électronique que je formule cette critique, je vous assure que ce n’est pas le cas, mais je vous dois l’honnêteté de préciser cette préférence.
 
@@ -64,7 +64,7 @@ Un an et une seconde édition plus tard, je ne suis toujours pas d’accord pour
 
 ## Alors que faire ?
 
-![Photo de la rue de la Mairie animée](illustrations/rue-mairie-animation.jpg)
+![Photo de la rue de la Mairie animée](/public/illustrations/rue-mairie-animation.jpg)
 
 On pourrait se dire que le festival pourrait prendre place en centre ville, mais difficile d’envisager ceci car les plaintes des riverain·es ont déjà été nombreuses avec l’éloignement de l’événement, imaginez dans le centre ville...
 

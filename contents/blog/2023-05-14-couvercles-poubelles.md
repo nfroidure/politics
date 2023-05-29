@@ -9,7 +9,7 @@ tags:
   - Somain
   - CCCO
 illustration:
-  url: "illustrations/somain-poubelles-salle-camus.jpg"
+  url: "/public/illustrations/somain-poubelles-salle-camus.jpg"
   alt: "Photographie des poubelles de la salle Albert Camus"
 ---
 
@@ -21,10 +21,10 @@ Alerté par Bernard Coquelle sur l’absence récurrente de couvercles sur les p
 
 Il ne m’a pas fallut déambuler longtemps pour découvrir, en effet, de nombreuses poubelles sans couvercle. À vrai dire, toutes les photographies ci-dessous ont été prises uniquement sur le trajet entre la salle Albert Camus et le Bar-PMU Longchamps où je suis allé prendre un café.
 
-![Patchwork de photographies de poubelles sans couvercle](illustrations/somain-poubelles-sans-couvercle.jpg)
-![Photographie des poubelles de la salle Albert Camus](illustrations/somain-poubelles-salle-camus.jpg)
-![Affiche : "Les petites gouttes d’eau font les grands gâchis"](illustrations/somain-poubelles-salle-camus-couvercles-demandes.jpg)
-![Affiche : "Les petites gouttes d’eau font les grands gâchis"](illustrations/somain-poubelles-salle-camus-gachis.jpg)
+![Patchwork de photographies de poubelles sans couvercle](/public/illustrations/somain-poubelles-sans-couvercle.jpg)
+![Photographie des poubelles de la salle Albert Camus](/public/illustrations/somain-poubelles-salle-camus.jpg)
+![Affiche : "Les petites gouttes d’eau font les grands gâchis"](/public/illustrations/somain-poubelles-salle-camus-couvercles-demandes.jpg)
+![Affiche : "Les petites gouttes d’eau font les grands gâchis"](/public/illustrations/somain-poubelles-salle-camus-gachis.jpg)
 
 Il semble que les couvercles des poubelles de la CCCO soient fragiles et qu’en déversant leur contenu dans le camion benne, il ne soit pas rare que ces derniers se brisent.
 

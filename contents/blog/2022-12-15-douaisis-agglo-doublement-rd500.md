@@ -10,7 +10,7 @@ tags:
   - routes
   - rd500
 illustration:
-  url: illustrations/citation-agglo-stephanie-stiernon-rd500.png
+  url: "/public/illustrations/citation-agglo-stephanie-stiernon-rd500.png"
   alt: Citation de Stéphanie Stiernon à Douaisis Agglo
 ---
 
@@ -18,7 +18,7 @@ illustration:
 
 **Une participation financière de Douaisis Agglo a été votée lors du conseil communautaire du 15 décembre 2022. Retranscription des débats.**
 
-![Citation de Stéphanie Stiernon à Douaisis Agglo](illustrations/citation-agglo-stephanie-stiernon-rd500.png)
+![Citation de Stéphanie Stiernon à Douaisis Agglo](/public/illustrations/citation-agglo-stephanie-stiernon-rd500.png)
 
 **Note rétrospective :**
 

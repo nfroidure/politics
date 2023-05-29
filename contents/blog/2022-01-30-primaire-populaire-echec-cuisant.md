@@ -8,7 +8,7 @@ categories:
 tags:
   - Présidentielles 2022
 illustration:
-  url: "illustrations/primaire-populaire.png"
+  url: "/public/illustrations/primaire-populaire.png"
   alt: "Capture d’écran du site de la primaire populaire"
 ---
 
@@ -16,7 +16,7 @@ illustration:
 
 Vous le savez, j’ai été signataire, de la Primaire Populaire qui, au moment de son lancement (ou re-lancement, nous le verrons plus loin), m’a parût être une bonne idée. Aujourd’hui, force est de constater que cette initiative n’est plus que l’ombre d’elle même.
 
-![Capture d’écran du site de la Primaire Populaire](illustrations/primaire-populaire.png)
+![Capture d’écran du site de la Primaire Populaire](/public/illustrations/primaire-populaire.png)
 
 ## Un peu d’Histoire
 
@@ -56,13 +56,13 @@ Et même si un de ces deux candidats était investi, alors, je ne pense pas que 
 
 C’est un autre échec de cette primaire : faire de la politique sans politiser son audience. Une primaire saine aurait vu un combat d’idées, des débats, des discours, des prises de position, comme cela a été le cas pour les écologistes (j’ai par exemple collé pour Éric Piolle dans le Douaisis puis tiré les conclusions du vote pour faire gagner l’écologie).
 
-![Affiche d’Éric Piolle lors de la primaire écologiste](illustrations/affiche-eric-piolle.jpg)
+![Affiche d’Éric Piolle lors de la primaire écologiste](/public/illustrations/affiche-eric-piolle.jpg)
 
 En lieu et place de cela, on assiste à une parade idéologiquement creuse de la seule candidate qui s’y est engouffrée.
 
 C’est pour cela que, voyant que cette primaire ne menait à rien, j’ai naturellement choisi de soutenir le candidat avec lequel j’ai la plus grande proximité idéologique, et de faire campagne pour donner toutes ses chances à une alternative écologique d’advenir.
 
-![Actions de campagne pour Yannick Jadot 2022 dans le Douaisis](illustrations/campagne-jadot-2022.jpg)
+![Actions de campagne pour Yannick Jadot 2022 dans le Douaisis](/public/illustrations/campagne-jadot-2022.jpg)
 
 **Ce candidat, c’est bien entendu Yannick Jadot !** Et la campagne prend vigueur et ampleur, dans le Douaisis comme ailleurs !
 

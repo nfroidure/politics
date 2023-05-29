@@ -9,7 +9,7 @@ categories:
 tags:
   - "Ukraine"
 illustration:
-  url: "illustrations/soutien-ukraine.jpg"
+  url: "/public/illustrations/soutien-ukraine.jpg"
   alt: "Photographie de l’office de tourisme illuminé aux couleurs de l’Ukraine"
 ---
 
@@ -19,7 +19,7 @@ J’ai répondu présent à l’appel d’Alain Bruneel pour manifester la solid
 
 Au travers de ce billet, je souhaite exprimer tout mon soutien aux Ukrainien·nes qui résistent aujourd’hui à l’invasion ordonnée par Vladimir Poutine en violation du droit international.
 
-![Photographie de l’office de tourisme illuminé aux couleurs de l’Ukraine](illustrations/soutien-ukraine.jpg)
+![Photographie de l’office de tourisme illuminé aux couleurs de l’Ukraine](/public/illustrations/soutien-ukraine.jpg)
 
 D’ores et déjà, ce sont des centaines de mort·es et blessé·es provoqués par cet acte guerrier fruit de la dérive impérialiste d’un autocrate sanguinaire et d’une conquête territoriale d’un autre âge.
 

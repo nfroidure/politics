@@ -11,7 +11,7 @@ categories:
   - EÉLV
   - Élections
 illustration:
-  url: "illustrations/route-de-campagne.jpg"
+  url: "/public/illustrations/route-de-campagne.jpg"
   alt: "Petite route de campagne"
 ---
 
@@ -21,7 +21,7 @@ Comme j’ai déjà pu l’annoncer par ailleurs, je suis candidat à la fonctio
 
 ## Un peu de contexte
 
-![Route de campagne du côté de Roucourt](illustrations/route-de-campagne.jpg "🖼⬅️")
+![Route de campagne du côté de Roucourt](/public/illustrations/route-de-campagne.jpg "🖼⬅️")
 
 Vous le savez, je suis un adepte de la transparence. C’est grâce à cette dernière que l’on peut rompre la défiance vis à vis de la Politique, en donnant à voir les véritables enjeux et les instances de décision.
 

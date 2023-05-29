@@ -8,7 +8,7 @@ categories:
 tags:
   - Douai
 illustration:
-  url: "illustrations/voirie-raquet-1.jpg"
+  url: "/public/illustrations/voirie-raquet-1.jpg"
   alt: "Vue aérienne du Raquet"
 ---
 

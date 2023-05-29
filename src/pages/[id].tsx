@@ -18,7 +18,7 @@ type PageFrontmatterMetadata = {
   description: string;
   author: string;
   illustration?: {
-    href: string;
+    url: string;
     alt: string;
   };
 };
@@ -35,7 +35,7 @@ const Page = ({ entry }: Props) => {
     <Layout
       title={`${fixText(entry.title)}`}
       description={fixText(entry.description)}
-      image={entry.illustration?.href}
+      image={entry.illustration?.url}
     >
       <ContentBlock>
         {renderMarkdown({ index: 0 }, entry.content)}

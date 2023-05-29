@@ -9,7 +9,7 @@ categories:
 tags:
   - numérique
 illustration:
-  url: "illustrations/terminal-linux.png"
+  url: "/public/illustrations/terminal-linux.png"
   alt: "Capture d’écran d’un terminal Linux"
 ---
 

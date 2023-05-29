@@ -8,7 +8,7 @@ categories:
 tags:
   - Douai
 illustration:
-  url: "illustrations/formation-conseil-de-quartier.jpg"
+  url: "/public/illustrations/formation-conseil-de-quartier.jpg"
   alt: "Photographie de la formation des conseils de quartier"
 ---
 
@@ -20,7 +20,7 @@ C’est pourquoi les collectivités (commune, communauté de commune, départeme
 
 ## Des principes à incarner
 
-![Photographie de la formation des conseils de quartier](illustrations/formation-conseil-de-quartier.jpg "🖼➡️") Lors des formations organisées par la ville de Douai pour les conseils de quartiers, le formateur, [Patrick Norynberg](https://www.patricknorynberg.com/), est revenu sur la nature des relations des habitant⋅es avec les élu⋅es et les services de la collectivité ou des opérateurs privés mandatés par un contrat de service.
+![Photographie de la formation des conseils de quartier](/public/illustrations/formation-conseil-de-quartier.jpg "🖼➡️") Lors des formations organisées par la ville de Douai pour les conseils de quartiers, le formateur, [Patrick Norynberg](https://www.patricknorynberg.com/), est revenu sur la nature des relations des habitant⋅es avec les élu⋅es et les services de la collectivité ou des opérateurs privés mandatés par un contrat de service.
 
 Les habitant⋅es sont lié⋅es aux élu⋅es par un contrat politique (programme, principes, vision du monde...) et aux services technique par un contrat de service.
 
@@ -46,8 +46,8 @@ Chaque action de la collectivité, a fortiori au nom du conseil de quartier ou d
 
 Une illustration récente est le retrait d’arceaux pour vélo rue de la Mairie. Être conseiller du quartier ne m’a pas permis de le découvrir autrement qu’en pensant pouvoir l’utiliser et me rendre compte de son retrait.
 
-![Les arceaux pour bicyclette présents autrefois](illustrations/rue-de-la-mairie-arceaux-velo.jpg)
-![Les arceaux pour bicyclette disparus aujourd’hui](illustrations/arceaux-disparus-trous-rebouches.jpg)
+![Les arceaux pour bicyclette présents autrefois](/public/illustrations/rue-de-la-mairie-arceaux-velo.jpg)
+![Les arceaux pour bicyclette disparus aujourd’hui](/public/illustrations/arceaux-disparus-trous-rebouches.jpg)
 
 Au delà de la sensation d’indélicatesse, la question des motivations de ce retrait et du coût en temps et argent sont complètement éludées. Or, par un effet de vases communicants, ce sont d’autres sujets, portés par notre conseil de quartier qui sont dé-priorisés par ce type d’actions.
 
@@ -63,26 +63,26 @@ On imagine bien que par un quelconque moyen (permanence des élu⋅es, accointan
 
 Ce sont pas moins de 12 coupes détectées (entre 2009 et aujourd’hui) dont une partie est visible dans le diaporama suivant, mais aussi 13 ruptures de la continuité du linéaire qui sont certainement des coupes plus anciennes qu’il conviendrait de combler également.
 
-![Exemple d’arbre présent au 308 avenue du 4 septembre avant](illustrations/308-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 308 avenue du 4 septembre](illustrations/308-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 314 avenue du 4 septembre avant](illustrations/314-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 314 avenue du 4 septembre](illustrations/314-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 470 avenue du 4 septembre avant](illustrations/470-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 470 avenue du 4 septembre](illustrations/470-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 540 avenue du 4 septembre avant](illustrations/540-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 540 avenue du 4 septembre](illustrations/540-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 625 avenue du 4 septembre avant](illustrations/625-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 625 avenue du 4 septembre](illustrations/625-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 645 avenue du 4 septembre avant](illustrations/645-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 645 avenue du 4 septembre](illustrations/645-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 650 avenue du 4 septembre avant](illustrations/650-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 650 avenue du 4 septembre](illustrations/650-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 743 avenue du 4 septembre avant](illustrations/743-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 743 avenue du 4 septembre](illustrations/743-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 869 avenue du 4 septembre avant](illustrations/869-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 869 avenue du 4 septembre](illustrations/869-ave-4-septembre-douai-apres.jpg)
-![Exemple d’arbre présent au 894 avenue du 4 septembre avant](illustrations/894-ave-4-septembre-douai-avant.jpg)
-![Photographie de l’arbre coupé au 894 avenue du 4 septembre](illustrations/894-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 308 avenue du 4 septembre avant](/public/illustrations/308-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 308 avenue du 4 septembre](/public/illustrations/308-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 314 avenue du 4 septembre avant](/public/illustrations/314-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 314 avenue du 4 septembre](/public/illustrations/314-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 470 avenue du 4 septembre avant](/public/illustrations/470-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 470 avenue du 4 septembre](/public/illustrations/470-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 540 avenue du 4 septembre avant](/public/illustrations/540-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 540 avenue du 4 septembre](/public/illustrations/540-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 625 avenue du 4 septembre avant](/public/illustrations/625-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 625 avenue du 4 septembre](/public/illustrations/625-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 645 avenue du 4 septembre avant](/public/illustrations/645-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 645 avenue du 4 septembre](/public/illustrations/645-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 650 avenue du 4 septembre avant](/public/illustrations/650-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 650 avenue du 4 septembre](/public/illustrations/650-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 743 avenue du 4 septembre avant](/public/illustrations/743-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 743 avenue du 4 septembre](/public/illustrations/743-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 869 avenue du 4 septembre avant](/public/illustrations/869-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 869 avenue du 4 septembre](/public/illustrations/869-ave-4-septembre-douai-apres.jpg)
+![Exemple d’arbre présent au 894 avenue du 4 septembre avant](/public/illustrations/894-ave-4-septembre-douai-avant.jpg)
+![Photographie de l’arbre coupé au 894 avenue du 4 septembre](/public/illustrations/894-ave-4-septembre-douai-apres.jpg)
 
 Ce travail réalisé pour le conseil de quartier m’a pris beaucoup de temps et d’énergie. Mais cela en prendra autant aux élu⋅es qui vont devoir investiguer l’origine de ces coupes, mais aussi aux services qui devront rechercher dans leur historique et peut-être prendre des sanctions. Sans compter le temps nécessaire pour replanter.
 

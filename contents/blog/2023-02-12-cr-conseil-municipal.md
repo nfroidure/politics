@@ -9,7 +9,7 @@ tags:
 categories:
   - Ville de Douai
 illustration:
-  url: "illustrations/conseil-municipal-douai-fevrier-2023.jpg"
+  url: "/public/illustrations/conseil-municipal-douai-fevrier-2023.jpg"
   alt: "Photographie du Conseil Municipal de Douai"
 ---
 
@@ -23,13 +23,13 @@ Nous avons assisté à une belle présentation qui démontre que les choses vont
 
 Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mises en lumière.
 
-![Rapport égalité femme/homme de la Ville de Douai](illustrations/rapport-egalite-femme-homme-ville-douai.png)
-![Répartition femme/homme des effectifs de la Ville de Douai](illustrations/effectifs-femme-homme-ville-douai.png)
-![Mixité par filières de la Ville de Douai](illustrations/mixite-par-filiere-ville-douai.png)
-![Mixité codir/encadrement de la Ville de Douai](illustrations/mixite-codir-encadrement-ville-douai.png)
-![Permanence de l’emploi selon le genre à Ville de Douai](illustrations/emploi-non-permanent-par-genre-ville-douai.png)
-![Rémunération par genre à la Ville de Douai](illustrations/remunerations-par-genre-ville-douai.png)
-![Recours à la formation selon le genre à la Ville de Douai](illustrations/recours-formation-par-genre-ville-douai.png)
+![Rapport égalité femme/homme de la Ville de Douai](/public/illustrations/rapport-egalite-femme-homme-ville-douai.png)
+![Répartition femme/homme des effectifs de la Ville de Douai](/public/illustrations/effectifs-femme-homme-ville-douai.png)
+![Mixité par filières de la Ville de Douai](/public/illustrations/mixite-par-filiere-ville-douai.png)
+![Mixité codir/encadrement de la Ville de Douai](/public/illustrations/mixite-codir-encadrement-ville-douai.png)
+![Permanence de l’emploi selon le genre à Ville de Douai](/public/illustrations/emploi-non-permanent-par-genre-ville-douai.png)
+![Rémunération par genre à la Ville de Douai](/public/illustrations/remunerations-par-genre-ville-douai.png)
+![Recours à la formation selon le genre à la Ville de Douai](/public/illustrations/recours-formation-par-genre-ville-douai.png)
 
 En ce qui concerne les rémunérations, il manque un chiffre qui me semble important : l’écart de rémunération moyen global pour tous les effectifs. La répartition étant segmentée par catégorie et filière, il m’est impossible de les calculer car une moyenne de moyennes n’a pas de sens en statistique. J’ai demandé par courriel au service de démocratie participative le chiffre car cette absence de vision générale manque pour se faire une véritable idée.
 
@@ -37,7 +37,7 @@ Au niveau de l’exécutif (là où les décisions sont prises), on remarque que
 
 Cette approche me semble plus révélatrice de la répartition de la capacité d’action en fonction du genre. C’est d’ailleurs ce que nous avons pu constater dans la suite des débats avec la répartition du budget 2023 : les chefs de service bâtiment, voirie, jardins et cadre de vie concentrent 79,1% des budgets d’investissement. Ces hommes sont aussi directement subordonnés au directeur général des services qui est aussi un homme. Il reste, on le voit, bien du chemin.
 
-![Investissement de la Ville de Douai pour 2023](illustrations/investissement-douai-2023.png)
+![Investissement de la Ville de Douai pour 2023](/public/illustrations/investissement-douai-2023.png)
 
 Ce parallèle budgétaire pourrait, d’ailleurs, également être fait concernant les délégations des adjoint·es ; le résultat serait probablement sensiblement le même.
 
@@ -49,14 +49,14 @@ La commune fait des efforts de mouvements internes et de formation afin que ces 
 
 Note positive, la pyramide des âges de la Ville de Douai indique qu’il existe un volant d’action pour recruter de manière plus équilibrée avec de nombreux départ en retraite prévus. Il s’agit de ne pas laisser passer cette opportunité !
 
-![Âges des agents de la Ville de Douai](illustrations/pyramide-ages-ville-douai.png)
+![Âges des agents de la Ville de Douai](/public/illustrations/pyramide-ages-ville-douai.png)
 
 Jamila Mekki (conseillère municipale déléguée logement, handicap, droits des femmes, lutte contre les discriminations, quartier du faubourg de Béthune), nous a informé que le prochain événement organisé par la mairie sera consacré aux femmes meneuses.
 
 Une idée pour 2025, mettre en valeur ces femmes qui investissent des métiers longtemps réservés aux hommes au sein des effectifs de la mairie.
 
 **Note rétrospective :**
-![Courrier reçu de la Ville de Douai](illustrations/courrier-mairie-egalite-f-h.jpg "🖼➡️")En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
+![Courrier reçu de la Ville de Douai](/public/illustrations/courrier-mairie-egalite-f-h.jpg "🖼➡️")En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
 
 
 - la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
@@ -77,9 +77,9 @@ Une bonne nouvelle, la dette baisse (et ses intérêts avec). Cette dernière es
 
 Coline Craeye est intervenue pour dénoncer la contrition des budgets actuels et prédire le foisonnement des dépenses au fur et à mesure de l’approche des élections municipales de 2026.
 
-![Évolution de l’endettement de la ville de Douai](illustrations/evolution-endettement-ville-douai.png)
-![Évolution des opérations d’équipement de la ville de Douai](illustrations/evolution-operations-equipement-ville-douai.png)
-![Évolution de l’épargne brute de la ville de Douai](illustrations/evolution-epargne-brute-ville-de-douai.png)
+![Évolution de l’endettement de la ville de Douai](/public/illustrations/evolution-endettement-ville-douai.png)
+![Évolution des opérations d’équipement de la ville de Douai](/public/illustrations/evolution-operations-equipement-ville-douai.png)
+![Évolution de l’épargne brute de la ville de Douai](/public/illustrations/evolution-epargne-brute-ville-de-douai.png)
 
 Il est vrai que la concomitance des graphiques avec les périodes électorales (élections de 2014 et 2020) est frappant. On ne peut cependant pas considérer que la pratique soit neuve puisqu’on peut observer que l’endettement était bien plus haut au début du premier mandat de Frédéric Chéreau qu’au début du second.
 
@@ -89,25 +89,25 @@ Finalement, plus que le cycle des investissements, ce qui pourrait être mis en 
 
 Globalement, ceci dit, la situation financière de la ville semble bonne comme l’illustrent les différents graphiques produits par les services de la ville.
 
-![Recettes de fonctionnement de la ville de Douai](illustrations/recettes-fonctionnement-douai.png)
-![Structure des recettes de fonctionnement de la ville de Douai](illustrations/structures-recettes-fonctionnement-douai.png)
-![Dépenses de fonctionnement de la ville de Douai](illustrations/depenses-fonctionnement-douai.png)
-![Structure des dépenses de fonctionnement de la ville de Douai](illustrations/structures-depenses-fonctionnement-douai.png)
-![Analyse rétrospective du budget de la ville de Douai](illustrations/analyse-retrospective-budget-2018-2022.png)
-![Financements étatiques de la ville de Douai](illustrations/financements-etatiques-douai-2023.png)
-![Projections pour l’évolution de la dette de la ville de Douai](illustrations/projection-evolution-dette-douai.png)
-![Répartition de la dette de la ville de Douai](illustrations/repartition-dette-ville-douai.png)
-![Comptes administratifs de la ville de Douai](illustrations/comptes-administratifs-douai-2022-1.png)
-![Comptes administratifs de la ville de Douai](illustrations/comptes-administratifs-douai-2022-2.png)
+![Recettes de fonctionnement de la ville de Douai](/public/illustrations/recettes-fonctionnement-douai.png)
+![Structure des recettes de fonctionnement de la ville de Douai](/public/illustrations/structures-recettes-fonctionnement-douai.png)
+![Dépenses de fonctionnement de la ville de Douai](/public/illustrations/depenses-fonctionnement-douai.png)
+![Structure des dépenses de fonctionnement de la ville de Douai](/public/illustrations/structures-depenses-fonctionnement-douai.png)
+![Analyse rétrospective du budget de la ville de Douai](/public/illustrations/analyse-retrospective-budget-2018-2022.png)
+![Financements étatiques de la ville de Douai](/public/illustrations/financements-etatiques-douai-2023.png)
+![Projections pour l’évolution de la dette de la ville de Douai](/public/illustrations/projection-evolution-dette-douai.png)
+![Répartition de la dette de la ville de Douai](/public/illustrations/repartition-dette-ville-douai.png)
+![Comptes administratifs de la ville de Douai](/public/illustrations/comptes-administratifs-douai-2022-1.png)
+![Comptes administratifs de la ville de Douai](/public/illustrations/comptes-administratifs-douai-2022-2.png)
 
 Des précisions ont aussi été apportées du point de vue des ressources humaines de la ville de Douai.
 
-![Budget RH de la Ville de Douai](illustrations/budget-global-rh-ville-douai.png)
-![Éléments de rémunération de la Ville de Douai](illustrations/elements-remuneration-agents-ville-douai.png)
-![Heures agents de la Ville de Douai](illustrations/heures-agents-ville-douai.png)
-![Mouvements personnel de la Ville de Douai](illustrations/mouvements-personnel-ville-douai.png)
-![Âges des agents de la Ville de Douai](illustrations/effectifs-ville-douai.png)
-![Évolution charges de personnel et frais assimilés de la Ville de Douai](illustrations/evolution-chapitre-ville-douai.png)
+![Budget RH de la Ville de Douai](/public/illustrations/budget-global-rh-ville-douai.png)
+![Éléments de rémunération de la Ville de Douai](/public/illustrations/elements-remuneration-agents-ville-douai.png)
+![Heures agents de la Ville de Douai](/public/illustrations/heures-agents-ville-douai.png)
+![Mouvements personnel de la Ville de Douai](/public/illustrations/mouvements-personnel-ville-douai.png)
+![Âges des agents de la Ville de Douai](/public/illustrations/effectifs-ville-douai.png)
+![Évolution charges de personnel et frais assimilés de la Ville de Douai](/public/illustrations/evolution-chapitre-ville-douai.png)
 
 ## Aparté sur l’"éco"-quartier Raquet
 
@@ -115,10 +115,10 @@ Une question de Xavier Thierry sur une provision pour contentieux a posé de fa�
 
 Selon les dires du Maire, Frédéric Chéreau, alors que la ville aurait accepté de participer à hauteur d’1,9M€, les recettes fiscales à ce jour seraient de l’ordre de 30 000€. En lieu et place des 1400 logements imaginés initialement, ce seraient 140 logements qui auraient été finalement prévus.
 
-![Voirie du Raquet : rupture de continuité cyclable](illustrations/voirie-raquet-1.jpg)
-![Vue du Quartier du Raquet](illustrations/voirie-raquet-2.jpg)
-![Voirie du Raquet : cyclistes et piéton·nes mélangé·es](illustrations/voirie-raquet-3.jpg)
-![Affichage promotionnel pour l’"éco quartier" du Raquet](illustrations/voirie-raquet-4.jpg)
+![Voirie du Raquet : rupture de continuité cyclable](/public/illustrations/voirie-raquet-1.jpg)
+![Vue du Quartier du Raquet](/public/illustrations/voirie-raquet-2.jpg)
+![Voirie du Raquet : cyclistes et piéton·nes mélangé·es](/public/illustrations/voirie-raquet-3.jpg)
+![Affichage promotionnel pour l’"éco quartier" du Raquet](/public/illustrations/voirie-raquet-4.jpg)
 
 Toujours selon ce dernier, Christian Poiret aurait accepté de revoir sa copie et de viser une plus grande densité (salutaire pour ce qu’il reste de nature dans notre département) sur cette large avenue créée de toute pièce et dont l’entretien aurait été repris plus tôt que prévu par la ville (qui a donc fait un pas dans sa direction).
 
@@ -128,9 +128,9 @@ Cet exemple est intéressant car il souligne les visions diamétralement opposé
 
 Tout cela, bien-sûr, en partie sur les terres converties en bio et exploitées par les Jardins de Cocagne.
 
-![Photographie de la friche Peugeot](illustrations/friche-peugeot-2.jpg)
-![Photographie de la friche Peugeot avec un mont de gravas](illustrations/friche-peugeot-3.jpg)
-![Panneau du promoteur de la friche Peugeot](illustrations/friche-peugeot-1.jpg)
+![Photographie de la friche Peugeot](/public/illustrations/friche-peugeot-2.jpg)
+![Photographie de la friche Peugeot avec un mont de gravas](/public/illustrations/friche-peugeot-3.jpg)
+![Panneau du promoteur de la friche Peugeot](/public/illustrations/friche-peugeot-1.jpg)
 
 À comparer avec les réhabilitations de friches telles que la friche Leroy Merlin, les friches Peugeot et Renault. Loin de consommer des terres, elles recyclent les friches laissées par la création de la "Cité de l’automobile" de la ZAC du Luc.
 

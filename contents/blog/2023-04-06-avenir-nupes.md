@@ -9,7 +9,7 @@ tags:
   - Douaisis
   - NUPES
 illustration:
-  url: "illustrations/nupes-douai.jpg"
+  url: "/public/illustrations/nupes-douai.jpg"
   alt: "Photographie d’une partie de la NUPES (Cyril Grandin, Patricia Boulan, Katia Bittner et Nicolas Froidure)"
 ---
 
@@ -67,11 +67,11 @@ Cela aurait aussi permis aux insoumis⋅es d’expérimenter des mandats d’él
 
 Mais surtout, il y a eu les départementales 2021, où toute la gauche était une nouvelle fois unie autour du quadrinôme : [Katia Bitnerr](https://keskidiz.nicolasfroidure.fr/elu-es/katia-bittner), [Frédéric Chéreau](https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau), Auriane Ait Lasri et Jean-Luc Dellacherie. Toute la gauche sauf une nouvelle fois LFI.
 
-![Affiches des élections départementales pour le canton de Douai 2021](illustrations/departementales-2021-douai-affiches.jpg)
-![Affiches des élections départementales recouvertes par LFI](illustrations/affiche-departementale-douai-recouverte-par-lfi.jpg)
-![Affiches des élections régionales recouvertes par LFI](illustrations/affiche-regionale-douai-recouverte-par-lfi.jpg)
-![Affiches des élections départementales dégradées "droite socialiste"](illustrations/affiches-droite-socialiste.jpg)
-![Affiche parodique de "Nous sommes Pour !"](illustrations/parodie-nous-sommes-sourds.png)
+![Affiches des élections départementales pour le canton de Douai 2021](/public/illustrations/departementales-2021-douai-affiches.jpg)
+![Affiches des élections départementales recouvertes par LFI](/public/illustrations/affiche-departementale-douai-recouverte-par-lfi.jpg)
+![Affiches des élections régionales recouvertes par LFI](/public/illustrations/affiche-regionale-douai-recouverte-par-lfi.jpg)
+![Affiches des élections départementales dégradées "droite socialiste"](/public/illustrations/affiches-droite-socialiste.jpg)
+![Affiche parodique de "Nous sommes Pour !"](/public/illustrations/parodie-nous-sommes-sourds.png)
 
 La campagne a été rude, il n’était pas rare que je retrouve des affiches LFI sur les nôtres (même régionales dont LFI était pourtant partie prenante). Au second tour, il y aura un timide (pas de conférence de presse, pas d’article) appel à voter pour notre liste mais aucun engagement sur le terrain de la part d’équipes pourtant très actives au premier.
 
@@ -87,7 +87,7 @@ Aujourd’hui, il ne s’agit pas de refaire l’histoire, mais de tisser des li
 
 **Notre projet est clair : rechercher l’union** (toute en parant à toutes les éventualités, en responsabilité) mais avec un processus transparent et un méthodologie rigoureuse et programmatique. Il me semble important que chaque formation se prête à l’exercice, tire un bilan public de ces dernières années comme nous le ferons.
 
-![Photographie d’une partie de la NUPES (Cyril Grandin, Patricia Boulan, Katia Bittner et Nicolas Froidure)](illustrations/nupes-douai.jpg "🖼➡️")
+![Photographie d’une partie de la NUPES (Cyril Grandin, Patricia Boulan, Katia Bittner et Nicolas Froidure)](/public/illustrations/nupes-douai.jpg "🖼➡️")
 
 Je le répète chaque fois que j’en ai l’occasion : **pour connaître nos convergences et nos désaccords, il faut se parler**. Sans instituer un cadre concerté au préalable et validé par toustes, ces moments d’échange n’existeront pas.
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - RN
 illustration:
-  url: "illustrations/poste-de-transformation-danger-de-mort.jpg"
+  url: "/public/illustrations/poste-de-transformation-danger-de-mort.jpg"
   alt: "Photographie d’un avertissement de danger sur un poste de transformation"
 ---
 
@@ -74,14 +74,14 @@ Plus que conquises, des populations entières, oubliées de la République, sont
 
 Durant la campagne présidentielle, j’ai tracté pour Yannick Jadot à Brunémont, un village que je connais bien. J’y étais également passé lors de la seconde étape de mon [Tour du Douaisis](./top-depart-du-tour). Dans ce dernier, 70,98% des voix se sont exprimées pour le RN. À l’exclusion des trois rues historiques de ce tout petit village, on y trouve pourtant des résidences proprettes. En y flânant, on peut se demander ce qui peut bien motiver des personnes vivant dans un cadre si agréable à voter pour le RN.
 
-![Photographie de l’entrée de la commune de Brunémont](illustrations/brunemont-panneau-entree.jpg)
-![Gare de Brunémont](illustrations/brunemont-gare.jpg)
-![Mairie de Brunemont](illustrations/brunemont-mairie.jpg)
-![Église et monument aux morts de Brunémont](illustrations/brunemont-monument-aux-morts-eglise.jpg)
-![Résidence du Moulin à Brunémont](illustrations/brunemont-residence-du-moulin.jpg)
-![Résidence Blanche Terre à Brunémont](illustrations/brunemont-residence-blanche-terre.jpg)
-![Quartier résidenciel de Brunémont](illustrations/brunemont-residences.jpg)
-![Place Théodore Stempniak à Brunémont](illustrations/brunemont-place-theodore-stempniak.jpg)
+![Photographie de l’entrée de la commune de Brunémont](/public/illustrations/brunemont-panneau-entree.jpg)
+![Gare de Brunémont](/public/illustrations/brunemont-gare.jpg)
+![Mairie de Brunemont](/public/illustrations/brunemont-mairie.jpg)
+![Église et monument aux morts de Brunémont](/public/illustrations/brunemont-monument-aux-morts-eglise.jpg)
+![Résidence du Moulin à Brunémont](/public/illustrations/brunemont-residence-du-moulin.jpg)
+![Résidence Blanche Terre à Brunémont](/public/illustrations/brunemont-residence-blanche-terre.jpg)
+![Quartier résidenciel de Brunémont](/public/illustrations/brunemont-residences.jpg)
+![Place Théodore Stempniak à Brunémont](/public/illustrations/brunemont-place-theodore-stempniak.jpg)
 
 Certes, quand on gratte un peu la surface, on y trouve de véritables situations difficiles. Notamment des personnes vivant en permanence dans un habitat léger de loisirs, parfois par choix, mais souvent par nécessité.
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - Présidentielles 2022
 illustration:
-  url: "illustrations/photo-scarpe.jpg"
+  url: "/public/illustrations/photo-scarpe.jpg"
   alt: "Photo d’un tag parodiant le logo de Facebook en Farcebook"
 ---
 

@@ -20,7 +20,7 @@ export const ICONS = [
   "remove",
   "twitter",
 ] as const;
-type Icon = typeof ICONS[number];
+type Icon = (typeof ICONS)[number];
 
 type BaseProps =
   | {
@@ -65,7 +65,7 @@ export default function Button({
                 className="icon"
                 style={prefix({
                   maskImage: icon
-                    ? `url('${publicRuntimeConfig.buildPrefix}/images/icons/${icon}.svg')`
+                    ? `url('${publicRuntimeConfig.staticPrefix}/images/icons/${icon}.svg')`
                     : "",
                 })}
               ></span>
@@ -84,7 +84,7 @@ export default function Button({
               className="icon"
               style={prefix({
                 maskImage: icon
-                  ? `url('${publicRuntimeConfig.buildPrefix}/images/icons/${icon}.svg')`
+                  ? `url('${publicRuntimeConfig.staticPrefix}/images/icons/${icon}.svg')`
                   : "",
               })}
             ></span>

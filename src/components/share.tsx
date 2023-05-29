@@ -52,13 +52,13 @@ export default function Share({
           mask-size: calc(var(--vRythm) * 0.6);
           -webkit-mask-size: calc(var(--vRythm) * 0.6);
           mask-position: left bottom;
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/twitter.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/twitter.svg");
         }
         span.icon.facebook {
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/facebook.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/facebook.svg");
         }
         span.icon.mail {
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/mail.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/mail.svg");
         }
       `}</style>
     </Paragraph>

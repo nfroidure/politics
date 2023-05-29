@@ -11,13 +11,13 @@ categories:
 tags:
   - exemplarité
 illustration:
-  url: "illustrations/francois-guiffard.jpg"
+  url: "/public/illustrations/francois-guiffard.jpg"
   alt: "François Guiffard avant et après sa compromission"
 ---
 
 # François Guiffard, tout n’est pas possible en politique !
 
-![François Guiffard avant et après sa compromission](illustrations/francois-guiffard.jpg "🖼➡️")
+![François Guiffard avant et après sa compromission](/public/illustrations/francois-guiffard.jpg "🖼➡️")
 
 La colère passée, je tiens à revenir sur l’élection de Douaisis Agglo qui, comme certain·es s’en sont rendu·es compte, a crée une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
 
@@ -29,7 +29,7 @@ Après des discussions bilatérales, nous avons décidé que ce n’était pas s
 
 Le candidat qui jurait, malgré sa proximité politique avec nos candidat·es, dès le lendemain du second tour, n’avoir qu’une ambition; celle d’être la première force d’opposition, ose, tout à coup, devenir la plus consensuelle des marionnettes utiles que Christian Poiret n’ait eut l’occasion de tenir sous sa botte.
 
-![Publication de Cyril Grandin sur le seul bulletin vert...](illustrations/francois-guiffard-bulletin-vert.png "🖼⬅️")
+![Publication de Cyril Grandin sur le seul bulletin vert...](/public/illustrations/francois-guiffard-bulletin-vert.png "🖼⬅️")
 
 Le candidat dont la liste se disait plus écologiste que les écologistes, qui est allé jusqu’à travestir toute sa communication pour profiter d’une vague verte (qu’il minimisât aussitôt les élections terminées...), a osé se muer en défenseur d’un triste bilan de notre agglomération en terme de consommation de terres agricoles.
 
@@ -53,10 +53,10 @@ Nous ferons vivre l’écologie politique avec passion et détermination. Nous q
 
 Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue en même temps que ses principes politiques...
 
-![Cache Google des sites supprimés](illustrations/recherche-site-francois-guiffard-articles-supprimes.jpg)
-![Capture d’une page supprimée](illustrations/capture-site-ensemble-faisons-douai.jpg)
-![Capture de la page avant suppression (page 1)](illustrations/capture-site-ensemble-faisons-douai-avant-supression-1.jpg)
-![Capture de la page avant suppression (page 2)](illustrations/capture-site-ensemble-faisons-douai-avant-supression-2.jpg)
+![Cache Google des sites supprimés](/public/illustrations/recherche-site-francois-guiffard-articles-supprimes.jpg)
+![Capture d’une page supprimée](/public/illustrations/capture-site-ensemble-faisons-douai.jpg)
+![Capture de la page avant suppression (page 1)](/public/illustrations/capture-site-ensemble-faisons-douai-avant-supression-1.jpg)
+![Capture de la page avant suppression (page 2)](/public/illustrations/capture-site-ensemble-faisons-douai-avant-supression-2.jpg)
 
 **Note restrospective :**
 
@@ -64,11 +64,11 @@ C’est donc un poste de Vice-Président à Douaisis Agglo (2 500€ chaque mois
 
 Une situation qui prête à sourire quand on a pu observer, par ailleurs, avant cette compromission, les longs discours moralisateurs sur la rémunération du maire.
 
-![Publication de François Guiffard sur l’indemnité de Frédéric Chéreau](illustrations/publication-francois-guiffard-remuneration-frederic-chereau.png)
+![Publication de François Guiffard sur l’indemnité de Frédéric Chéreau](/public/illustrations/publication-francois-guiffard-remuneration-frederic-chereau.png)
 
 Mais il n’est point de compromission sans remerciements, c’est à la surprise générale que, lors de ses vœux 2023, Christian Poiret a annoncé que l’office de tourisme quitterait l’Hôtel du Dauphin loué à la mairie de Douai pour s’installer dans le Camaïeu victime d’une fermeture de nombreux magasins par le groupe en difficulté.
 
-![François Guiffard devant son cadeau](illustrations/guiffard-devant-son-cadeau.jpg)
-![Le nouvel office de tourisme aux couleurs de l’agglomération du Douaisis](illustrations/nouvel-office-tourisme-douai.jpg)
+![François Guiffard devant son cadeau](/public/illustrations/guiffard-devant-son-cadeau.jpg)
+![Le nouvel office de tourisme aux couleurs de l’agglomération du Douaisis](/public/illustrations/nouvel-office-tourisme-douai.jpg)
 
 On imagine bien que ce lieu deviendra la base arrière de la campagne municipale 2026 de ce dernier. Une situation idéale à deux pas du beffroi, au milieu de la rue piétonne, que demander de plus ? Bref, des affaires qui roulent...

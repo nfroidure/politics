@@ -12,13 +12,13 @@ tags:
   - démocratie
   - agglomération
 illustration:
-  url: "illustrations/entrepot-goodman-locabris.jpg"
+  url: "/public/illustrations/entrepot-goodman-locabris.jpg"
   alt: "Panneau travaux Goodman et locabris"
 ---
 
 # Point sur l’entrepôt Goodman
 
-![Panneau travaux Goodman et locabris](illustrations/entrepot-goodman-locabris.jpg)
+![Panneau travaux Goodman et locabris](/public/illustrations/entrepot-goodman-locabris.jpg)
 
 ✔️ J’ai pu accéder au dossier de consultation concernant la nouvelle plateforme logistique qui va sortir de terre à Lambres-lez-Douai.
 

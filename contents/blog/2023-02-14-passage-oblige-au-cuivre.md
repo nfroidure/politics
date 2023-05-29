@@ -10,7 +10,7 @@ tags:
   - fibre
   - internet
 illustration:
-  url: "illustrations/fibre-optique.jpg"
+  url: "/public/illustrations/fibre-optique.jpg"
   alt: "Photo d’une armoire de liaison de fibre optique"
 ---
 
@@ -18,7 +18,7 @@ illustration:
 
 Depuis quelques temps, je suis littéralement harcelé par mon fournisseur d’accès (B-And-You filiale de Bouygues Telecom) pour le passage à la fibre car les boucles locales en cuivre (le fameux ADSL) seraient appelées à disparaître.
 
-![Photo d’une armoire de liaison de fibre optique](illustrations/fibre-optique.jpg)
+![Photo d’une armoire de liaison de fibre optique](/public/illustrations/fibre-optique.jpg)
 
 Le fait est que je ne ressens pas le besoin de changer, une connexion ADSL 8Mb/s me suffit amplement. Dès lors, pourquoi changer étant donné que le coup d’une connexion fibre s’accompagne d’une augmentation du tarif de l’abonnement de l’ordre de 10€/mois ?
 

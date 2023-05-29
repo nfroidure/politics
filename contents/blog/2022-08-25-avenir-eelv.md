@@ -8,13 +8,13 @@ tags:
 categories:
   - EÉLV
 illustration:
-  url: "illustrations/grenoble.jpg"
+  url: "/public/illustrations/grenoble.jpg"
   alt: "Photographie de Grenoble"
 ---
 
 # Quel avenir pour l’écologie politique ?
 
-![Photographie de Grenoble](illustrations/grenoble.jpg "🖼➡️")
+![Photographie de Grenoble](/public/illustrations/grenoble.jpg "🖼➡️")
 
 À l’occasion des Journées des Écologistes à Grenoble durant lesquelles les nouvelles orientations d’EÉLV se dessinent, je vais au travers de ce billet entrer dans le détail de mes vœux pour l’écologie politique de demain.
 

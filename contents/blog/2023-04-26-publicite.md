@@ -8,7 +8,7 @@ categories:
 tags:
   - Publicité
 illustration:
-  url: "illustrations/stop-pub.jpg"
+  url: "/public/illustrations/stop-pub.jpg"
   alt: "Patchwork d’autocollants de type Stop Pub"
 ---
 
@@ -16,7 +16,7 @@ illustration:
 
 Le 27 juin 2022, le Département du Nord a attribué une concession de service public à la société ClearChanel pour la mise à disposition de mobiliers urbains publicitaires.
 
-![Patchwork des panneaux publicitaires du département](illustrations/panneaux-pub-departement.jpg)
+![Patchwork des panneaux publicitaires du département](/public/illustrations/panneaux-pub-departement.jpg)
 
 En plus de la communication institutionnelle, **50% des 500 panneaux publicitaires et 50 panneaux digitaux nouvellement installés afficheront de la publicité commerciale**.
 
@@ -34,7 +34,7 @@ Alors que ces derniers commencent à fleurir dans le Douaisis (notamment ici à 
 
 ## Qu’en pensent les gens ?
 
-![Patchwork d’autocollants de type Stop Pub](illustrations/stop-pub.jpg "🖼➡️")
+![Patchwork d’autocollants de type Stop Pub](/public/illustrations/stop-pub.jpg "🖼➡️")
 
 Avant de déployer des panneaux publicitaires supplémentaires, il faudrait peut-être demander aux gens ce qu’ils pensent de cette publicité.
 
@@ -42,7 +42,7 @@ Pour ce faire, il existe un moyen très simple de se rendre compte que la majeur
 
 La plupart arborent fièrement leur autocollant stop pub. J’ai d’ailleurs pu le constater via mes activités politique de tractage.
 
-![Autocollants Stop Pub : c’est tout l’immeuble](illustrations/stop-pub-immeuble.jpg "🖼⬅️")
+![Autocollants Stop Pub : c’est tout l’immeuble](/public/illustrations/stop-pub-immeuble.jpg "🖼⬅️")
 
 Et pourtant, c’est une démarche individuelle. Par défaut, on la reçoit ! Il décider d’en mettre un, trouver l’autocollant et le coller. D’ailleurs, certains ne manquent pas de style ou d’originalité.
 
@@ -58,7 +58,7 @@ Ces dégâts sont nombreux et documentés très largement.
 
 ## La pub partout
 
-![Photographie d’un camion JC Decaux effectuant sa tournée à Douai](illustrations/camion-jcdecaux.jpg "🖼➡️")
+![Photographie d’un camion JC Decaux effectuant sa tournée à Douai](/public/illustrations/camion-jcdecaux.jpg "🖼➡️")
 
 Malgré cela, les collectivités restent complices, dans leur grande majorité, de ce matraquage.
 
@@ -82,7 +82,7 @@ Je viens d’envoyer un courriel au service démocratie participative afin de co
 
 # Des enjeux contradictoire avec le cœur de ville
 
-![Panneau de pub pour un fast-food de périphérie en centre ville de Douai](illustrations/panneau-pub-douai-fast-food.jpg "🖼⬅️")
+![Panneau de pub pour un fast-food de périphérie en centre ville de Douai](/public/illustrations/panneau-pub-douai-fast-food.jpg "🖼⬅️")
 
 Enfin, comme l’illustration jointe le démontre, les publicités sont bien souvent utilisées par des acteurs des zones de périphérie. C’est ainsi que l’on se retrouve, en centre ville de Douai, menacé par la mort lente et généralisée des centres des villes moyennes, avec des publicités suggérant aux habitant⋅es de prendre leur voiture pour aller dans le dernier fast-food à la mode.
 

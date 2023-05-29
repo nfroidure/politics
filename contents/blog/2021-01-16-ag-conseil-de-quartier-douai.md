@@ -9,7 +9,7 @@ categories:
 tags:
   - démocratie
 illustration:
-  url: "illustrations/douai-quartier-barlet-centre.svg"
+  url: "/public/illustrations/douai-quartier-barlet-centre.svg"
   alt: "Mise en avant du quartier Barlet-Centre-Faubourg de Cambrai sur la carte de la ville de Douai"
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - Douaisis
 illustration:
-  url: "illustrations/contribuables-actifs-douaisis.png"
+  url: "/public/illustrations/contribuables-actifs-douaisis.png"
   alt: "Photographie du lien vers l’article VDN"
 ---
 
@@ -18,7 +18,7 @@ Dans un récent article de [La Voix du Nord](https://www.lavoixdunord.fr/1295980
 
 Ses initiateurs se définissent comme des lanceurs d’alerte souhaitant effectuer un contrôle sur les dépenses publiques et “dire aux élus qu’ils ont des comptes à rendre”.
 
-![Photographie du lien vers l’article VDN](illustrations/contribuables-actifs-douaisis.png)
+![Photographie du lien vers l’article VDN](/public/illustrations/contribuables-actifs-douaisis.png)
 
 Au delà de la forme, peu engageante, d’une association dont les fondateurs sont exclusivement masculins, sans diversité, ni d’âge, ni d’origine, j’ai plusieurs critiques à adresser sur le fond.
 
@@ -35,9 +35,9 @@ Selon ces derniers, ils seraient maintenant apolitiques, mais la question est, p
 
 D’autant qu’au delà du simple engagement politique, pour certains membres, on est clairement sur une ligne très à droite, comme en témoignent ces publications relayant les discours de l’extrême droite ou faisant sauter le barrage républicain avec les [conséquences que l’on connaît dans le Douaisis](./la-contagion-rn-peut-etre-stoppee)...
 
-![Publication de Jacques Brenot relayant Éric Zemmour](illustrations/publication-jacques-brenot-zemmour.png)
-![Publication de Jacques Brenot relayant Marion Maréchal Le Pen](illustrations/publication-jacques-brenot-lepen.png)
-![Publication de Jean-Luc Frydman](illustrations/publication-jean-luc-frydman-second-tour.png)
+![Publication de Jacques Brenot relayant Éric Zemmour](/public/illustrations/publication-jacques-brenot-zemmour.png)
+![Publication de Jacques Brenot relayant Marion Maréchal Le Pen](/public/illustrations/publication-jacques-brenot-lepen.png)
+![Publication de Jean-Luc Frydman](/public/illustrations/publication-jean-luc-frydman-second-tour.png)
 
 ## Des associations existent déjà
 
@@ -59,7 +59,7 @@ Enfin, dernier point qui me semble important à souligner : la posture de "cont
 
 Or, nous sommes toutes et tous des [contribuables](https://fr.wiktionary.org/wiki/contribuable). Chacun·e d’entre nous paie a minima de la TVA. Une TVA qui pèse lourdement sur les foyers les plus modestes. C’est ce que démontre le graphique suivant. En fait, l’effort est réel dans quasi toutes les tranches de revenu sauf pour les 99.9% les plus riches, cherchez l’erreur...
 
-![La régressivité du système fiscal français. Source : Libération du 21 janvier 2011](illustrations/composition-impots.jpg)
+![La régressivité du système fiscal français. Source : Libération du 21 janvier 2011](/public/illustrations/composition-impots.jpg)
 
 D’ailleurs, si l’on se concentre sur les impôts locaux, principalement liés au patrimoine immobilier, on se rend compte que quasiment tout le monde est concerné à lecture de ce graphique proposé par Thomas Piketty [sur son blog](https://www.lemonde.fr/blog/piketty/2017/10/10/isf-une-faute-historique/).
 

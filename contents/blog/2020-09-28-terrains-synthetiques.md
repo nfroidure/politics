@@ -9,7 +9,7 @@ categories:
 tags:
   - sport
 illustration:
-  url: illustrations/terrain-football-stade-demeny.jpg
+  url: "/public/illustrations/terrain-football-stade-demeny.jpg"
   alt: Photographie du terrain de football du stade Demeny à Douai
 ---
 
@@ -17,7 +17,7 @@ illustration:
 
 🔎 Quand c’est flou, c’est qu’il y a un loup.
 
-⚽  Pendant mes pérégrinations sur l’EPDM, je suis tombé sur une communication d’un lobby expliquant à quel point l’innocuité des terrains synthétiques (à base de pneu recyclés) était prouvée.
+⚽ Pendant mes pérégrinations sur l’EPDM, je suis tombé sur une communication d’un lobby expliquant à quel point l’innocuité des terrains synthétiques (à base de pneu recyclés) était prouvée.
 
 🤷 Sauf que, une chose m’interpelle immédiatement. On parle d’innocuité pour les sportifs, mais absolument pas des conséquences environnementales potentielles. Or, comme moi, j’imagine que vous avez vu passer les divers articles parlant des problématiques de dispersion des micro-plastiques des pneus des autos.
 
@@ -31,7 +31,8 @@ illustration:
 
 ❓ Ma question est donc, que reste-t-il de séduisant dans les terrains synthétiques ?
 
-🕶️ Sources : 
+🕶️ Sources :
+
 - [Le trafic routier et les microplastiques](https://www.lemonde.fr/planete/article/2020/07/19/le-trafic-routier-source-de-pollution-par-les-microplastiques_6046666_3244.html)
 - [Les pneus et les océans](https://www.echa.europa.eu/-/recycled-rubber-infill-causes-a-very-low-level-of-concern)
 - [Étude d’impact sur les enrobés](https://www.rivm.nl/en/rubber-granulate/environmental-impact-study-on-rubber-granulate-2018)

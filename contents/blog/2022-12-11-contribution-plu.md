@@ -11,13 +11,13 @@ categories:
   - Contributions
   - Urbanisme
 illustration:
-  url: "illustrations/reunion-plu-douai-1.jpg"
+  url: "/public/illustrations/reunion-plu-douai-1.jpg"
   alt: "Photographie de la consultation PLU du quartier Barlet-Centre"
 ---
 
 # Contribution au nouveau PLU de Douai
 
-![Photographie de la consultation PLU du quartier Barlet-Centre](illustrations/reunion-plu-douai-1.jpg "🖼➡️")
+![Photographie de la consultation PLU du quartier Barlet-Centre](/public/illustrations/reunion-plu-douai-1.jpg "🖼➡️")
 
 La ville de Douai renouvelle son PLU et il est ambitieux ! Je tenais cependant à apporter une contribution pour compléter le travail réalisé et proposer d’autres mesures possibles.
 

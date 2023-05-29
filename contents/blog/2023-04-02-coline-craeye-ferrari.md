@@ -9,7 +9,7 @@ tags:
   - Douaisis
   - Arrageois
 illustration:
-  url: "illustrations/coline-craeye-christophe-dumont-affiche.jpg"
+  url: "/public/illustrations/coline-craeye-christophe-dumont-affiche.jpg"
   alt: "Photographie d’une affiche des élections départementales de Coline Craeye Ferrari"
 ---
 
@@ -21,7 +21,7 @@ Comme le rapporte [David Hecq](http://www.davidhecq.com/2023/03/coline-craeye-fe
 
 Une demande étonnante qui cache certainement une envie de segmenter son mandat d’élue et sa nouvelle activité de Directrice Générale des Services d’Anzin-Saint-Aubin, petite commune de 3000 âmes.
 
-![Photographie d’une affiche des élections départementales de Coline Craeye Ferrari](illustrations/coline-craeye-christophe-dumont-affiche.jpg "🖼➡️")
+![Photographie d’une affiche des élections départementales de Coline Craeye Ferrari](/public/illustrations/coline-craeye-christophe-dumont-affiche.jpg "🖼➡️")
 
 En tant que personne publique, Coline Craeye-Ferrari peut, bien-sûr, faire l’objet d’articles de blog (comme celui-ci) et c’est bien normal.
 
@@ -33,7 +33,7 @@ On se souvient, par exemple, de la vive opposition de [Coline Craeye](https://ke
 
 On peut également se souvenir du foin que Coline Craeye a fait autour de l’augmentation des indemnités de Frédéric Chéreau, pour au final, devenir bras droite de Valérie El Hamine, maire d’Anzin-Saint-Aubin, qui a augmenté son indemnité de 24% elle aussi.
 
-![Capture d’une publication de Coline Craeye sur la rémunération de Frédéric Chéreau](illustrations/coline-craeye-ferrari-indemnite-chereau.png)
+![Capture d’une publication de Coline Craeye sur la rémunération de Frédéric Chéreau](/public/illustrations/coline-craeye-ferrari-indemnite-chereau.png)
 
 Bref, comme bien d’autres élu⋅es LReM/Renaissance, Coline Craeye voit la paille dans l’œil de son voisin et mais pas la poutre dans le sien... Une opposition stérile, de posture, qui s’est encore illustrée au dernier conseil municipal [au sujet du PLU](./contribution-nouveau-plu-douai) où elle s’est montrée incapable de reconnaître l’existence de simples panneaux.
 

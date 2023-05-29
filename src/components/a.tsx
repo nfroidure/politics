@@ -72,13 +72,13 @@ const Anchor = ({
           mask-size: calc(var(--vRythm) * 0.55);
           -webkit-mask-size: calc(var(--vRythm) * 0.55);
           mask-position: left bottom;
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/arrow-left.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/arrow-left.svg");
         }
         a.last {
           flex-direction: row-reverse;
         }
         a.last span.icon {
-          mask-image: url("${publicRuntimeConfig.buildPrefix}/images/icons/arrow-right.svg");
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/arrow-right.svg");
         }
       `}</style>
     </a>

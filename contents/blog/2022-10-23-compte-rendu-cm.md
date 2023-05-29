@@ -9,13 +9,13 @@ tags:
 categories:
   - Ville de Douai
 illustration:
-  url: "illustrations/conseil-municipal-douai-octobre-2022.jpg"
+  url: "/public/illustrations/conseil-municipal-douai-octobre-2022.jpg"
   alt: "Photographie du conseil déserté par les élu·es LReM"
 ---
 
 # Conseil Municipal du 21 octobre 2022 à Douai
 
-![Photographie du conseil déserté par les élu·es LReM](illustrations/conseil-municipal-douai-octobre-2022.jpg "🖼➡️")
+![Photographie du conseil déserté par les élu·es LReM](/public/illustrations/conseil-municipal-douai-octobre-2022.jpg "🖼➡️")
 
 **N’ayant pu assister au conseil municipal ce vendredi 21 octobre, je reviens à froid sur ce dernier après avoir visionné l’enregistrement vidéo.**
 
@@ -29,7 +29,7 @@ On peut concevoir que dans des petites communes comme Brunémont ou Férin, on n
 
 En revanche, expliquer qu’on a pas l’habitude à la campagne contrairement à la ville de la vidéo relève de la contortion, pour ne pas dire de la malhonnêteté intellectuelle la plus totale.
 
-![Publication de Douaisis Agglo](illustrations/annonce-diffusion-conseil.jpg "🖼➡️▮")
+![Publication de Douaisis Agglo](/public/illustrations/annonce-diffusion-conseil.jpg "🖼➡️▮")
 
 Douaisis Agglo a le matériel prêt à fonctionner puisqu’elle a diffusé les conseils communautaires durant une année entière. Elle en a même fait la promotion comme vous pouvez l’observer sur la capture jointe à ce billet. Les élu·es de l’assemblée sont donc bien familier·es de l’exercice. La réalité est que celui-ci dérange car on aimerait pouvoir continuer à délibérer n’importe comment sans débat contradictoire.
 
@@ -39,7 +39,7 @@ Je prévois de proposer lors de la prochaine réunion du groupe local EÉLV que 
 
 Autre sujet, les économies d’énergie. Un bouquet de propositions sur lesquelles je me suis exprimé avant le conseil a été proposé. Les citoyen·nes ont été consulté·es dans un sondage ayant obtenu 738 réponses. Un procès en légitimité de ce sondage a été fait, je rappelle à toute fin utile qu’un [échantillon statistique](<https://fr.wikipedia.org/wiki/%C3%89chantillon_(statistiques)>) de 1000 personnes a 95% de chances de refléter la réalité. On y est pas exactement et la méthode de sélection peut introduire un biais, mais balayer totalement ce dernier d’un revers de la main témoigne de la faiblesse rhétorique de l’opposition Douaisien·ne.
 
-![Consommation électrique de la ville de Douai en kWH](illustrations/consommation-energie-electrique-douai.png)
+![Consommation électrique de la ville de Douai en kWH](/public/illustrations/consommation-energie-electrique-douai.png)
 
 À mon sens, mais je me suis déjà exprimé à ce sujet, le problème réside plutôt dans les questions fermées et le manque d’éléments comparatifs. Quand on économise 40 000€ en fermant la piscine Beausoleil 3 mois, mais que le [festival techno coûte 89 658€](https://nicolasfroidure.fr/blog/un-festival-electronique-a-douai), on peut s’interroger sur le sens de ces économies. Rappelons que chaque années environ [1500 personnes décèdent par noyade en France](https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/resultats-de-l-enquete-noyades-2021-la-prevention-reste-primordiale).
 
@@ -71,7 +71,7 @@ Enfin, le dernier sujet a été un imbroglio tragi-comique autour d’une motion
 
 Nous avons également découvert, dépités, les conditions folles dans lesquelles seul·es les élu·es du Rassemblement National (Yvette Wattebled, Guy Cannie et Thibaut François) ont voté cette motion qui ressemblait trait pour trait à celle proposée par ces dernier·es lors du dernier conseil.
 
-![Censure immédiate de Douaisis Agglo à la fin du conseil](illustrations/conseil-communautaire-censure.svg)
+![Censure immédiate de Douaisis Agglo à la fin du conseil](/public/illustrations/conseil-communautaire-censure.svg)
 
 Vous pourrez observer [Franz Quatreboeuf](https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs) sortir en trombe puis revenir pour chercher son groupe qui avait oublié de le suivre... Pour enfin revenir poser une question diverse...
 

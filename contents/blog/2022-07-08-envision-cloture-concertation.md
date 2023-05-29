@@ -11,13 +11,13 @@ categories:
   - "Industrie"
   - "Contributions"
 illustration:
-  url: "illustrations/affichage-envision.jpg"
+  url: "/public/illustrations/affichage-envision.jpg"
   alt: "Signalisation de la réunion de clôture de la concertation d’Envision"
 ---
 
 # Usine Envision : clôture de la concertation
 
-![Signalisation de la réunion de clôture de la concertation d’Envision](illustrations/affichage-envision.jpg "🖼➡️")
+![Signalisation de la réunion de clôture de la concertation d’Envision](/public/illustrations/affichage-envision.jpg "🖼➡️")
 
 Hier, je me suis rendu à la réunion de clôture de la concertation publique à propos de l’usine de production de batteries électriques Envision. L’occasion de revenir sur quelques points que j’ai évoqué [dans ma réponse à cette dernière](./projet-d-usine-de-batterie-envision-douai).
 
@@ -33,7 +33,7 @@ Je ne partage pas cet enthousiasme, je pense que nous devons redoubler de vigila
 
 ## Sur l’énergie
 
-![Photographie de la réunion de clôture de la concertation d’Envision](illustrations/cloture-envision.jpg "🖼⬅️")
+![Photographie de la réunion de clôture de la concertation d’Envision](/public/illustrations/cloture-envision.jpg "🖼⬅️")
 
 Ma première intervention a concerné la consommation énergétique et sa modulation. En effet, l’usine de batterie procédera, en sus de sa production, à des cycles de charge/décharge et également à une charge partielle des batteries.
 
@@ -55,7 +55,7 @@ Pourtant, [l’effacement de la consommation électrique](https://librairie.adem
 
 ## Sur l’emploi
 
-![Affiche Electricity, 700 emplois, durée 12 mois](illustrations/electricity-pole-emploi.jpg "🖼➡️")
+![Affiche Electricity, 700 emplois, durée 12 mois](/public/illustrations/electricity-pole-emploi.jpg "🖼➡️")
 
 C’est l’argument massue ; la création d’emploi. C’est effectivement, une aubaine dans un territoire où le chômage est élevé, c’est une des raisons pour lesquelles je suis favorable à ce projet (avec le fait que je pense préférable de contrôler notre pollution ici, plutôt que de l’exporter ailleurs dans des pays sans réglementation).
 
@@ -83,7 +83,7 @@ Mes interrogations sur le cycle de l’eau restent à éclaircir puisque la rép
 
 ## En conclusion
 
-![Photographie de Michel Froidure défournant le dernier coke à la cokerie d’Auby](illustrations/arret-production-cokerie-auby.jpg "🖼➡️▮")
+![Photographie de Michel Froidure défournant le dernier coke à la cokerie d’Auby](/public/illustrations/arret-production-cokerie-auby.jpg "🖼➡️▮")
 
 C’est François-Xavier Bieuville, sous-préfet de Douai qui a clôturé la réunion :
 

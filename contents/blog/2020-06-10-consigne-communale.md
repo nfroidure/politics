@@ -8,7 +8,7 @@ categories:
 tags:
   - consigne
 illustration:
-  url: "illustrations/consigne-gayant.png"
+  url: "/public/illustrations/consigne-gayant.png"
   alt: "Exemple de contenants à l'effigie des Gayant·es"
 ---
 
@@ -22,7 +22,7 @@ La consigne est un moyen simple et ancestral de limiter les déchets produits pa
 
 ## Comment ?
 
-![Exemple de contenants à l'effigie des Gayant·es](illustrations/consigne-gayant.svg)
+![Exemple de contenants à l'effigie des Gayant·es](/public/illustrations/consigne-gayant.svg)
 
 La réutilisation des contenants du commerce est déjà une habitude pour nombre de douaisien·nes. Il s’agit donc d’embrasser cette pratique existante en lui donnant du lustre et du crédit.
 

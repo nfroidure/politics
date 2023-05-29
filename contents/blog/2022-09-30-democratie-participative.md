@@ -9,13 +9,13 @@ tags:
 categories:
   - Démocratie
 illustration:
-  url: "illustrations/quartiers-douai.png"
+  url: "/public/illustrations/quartiers-douai.png"
   alt: "Carte des quartiers de Douai"
 ---
 
 # Démocratie participative : des idées pour Douai !
 
-![Carte des quartiers de Douai](illustrations/quartiers-douai.png "🖼➡️")
+![Carte des quartiers de Douai](/public/illustrations/quartiers-douai.png "🖼➡️")
 
 La ville de Douai porte une initiative de démocratie participative sous la forme de 8 conseils de quartier correspondants aux 8 quartiers actuellement dessinés :
 
@@ -64,9 +64,9 @@ La critique étant facile, je ne vais bien-sûr pas m’arrêter là. Depuis un 
 - **promotion des conseils de quartier:** afin que les conseils de quartier puissent jouer pleinement leur rôle de courroie de transmission, il faut que ces derniers puissent informer de leur existence et promouvoir leurs actions. EÉLV Douaisis est présent à chaque braderie et ceci crée souvent de nombreux échanges intéressants avec les habitant·es. Il pourrait être utile que chaque conseil de quartier y tienne également un stand,
 - **création d’espaces d’expression politique:** aujourd’hui, les espaces d’expression sont monopolisés par de l’affichage publicitaire. Même les panneaux d’affichage associatif sont recouverts la majeure partie du temps d’affiches pour des grosses productions (concerts, comédies musicales...). Il me semble important de créer des espaces d’expression politique pure et de verbaliser les détournements des espaces d’affichage associatif par des sociétés commerciales ou des associations "à but lucratif" (c’est à dire rouage d’un montage économico-juridique complexe impliquant des sociétés privées). Je pense qu’il serait également intéressant de créer des rendez-vous politiques pour permettre aux citoyen·nes de débattre entre eux à l’image du ["Speakers Corner"](https://fr.wikipedia.org/wiki/Speakers%27_Corner) que l’on peut trouver à Londres.
 
-![Photographie de la réunion PLU Barlet-Centre avec Stéphanie Stiernon](illustrations/reunion-plu-douai-1.jpg)
-![Photographie de la réunion PLU en vue d’ensemble](illustrations/reunion-plu-douai-2.jpg)
-![Photographie de la carte du nouveau PLU](illustrations/reunion-plu-douai-3.jpg)
+![Photographie de la réunion PLU Barlet-Centre avec Stéphanie Stiernon](/public/illustrations/reunion-plu-douai-1.jpg)
+![Photographie de la réunion PLU en vue d’ensemble](/public/illustrations/reunion-plu-douai-2.jpg)
+![Photographie de la carte du nouveau PLU](/public/illustrations/reunion-plu-douai-3.jpg)
 
 ## En conclusion
 

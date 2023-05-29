@@ -8,13 +8,13 @@ categories:
 tags:
   - Législatives 2022
 illustration:
-  url: "illustrations/logo-nupes.svg"
+  url: "/public/illustrations/logo-nupes.svg"
   alt: "Logo de NUPES"
 ---
 
 # Législatives 2022 : Pas investi, mais impliqué !
 
-![Logo de la Nouvelle Union Populaire Écologique et Sociale (NUPES)](illustrations/logo-nupes.svg "🖼➡️")
+![Logo de la Nouvelle Union Populaire Écologique et Sociale (NUPES)](/public/illustrations/logo-nupes.svg "🖼➡️")
 
 Les négociations entre LFI, EÉLV, le PS et le PC ont donc finalement abouties à la création de NUPES (Nouvelle Union Populaire Écologique et Sociale).
 

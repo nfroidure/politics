@@ -38,7 +38,7 @@ const Header = () => {
           text-decoration: none;
           font-size: var(--normalFontSize);
           line-height: var(--normalLineHeight);
-          background-image: url("${publicRuntimeConfig.buildPrefix}/images/nicolas_froidure_filigrane.png");
+          background-image: url("${publicRuntimeConfig.staticPrefix}/images/nicolas_froidure_filigrane.png");
           background-position: left bottom;
           background-color: var(--secondary);
           background-size: contain;

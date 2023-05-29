@@ -8,13 +8,13 @@ tags:
 categories:
   - Urbanisme
 illustration:
-  url: "illustrations/place-aux-enfants.jpg"
+  url: "/public/illustrations/place-aux-enfants.jpg"
   alt: "Rue piétonne à Grenoble aux abords des écoles"
 ---
 
 # Aménagement de la ville : créons les possibles !
 
-![Rue piétonne à Grenoble aux abords des écoles](illustrations/place-aux-enfants.jpg "🖼➡️")
+![Rue piétonne à Grenoble aux abords des écoles](/public/illustrations/place-aux-enfants.jpg "🖼➡️")
 
 **De la “low tech” au lâcher prise en passant par la ville nourricière, l’aménagement urbain écologique allie bien-être des habitant·es, justice sociale, amélioration du cadre de vie, favorisation de la bio-diversité, adaptation au changement climatique et réduction des coûts d’entretien.**
 
@@ -42,14 +42,14 @@ Ce qui peut frapper, quand on s’intéresse à l’aménagement d’une ville, 
 
 Un exemple concret; les bancs anti-clochard·es : on ne souhaite pas qu’un endroit soit squatté alors on supprime les bancs ou on les rend suffisamment inconfortables pour qu’ils ne puissent être utilisés de façon non-souhaitée (pas de dossier, bancs inconfortables, impossibilité de s’allonger dessus...).
 
-![Photographie des bancs au Faubourg de Béthune](illustrations/banc-faubourg-bethune-douai.jpg)
-![Photographie de banc anti clochard à la fonderie](illustrations/banc-anti-clochard-fonderie-douai.jpg)
-![Photographie de banc rue de Bellain, pas de position allongée possible](illustrations/banc-rue-bellain-douai.jpg)
-![Photographie de banc rue de Bellain, sans dossier](illustrations/bancs-rue-bellain-douai-2.jpg)
+![Photographie des bancs au Faubourg de Béthune](/public/illustrations/banc-faubourg-bethune-douai.jpg)
+![Photographie de banc anti clochard à la fonderie](/public/illustrations/banc-anti-clochard-fonderie-douai.jpg)
+![Photographie de banc rue de Bellain, pas de position allongée possible](/public/illustrations/banc-rue-bellain-douai.jpg)
+![Photographie de banc rue de Bellain, sans dossier](/public/illustrations/bancs-rue-bellain-douai-2.jpg)
 
 Il est pourtant possible, comme dans le quartier de Bois-Blanc à Lille d’au contraire permettre un véritable confort allant jusqu’à la position allongée, comme sur cette photo.
 
-![Photographie d’un espace détente avec des chaises longues](illustrations/chaises-longues-lille-bois-blanc.jpg "🖼➡️")
+![Photographie d’un espace détente avec des chaises longues](/public/illustrations/chaises-longues-lille-bois-blanc.jpg "🖼➡️")
 
 On peut aussi évoquer la clôture du parc Bertin que j’ai personnellement dénoncée. On constate des trafics ? On ferme : qu’importe tout ce qui est rendu impossible puisque ce qui gêne semble maîtrisé.
 
@@ -57,11 +57,11 @@ Cette stratégie conservatrice de repli sur des usages imposés par le haut est 
 
 En effet, le parc est toujours squatté la nuit. Pire, les portes sont vandalisées et donc des détours sont nécessaires pour qui veut simplement traverser le parc en journée et les coûts d’entretien explosent.
 
-![Photographie du tourniquet mis en sécurité au Parc Bertin](illustrations/tourniquet-parc-bertin-douai.jpg)
-![Photographie du portail automatique mis en sécurité puis forcé au Parc Bertin](illustrations/porte-automatique-douai-parc-bertin.jpg)
-![Photographie de l’entrée du Parc Bertin](illustrations/entree-parc-bertin.jpg)
-![Photographie du coût du Parc Bertin](illustrations/cout-parc-bertin.jpg)
-![Photographie du portique du Parc Bertin entrain d'être réparé pour une énième fois](illustrations/parc-bertin-portique-en-maintenance.jpg)
+![Photographie du tourniquet mis en sécurité au Parc Bertin](/public/illustrations/tourniquet-parc-bertin-douai.jpg)
+![Photographie du portail automatique mis en sécurité puis forcé au Parc Bertin](/public/illustrations/porte-automatique-douai-parc-bertin.jpg)
+![Photographie de l’entrée du Parc Bertin](/public/illustrations/entree-parc-bertin.jpg)
+![Photographie du coût du Parc Bertin](/public/illustrations/cout-parc-bertin.jpg)
+![Photographie du portique du Parc Bertin entrain d'être réparé pour une énième fois](/public/illustrations/parc-bertin-portique-en-maintenance.jpg)
 
 Comble de l’ironie, l’entrée du parc est signalée parc un rétro-éclairage LED alors qu’à ces heures nocturnes, il n’est plus possible d’y entrer.
 
@@ -111,19 +111,19 @@ En lieu et place des parcmètres, on peut utiliser des disques de stationnement.
 
 Les disques de stationnement peuvent même créer du lien avec les commerçant·es qui peuvent en revendre pour les personnes de passage.
 
-![Photographie du parcmètre numérique rue de Bellain](illustrations/parcmetre-numerique.jpg)
-![Photographie du parcmètre numérique rue de Bellain largement dépassé](illustrations/parcmetre-depasse.jpg)
-![Photographie des parcmètre cassés](illustrations/parcmetre-casses-douai.jpg)
-![Photographie d’un véhicule en mode triche sur la rue de Bellain](illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
-![Photographie d’un disque de stationnement](illustrations/disque-stationnement.jpg)
+![Photographie du parcmètre numérique rue de Bellain](/public/illustrations/parcmetre-numerique.jpg)
+![Photographie du parcmètre numérique rue de Bellain largement dépassé](/public/illustrations/parcmetre-depasse.jpg)
+![Photographie des parcmètre cassés](/public/illustrations/parcmetre-casses-douai.jpg)
+![Photographie d’un véhicule en mode triche sur la rue de Bellain](/public/illustrations/vehicule-mal-gare-rue-bellain-douai-3.jpg)
+![Photographie d’un disque de stationnement](/public/illustrations/disque-stationnement.jpg)
 
 Bref, on le voit les solutions automatisées, ou "high tech" sont en réalité souvent scabreuses, compliquées à maintenir quand les solutions durables et éprouvées s’avèrent généralement bien plus simples et flexibles.
 
 ## Prévenir ou guérir
 
-![Entrée du parc de la tour des dames](illustrations/entree-parc-tour-des-dames-douai.jpg "🖼⬅️")
-![Entrée du parc de Flers-en-Escrebieux](illustrations/entree-parc-flers-en-escrebieux.jpg "🖼⬅️")
-![Entrée de l’espace vert de la piscines des Glacis/MJC de Douai](illustrations/barrieres-piscine-des-glacis.jpg "🖼⬅️")
+![Entrée du parc de la tour des dames](/public/illustrations/entree-parc-tour-des-dames-douai.jpg "🖼⬅️")
+![Entrée du parc de Flers-en-Escrebieux](/public/illustrations/entree-parc-flers-en-escrebieux.jpg "🖼⬅️")
+![Entrée de l’espace vert de la piscines des Glacis/MJC de Douai](/public/illustrations/barrieres-piscine-des-glacis.jpg "🖼⬅️")
 
 Une autre question, qui est finalement liée, est la prévention. En effet, la bien connue [loi de Murphy](https://fr.wikipedia.org/wiki/Loi_de_Murphy) stipule que tout ce qui peut tourner mal, tournera mal à terme.
 
@@ -131,7 +131,7 @@ D’où la vacuité de tenter de maîtriser absolument tous les flux. Un exemple
 
 Pourtant, il n’est pas rare de voir des scooters pénétrer ces zones. En revanche, les cyclistes sont obligé·es de mettre pied à terre, freinés dans leur progression.
 
-![Chaussée propre, mais piste emblayée](illustrations/feuilles-piste-cyclable.jpg "🖼➡️")
+![Chaussée propre, mais piste emblayée](/public/illustrations/feuilles-piste-cyclable.jpg "🖼➡️")
 
 A contrario, certaines situations sont véritablement dangereuses comme les feuilles et branchages sur les pistes cyclables. Bien souvent, elles ne sont pas uniquement le fait des chutes d’arbres, mais aussi du nettoyage de la chaussée qui refoule tout cela sur les pistes en bordure.
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - meetoopolitique
 illustration:
-  url: "illustrations/manifestation-aurelie.jpg"
+  url: "/public/illustrations/manifestation-aurelie.jpg"
   alt: "Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint"
 ---
 
@@ -59,7 +59,7 @@ Enfin, les structures, doivent également évoluer et je suis fier d’adhérer 
 
 ## Une lutte qui doit continuer
 
-![Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint](illustrations/manifestation-aurelie.jpg)
+![Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint](/public/illustrations/manifestation-aurelie.jpg)
 
 Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheureusement, à Douai encore, dans la nuit du 30 au 31 mai, Aurélie Langelin, [décédait sous les coups de son conjoint](https://www.lobservateur.fr/faits-divers/faits-divers-douaisis/2021/10/14/douai-feminicide-aurelie-langelin-semble-avoir-ete-abandonnee-a-son-triste-sort/). Elle devenait la 46ème victime de féminicide, un nombre qui depuis a [dépassé la centaine](https://www.franceinter.fr/justice/au-moins-100-feminicides-conjugaux-ont-eu-lieu-en-france-en-2021-selon-un-collectif-qui-les-recense)...
 
@@ -69,7 +69,7 @@ Le [démarrage de la campagne municipale du groupe local EÉLV Douai](https://ww
 
 Une partie de ce dernier était consacrée à l’arrivée de Marie Cagenon aux côtés de Monsieur Gayant pour laquelle [une pétition ayant reçu 150 signatures](https://www.change.org/p/maire-de-douai-et-son-conseil-municipal-pour-que-mme-gayant-figure-sur-le-logo-de-la-ville-de-douai) a été créée. J’ai eu la révélation en créant le logo de EÉLV Douaisis, de l'absence totale de Mme Gayant sur le logo de la ville. Nous avons ensuite organisé plusieurs événements pour soutenir cette cause, notamment la braderie où l’idée a reçu un chaleureux accueil.
 
-![Tract EÉLV des municipales 2020 à Douai](illustrations/tract-municipales-douai.svg)
+![Tract EÉLV des municipales 2020 à Douai](/public/illustrations/tract-municipales-douai.svg)
 
 Par la suite de nouvelles personnes se sont agrégées à la dynamique et l’égalité femme-homme a été au cœur de notre engagement avec des propositions concrètes dans notre programme dont un extrait est à retrouver en bas de page.
 

@@ -22,7 +22,7 @@ const Items = <T extends BaseContentPageMetadata>({
                 <Img
                   float="left"
                   orientation="landscape"
-                  src={"/" + entry.illustration.url}
+                  src={entry.illustration.url}
                   alt={entry.illustration.alt}
                 />
               </Anchor>

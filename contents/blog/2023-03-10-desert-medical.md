@@ -8,7 +8,7 @@ categories:
 tags:
   - Douaisis
 illustration:
-  url: "illustrations/photo-consultation-medicale.jpg"
+  url: "/public/illustrations/photo-consultation-medicale.jpg"
   alt: "Photographie d’une personne en consultation médicale"
 ---
 
@@ -34,7 +34,7 @@ C’est donc à **une situation de pénurie globale**, en augmentation, que nous
 
 En 1971, alors que les médecins sont jugé⋅es en trop grand nombre (situation que l’on aimerait connaître aujourd’hui...), le “numerus clausus” est mis en œuvre. Objectif : limiter la quantité de diplômé⋅es arrivant sur le “marché” chaque année.
 
-![Évolution du numerus clausus en médecine pour la France](illustrations/evolution-numerus-clausus-medecine.png)
+![Évolution du numerus clausus en médecine pour la France](/public/illustrations/evolution-numerus-clausus-medecine.png)
 
 La forme de cette courbe ([source Wikipedia](https://fr.wikipedia.org/wiki/Numerus_clausus_dans_l%27admission_aux_%C3%A9tudes_de_sant%C3%A9_fran%C3%A7aises#Historique)) est parlante. Pendant que la population française passait de 52M en 1971 à 57M en 1992, le nombre de médecins formé⋅es baissait de plus de 59%. Ce n’est qu’en 2002 que ce nombre augmente de nouveau.
 

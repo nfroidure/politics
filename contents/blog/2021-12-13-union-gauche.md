@@ -10,7 +10,7 @@ tags:
   - "union"
   - "gauche"
 illustration:
-  url: "illustrations/fin-du-monde-fin-du-mois.jpg"
+  url: "/public/illustrations/fin-du-monde-fin-du-mois.jpg"
   alt: "Photo du combat qui devrait nous rassembler"
 ---
 
@@ -68,7 +68,7 @@ Ces candidatures supplémentaires possibles seraient peut-être bienvenues, mais
 
 ## Considérations stratégiques
 
-![Photo du combat qui devrait nous rassembler](illustrations/fin-du-monde-fin-du-mois.jpg)
+![Photo du combat qui devrait nous rassembler](/public/illustrations/fin-du-monde-fin-du-mois.jpg)
 
 Un gros point noir reste tout de même à prendre en compte : les chances de victoire. Il me semble préférable de faire un premier tour sous la bannière écologiste brute que d’aller au casse-pipe dilués dans une union insipide ou perdue d’avance.
 

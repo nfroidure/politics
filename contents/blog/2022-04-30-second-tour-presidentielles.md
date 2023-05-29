@@ -8,7 +8,7 @@ categories:
 tags:
   - Présidentielles 2022
 illustration:
-  url: "illustrations/reunion-rn.jpg"
+  url: "/public/illustrations/reunion-rn.jpg"
   alt: "Photo de la réunion républicaine contre l’extrême droite"
 ---
 
@@ -39,7 +39,7 @@ On le voit, et c’est un crève cœur, le RN est en position de remporter les d
 
 ## Ça commence plutôt mal
 
-![Photo de la réunion républicaine contre l’extrême droite](illustrations/reunion-rn.jpg "🖼➡️")
+![Photo de la réunion républicaine contre l’extrême droite](/public/illustrations/reunion-rn.jpg "🖼➡️")
 
 Ce qui m’offre une transition car, dans le Douaisis, ça a mal commencé. En lieu et place d’aller au contact pour faire barrage au RN, notre député (Dimitri Houbron), avec la complicité de quelques élus locaux (je n’utilise pas volontairement l’écriture inclusive ici, je m’en explique ensuite) a décidé de démarrer sa campagne en surfant sur le risque RN...
 
@@ -50,7 +50,7 @@ Bien-sûr, aucune intervention féminine, non plus. Bref, un républicanisme de 
 ## Le plagiat pour couronner le tout
 
 
-![Photo affiches EÉLV](illustrations/affiches-eelv.jpg "🖼⬅️▮")
+![Photo affiches EÉLV](/public/illustrations/affiches-eelv.jpg "🖼⬅️▮")
 
 Le lendemain, nous apprenions via la Voix Du Nord que des parties substancielles du discours de Dimitri Houbron n’étaient en fait qu’[un plagiat de diverses coupures de presses](https://www.lavoixdunord.fr/1171973/article/2022-04-27/douai-des-extraits-particulierement-inspires-dans-le-discours-du-depute-dimitri)... À la lecture de cet article, on apprend que c’est bien-sûr de la faute du collaborateur parlementaire (on a pas idée d’écrire ses discours soi-même...). Et notre député de se plaindre que pointer ce plagiat "fasse le jeu des extrêmes". Se dédouaner d’un manque d’exemplarité sous couvert du risque RN n’est pas de nature à enrichir le débat.
 

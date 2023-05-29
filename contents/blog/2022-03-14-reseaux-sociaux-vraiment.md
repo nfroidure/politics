@@ -9,7 +9,7 @@ categories:
   - Numérique
   - Humeurs
 illustration:
-  url: "illustrations/farcebook.jpg"
+  url: "/public/illustrations/farcebook.jpg"
   alt: "Photo d’un tag parodiant le logo de Facebook en Farcebook"
 ---
 
@@ -31,7 +31,7 @@ Pour étayer cette affirmation, petit tour d’horizon des principaux réseaux s
 
 ### Facebook
 
-![Photo d’un tag parodiant le logo de Facebook en Farcebook](illustrations/farcebook.jpg "🖼➡️")
+![Photo d’un tag parodiant le logo de Facebook en Farcebook](/public/illustrations/farcebook.jpg "🖼➡️")
 
 Commençons par Facebook, le principal réseau social à ce jour, et les différentes stratégies déployées pour maximiser votre usage et leur connaissance de vos moindres faits et gestes.
 
@@ -51,7 +51,7 @@ Mais vous êtes également enfermé·es dans vos réactions : un ensemble limit
 
 Vous prendrez bien aussi également une bonne dose d’enfermement ? Effectivement, non contents de vous manipuler, tout est fait pour vous conserver dans la matrice. Un exemple frappant est la page qui vous prévient que, tout de même, vous allez sortir du site Facebook...
 
-![Capture d’écran d’un lien externe](illustrations/lien-externe-facebook.png "🖼⬅️")
+![Capture d’écran d’un lien externe](/public/illustrations/lien-externe-facebook.png "🖼⬅️")
 
 Des efforts d’ingéniosité qui ne sont par contre pas déployés pour traiter le spam ! Ainsi, non seulement, vous recevez de nombreux messages de spam, mais êtes l’incapacité de les supprimer en masse ou de les marquer comme lus.
 

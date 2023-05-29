@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { CSS_BREAKPOINT_END_M } from "../utils/constants";
-import { publicRuntimeConfig } from "../utils/config";
-import type { MarkdownImageNode } from "../utils/markdown";
+import { MarkdownImageNode, qualifyPath } from "../utils/markdown";
 
 const Gallery = ({ imagesNodes }: { imagesNodes: MarkdownImageNode[] }) => {
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -10,14 +9,7 @@ const Gallery = ({ imagesNodes }: { imagesNodes: MarkdownImageNode[] }) => {
     <div className="root">
       <p>
         <img
-          src={
-            imagesNodes[selectedIndex].url.startsWith("http")
-              ? imagesNodes[selectedIndex].url
-              : publicRuntimeConfig.baseURL +
-                publicRuntimeConfig.buildPrefix +
-                "/" +
-                imagesNodes[selectedIndex].url
-          }
+          src={qualifyPath(imagesNodes[selectedIndex].url)}
           alt={imagesNodes[selectedIndex].alt || ""}
         />
       </p>
@@ -25,17 +17,7 @@ const Gallery = ({ imagesNodes }: { imagesNodes: MarkdownImageNode[] }) => {
         {imagesNodes.map((imageNode, index) => (
           <li key={index}>
             <a onClick={setSelectedIndex.bind(null, index)}>
-              <img
-                src={
-                  imageNode.url.startsWith("http")
-                    ? imageNode.url
-                    : publicRuntimeConfig.baseURL +
-                      publicRuntimeConfig.buildPrefix +
-                      "/" +
-                      imageNode.url
-                }
-                alt={imageNode.alt || ""}
-              />
+              <img src={qualifyPath(imageNode.url)} alt={imageNode.alt || ""} />
             </a>
           </li>
         ))}
@@ -46,7 +28,7 @@ const Gallery = ({ imagesNodes }: { imagesNodes: MarkdownImageNode[] }) => {
           clear: both;
           background: var(--secondary);
           padding: calc(var(--vRythm) / 2) calc(var(--gutter) / 2);
-          margin:  0 0 var(--vRythm) 0;
+          margin: 0 0 var(--vRythm) 0;
         }
         p {
           text-align: center;
