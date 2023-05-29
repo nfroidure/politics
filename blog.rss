@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 14 May 2023 07:15:00 GMT</lastBuildDate>
-    <pubDate>Mon, 29 May 2023 15:43:29 GMT</pubDate>
+    <lastBuildDate>Mon, 29 May 2023 17:15:00 GMT</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 18:39:43 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/euradouai-contribution-a-l-enquete-publique</guid>
+        <title>Euradouai : Contribution à l’enquête publique</title>
+        <description>Le projet qui structurera la gare pour les années à venir est entrain d’aboutir, le moment pour Douaisis Agglo de consulter.</description>
+        <link>https://nicolasfroidure.fr/blog/euradouai-contribution-a-l-enquete-publique</link>
+        <pubDate>Mon, 29 May 2023 17:15:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/dechets-en-ccco-frederic-delannoy-botte-en-touche</guid>
         <title>Déchets en CCCO : Frédéric Delannoy botte en touche</title>
