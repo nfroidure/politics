@@ -6,13 +6,20 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 16 Jun 2023 10:15:00 GMT</lastBuildDate>
-    <pubDate>Fri, 16 Jun 2023 11:31:58 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2023 10:15:00 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2023 12:10:42 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/municipales-a-brunemont-des-elections-apolitiques</guid>
+        <title>Municipales à Brunémont : des élections apolitiques ?</title>
+        <description>Après Lambres c’est à Brunémont qure des élections muncipales, partielles cette fois, vont avoir lieu..</description>
+        <link>https://nicolasfroidure.fr/blog/municipales-a-brunemont-des-elections-apolitiques</link>
+        <pubDate>Thu, 06 Jul 2023 10:15:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/ligne-b-du-bhns-et-le-velo</guid>
         <title>Ligne B du BHNS: et le vélo ?</title>
-        <description>Le projet de ligne B du BHNS commence à se dessiner, ce projet important mérite qu&apos;on s&apos;y penche un peu.</description>
+        <description>Le projet de ligne B du BHNS commence à se dessiner, ce projet important mérite qu’on s’y penche un peu.</description>
         <link>https://nicolasfroidure.fr/blog/ligne-b-du-bhns-et-le-velo</link>
         <pubDate>Fri, 16 Jun 2023 10:15:00 GMT</pubDate>
       </item>
@@ -418,7 +425,7 @@
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/les-arbres-a-douai</guid>
         <title>Les arbres à Douai</title>
-        <description>Notre chère ville de Douai se place plutôt bien par rapport aux villes comparables, explications...</description>
+        <description>Notre chère ville de Douai se place plutôt bien par rapport aux villes comparables, explications…</description>
         <link>https://nicolasfroidure.fr/blog/les-arbres-a-douai</link>
         <pubDate>Wed, 11 Mar 2020 21:00:00 GMT</pubDate>
       </item>
