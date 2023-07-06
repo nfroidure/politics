@@ -30,7 +30,7 @@ Ce type d’opération, en centre ville, me semblent pertinentes, si tant est qu
 
 En effet, je le répète à foison, pour dynamiser notre centre ville, il est important qu’il soit clair dans l’esprit de toustes, que venir à Douai le samedi (voire le dimanche en de rares occasions), c’est l’assurance de passer un bon moment convivial en famille ou entre ami·es.
 
-Qu’ils soient électroniques, féeriques, culturels, musicaux... il faut des événements réguliers et ces dernières semaines, on peut dire que c’est le cas. Il faut persévérer, et ce également en dehors des fêtes de Noël.
+Qu’ils soient électroniques, féeriques, culturels, musicaux… il faut des événements réguliers et ces dernières semaines, on peut dire que c’est le cas. Il faut persévérer, et ce également en dehors des fêtes de Noël.
 
 Mais, la grande question reste : pourquoi un festival électronique de plein air, qui plus est au parc Jacques Vernier ? Quel apport ?
 
@@ -66,7 +66,7 @@ Un an et une seconde édition plus tard, je ne suis toujours pas d’accord pour
 
 ![Photo de la rue de la Mairie animée](/public/illustrations/rue-mairie-animation.jpg)
 
-On pourrait se dire que le festival pourrait prendre place en centre ville, mais difficile d’envisager ceci car les plaintes des riverain·es ont déjà été nombreuses avec l’éloignement de l’événement, imaginez dans le centre ville...
+On pourrait se dire que le festival pourrait prendre place en centre ville, mais difficile d’envisager ceci car les plaintes des riverain·es ont déjà été nombreuses avec l’éloignement de l’événement, imaginez dans le centre ville…
 
 Le fait est que, par nature, un festival électronique, a généralement lieu en dehors des centres urbains. J’ai vu passer, notamment, plusieurs Technivals pas loin de mon ancien village sur la base aérienne 103 à Haynecourt. Les gens n’étaient que de passage et vivaient en vase clos pendant les quelques jours que duraient la rave.
 

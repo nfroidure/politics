@@ -21,7 +21,7 @@ illustration:
 
 🎉 Je suis un geek (voire un nerd) 🎉
 
-➡️ Et cela m’est parfois reproché : j’utilise des termes anglais (1984 nous voilà), je travaille dans le secteur de l’IT (j’uberise quoi...) et de surcroît dans des startups (la bande à Macron).
+➡️ Et cela m’est parfois reproché : j’utilise des termes anglais (1984 nous voilà), je travaille dans le secteur de l’IT (j’uberise quoi…) et de surcroît dans des startups (la bande à Macron).
 
 🛑 Bien que je puisse comprendre l’appréhension de certains face à cette nouvelle révolution industrielle en cours (j’ai moi-même de nombreuses craintes que je détaillerai sûrement un jour ici), je pense qu’il est nécessaire de revenir sur quelques points.
 
@@ -43,7 +43,7 @@ C’est une richesse, c’est une culture et je suis fier d’en être. C’éta
 
 Jeter l’opprobre sur quelqu’un car il fait parti d’un secteur d’activité est un raccourci qui vous assure d’être dans l’erreur.
 
-Le champs d’application informatique est très large. Il existe des secteurs qui sont des gouffres énergétiques (les cryptomonnaies, le streaming vidéo, l’intelligence artificielle, la surveillance étatique...).
+Le champs d’application informatique est très large. Il existe des secteurs qui sont des gouffres énergétiques (les cryptomonnaies, le streaming vidéo, l’intelligence artificielle, la surveillance étatique…).
 
 À côté de ces activités, la consommation énergétique des startups que j’ai aidé à se créer fait pâle figure.
 

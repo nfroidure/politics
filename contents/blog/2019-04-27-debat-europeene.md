@@ -18,7 +18,7 @@ illustration:
 
 🎙️ Comme annoncé lors du débat européen organisé à Douai par Maison De l’Europe Douai, je publie le texte de ma question adressée à Dominique Riquet, récemment engagé aux côtés de LREM dans la liste "Renaissance".
 
-🙄 Comme attendu, monsieur Riquet a reconnu avoir voté favorablement pour cette directive qui cloue le bec des lanceu·r·ses d’alertes, mais non sans "états d’âmes"...
+🙄 Comme attendu, monsieur Riquet a reconnu avoir voté favorablement pour cette directive qui cloue le bec des lanceu·r·ses d’alertes, mais non sans "états d’âmes"…
 
 🤔 Du coup, la question que je me pose : Aura-t-il de nouveau des états d’âmes quand il continuera à voter contre la liberté d’expression et contre l’écologie ?
 

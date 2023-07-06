@@ -20,9 +20,9 @@ illustration:
 
 📳 Les téléphones et tablettes ne sont pas des outils faits pour créer, mais consommer le numérique.
 
-🤔 Le hic, c’est que les tablettes sont dans les programmes scolaires des parcours du primaire, pas les RaspberryPi, ni les Arduinos. La municipalité investi dans les tablettes par obligation, on ne peut donc les substituer par autre chose, même si c’est tentant... en tout cas, pas à budget constant.
+🤔 Le hic, c’est que les tablettes sont dans les programmes scolaires des parcours du primaire, pas les RaspberryPi, ni les Arduinos. La municipalité investi dans les tablettes par obligation, on ne peut donc les substituer par autre chose, même si c’est tentant… en tout cas, pas à budget constant.
 
-🤓 En attendant que les programmes de l’éducation nationale évoluent, on peut quand même agir pour former des générations de geeks à Douai, mais ce sera plus compliqué que de juste remplacer des tablettes par des micro-ordinateurs... en plus de l’achat de matériel, qui devra s’ajouter aux incompressibles tablettes, il faut créer le contenu pédagogique, former les équipes... bref, des choses qui prennent du temps et coûtent de l’argent.
+🤓 En attendant que les programmes de l’éducation nationale évoluent, on peut quand même agir pour former des générations de geeks à Douai, mais ce sera plus compliqué que de juste remplacer des tablettes par des micro-ordinateurs… en plus de l’achat de matériel, qui devra s’ajouter aux incompressibles tablettes, il faut créer le contenu pédagogique, former les équipes… bref, des choses qui prennent du temps et coûtent de l’argent.
 
 ⚖️ Enfin, le numérique est une chose, mais tout le monde n’est pas fait pour ça. Il ne faut pas oublier que la pensée computationnelle et l’intelligence logico-mathématique sont **une** catégorie de compétence, il y en a bien d’autres et tout le monde n’a pas besoin de développer des compétences pointues dans le domaine. La formation à l’usage suffit la plupart du temps.
 

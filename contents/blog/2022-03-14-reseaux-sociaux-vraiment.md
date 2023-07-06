@@ -35,21 +35,21 @@ Pour étayer cette affirmation, petit tour d’horizon des principaux réseaux s
 
 Commençons par Facebook, le principal réseau social à ce jour, et les différentes stratégies déployées pour maximiser votre usage et leur connaissance de vos moindres faits et gestes.
 
-Les stratégies pour obtenir un maximum d’information à votre sujet sont principalement de vous faire installer l’application mobile Facebook. En effet, alors qu’il était autrefois possible de faire de nombreuses actions via le site Internet avec votre mobile (utiliser la messagerie instantanée, gérer vos pages...) aujourd’hui ces fonctionnalités sont bloquées sans qu’aucune justification technique ne puisse être invoquée.
+Les stratégies pour obtenir un maximum d’information à votre sujet sont principalement de vous faire installer l’application mobile Facebook. En effet, alors qu’il était autrefois possible de faire de nombreuses actions via le site Internet avec votre mobile (utiliser la messagerie instantanée, gérer vos pages…) aujourd’hui ces fonctionnalités sont bloquées sans qu’aucune justification technique ne puisse être invoquée.
 
 Je refuse d’installer cette application, évidemment, et j’ai donc pu voir le glissement opérer lentement mais sûrement pour modifier nos usages :
 
 - blocage de "Messenger" sur l’application web mobile : on était redirigé vers le "store" pour télécharger l’application. La messagerie est restée fonctionnelle en utilisant la fonction du navigateur mobile "voir le site pour ordinateur de bureau", mais visiblement, cette possibilité gênait encore et le bouton a carrément été retiré,
-- arrivée de "Facebook Lite" : ayant repéré le refus de télécharger cette application, l’astuce a consisté à proposer une application légère... du point de vue technique peut-être, mais du point de vue de la vie privée ce sont pas moins de 44 autorisations qui sont demandées par celle-ci : de lire vos contacts/SMS/appels à voir votre position GPS...
-- scripts de partage sur les sites Internet : sous couvert d’afficher un bouton dans un site Web, c’est littéralement un logiciel espion que de très nombreux sites Internet installent sur les sites que vous consultez (les sites institutionnels ne sont d’ailleurs pas en reste...).
+- arrivée de "Facebook Lite" : ayant repéré le refus de télécharger cette application, l’astuce a consisté à proposer une application légère… du point de vue technique peut-être, mais du point de vue de la vie privée ce sont pas moins de 44 autorisations qui sont demandées par celle-ci : de lire vos contacts/SMS/appels à voir votre position GPS…
+- scripts de partage sur les sites Internet : sous couvert d’afficher un bouton dans un site Web, c’est littéralement un logiciel espion que de très nombreux sites Internet installent sur les sites que vous consultez (les sites institutionnels ne sont d’ailleurs pas en reste…).
 
 Cette insistance n’est pas le fruit du hasard, Facebook collecte un nombre impressionnant d’informations à votre sujet. Souriez, vous êtes traqué·es. Traqué·es pour être manipulé·es ! En effet, à chaque actions que vous entreprenez des algorithmes d’intelligence artificielle calculent (rien que pour vous), les prochaines actions que vous êtes susceptible de faire, les prochains contenus que vous pourriez accepter de voir (et non, que vous voudriez voir, notez bien la nuance). Et ceci se fait souvent au détriment du contenu que vous souhaitez voir et à l’avantage de la publicité ou du dernier contenu brûlant qui pourrait vous faire rester plus longtemps sur la plateforme, pour voir plus de publicités encore.
 
-C’est ainsi que Facebook encourage les contenus rageurs, éloignés du débat sain : jugements, a priori, indignation, révolte... Non pas que tous soient mauvais, mais c’est la dose qui fait le poison. On a observé, d’ailleurs, un effet d’emballement qui a mené à la radicalisation de personnes et à des conséquences dramatiques, bien réelles.
+C’est ainsi que Facebook encourage les contenus rageurs, éloignés du débat sain : jugements, a priori, indignation, révolte… Non pas que tous soient mauvais, mais c’est la dose qui fait le poison. On a observé, d’ailleurs, un effet d’emballement qui a mené à la radicalisation de personnes et à des conséquences dramatiques, bien réelles.
 
 Mais vous êtes également enfermé·es dans vos réactions : un ensemble limité de réactions possibles (7 au total, toutes très intenses émotionnellement), aucune nuance.
 
-Vous prendrez bien aussi également une bonne dose d’enfermement ? Effectivement, non contents de vous manipuler, tout est fait pour vous conserver dans la matrice. Un exemple frappant est la page qui vous prévient que, tout de même, vous allez sortir du site Facebook...
+Vous prendrez bien aussi également une bonne dose d’enfermement ? Effectivement, non contents de vous manipuler, tout est fait pour vous conserver dans la matrice. Un exemple frappant est la page qui vous prévient que, tout de même, vous allez sortir du site Facebook…
 
 ![Capture d’écran d’un lien externe](/public/illustrations/lien-externe-facebook.png "🖼⬅️")
 
@@ -59,7 +59,7 @@ Des efforts d’ingéniosité qui ne sont pas non-plus mis en œuvre pour effect
 
 Quand la presse en rajoute : non contente de publier des titres "putaclic", certains groupe de presse vont au delà en n’autorisant pas les liens dans les commentaires (essayez avec les articles de la Voix du Nord, par exemple).
 
-Le plus fou est que cette liste à la Prévers n’est même pas exhaustive...
+Le plus fou est que cette liste à la Prévers n’est même pas exhaustive…
 
 ### Twitter
 

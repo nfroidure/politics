@@ -98,7 +98,7 @@ Dans cette option du rassemblement, j’ai quelques lignes rouges à formuler :
 - l’équilibre des rapports de force : si la France Insoumise concède le fait que son résultat n’est pas le reflet des convictions de nos concitoyen·nes (comme ont pu le démontrer les précédentes élections, notamment européennes), alors, je pense qu’un accord est possible avec EÉLV mais aussi le PS et le PC. Un accord équilibré nationalement serait un bon message envoyé aux personnes déçues par le résultat de dimanche. Malheureusement, comme on pouvait s’y attendre, [ce n’est pas la direction prise par La France Insoumise à ce jour](https://twitter.com/afpfr/status/1514165591535501321).
 - retrait en cas de ballottage défavorable assorti d’un appel au barrage : Aucune chance ne doit être laissée à l’extrême droite de remporter le second tour des législatives dans le Douaisis.
 
-## Et Dimitri Houbron...
+## Et Dimitri Houbron…
 
 Toujours à titre personnel, mais en tant que citoyen, cette fois, je lance le même appel à Dimitri Houbron pour qu’il s’engage à se retirer au second tour en cas de troisième place.
 

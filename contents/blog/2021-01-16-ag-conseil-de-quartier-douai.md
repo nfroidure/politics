@@ -31,7 +31,7 @@ Le monsieur ayant cité les stops, j’ai posé une question qui me taraudait de
 
 3️⃣ Enfin, j’ai demandé que la rue piétonne de Bellain soit une véritable rue piétonne, je m’explique : la piétonnisation, c’est regagner de l’espace sur la voiture.
 
-Il faut pouvoir s’y étaler, pourquoi ne pas y mettre des tables de jeu (échecs, belote...), une marelle pour les enfants, une tribune d’expression publique...
+Il faut pouvoir s’y étaler, pourquoi ne pas y mettre des tables de jeu (échecs, belote…), une marelle pour les enfants, une tribune d’expression publique…
 
 Frédéric Chéreau l’a d’ailleurs rappelé dans une intervention que j’ai trouvé très juste : les galeries commerciales sont des rues piétonnes qui s’étalent parfois sur des centaines de mètres. On trouverait incongru d’y voir passer une voiture ! Il a complété par une envolée non moins lyrique : on s’y voyait. Les enfants écrivaient à la craie sur le sol pendant que les parents faisaient du lèche vitrine. J’en aurait presque redemandé.
 

@@ -29,19 +29,19 @@ Après des discussions bilatérales, nous avons décidé que ce n’était pas s
 
 Le candidat qui jurait, malgré sa proximité politique avec nos candidat·es, dès le lendemain du second tour, n’avoir qu’une ambition; celle d’être la première force d’opposition, ose, tout à coup, devenir la plus consensuelle des marionnettes utiles que Christian Poiret n’ait eut l’occasion de tenir sous sa botte.
 
-![Publication de Cyril Grandin sur le seul bulletin vert...](/public/illustrations/francois-guiffard-bulletin-vert.png "🖼⬅️")
+![Publication de Cyril Grandin sur le seul bulletin vert…](/public/illustrations/francois-guiffard-bulletin-vert.png "🖼⬅️")
 
-Le candidat dont la liste se disait plus écologiste que les écologistes, qui est allé jusqu’à travestir toute sa communication pour profiter d’une vague verte (qu’il minimisât aussitôt les élections terminées...), a osé se muer en défenseur d’un triste bilan de notre agglomération en terme de consommation de terres agricoles.
+Le candidat dont la liste se disait plus écologiste que les écologistes, qui est allé jusqu’à travestir toute sa communication pour profiter d’une vague verte (qu’il minimisât aussitôt les élections terminées…), a osé se muer en défenseur d’un triste bilan de notre agglomération en terme de consommation de terres agricoles.
 
 Le candidat qui, tantôt, paradait dans les quartiers clamant que rien n’y aurait jamais été fait, a osé devenir solidaire d’un boulodrome à 9.5 millions d’euros qui n’apportera à notre agglomération que des dépenses qui auraient été mieux dépensées en hébergement d’urgence ou en aménagement des quartiers.
 
-Le candidat, qui dénonçait corps et âme la paupérisation de la ville centre, ose devenir l’instrument d’un calife qui n’a pas compris que la ville centre apporte autant à tou·tes les habitant·es du Douaisis qu’aux douaisien·nes et s’obstine à penser (ou faire mine de...), que ce qu’il nous propose est du développement économique quand ce n’est que de l’économie punitive, de l’attractivité de commodité pour entreprises en mode terres brûlées.
+Le candidat, qui dénonçait corps et âme la paupérisation de la ville centre, ose devenir l’instrument d’un calife qui n’a pas compris que la ville centre apporte autant à tou·tes les habitant·es du Douaisis qu’aux douaisien·nes et s’obstine à penser (ou faire mine de…), que ce qu’il nous propose est du développement économique quand ce n’est que de l’économie punitive, de l’attractivité de commodité pour entreprises en mode terres brûlées.
 
-Et les voilà, toustes, la bouche en cœur, nous expliquant que la ville de Douai ne sera pas oubliée... c’est ignorer que les multiples dysfonctionnements de cette agglomération ne nuisent pas qu’à la ville de Douai, mais au Douaisis dans son entièreté. C’est peut-être à Douai que c’est le plus criant, par la densité de son peuplement.
+Et les voilà, toustes, la bouche en cœur, nous expliquant que la ville de Douai ne sera pas oubliée… c’est ignorer que les multiples dysfonctionnements de cette agglomération ne nuisent pas qu’à la ville de Douai, mais au Douaisis dans son entièreté. C’est peut-être à Douai que c’est le plus criant, par la densité de son peuplement.
 
 Tous ces grands projets inutiles, toutes ces zones commerciales sont le tombeau du Douaisis et nous ne sommes pas prêts de l’en sortir si il y a toujours quelques opportunistes pour refuser d’aller au front et porter ses fossoyeurs sur un piédestal.
 
-Alors à ces "ami·es" du Douaisis, je dis : avec de tel·les ami·es, le Douaisis n’a pas besoin d’ennemi·es...
+Alors à ces "ami·es" du Douaisis, je dis : avec de tel·les ami·es, le Douaisis n’a pas besoin d’ennemi·es…
 
 Et aux douaisien·nes, je dis : l’écologie politique c’est le réemploi, l’urbanisme circulaire, la ville nourricière et la frugalité. La bonne nouvelle, c’est que ça ne coûte pas cher.
 
@@ -51,7 +51,7 @@ Mais nous pouvons faire sans le faste de l’agglomération, devenons une ville 
 
 Nous ferons vivre l’écologie politique avec passion et détermination. Nous questionnerons et nous nous opposerons quand cela sera nécessaire car, pour nous, l’audace, c’est avant tout oser dire non au consensus quand il mène un territoire entier dans l’impasse !
 
-Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue en même temps que ses principes politiques...
+Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue en même temps que ses principes politiques…
 
 ![Cache Google des sites supprimés](/public/illustrations/recherche-site-francois-guiffard-articles-supprimes.jpg)
 ![Capture d’une page supprimée](/public/illustrations/capture-site-ensemble-faisons-douai.jpg)
@@ -71,4 +71,4 @@ Mais il n’est point de compromission sans remerciements, c’est à la surpris
 ![François Guiffard devant son cadeau](/public/illustrations/guiffard-devant-son-cadeau.jpg)
 ![Le nouvel office de tourisme aux couleurs de l’agglomération du Douaisis](/public/illustrations/nouvel-office-tourisme-douai.jpg)
 
-On imagine bien que ce lieu deviendra la base arrière de la campagne municipale 2026 de ce dernier. Une situation idéale à deux pas du beffroi, au milieu de la rue piétonne, que demander de plus ? Bref, des affaires qui roulent...
+On imagine bien que ce lieu deviendra la base arrière de la campagne municipale 2026 de ce dernier. Une situation idéale à deux pas du beffroi, au milieu de la rue piétonne, que demander de plus ? Bref, des affaires qui roulent…

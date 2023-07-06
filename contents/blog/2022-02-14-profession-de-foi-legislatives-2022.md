@@ -49,7 +49,7 @@ Toutes mes actions locales ont eu pour but de **développer une force écologist
 
 **Ma candidature est donc, surtout, un moyen de porter la voix de l’écologie.**
 
-Je veux porter une **parole écologiste radicale, mais équilibrée** dans les thèmes qu’elle aborde : écologie, social, agriculture, énergie, transports, biodiversité, condition animale...
+Je veux porter une **parole écologiste radicale, mais équilibrée** dans les thèmes qu’elle aborde : écologie, social, agriculture, énergie, transports, biodiversité, condition animale…
 
 Je peux cependant apporter une **expertise spécifique dans le domaine du numérique**, en effet, développeur de métier, j’ai une profonde connaissance de ses impacts et implications, ce qui manque, je trouve, au sein de l’Assemblée Nationale. Je suis notamment engagé dans la communauté open-source à travers de nombreux projets que j’ai créé ou auxquels j’ai prêté main forte.
 

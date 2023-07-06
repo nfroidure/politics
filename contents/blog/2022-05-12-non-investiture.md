@@ -22,7 +22,7 @@ Les négociations entre LFI, EÉLV, le PS et le PC ont donc finalement abouties 
 
 Vous êtes nombreuses et nombreux à m’interroger sur mes états d’âmes suite à cette union qui a abouti au retrait de mon investiture par le pôle écologiste au profit de la France Insoumise.
 
-C’est bien sûr une grande déception pour moi. Je m’étais préparé à ferrailler durant cette campagne et j’avais posé de nombreuses pierres dans cette optique : production d’écrits, création de ce site, tour du Douaisis en vélo puis en bus, rencontre des maires...
+C’est bien sûr une grande déception pour moi. Je m’étais préparé à ferrailler durant cette campagne et j’avais posé de nombreuses pierres dans cette optique : production d’écrits, création de ce site, tour du Douaisis en vélo puis en bus, rencontre des maires…
 
 Néanmoins, comme j’ai coutume de le dire, je suis en campagne permanente et cela n’affectera pas la suite des actions que j’ai prévu, notamment, continuer mon tour, lancer des actions militantes et produire des contenus pour développer l’écologie politique dans le Douaisis.
 

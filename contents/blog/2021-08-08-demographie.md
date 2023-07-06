@@ -87,7 +87,7 @@ Cette croyance, n’a aucun fondement autre que le fantasme d’une nation basé
 
 Il n’y a en réalité dans l’idée de la Nation Française qu’une association entre un territoire, un ensemble de citoyen·nes et un socle de valeurs communes, fondatrices, communément appelé le socle Républicain.
 
-Ces éléments sont à mon sens indépendants de la démographie, des cycles migratoires et ont plutôt trait à l’unité de la Nation. Cette unité existe et perdure tant que les citoyen·nes adhèrent à ce socle idéologique et en perçoivent les bénéfices concrets. Des bénéfices difficilement palpables pour une partie de la population actuellement. Et pourtant...
+Ces éléments sont à mon sens indépendants de la démographie, des cycles migratoires et ont plutôt trait à l’unité de la Nation. Cette unité existe et perdure tant que les citoyen·nes adhèrent à ce socle idéologique et en perçoivent les bénéfices concrets. Des bénéfices difficilement palpables pour une partie de la population actuellement. Et pourtant…
 
 Si aujourd’hui, il fallait s’inquiéter de la pérennité de la Nation, je pense que c’est plutôt du côté des politiques de ghettoïsation, d’encouragement de l’individualisme, d’accroissement des inégalités, d’abandon du service public et d’une manière générale, de sécession des français·es les plus riches qu’il faut creuser.
 

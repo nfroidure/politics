@@ -105,7 +105,7 @@ Des émissions de CoV (composés organiques volatiles) dans l’air sont égalem
 
 Sur la même page, on apprend que les eaux utilisées pour la production de l’anode seront "récupérées et traitées" par un prestataire externe, quid de leur transport, des sécurités mise en oeuvre et des garanties d’un véritable traitement de ces dernières ?
 
-Difficile d’en savoir plus puisquʼune pratique loi anti-terroriste empêche le quidam d’avoir des informations sur le stockage des [matières dangereuses dans les sites SEVESO](https://www.legifrance.gouv.fr/circulaire/id/42788) (note de bas de page 44)... On reconnaît la patte écologique du gouvernement Macron qui nous a produit cette circulaire en 2017.
+Difficile d’en savoir plus puisquʼune pratique loi anti-terroriste empêche le quidam d’avoir des informations sur le stockage des [matières dangereuses dans les sites SEVESO](https://www.legifrance.gouv.fr/circulaire/id/42788) (note de bas de page 44)… On reconnaît la patte écologique du gouvernement Macron qui nous a produit cette circulaire en 2017.
 
 ## Une attention à porter sur les risques pour les salarié·es
 

@@ -27,10 +27,10 @@ Il n’y a pourtant **aucune impossibilité technique** à cela puisque cela a d
 
 J’invite les citoyen·nes à prendre acte, ce soir, du fait que **nous avons affaire à des élu·es qui n’assument pas leurs interventions** au point d’en rendre le visionnage impossible pour une bonne partie de la population.
 
-Lors du dernier conseil municipal, dans le chat du live, on me faisait remarquer très justement "45 personnes seulement qui regardent ce live...".
+Lors du dernier conseil municipal, dans le chat du live, on me faisait remarquer très justement "45 personnes seulement qui regardent ce live…".
 Aujourd’hui, c’est 1021 vues :
 [Conseil Municipal de la Ville de Douai](https://www.youtube.com/watch?v=tVr35iLXCYs "📺")
 
 Quand on constate un facteur x20 entre le direct et le différé, on peut dire que ça ne sert à rien, mais moi je retiens que 20 fois plus de personnes sont au courant de ce qui se passe dans leur ville. **Vingt fois plus** de citoyen·nes impliqué·es dans la vie de leur territoire moyennant le fait d’accepter que la contradiction existe en démocratie.
 
-On sait toustes pourquoi les vidéos de Douaisis Agglo ne sont pas disponibles, **elle desservent largement la majorité en place**, dans le cas contraire, on aurait droit à l’éloge du replay, comme ce fût en fait le cas, en début du mandat dans les publications Facebook de Douaisis Agglo...
+On sait toustes pourquoi les vidéos de Douaisis Agglo ne sont pas disponibles, **elle desservent largement la majorité en place**, dans le cas contraire, on aurait droit à l’éloge du replay, comme ce fût en fait le cas, en début du mandat dans les publications Facebook de Douaisis Agglo…

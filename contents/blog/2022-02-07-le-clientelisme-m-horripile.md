@@ -49,7 +49,7 @@ Et c’est aussi sans compter sur l’incapacité pour l’être humain de se re
 
 Les personnes qui pensent que le clientélisme est la formule gagnante présument donc largement de leur capacités à connaître ce qui est.
 
-Enfin, et c’est heureux, il n’est point possible de connaître le vote de chaque personne se rendant dans l’urne. Le clientélisme reste donc un pari...
+Enfin, et c’est heureux, il n’est point possible de connaître le vote de chaque personne se rendant dans l’urne. Le clientélisme reste donc un pari…
 
 Enfin, comme on ne peut décemment pas faire une campagne électorale en vantant le mérite du clientélisme, in fine, ce sont bien des idées et une vision qui sont mises en avant.
 

@@ -61,7 +61,7 @@ Enfin, les structures, doivent également évoluer et je suis fier d’adhérer 
 
 ![Photo de la manifestation en hommage à Aurélie Langelin, décédée, à Douai, sous les coups de son conjoint](/public/illustrations/manifestation-aurelie.jpg)
 
-Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheureusement, à Douai encore, dans la nuit du 30 au 31 mai, Aurélie Langelin, [décédait sous les coups de son conjoint](https://www.lobservateur.fr/faits-divers/faits-divers-douaisis/2021/10/14/douai-feminicide-aurelie-langelin-semble-avoir-ete-abandonnee-a-son-triste-sort/). Elle devenait la 46ème victime de féminicide, un nombre qui depuis a [dépassé la centaine](https://www.franceinter.fr/justice/au-moins-100-feminicides-conjugaux-ont-eu-lieu-en-france-en-2021-selon-un-collectif-qui-les-recense)...
+Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheureusement, à Douai encore, dans la nuit du 30 au 31 mai, Aurélie Langelin, [décédait sous les coups de son conjoint](https://www.lobservateur.fr/faits-divers/faits-divers-douaisis/2021/10/14/douai-feminicide-aurelie-langelin-semble-avoir-ete-abandonnee-a-son-triste-sort/). Elle devenait la 46ème victime de féminicide, un nombre qui depuis a [dépassé la centaine](https://www.franceinter.fr/justice/au-moins-100-feminicides-conjugaux-ont-eu-lieu-en-france-en-2021-selon-un-collectif-qui-les-recense)…
 
 ### À la municipalité
 

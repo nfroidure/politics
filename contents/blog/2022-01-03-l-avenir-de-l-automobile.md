@@ -28,7 +28,7 @@ Le parc automobile français représente 38.2 millions de véhicules. Leur duré
 
 ![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](/public/illustrations/avenir-automobile.jpg)
 
-Un des soucis majeurs de l’automobile est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile...
+Un des soucis majeurs de l’automobile est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile…
 
 Autre inconvénient pour la collectivité, elles prennent de la place (beaucoup de place !) et nécessitent des routes et du stationnement. Aucune commune mesure avec les infrastructures que requièrent les vélos.
 

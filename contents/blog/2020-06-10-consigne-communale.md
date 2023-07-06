@@ -9,7 +9,7 @@ tags:
   - consigne
 illustration:
   url: "/public/illustrations/consigne-gayant.png"
-  alt: "Exemple de contenants à l'effigie des Gayant·es"
+  alt: "Exemple de contenants à l’effigie des Gayant·es"
 ---
 
 # Une consigne communale à Douai
@@ -22,7 +22,7 @@ La consigne est un moyen simple et ancestral de limiter les déchets produits pa
 
 ## Comment ?
 
-![Exemple de contenants à l'effigie des Gayant·es](/public/illustrations/consigne-gayant.svg)
+![Exemple de contenants à l’effigie des Gayant·es](/public/illustrations/consigne-gayant.svg)
 
 La réutilisation des contenants du commerce est déjà une habitude pour nombre de douaisien·nes. Il s’agit donc d’embrasser cette pratique existante en lui donnant du lustre et du crédit.
 
@@ -52,7 +52,7 @@ Grâce au système de consigne, les client-es n’ont plus besoin de s’occuper
 
 Les consignes douaisiennes bénéficieront probablement d’un effet “collection”. On imagine aisément des touristes douaisiens repartir avec quelques contenants bénéficiant ainsi au rayonnement de notre cité tout en assurant un excédent de 50 centimes pour chaque consigne non-revenue.
 
-On devrait assister à un renforcement de l'identité locale (on peut envisager des consignes gravées du sceau de la ville, avec des contenances selon les géants Binbin 25cl, Fillon/Jacquot 50Cl, Mme/Mr Gayant 75cl...).
+On devrait assister à un renforcement de l’identité locale (on peut envisager des consignes gravées du sceau de la ville, avec des contenances selon les géants Binbin 25cl, Fillon/Jacquot 50Cl, Mme/Mr Gayant 75cl…).
 
 Des gravures à “édition limitée” pourraient également dynamiser ce circuit de consigne.
 
@@ -70,22 +70,22 @@ Des caisses de transport seront également à prévoir.
 
 ## Avantages sur la monnaie locale
 
-La consigne communale adresse certaines critiques faîtes aux monnaies locales : le protectionnisme par exemple. Un contenant consigné ne peut être retourné que dans les commerces qui acceptent la consigne, mais il a un usage, où qu'il se trouve sur Terre.
+La consigne communale adresse certaines critiques faîtes aux monnaies locales : le protectionnisme par exemple. Un contenant consigné ne peut être retourné que dans les commerces qui acceptent la consigne, mais il a un usage, où qu’il se trouve sur Terre.
 
 Gravé, il devient même un souvenir. On imagine bien les touristes repartir avec leurs souvenirs consignés gravés de nos Géant·es.
 
-Même en cas d'échec pur et simple de la démarche, ces verres resteront utilisables et ne seront donc pas perdus.
+Même en cas d’échec pur et simple de la démarche, ces verres resteront utilisables et ne seront donc pas perdus.
 
-Les difficultés de mise en place sont aussi moindres, un contenant est quelque chose de palpable, on en devine facilement l'usage. C'est probablement une meilleure garantie d'adoption.
+Les difficultés de mise en place sont aussi moindres, un contenant est quelque chose de palpable, on en devine facilement l’usage. C’est probablement une meilleure garantie d’adoption.
 
-Les monnaies locales s’accompagnent souvent d'une charte éthique : dans la cadre de la consigne, ce n’est pas nécessaire.
+Les monnaies locales s’accompagnent souvent d’une charte éthique : dans la cadre de la consigne, ce n’est pas nécessaire.
 
-La charte éthique de l'utilisation de la consigne est liée physiquement à l'idée même de consigne : réutiliser les contenants, éviter les déchets. Celui qui utilise la consigne, par son geste, s'engage intrinsèquement dans une démarche éthique.
+La charte éthique de l’utilisation de la consigne est liée physiquement à l’idée même de consigne : réutiliser les contenants, éviter les déchets. Celui qui utilise la consigne, par son geste, s’engage intrinsèquement dans une démarche éthique.
 
-Enfin, toujours dans l'optique des transversalités et l'inscription dans une vision globale, cela est cohérent avec l'idée d'une cuisine centrale et le remplacement des contenants en plastique. Cuisine centrale et laverie centrale, cela a du sens.
+Enfin, toujours dans l’optique des transversalités et l’inscription dans une vision globale, cela est cohérent avec l’idée d’une cuisine centrale et le remplacement des contenants en plastique. Cuisine centrale et laverie centrale, cela a du sens.
 
-Le colis des aînés avec des verres consignés, c'est aussi donner du pouvoir d'achat et inciter à aller les échanger dans les magasins qui jouent le jeu de la consigne, idem pour le tout le fonctionnement de la ville.
+Le colis des aînés avec des verres consignés, c’est aussi donner du pouvoir d’achat et inciter à aller les échanger dans les magasins qui jouent le jeu de la consigne, idem pour le tout le fonctionnement de la ville.
 
-C'est aussi de la propreté et des opportunités pour les plus défavorisés. Autrefois, les enfants récupéraient les bouteilles de la brasserie Gayant consignées dans la rue et en obtenaient quelques francs pour acheter des chuques.
+C’est aussi de la propreté et des opportunités pour les plus défavorisés. Autrefois, les enfants récupéraient les bouteilles de la brasserie Gayant consignées dans la rue et en obtenaient quelques francs pour acheter des chuques.
 
-La consigne est un thème central pour moins de déchets avec beaucoup d'externalités positives et doit être considérée à mon sens à Douai comme ailleurs.
+La consigne est un thème central pour moins de déchets avec beaucoup d’externalités positives et doit être considérée à mon sens à Douai comme ailleurs.

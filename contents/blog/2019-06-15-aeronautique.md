@@ -22,4 +22,4 @@ illustration:
 
 💥 Mais au delà du climat, n’oublions pas toutes ces guerres pour le pétrole et, peut-être, la suivante en préparation, que coûte aussi ce kérosène bon marché brûlé inutilement quand l’alternative en train est viable.
 
-💰 Les critères économiques comme seule gouverne, ce n’est plus possible...
+💰 Les critères économiques comme seule gouverne, ce n’est plus possible…

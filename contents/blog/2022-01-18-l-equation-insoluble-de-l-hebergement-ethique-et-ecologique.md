@@ -36,7 +36,7 @@ Il semble également nécessaire de s’assurer de l’origine des matériaux mi
 
 Il convient également de s’enquérir du fait que les services sont hébergés (quand on ne peut pas faire autrement, nous y reviendrons), ils le soient dans des pays dont la législation protège la vie privée des utilisateurices.
 
-Bien-sûr, cette confidentialité des données personnelles doit être assurée par les instances qui fournissent ces services en faisant preuve de professionnalisme (application de la réglementation européenne, le fameuse RGPD), suivi des recommendation de la CNIL, mises à jour de sécurité...
+Bien-sûr, cette confidentialité des données personnelles doit être assurée par les instances qui fournissent ces services en faisant preuve de professionnalisme (application de la réglementation européenne, le fameuse RGPD), suivi des recommendation de la CNIL, mises à jour de sécurité…
 
 L’éthique dans le numérique, c’est aussi faire preuve d’inclusivité : proposer des alternatives papier, rendre les interfaces simples, garantir l’accès aux personnes porteuses de handicap et d’une manière générale s’adapter aux préférences ou aux contraintes des utilisateurices.
 
@@ -92,7 +92,7 @@ Ceci est rendu possible grâce à une maîtrise technologique induite par une fo
 
 L’autonomie énergétique est un sujet pour les GAFAMs et c’est ainsi que la consommation du cloud de Google est entièrement compensée en énergie renouvelable (et bientôt en temps réel).
 
-Autre dérive des GAFAMs, leur fâcheuse tendance à vouloir vous sortir du web. Citons par exemple l’application web mobile Facebook dont les fonctionnalités se réduisent comme peau de chagrin pour vous inciter à installer l’application mobile (et partager toutes vos données personnelles : contacts, localisation...).
+Autre dérive des GAFAMs, leur fâcheuse tendance à vouloir vous sortir du web. Citons par exemple l’application web mobile Facebook dont les fonctionnalités se réduisent comme peau de chagrin pour vous inciter à installer l’application mobile (et partager toutes vos données personnelles : contacts, localisation…).
 
 ### L’économie solidaire et associative
 
@@ -146,7 +146,7 @@ Par exemple, le site que vous visitez est un site statique hébergé gratuitemen
 
 Or, l’hébergement de sites statiques n’est pas nouveau et agnostique en terme de langage ou d’outil de création de site Internet. Il existe de nombreuses solutions fiables et stables pour ce faire : Linux, bien-sûr, pour le système d’exploitation, serveurs FTP pour le dépôt des fichiers, PAM pour la gestion des utilisateurs, NGinX/Apache et une gestion dynamique des hôtes virtuels.
 
-De plus, il est tout à fait possible, au sein d’un site Internet statique de proposer des fonctions dynamiques en utilisant des serveurs externes ou des plugins embarqués (exemple, utiliser Framaform pour gérer le formulaire de contact d’un site, Strapi pour gérer leur contenu...). On peut donc mutualiser les serveurs de fonctionnalités communes à une myriade de sites.
+De plus, il est tout à fait possible, au sein d’un site Internet statique de proposer des fonctions dynamiques en utilisant des serveurs externes ou des plugins embarqués (exemple, utiliser Framaform pour gérer le formulaire de contact d’un site, Strapi pour gérer leur contenu…). On peut donc mutualiser les serveurs de fonctionnalités communes à une myriade de sites.
 
 Éviter d’utiliser des serveurs permet de simplifier les aspects techniques et pave la voie à une conciliation entre éthique et écologie pour une majeure partie de l’usage du web.
 
@@ -168,7 +168,7 @@ Enfin, comme le dit la maxime, la route est longue, mais la voie est libre ! L�
 
 Dans la droite ligne de l’hébergement statique, je pense qu’il est possible e tirer partie des technologies comme [le WebRTC](https://developer.mozilla.org/fr/docs/Web/API/WebRTC_API/Connectivity).
 
-Elle permet de se passer totalement de serveur (en théorie, en pratique, des serveur TURN/STUN sont nécessaires tant que les NATs seront nécessaires) et de communiquer en pair à pair (le fameux peer2peer) (des systèmes de vote, de chat, d’édition collaborative ... pourraient s’en saisir).
+Elle permet de se passer totalement de serveur (en théorie, en pratique, des serveur TURN/STUN sont nécessaires tant que les NATs seront nécessaires) et de communiquer en pair à pair (le fameux peer2peer) (des systèmes de vote, de chat, d’édition collaborative … pourraient s’en saisir).
 
 L’avantage du pair à pair ? Dès que plus personne n’est connecté, plus aucun matériel informatique ne tourne ! Pas de serveur, pas de centralisation : l’idéal de tout point de vue.
 

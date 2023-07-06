@@ -14,7 +14,7 @@ illustration:
 
 # Second tour : un sursis plus qu’un sursaut
 
-Le second tour des présidentielles a un goût amer, a fortiori dans le Douaisis où Marine Le Pen du Rassemblement National (ex Front National) a mobilisé une majorité d’électeurices...
+Le second tour des présidentielles a un goût amer, a fortiori dans le Douaisis où Marine Le Pen du Rassemblement National (ex Front National) a mobilisé une majorité d’électeurices…
 
 ## Les résultats
 
@@ -41,7 +41,7 @@ On le voit, et c’est un crève cœur, le RN est en position de remporter les d
 
 ![Photo de la réunion républicaine contre l’extrême droite](/public/illustrations/reunion-rn.jpg "🖼➡️")
 
-Ce qui m’offre une transition car, dans le Douaisis, ça a mal commencé. En lieu et place d’aller au contact pour faire barrage au RN, notre député (Dimitri Houbron), avec la complicité de quelques élus locaux (je n’utilise pas volontairement l’écriture inclusive ici, je m’en explique ensuite) a décidé de démarrer sa campagne en surfant sur le risque RN...
+Ce qui m’offre une transition car, dans le Douaisis, ça a mal commencé. En lieu et place d’aller au contact pour faire barrage au RN, notre député (Dimitri Houbron), avec la complicité de quelques élus locaux (je n’utilise pas volontairement l’écriture inclusive ici, je m’en explique ensuite) a décidé de démarrer sa campagne en surfant sur le risque RN…
 
 Cette "réunion républicaine contre l’extrême droite" était en fait un exercice descendant sans aucun débat contradictoire, tant et si bien que nous avons fini par sortir en cours et avoir cette saine discussion sur les pavés de la cour de l’hôtel de ville (clin d’œil aux camarades).
 
@@ -52,7 +52,7 @@ Bien-sûr, aucune intervention féminine, non plus. Bref, un républicanisme de 
 
 ![Photo affiches EÉLV](/public/illustrations/affiches-eelv.jpg "🖼⬅️▮")
 
-Le lendemain, nous apprenions via la Voix Du Nord que des parties substancielles du discours de Dimitri Houbron n’étaient en fait qu’[un plagiat de diverses coupures de presses](https://www.lavoixdunord.fr/1171973/article/2022-04-27/douai-des-extraits-particulierement-inspires-dans-le-discours-du-depute-dimitri)... À la lecture de cet article, on apprend que c’est bien-sûr de la faute du collaborateur parlementaire (on a pas idée d’écrire ses discours soi-même...). Et notre député de se plaindre que pointer ce plagiat "fasse le jeu des extrêmes". Se dédouaner d’un manque d’exemplarité sous couvert du risque RN n’est pas de nature à enrichir le débat.
+Le lendemain, nous apprenions via la Voix Du Nord que des parties substancielles du discours de Dimitri Houbron n’étaient en fait qu’[un plagiat de diverses coupures de presses](https://www.lavoixdunord.fr/1171973/article/2022-04-27/douai-des-extraits-particulierement-inspires-dans-le-discours-du-depute-dimitri)… À la lecture de cet article, on apprend que c’est bien-sûr de la faute du collaborateur parlementaire (on a pas idée d’écrire ses discours soi-même…). Et notre député de se plaindre que pointer ce plagiat "fasse le jeu des extrêmes". Se dédouaner d’un manque d’exemplarité sous couvert du risque RN n’est pas de nature à enrichir le débat.
 
 Le jeu des extrêmes, c’est bien entendu la majorité présidentielle qui l’a fait durant tout ce mandat de validation des théories fumeuses de l’extrême droite, de diabolisation des forces progressistes et de maltraitance des populations les plus fragiles de notre pays. Les français·es ne sont pas dupes de cela.
 

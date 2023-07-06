@@ -59,11 +59,11 @@ Pourtant, [l’effacement de la consommation électrique](https://librairie.adem
 
 C’est l’argument massue ; la création d’emploi. C’est effectivement, une aubaine dans un territoire où le chômage est élevé, c’est une des raisons pour lesquelles je suis favorable à ce projet (avec le fait que je pense préférable de contrôler notre pollution ici, plutôt que de l’exporter ailleurs dans des pays sans réglementation).
 
-Mais j’ai tout de même rappelé que l’emploi en CDI était d’une importance capitale. Facteur d’intégration (pour louer un logement, contracter un crédit immobilier...), de sérénité et de sécurité, le contrat à durée déterminée devrait être la règle plutôt que l’exception.
+Mais j’ai tout de même rappelé que l’emploi en CDI était d’une importance capitale. Facteur d’intégration (pour louer un logement, contracter un crédit immobilier…), de sérénité et de sécurité, le contrat à durée déterminée devrait être la règle plutôt que l’exception.
 
 Dans ma participation j’avais suggéré une proportion de 90% de CDI. La réponse botte en touche : pas de proportion déterminée à ce jour. Le responsable des ressources humaines a évoqué le défi que représentait le recrutement de technicien·nes de maintenance et qu’il faudrait faire preuve d’attractivité et également former ces salarié·es sur le long terme.
 
-La conclusion fût donc que ces emplois seraient "massivement en CDI". Nous jugerons sur pièce, en portant notre attention sur les autres emplois du site dont le marché est moins tendu : gardien·nes, agent·es d’entretien, secrétaires...
+La conclusion fût donc que ces emplois seraient "massivement en CDI". Nous jugerons sur pièce, en portant notre attention sur les autres emplois du site dont le marché est moins tendu : gardien·nes, agent·es d’entretien, secrétaires…
 
 Je suis tout de même circonspect, étant donné que sous les voûtes du même Hôtel de Ville où se tenait la réunion, on pouvait voir une communication de pôle emploi parlant de 700 emplois d’agent·es de production pour 12 mois.
 

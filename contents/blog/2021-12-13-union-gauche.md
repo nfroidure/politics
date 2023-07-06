@@ -77,7 +77,7 @@ Une primaire aurait des impacts dont il faut aussi être conscient·es :
 - dissipation de l’énergie militante dans des campagnes internes pour la primaire,
 - important travail de constitution d’un programme commun et rebattement des cartes pour les désignations en cas de victoire,
 - impact important sur les législatives qui viendront dans la foulée,
-- **il va falloir composer avec le virus une fois de plus dans cette campagne.** Illustration : j’écris cet article en revenant de manière anticipée des cours que je devais donner aujourd’hui, trois cas COVID dans la classe de ma fille...
+- **il va falloir composer avec le virus une fois de plus dans cette campagne.** Illustration : j’écris cet article en revenant de manière anticipée des cours que je devais donner aujourd’hui, trois cas COVID dans la classe de ma fille…
 
 Aussi, n’oublions pas que malgré quelques têtes sorties du rang, la France Insoumise a eu à cœur, dès sa constitution, une stratégie hégémonique centrée autour d’un homme providentiel, je doute fortement qu’il soit possible de les faire changer d’avis. Mais ce n’est que mon opinion, je souhaite ardemment être contredit par les faits.
 

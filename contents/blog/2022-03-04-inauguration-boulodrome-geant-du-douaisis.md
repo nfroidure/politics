@@ -50,6 +50,6 @@ En lieu et place, on a des affiches pour un boulodrome qui ne nous évoque rien 
 
 Finalement, ce sont 4000 personnes qui auront fait le déplacement pour cette inauguration, soit 37,5€ de dépenses par tête.
 
-En donnant directement 10€ aux gens pour venir, on aurait eu quatre fois plus de monde... C'est un usage bien dommageable de l'argent public.
+En donnant directement 10€ aux gens pour venir, on aurait eu quatre fois plus de monde… C’est un usage bien dommageable de l’argent public.
 
 Le journal en ligne, Daily Nord, a très justement titré son article sur le sujet [Douaisis : Une inauguration qui « fout les boules »](https://dailynord.fr/2022/03/douaisis-une-inauguration-qui-fout-les-boules/).
