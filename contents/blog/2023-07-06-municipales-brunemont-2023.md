@@ -37,9 +37,9 @@ D’une certaine façon, Brunémont y a perdu une partie de son âme. La césure
 
 Dans un [article de l’Observateur du Douaisis](https://www.lobservateur.fr/des-elections-a-brunemont-un-jeune-de-18-ans-se-presente-face-au-maire/), on en apprend un peu plus sur Clément Locquet, inconnu au bataillon politique, qui souhaite aujourd’hui porter une opposition à Brunémont.
 
-Actuellement étudiant en Sciences Politiques, étrangement, ce dernier se dit "apolitique". À peine dôté d’une conscience politique, au lieu de la partager avec ses concitoyen·nes, ce dernier, leur propose plutôt de l’exclure du débat… Un sens du partage étonnant qui illustre parfaitement l’adage : “Si vous ne vous occupez pas de politique, la politique s’occupera de vous”.
+Actuellement étudiant en Sciences Politiques, étrangement, ce dernier se dit "apolitique". À peine dôté d’une conscience politique, au lieu de la partager avec ses concitoyen·nes, ce dernier, leur propose plutôt de l’exclure du débat… Un sens du partage étonnant qui illustre parfaitement l’adage : “Si vous ne vous occupez pas de politique, la politique s’occupera de vous”.
 
-Un apolitisme affiché, mais un sponsoring avéré par le parti Les Républicains. Les indices ne manquent pas : une proximité affichée avec Frédéric Nihous (passé successivement par le RPR, puis CPNT et enfin, LR…), une valorisation des [actions "Hauts-de-France Propres"](https://www.lavoixdunord.fr/1303321/article/2023-03-15/grand-menage-de-printemps-avant-l-heure-pour-le-douaisis-avec-hauts-de-france) tutorées par la région Hauts-de-France et sa majorité de droite avec Xavier Bertrand…
+Un apolitisme affiché, mais un sponsoring avéré par le parti Les Républicains. Les indices ne manquent pas : une proximité affichée avec Frédéric Nihous (passé successivement par le RPR, puis CPNT et enfin, LR…), une valorisation des [actions "Hauts-de-France Propres"](https://www.lavoixdunord.fr/1303321/article/2023-03-15/grand-menage-de-printemps-avant-l-heure-pour-le-douaisis-avec-hauts-de-france) tutorées par la région Hauts-de-France et sa majorité de droite avec Xavier Bertrand…
 
 Bref, il semble que les habitant·es de Brunémont soient pris pour des lapins de 6 semaines. Quand c’est flou…
 
@@ -51,7 +51,7 @@ Vous le savez, je suis militant écologiste, mais aussi adhérent à EÉLV. La r
 
 Être adhérent à un parti ne signifie pas cautionner tout ce qu’il dit, ni être d’accord à 100%. EÉLV est juste le parti avec lequel je suis le plus d’accord. J’aurai l’occasion d’y revenir ici, mais il me semble qu’une personnalité politique, même locale, a le devoir d’élargir sa pensée (et son impact) au niveau national. Ne serait-ce que pour s’intégrer aux politiques publiques menées à d’autres échelons, mais surtout, pour participer à quelquechose de plus grand, à des victoires plus globales.
 
-De nombreuses personnes viennent régulièrement me demander ce que je pense de telle sortie de Sandrine Rousseau, telle prise de parole de Marine Tondelier... c’est à chaque fois une occasion de débattre, d’exposer les opinions de chacun·e. Je ne le vis pas comme un handicap, mais une richesse.
+De nombreuses personnes viennent régulièrement me demander ce que je pense de telle sortie de Sandrine Rousseau, telle prise de parole de Marine Tondelier… c’est à chaque fois une occasion de débattre, d’exposer les opinions de chacun·e. Je ne le vis pas comme un handicap, mais une richesse.
 
 Nos élu·es bénéficient également d’une structure (qu’iels financent en partie). Un parti est avant tout une sorte de "think tank" et de réceptacle des retours d’expérience des autres élu·es.
 
@@ -63,8 +63,16 @@ En cette période d’élections sénatoriales, il apparaît encore plus clairem
 
 Je pense que c’est un statut quo qui a profité et continue de profiter au développement de l’extrême droite. Par crainte de ne pas être réélu·es, certain·es élu·es ont choisi de ne pas entrer dans le débat idéologique auquel nous obligent les extrêmes.
 
-Sans figures locales engagées sur des thèmes globaux pour désamorcer les simplismes, pour porter les valeurs républicaines, contrer les idées racistes et xénophobes, et stopper le repli identitaire, l'extrême droite a eu le champs libre, avec le résultat que l’on connaît : des députés Rassemblement National dans les deux circonscriptions du Douaisis.
+Sans figures locales engagées sur des thèmes globaux pour désamorcer les simplismes, pour porter les valeurs républicaines, contrer les idées racistes et xénophobes, et stopper le repli identitaire, l'extrême droite a eu le champs libre, avec le résultat que l’on connaît : des députés Rassemblement National dans les deux circonscriptions du Douaisis.
 
 Finalement, les petites communes ont été livrées sans grande résistance aux fascismes pour conserver telle ou telle indemnité, tel ou tel poste de prestige. Aucune leçon n’est tirée de tout cela à Brunémont puisqu’il s’agit, une fois encore, d’ambitions et de rancœurs locales plus que de visions véritablement opposées. Nous saurons dimanche si, aux yeux des brunémontois·es, il faut couper plus souvent l’herbe du camping, ou non…
 
 ![Plan du camping de Brunémont](/public/illustrations/brunemont-plan-camping.jpg)
+
+**Note rétrospective :**
+
+Alain Dupont [l'a emporté haut la main](https://www.lobservateur.fr/brunemont-la-liste-du-maire-lemporte-aux-elections-municipales-partielles/), selon l'Observateur du Douaisis avec 150 voix contre 93 pour Clément Locquet.
+
+J'avais profité de cette séquence pour me rendre à Brunémont afin de tracter notre bilan Douaisis Agglo à un moment politique important (comme pour Lambres-lez-Douai) et j'ai été frappé de constater que l'affiche du maire n'avait pas encore été collée. Je l'ai croisé lors d'une visite organisée par "SOS Nature du Douaisis" : il était serein et m'a dit qu'il n'avait pas encore distribué son tract dans les boîtes aux lettres…
+
+Ainsi, la victoire, dans des petits villages comme Brunémont, est surtout une question de notoriété, voire d'amitié. Les sciences politiques sont probablement moins utiles que le contact humain. À méditer !

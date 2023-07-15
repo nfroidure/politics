@@ -46,7 +46,7 @@ Enfin, c’est, en apparence, le point de clivage qui ressort. Sur le fond, on s
 
 Cette situation prête à sourire quand on pense, qu’il y a à peine deux ans, Bernard Goulois soutenait Caroline Sanchez alors candidate aux élections départementales aux côtés de Christian Poiret (avec pour suppléant⋅es Nina Debail et Jean-Jacques Peyraud, maire de Flers-en-Escrebieux).
 
-On ne peut que constater que la fidélité, en politique, ne garantit pas la loyauté en retour, surtout dans le microcosme poiretiste...
+On ne peut que constater que la fidélité, en politique, ne garantit pas la loyauté en retour, surtout dans le microcosme poiretiste…
 
 ![Photographie du camion "le département est là"](/public/illustrations/le-departement-du-nord-est-la.jpg)
 
@@ -54,7 +54,7 @@ Maintenant élue au département, Caroline Sanchez se lance à l’assaut du si�
 
 Alors, je ne vais clairement pas regretter que la droite se flagelle, mais plutôt, l’absence très probable de la gauche. En effet, depuis trois élections consécutives, la gauche a complètement disparu du paysage.
 
-C’est donc, une seule et même liste qui est proposée aux lambrésien⋅nes depuis 18 ans... Les protagonistes de cette affaire font parti de la même majorité depuis tout ce temps, comment ne pas les renvoyer dos à dos ? Ne sont-iels pas toustes autant comptables de la situation financière de la commune ?
+C’est donc, une seule et même liste qui est proposée aux lambrésien⋅nes depuis 18 ans… Les protagonistes de cette affaire font parti de la même majorité depuis tout ce temps, comment ne pas les renvoyer dos à dos ? Ne sont-iels pas toustes autant comptables de la situation financière de la commune ?
 
 ## Temps contraint
 
@@ -65,3 +65,24 @@ On se souvient que pour cause de COVID, le second tour des élections municipale
 Bref, bien qu’il n’y ait probablement pas de liste à gauche, je pense qu’il faut préparer les élections municipales de 2026 à Lambres car il n’est pas acceptable, au vu du contexte climatique actuel, de voir la politique municipale au travers d’une dualité entre faire la fête et préparer l’avenir.
 
 **La commune de Lambres-lez-Douai mérite qu’on lui fasse d’autres propositions !** N’hésitez pas à me contacter si vous avez d’autres informations sur le sujet.
+
+**Note rétrospective :**
+
+![Salle comble pour le depouillement des élections de Lambres-lez-Douai](/public/illustrations/election-depouillement-lambres.jpg "🖼➡️")
+
+C’est sans réelle surprise que Caroline Sanchez est devenue maire de Lambres-lez-Douai au terme du premier tour avec 1199 voix (soit 66,6 % des suffrages exprimés) contre 601 voix pour Bernard Goulois.
+
+Il faut dire qu’il y avait une asymétrie de moyens entre les deux candidat⋅es, et surtout, quelques erreurs stratégiques de la part de Bernard Goulois.
+
+En effet, au delà de sa communication bien moins professionnelle, il n’a pas pris soin de mettre en avant sa nouvelle équipe ni sur son affiche, ni sur son tract. Une erreur que n’a pas faite sa concurrente qui a eu une communication bien plus léchée. C’est malheureusement, aussi comme cela, qu’on gagne une élection.
+
+La salle était comble pour l’annonce des résultats et la présence remarquée de tout le réseau de Christian Poiret ne laisse aucun doute quand à l’ingérence de ce dernier dans cette séquence politique somme toute un peu cavalière. Dont acte, les lambrésien⋅nes jugeront sur pièce !
+
+Le diaporama suivant reprend les différents outils de communication utilisés :
+
+![Affiches respectives de Bernard Goulois et Caroline Sanchez](/public/illustrations/affiches-goulois-sanchez-lambres.jpg)
+![Tracts de Bernard Goulois et Caroline Sanchez (pages de garde)](/public/illustrations/lambres-tracts-municipales-recto.jpg)
+![Tract de Bernard Goulois (intérieur)](/public/illustrations/lambres-tracts-municipales-bernard-goulois-interieur.jpg)
+![Tract de Bernard Goulois (dos)](/public/illustrations/lambres-tracts-municipales-bernard-goulois-verso.jpg)
+![Tract de Caroline Sanchez (intérieur)](/public/illustrations/lambres-tracts-municipales-caroline-sanchez-interieur.jpg)
+![Tract de Caroline Sanchez (dos)](/public/illustrations/lambres-tracts-municipales-caroline-sanchez-verso.jpg)
