@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 06 Jul 2023 10:15:00 GMT</lastBuildDate>
-    <pubDate>Sat, 15 Jul 2023 08:43:09 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Jul 2023 16:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Jul 2023 10:33:22 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/chanson-consumons-la-planete</guid>
+        <title>Chanson : Consumons la planète</title>
+        <description>Une petite chanson pour exprimer l&apos;amertume qu&apos;on peut parfois ressentir face à l&apos;inconscience et l&apos;inconséquence de certains de nos congénères…</description>
+        <link>https://nicolasfroidure.fr/blog/chanson-consumons-la-planete</link>
+        <pubDate>Sat, 15 Jul 2023 16:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/municipales-a-brunemont-des-elections-apolitiques</guid>
         <title>Municipales à Brunémont : des élections apolitiques ?</title>
