@@ -122,4 +122,4 @@ C’est ainsi qu’il faudra compter sur ma présence pour toujours défendre un
 
 Sur mon blog, je m’efforcerai de vous exposer mes positions sur les divers sujets de société qui seront peut-être, demain, si vous me témoignez votre confiance, des sujets que j’aurais à trancher au sein de l’appareil démocratique de notre pays.
 
-Je suis bien-sûr disponible pour échanger avec chacun·es d’entre vous et venir à votre rencontre, [il suffit de m’écrire](mailto:nicolas.froidure@gmail.com) !
+Je suis bien-sûr disponible pour échanger avec chacun·e d’entre vous et venir à votre rencontre, [il suffit de m’écrire](mailto:nicolas.froidure@gmail.com) !
