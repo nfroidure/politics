@@ -92,3 +92,15 @@ Aussi, si l’on veut que les automobiles soient moins nombreuses, les parkings 
 Enfin, j’ai formulé à nouveau ma vieille idée de ponctuer les trains directs intercité d’un unique arrêt pour délester les gares des villes centres (et donc le stationnements de personnes de passage qui ne font que gonfler le traffic aux heures de pointe). Sourires entendus de la part du maire et du président du SMTD ; il ne serait pas possible de parler avec la SNCF… J’ai tout de même suggéré d’essayer, 100% de celles et ceux qui ont réussi un projet l’ont entrepris.
 
 Toutes ces remarques seront portées au dossier d’enquête publique. N’hésitez pas à m’envoyer les votres.
+
+**Note rétrospective :**
+
+Finalement, j’ai ajouté à ma contribution la demande de ne pas changer le tracé de la ligne et donc, de ne pas réaliser les travaux rue de Paris pour les raisons suivantes :
+- la solution du feu rouge pour permettre aux bus de se croiser me semble bancale,
+- l’impact évident sur la sécurité des cyclistes au moment où il faudrait plutôt favoriser ce mode de déplacement est trop fort,
+- l’arrêt place de Gaulle n’est pas si éloigné, le parcours jusque la rue de Paris est sécurisé et accessible notamment grâce à la piétonnisation,
+- à terme, je souhaite que la rue de Paris soit également piétonne ainsi que toute la rue Saint-Jacques. Les différentes piétonnisations ont été des succès pour les Douaisien·nes. Avoir un bus à forte fréquence qui passe dans cette rue me semble inadapté avec ce futur possible, mais surtout, désirable de mon point de vue.
+
+Bref, plutôt qu’engager de grand frais, il me semble opportun de temporiser l’aménagement de la rue de Paris. Le reste des aménagements reste pertinent moyennant une meilleure prise en compte des cyclistes rue de Cambrai (suppression du stationnement d’un côté pour la création de véritables pistes cyclables).
+
+Pourquoi, enfin, ne pas utiliser l’argent ainsi économisé pour créer les aménagements cyclables rue de Cambrai (notamment la passerelle ou l’aménagement du pont de Cambrai au coût estimé à 1M€ selon Claude Hégo).
