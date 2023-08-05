@@ -22,7 +22,7 @@ import Cite from "../components/cite";
 import Img from "../components/img";
 import Gallery from "../components/gallery";
 import { fixText } from "./text";
-import YError from "yerror";
+import { YError } from "yerror";
 import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
 import { parseYouTubeURL } from "./youtube";
@@ -84,6 +84,9 @@ export type MarkdownImageNode = {
   alt: string;
   title: string;
 };
+export type MarkdownBreakNode = {
+  type: "break";
+};
 export type MarkdownLinkNode = {
   type: "link";
   url: string;
@@ -107,6 +110,7 @@ export type MarkdownNode =
   | MarkdownListItemNode
   | MarkdownHRNode
   | MarkdownImageNode
+  | MarkdownBreakNode
   | MarkdownLinkNode
   | MarkdownHTMLNode
   | MarkdownBlockquoteNode;
@@ -266,6 +270,9 @@ const listItemMap: NodeToElementMapper<MarkdownListItemNode> = (
 const hrMap: NodeToElementMapper<MarkdownHRNode> = (context) => (
   <HorizontalRule key={context.index} />
 );
+const breakMap: NodeToElementMapper<MarkdownBreakNode> = (context) => (
+  <br key={context.index} />
+);
 const htmlMap: NodeToElementMapper<MarkdownHTMLNode> = (
   context: MappingContext,
   node
@@ -353,6 +360,7 @@ const elementsMapping: Record<MarkdownNodeType, NodeToElementMapper<any>> = {
   link: hyperlinkMap,
   blockquote: blockquoteMap,
   thematicBreak: hrMap,
+  break: breakMap,
   text: textMap,
   emphasis: emphasisMap,
   inlineCode: codeMap,
