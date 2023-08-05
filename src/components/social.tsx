@@ -1,10 +1,25 @@
-import { FACEBOOK_ACCOUNT, TWITTER_ACCOUNT } from "../utils/constants";
+import {
+  FACEBOOK_ACCOUNT,
+  MASTODON_ACCOUNT,
+  MASTODON_SERVER,
+  TWITTER_ACCOUNT,
+} from "../utils/constants";
 import { publicRuntimeConfig } from "../utils/config";
 
 export default function Social(): JSX.Element {
   return (
     <nav>
       <ul>
+        <li className="mastodon">
+          <a
+            href={`https://${MASTODON_SERVER}/@${MASTODON_ACCOUNT}`}
+            rel="me"
+            title="Me suivre sur Mastodon"
+            target="_blank"
+          >
+            <span>Mastodon</span>
+          </a>
+        </li>
         <li className="twitter">
           <a
             href={`https://twitter.com/${TWITTER_ACCOUNT}`}
@@ -60,6 +75,9 @@ export default function Social(): JSX.Element {
           mask-position: center bottom;
           mask-size: calc(var(--vRythm) * 1);
           -webkit-mask-size: calc(var(--vRythm) * 1);
+          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/mastodon.svg");
+        }
+        li.twitter a {
           mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/twitter.svg");
         }
         li.facebook a {

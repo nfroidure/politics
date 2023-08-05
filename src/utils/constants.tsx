@@ -5,6 +5,8 @@ export const ORGANISATION_CONTACT = "nicolas.froidure@gmail.com";
 export const ORGANISATION_PRIMARY_COLOR = "#00ff00";
 export const PUBLISHER = "Nicolas Froidure";
 export const DOMAIN_NAME = "nicolasfroidure.fr";
+export const MASTODON_ACCOUNT = "nfroidure";
+export const MASTODON_SERVER = "mastodon.social";
 export const TWITTER_ACCOUNT = "nfroidure";
 export const FACEBOOK_ACCOUNT = "nicolas.froidure.douai";
 
