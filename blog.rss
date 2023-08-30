@@ -6,13 +6,20 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 15 Jul 2023 16:00:00 GMT</lastBuildDate>
-    <pubDate>Sat, 05 Aug 2023 11:37:56 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2023 16:00:00 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2023 11:24:17 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/conseil-de-quartier-bilan-a-mi-parcours</guid>
+        <title>Conseil de quartier : Bilan à mi-parcours</title>
+        <description>Tiré au sort pour faire parti du conseil de quartier Barlet/Centre/Faubourg de Cambrai à Douai, je n’ai pas chômé, petit bilan à mi-parcours…</description>
+        <link>https://nicolasfroidure.fr/blog/conseil-de-quartier-bilan-a-mi-parcours</link>
+        <pubDate>Mon, 07 Aug 2023 16:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/chanson-consumons-la-planete</guid>
         <title>Chanson : Consumons la planète</title>
-        <description>Une petite chanson pour exprimer l&apos;amertume qu&apos;on peut parfois ressentir face à l&apos;inconscience et l&apos;inconséquence de certains de nos congénères…</description>
+        <description>Une petite chanson pour exprimer l’amertume qu’on peut parfois ressentir face à l’inconscience et l’inconséquence de certains de nos congénères…</description>
         <link>https://nicolasfroidure.fr/blog/chanson-consumons-la-planete</link>
         <pubDate>Sat, 15 Jul 2023 16:00:00 GMT</pubDate>
       </item>

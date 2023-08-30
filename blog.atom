@@ -6,14 +6,25 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2023-07-15T16:00:00.000Z</updated>
+  <updated>2023-08-07T16:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/conseil-de-quartier-bilan-a-mi-parcours</id>
+    <title>Conseil de quartier : Bilan à mi-parcours</title>
+    <link href="https://nicolasfroidure.fr/blog/conseil-de-quartier-bilan-a-mi-parcours" rel="alternate" type="text/html" />
+    <updated>2023-08-07T16:00:00.000Z</updated>
+    <published>2023-08-07T16:00:00.000Z</published>
+    <summary>Tiré au sort pour faire parti du conseil de quartier Barlet/Centre/Faubourg de Cambrai à Douai, je n’ai pas chômé, petit bilan à mi-parcours…</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/chanson-consumons-la-planete</id>
     <title>Chanson : Consumons la planète</title>
     <link href="https://nicolasfroidure.fr/blog/chanson-consumons-la-planete" rel="alternate" type="text/html" />
     <updated>2023-07-15T16:00:00.000Z</updated>
     <published>2023-07-15T16:00:00.000Z</published>
-    <summary>Une petite chanson pour exprimer l&apos;amertume qu&apos;on peut parfois ressentir face à l&apos;inconscience et l&apos;inconséquence de certains de nos congénères…</summary>
+    <summary>Une petite chanson pour exprimer l’amertume qu’on peut parfois ressentir face à l’inconscience et l’inconséquence de certains de nos congénères…</summary>
     <author>
       <name>Nicolas Froidure</name>
     </author>
