@@ -63,7 +63,7 @@ En cette période d’élections sénatoriales, il apparaît encore plus clairem
 
 Je pense que c’est un statut quo qui a profité et continue de profiter au développement de l’extrême droite. Par crainte de ne pas être réélu·es, certain·es élu·es ont choisi de ne pas entrer dans le débat idéologique auquel nous obligent les extrêmes.
 
-Sans figures locales engagées sur des thèmes globaux pour désamorcer les simplismes, pour porter les valeurs républicaines, contrer les idées racistes et xénophobes, et stopper le repli identitaire, l'extrême droite a eu le champs libre, avec le résultat que l’on connaît : des députés Rassemblement National dans les deux circonscriptions du Douaisis.
+Sans figures locales engagées sur des thèmes globaux pour désamorcer les simplismes, pour porter les valeurs républicaines, contrer les idées racistes et xénophobes, et stopper le repli identitaire, l’extrême droite a eu le champs libre, avec le résultat que l’on connaît : des députés Rassemblement National dans les deux circonscriptions du Douaisis.
 
 Finalement, les petites communes ont été livrées sans grande résistance aux fascismes pour conserver telle ou telle indemnité, tel ou tel poste de prestige. Aucune leçon n’est tirée de tout cela à Brunémont puisqu’il s’agit, une fois encore, d’ambitions et de rancœurs locales plus que de visions véritablement opposées. Nous saurons dimanche si, aux yeux des brunémontois·es, il faut couper plus souvent l’herbe du camping, ou non…
 
@@ -71,8 +71,8 @@ Finalement, les petites communes ont été livrées sans grande résistance aux 
 
 **Note rétrospective :**
 
-Alain Dupont [l'a emporté haut la main](https://www.lobservateur.fr/brunemont-la-liste-du-maire-lemporte-aux-elections-municipales-partielles/), selon l'Observateur du Douaisis avec 150 voix contre 93 pour Clément Locquet.
+Alain Dupont [l’a emporté haut la main](https://www.lobservateur.fr/brunemont-la-liste-du-maire-lemporte-aux-elections-municipales-partielles/), selon l’Observateur du Douaisis avec 150 voix contre 93 pour Clément Locquet.
 
-J'avais profité de cette séquence pour me rendre à Brunémont afin de tracter notre bilan Douaisis Agglo à un moment politique important (comme pour Lambres-lez-Douai) et j'ai été frappé de constater que l'affiche du maire n'avait pas encore été collée. Je l'ai croisé lors d'une visite organisée par "SOS Nature du Douaisis" : il était serein et m'a dit qu'il n'avait pas encore distribué son tract dans les boîtes aux lettres…
+J’avais profité de cette séquence pour me rendre à Brunémont afin de tracter notre bilan Douaisis Agglo à un moment politique important (comme pour Lambres-lez-Douai) et j’ai été frappé de constater que l’affiche du maire n’avait pas encore été collée. Je l’ai croisé lors d’une visite organisée par "SOS Nature du Douaisis" : il était serein et m’a dit qu’il n’avait pas encore distribué son tract dans les boîtes aux lettres…
 
-Ainsi, la victoire, dans des petits villages comme Brunémont, est surtout une question de notoriété, voire d'amitié. Les sciences politiques sont probablement moins utiles que le contact humain. À méditer !
+Ainsi, la victoire, dans des petits villages comme Brunémont, est surtout une question de notoriété, voire d’amitié. Les sciences politiques sont probablement moins utiles que le contact humain. À méditer !
