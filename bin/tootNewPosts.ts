@@ -50,7 +50,7 @@ async function run() {
         visibility: "public",
         // Let's schedule it a bit later to avoid tooting
         // before the deployment is completed
-        scheduled_at: Date.now() + 1000 * 60 * 20,
+        scheduled_at: new Date(Date.now() + 1000 * 60 * 20).toISOString(),
       };
 
       const response = await fetch(
