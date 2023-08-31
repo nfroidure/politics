@@ -67,7 +67,7 @@ Certaines demandes n’appellent pas à l’action de notre part, mais de celles
 - la remise en place des arceaux pour vélos supprimés devant l’ancien Camaïeu et futur Office de Tourisme récemment supprimés sans qu’aucune motivation n’ait été présentée au conseil de quartier (sans effet à ce jour),
 - le rétablissement du linéaire d’arbres de l’avenue du 4 septembre suite [au recensement que j’ai effectué ici même](http://nfroidure.localhost:3000/blog/un-systeme-de-ticket-ouvert-pour-les-collectivites#quelques-exemples-a-douai) (sans effet à ce jour).
 
-# Un soucis de transparence
+## Un soucis de transparence
 
 Il y a cependant un gros point noir pendant cette première année, le sort de la rue Montsarrat. En effet, lors du conseil de quartier du 11 avril 2023, sans qu’il soit porté à l’ordre du jour, nous avons découvert, en fin de réunion, sur table, un projet de modification du stationnement rue Montsarrat. C’est à cette occasion que nous avons proposé un piste cyclable car cet axe est dangereux pour les cyclistes, notamment en heures de pointe.
 
