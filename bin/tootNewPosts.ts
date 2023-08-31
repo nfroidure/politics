@@ -16,7 +16,7 @@ async function run() {
   }
 
   const result = await execAsync(
-    `git diff --summary HEAD~1 HEAD contents/blog`
+    `git diff --summary HEAD~1 HEAD -- contents/blog`
   );
   const posts = result.stdout
     .trim()
