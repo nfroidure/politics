@@ -119,6 +119,7 @@ dist
 
 # NextJS
 .next
+.env*
 
 # Built feeds
 blog.atom

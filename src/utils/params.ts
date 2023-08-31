@@ -1,4 +1,4 @@
-import YError from "yerror";
+import { YError } from "yerror";
 import type { NextRouter } from "next/router";
 
 export type CastedQueryParamItem = boolean | number | string;
