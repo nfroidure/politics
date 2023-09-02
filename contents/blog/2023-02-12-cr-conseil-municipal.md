@@ -19,7 +19,7 @@ Ce vendredi soir nos élu·es de la municipalité se sont de nouveau réuni·es 
 
 ## Rapport égalité femme/homme
 
-Nous avons assisté à une belle présentation qui démontre que les choses vont dans le bon sens. Les interventions ont été peu nombreuses, celles de [Franz Quatreboeuf](https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs), [Xavier Thierry](https://keskidiz.nicolasfroidure.fr/elu-es/xavier-thierry) et [François Thibaut](https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois) ont été similaires et soulignaient ce qui avait été dit précédemment : il reste du travail à faire et la ville reste impactée par la société qui est encore inégalitaire.
+Nous avons assisté à une belle présentation qui démontre que les choses vont dans le bon sens. Les interventions ont été peu nombreuses, celles de Franz Quatreboeuf, Xavier Thierry et François Thibaut ont été similaires et soulignaient ce qui avait été dit précédemment : il reste du travail à faire et la ville reste impactée par la société qui est encore inégalitaire.
 
 Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mises en lumière.
 

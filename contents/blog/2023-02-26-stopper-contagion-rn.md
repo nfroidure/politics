@@ -38,7 +38,7 @@ Dans la seizième circonscription, si l’on additionne les scores "républicain
 
 - Matthieu Marchio (Rassemblement National) : 35,86% (12 416 voix)
 - Alain Bruneel (PC/NUPES) : **33,59%** (11 632 voix)
-- [Chantal Rybak](https://keskidiz.nicolasfroidure.fr/elu-es/chantal-rybak) (MoDem-Ensemble) : **15,15%** (5 245 voix)
+- Chantal Rybak (MoDem-Ensemble) : **15,15%** (5 245 voix)
 - Mady Dorchies (Les Républicains) : **5,31%** (1 838 voix)
 - Tanneguy Adriencense (Reconquête) : 2,86% (990 voix)
 - Delphine Zagacki (Parti Radical de Gauche) : **2,79%** (967 voix)
@@ -49,7 +49,7 @@ Avec un report de voix bien effectué, c’est **61.29%** qu’obtiendrait Alain
 
 Les mauvaises langues diront que cela est dû à l’appartenance au Parti Communiste du candidat NUPES, mais dans la dix-septième circonscription, ce n’était pas le cas. Pourtant, là aussi, les résultats laissaient supposer le bon fonctionnement du barrage avec **61.48%** des voix au moins :
 
-- [Thibaut François](https://keskidiz.nicolasfroidure.fr/elu-es/thibaut-francois) (RN): 20,92% (15 408 voix)
+- Thibaut François (RN): 20,92% (15 408 voix)
 - Dimitri Houbron (Horizons-Ensemble) : **24,13%** (7 636 voix)
 - Cyril Grandin (La France Insoumise-NUPES) : **22,91%** (7 250 voix)
 - Romain Boulant (Union des démocrates et indépendants) : **5,33%** (1 688 voix)

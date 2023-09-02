@@ -27,7 +27,7 @@ En tant que personne publique, Coline Craeye-Ferrari peut, bien-sûr, faire l’
 
 En effet, le contrôle citoyen ne peut s’exercer qu’à cette condition. C’est d’ailleurs une excellent moyen de relever les contradictions, le décalage entre paroles et actes ou les revirements de posture.
 
-On se souvient, par exemple, de la vive opposition de [Coline Craeye](https://keskidiz.nicolasfroidure.fr/elu-es/coline-craeye) et de [Franz Quatreboeuf](https://keskidiz.nicolasfroidure.fr/elu-es/franz-quatreboeufs) à Douaisis Agglo. À la faveur d’accord électoraux (binôme Christophe Dumont / Coline Craeye aux départementales 2021 dont l’affiche illustre cet article), cette attitude s’était subitement muée en complaisance et appels à la raison de la part de cette dernière en direction des élu⋅es de la ville de Douai.
+On se souvient, par exemple, de la vive opposition de Coline Craeye et de Franz Quatreboeuf à Douaisis Agglo. À la faveur d’accord électoraux (binôme Christophe Dumont / Coline Craeye aux départementales 2021 dont l’affiche illustre cet article), cette attitude s’était subitement muée en complaisance et appels à la raison de la part de cette dernière en direction des élu⋅es de la ville de Douai.
 
 [Vidéo: Coline Craeye change d’avis sur Christian Poiret](https://youtu.be/uO00xyysrAE "📺")
 

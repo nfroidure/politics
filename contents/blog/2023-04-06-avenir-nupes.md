@@ -65,7 +65,7 @@ Bien-sûr, il y a eu les municipales 2020 à Douai et le soutien de LFI à [Fran
 
 Cela aurait aussi permis aux insoumis⋅es d’expérimenter des mandats d’élu⋅es locaux ce qui aujourd’hui nous apporte énormément d’expérience, de connexion et de compréhension des enjeux locaux et du fonctionnement des institutions.
 
-Mais surtout, il y a eu les départementales 2021, où toute la gauche était une nouvelle fois unie autour du quadrinôme : [Katia Bitnerr](https://keskidiz.nicolasfroidure.fr/elu-es/katia-bittner), [Frédéric Chéreau](https://keskidiz.nicolasfroidure.fr/elu-es/frederic-chereau), Auriane Ait Lasri et Jean-Luc Dellacherie. Toute la gauche sauf une nouvelle fois LFI.
+Mais surtout, il y a eu les départementales 2021, où toute la gauche était une nouvelle fois unie autour du quadrinôme : Katia Bitnerr, Frédéric Chéreau, Auriane Ait Lasri et Jean-Luc Dellacherie. Toute la gauche sauf une nouvelle fois LFI.
 
 ![Affiches des élections départementales pour le canton de Douai 2021](/public/illustrations/departementales-2021-douai-affiches.jpg)
 ![Affiches des élections départementales recouvertes par LFI](/public/illustrations/affiche-departementale-douai-recouverte-par-lfi.jpg)

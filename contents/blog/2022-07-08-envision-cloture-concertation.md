@@ -101,7 +101,7 @@ Loin de moi l’idée de dire qu’il faut cesser toute pollution, aucune indust
 
 D’ailleurs, pour illustrer ce paradoxe, petit clin d’œil à mon grand-père, Michel Froidure, que je n’ai malheureusement pas connu. Il a dirigé la cokerie d’Auby dont la pollution est sûrement encore palpable aujourd’hui alors que les retombées économiques sont terminées depuis que mon grand-père a baissé ce levier.
 
-Merci à [Virginie Malolepszy](https://keskidiz.nicolasfroidure.fr/elu-es/virginie-malolepszy) qui m’a envoyé cette photographie depuis le Centre historique Minier de Lewarde.
+Merci à Virginie Malolepszy qui m’a envoyé cette photographie depuis le Centre historique Minier de Lewarde.
 
 ---
 

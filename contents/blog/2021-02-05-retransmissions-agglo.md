@@ -23,7 +23,7 @@ illustration:
 
 Il n’y a pourtant **aucune impossibilité technique** à cela puisque cela a déjà été fait. Je suis outré que les membres du bureau communautaire, et notamment Mr Guiffard qui a fait campagne sur le thème du retour des citoyens dans la vie politique, permettent ce déni de démocratie.
 
-**Je tiens à remercier [Nathalie Apers](https://keskidiz.nicolasfroidure.fr/elu-es/nathalie-apers)** qui s’est faîte l’écho des citoyen·nes lésé·es dans cette histoire tout simplement car il ne peuvent y assister en direct que ce soit pour des raisons professionnelles, personnelles ou d’organisation jusqu’à  l’heure où j’écris ce message.
+**Je tiens à remercier Nathalie Apers** qui s’est faîte l’écho des citoyen·nes lésé·es dans cette histoire tout simplement car il ne peuvent y assister en direct que ce soit pour des raisons professionnelles, personnelles ou d’organisation jusqu’à  l’heure où j’écris ce message.
 
 J’invite les citoyen·nes à prendre acte, ce soir, du fait que **nous avons affaire à des élu·es qui n’assument pas leurs interventions** au point d’en rendre le visionnage impossible pour une bonne partie de la population.
 
