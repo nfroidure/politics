@@ -43,7 +43,7 @@ On connaît la propension des personnes à préférer le chemin le plus court et
 Une passerelle sera probablement érigée, mais des défauts de conception là encore se présentent selon moi :
 
 - tout d’abord, des brisures font que la passerelle semble zigzaguer ce qui pose des problèmes de visibilité (difficile de voir si des personnes se trouvent sur la passerelle avant de s’y engager). On peut aussi s’interroger sur le fait que le chemin soit le plus direct également,
-- la passerelle ne sera pas couverte, étrangement, seules certaines parties semble bénéficier de sorte de préaux disparates,
+- la passerelle ne sera pas couverte, étrangement, seules certaines parties semblent bénéficier de sorte de préaux disparates,
 - seul un côté sera muni d’une rampe, a contrario, du côté de la gare, un escalier et un ascenseur seront présents. Difficile dans ces conditions, de l’emprunter à vélo de manière pratique,
 - il n’est pas prévu, comme à Euralille (voir galerie ci-dessous), que des escaliers desservent directement les voies de la gare obligeant à un détour malheureux.
 
@@ -68,11 +68,11 @@ Un hôtel 4 étoiles sera implanté à deux pas du Volubilis, espérons que cela
 
 ![Travaux de l’ancien Hôpital Général à Douai](/public/illustrations/ancien-hopital-general-travaux-douai.jpg)
 
-Un parking silo proposera 600 places au pied de la passerelle et deux autres parkings aériens sont prévus (pour 230 places). Des panneaux solaires sont prévus sur le dernier niveau du parking silo, mais la surface posée n’est pas précisée. Il faudrait que les parking aériens soient également équipés d’ombrières afin de maximiser le bénéfice de l’occupation de l’espace de la ZAC.
+Un parking silo proposera 600 places au pied de la passerelle et deux autres parkings aériens sont prévus (pour 230 places). Des panneaux solaires sont prévus sur le dernier niveau du parking silo, mais la surface posée n’est pas précisée. Il faudrait que les parkings aériens soient également équipés d’ombrières afin de maximiser le bénéfice de l’occupation de l’espace de la ZAC.
 
-Une zone est prévue pour du logement ce qui est une bonne chose afin de mutualiser les stationnements, mais les stationnements ne sont pas à proximité immédiate de cette zone, tout comme la passerelle, limitant les bénéfices de cette mixité d’usage. Une mixité qui n’est d’ailleurs pas garantie car, selon le plan de masse, du tertiaire y est également possible.
+Une zone est prévue pour du logement ce qui est une bonne chose afin de mutualiser les stationnements, mais les stationnements ne sont pas à proximité immédiate de cette zone, tout comme la passerelle, limitant les bénéfices de cette mixité d’usage. Une mixité qui n’est d’ailleurs pas garantie, car, selon le plan de masse, du tertiaire y est également possible.
 
-L’atelier du Livre d’Art et de l’Estampe, issue de l’Imprimerie Nationale (devenue INGroupe) se trouvera juste à côté du parking silo. Il me paraît dommage de reléguer cet équipement dans une ZAC. À mon sens, il aurait plus sa place dans le centre ville (cette remarque ayant été formulée également en réunion publique). On peut s’étonner que l’agglomération investisse le domaine de la culture alors qu’elle se refuse toujours à participer de manière plus ample au financement des services de culturels de centralité proposés par la ville de Douai tels que le conservatoire, certaines écoles ou musées déjà bien établis.
+L’atelier du Livre d’Art et de l’Estampe, issue de l’Imprimerie Nationale (devenue INGroup) se trouvera juste à côté du parking silo. Il me paraît dommage de reléguer cet équipement dans une ZAC. À mon sens, il aurait plus sa place dans le centre ville (cette remarque ayant été formulée également en réunion publique). On peut s’étonner que l’agglomération investisse le domaine de la culture alors qu’elle se refuse toujours à participer de manière plus ample au financement des services culturels de centralité proposés par la ville de Douai tels que le conservatoire, certaines écoles ou musées déjà bien établis.
 
 ## Voiries
 
