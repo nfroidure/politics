@@ -9,8 +9,7 @@ categories:
   - Contributions
   - Douaisis
 tags:
-  - démocratie
-  - agglomération
+  - Lambres-lez-Douai
 illustration:
   url: "/public/illustrations/entrepot-goodman-locabris.jpg"
   alt: "Panneau travaux Goodman et locabris"
