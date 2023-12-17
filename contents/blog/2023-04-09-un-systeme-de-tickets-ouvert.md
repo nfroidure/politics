@@ -14,7 +14,7 @@ illustration:
 
 # Un système de ticket ouvert pour les collectivités
 
-Gérer les demandes des habitant⋅es et les changements de leur cadre de vie ne peut plus se faire dans l’opacité. **Les citoyen⋅nes veulent connaître les décisions prises, leurs motivations et application** jusque dans leurs moindre détails.
+Gérer les demandes des habitant⋅es et les changements de leur cadre de vie ne peut plus se faire dans l’opacité. **Les citoyen⋅nes veulent connaître les décisions prises, leurs motivations et application** jusque dans leurs moindres détails.
 
 C’est pourquoi les collectivités (commune, communauté de commune, département, région...) doivent se doter d’un **système de ticket ouvert, libre, open-source et collaboratif.**
 
@@ -24,17 +24,17 @@ C’est pourquoi les collectivités (commune, communauté de commune, départeme
 
 Les habitant⋅es sont lié⋅es aux élu⋅es par un contrat politique (programme, principes, vision du monde...) et aux services technique par un contrat de service.
 
-Le rôle des conseiller⋅es de quartier est donc de faciliter ces interactions en instituant un cadre facilitateur de la démocratie participative.
+Le rôle des conseiller⋅es de quartier est donc de fluidifier ces interactions en instituant un cadre facilitateur de la démocratie participative.
 
 Cependant, assumer ce rôle n’est pas toujours évident et le risque est de devenir un simple passe-plat voire pire, n’être qu’une caution pour le pouvoir politique en place.
 
 ## Assurer la sincérité des décisions
 
-L’enjeu majeur de la participation citoyenne est que les décisions prises (ajouter/supprimer un banc, couper un arbre, [fermer un parc](/amenagement-de-la-ville-creons-les-possibles#controler-ou-rendre-possible), construire une passerelle) soient frappées du sceau de la sincérité, de la transparence et de la légitimité démocratique.
+L’enjeu majeur de la participation citoyenne est que les décisions prises (ajouter/supprimer un banc, couper un arbre, [fermer un parc](./amenagement-de-la-ville-creons-les-possibles#controler-ou-rendre-possible "Voir l’exemple du parc Bertin"), [construire une passerelle](./euradouai-contribution-a-l-enquete-publique#la-passerelle "Lire la contribution à la passerelle d’Euradouai")) soient frappées du sceau de la sincérité, de la transparence et de la légitimité démocratique.
 
 Mais en pratique, cependant, la suspicion permanente est de mise. Notamment parce qu’il n’est pas aisé de retrouver des traces de la décision prise dans des comptes rendus de conseil de quartier (quand ils sont disponibles).
 
-Mais aussi parce que ces décisions ne sont pas toujours [représentatives de la population de ces quartiers](/democratie-participative-des-idees-pour-douai#dysfonctionnements). Les conseils ont un nombre de membres limité, peu divers, à l’implication hétérogène et au dynamisme disparate selon le quartier.
+Mais aussi parce que ces décisions ne sont pas toujours [représentatives de la population de ces quartiers](./democratie-participative-des-idees-pour-douai#dysfonctionnements). Les conseils ont un nombre de membres limité, peu divers, à l’implication hétérogène et au dynamisme disparate selon le quartier.
 
 Aussi, certaines décisions passent sous les radars car émanant directement d’individus lors de la permanence d’un⋅e élu⋅e renvoyant [au clientélisme](./le-clientelisme-m-horripile) qui entrave le bon fonctionnement de notre démocratie.
 

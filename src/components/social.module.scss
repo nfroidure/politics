@@ -1,0 +1,48 @@
+@import "../../styles/variables.scss";
+
+.root nav {
+  padding: 0 0 0 var(--gutter);
+  margin: 0;
+}
+.root ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.root li {
+  display: block;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.root a {
+  display: block;
+  width: var(--vRythm);
+  height: var(--vRythm);
+  background: var(--light);
+  mask-repeat: no-repeat;
+  mask-position: center bottom;
+  mask-size: calc(var(--vRythm) * 1);
+  -webkit-mask-size: calc(var(--vRythm) * 1);
+  mask-image: url("/images/icons/mastodon.svg");
+}
+li.bluesky a {
+  mask-image: url("/images/icons/target.svg");
+}
+li.linkedin a {
+  mask-image: url("/images/icons/linkedin.svg");
+}
+li.twitter a {
+  mask-image: url("/images/icons/twitter.svg");
+}
+li.facebook a {
+  mask-image: url("/images/icons/facebook.svg");
+}
+li.feed a {
+  mask-image: url("/images/icons/feed.svg");
+}
+.root span {
+  display: none;
+}

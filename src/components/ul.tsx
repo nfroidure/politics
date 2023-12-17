@@ -1,17 +1,14 @@
-import type { HTMLAttributes } from "react";
+import styles from "./ul.module.scss";
+import type { HTMLAttributes, ReactNode } from "react";
 
-const UnorderedList = ({
+export default function UnorderedList({
   children,
+  className,
   ...props
-}: { children: React.ReactNode } & HTMLAttributes<HTMLUListElement>) => (
-  <ul className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        margin: 0 0 var(--vRythm) 0;
-      }
-    `}</style>
-  </ul>
-);
-
-export default UnorderedList;
+}: { children: ReactNode } & HTMLAttributes<HTMLUListElement>) {
+  return (
+    <ul className={styles.ul + (className ? " " + className : "")} {...props}>
+      {children}
+    </ul>
+  );
+}

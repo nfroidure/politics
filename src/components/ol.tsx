@@ -1,17 +1,16 @@
-const OrderedList = ({
+import styles from "./ol.module.scss";
+import type { ReactNode, OlHTMLAttributes } from "react";
+
+export default function OrderedList({
   children,
+  className,
   ...props
 }: {
-  children: React.ReactNode;
-} & React.OlHTMLAttributes<HTMLOListElement>) => (
-  <ol className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        margin: 0 0 var(--vRythm) 0;
-      }
-    `}</style>
-  </ol>
-);
-
-export default OrderedList;
+  children: ReactNode;
+} & OlHTMLAttributes<HTMLOListElement>) {
+  return (
+    <ol className={styles.root + (className ? " " + className : "")} {...props}>
+      {children}
+    </ol>
+  );
+}

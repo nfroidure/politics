@@ -1,20 +1,14 @@
-import type { HTMLAttributes } from "react";
+import styles from "./h6.module.scss";
+import type { ReactNode, HTMLAttributes } from "react";
 
-const Heading6 = ({
+export default function Heading6({
   children,
+  className,
   ...props
-}: { children: React.ReactNode } & HTMLAttributes<HTMLElement>) => (
-  <h6 className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        font-family: var(--headingFont);
-        font-size: var(--mediumFontSize);
-        line-height: var(--mediumLineHeight);
-        margin: 0 0 var(--vRythm) 0;
-      }
-    `}</style>
-  </h6>
-);
-
-export default Heading6;
+}: { children: ReactNode } & HTMLAttributes<HTMLElement>) {
+  return (
+    <h6 className={styles.root + (className ? " " + className : "")} {...props}>
+      {children}
+    </h6>
+  );
+}

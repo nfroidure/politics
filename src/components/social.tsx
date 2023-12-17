@@ -1,16 +1,16 @@
+import styles from "./social.module.scss";
 import {
   FACEBOOK_ACCOUNT,
   MASTODON_ACCOUNT,
   MASTODON_SERVER,
   TWITTER_ACCOUNT,
 } from "../utils/constants";
-import { publicRuntimeConfig } from "../utils/config";
 
 export default function Social(): JSX.Element {
   return (
-    <nav>
+    <nav className={styles.root}>
       <ul>
-        <li className="mastodon">
+        <li className={styles.mastodon}>
           <a
             href={`https://${MASTODON_SERVER}/@${MASTODON_ACCOUNT}`}
             rel="me"
@@ -20,7 +20,27 @@ export default function Social(): JSX.Element {
             <span>Mastodon</span>
           </a>
         </li>
-        <li className="twitter">
+        <li className={styles.bluesky}>
+          <a
+            href={`https://bsky.app/profile/nfroidure.bsky.social`}
+            rel="me"
+            title="Me suivre sur Bluesky"
+            target="_blank"
+          >
+            <span>Bluesky</span>
+          </a>
+        </li>
+        <li className={styles.linkedin}>
+          <a
+            href={`https://www.linkedin.com/in/nfroidure/`}
+            rel="me"
+            title="Me suivre sur LinkedIn"
+            target="_blank"
+          >
+            <span>LinkedIn</span>
+          </a>
+        </li>
+        <li className={styles.twitter}>
           <a
             href={`https://twitter.com/${TWITTER_ACCOUNT}`}
             title="Me suivre sur Twitter"
@@ -29,7 +49,7 @@ export default function Social(): JSX.Element {
             <span>Twitter</span>
           </a>
         </li>
-        <li className="facebook">
+        <li className={styles.facebook}>
           <a
             href={`https://facebook.com/${FACEBOOK_ACCOUNT}`}
             title="Me suivre sur Facebook"
@@ -38,7 +58,7 @@ export default function Social(): JSX.Element {
             <span>Facebook</span>
           </a>
         </li>
-        <li className="feed">
+        <li className={styles.feed}>
           <a
             href="/blog.atom"
             title="S’abonner aux mises à jour"
@@ -48,48 +68,6 @@ export default function Social(): JSX.Element {
           </a>
         </li>
       </ul>
-      <style jsx>{`
-        nav {
-          padding: 0 0 0 var(--gutter);
-          margin: 0;
-        }
-        ul {
-          display: flex;
-          justify-content: center;
-          list-style-type: none;
-          padding: 0;
-          margin: 0;
-        }
-        li {
-          display: block;
-          list-style-type: none;
-          padding: 0;
-          margin: 0;
-        }
-        a {
-          display: block;
-          width: var(--vRythm);
-          height: var(--vRythm);
-          background: var(--light);
-          mask-repeat: no-repeat;
-          mask-position: center bottom;
-          mask-size: calc(var(--vRythm) * 1);
-          -webkit-mask-size: calc(var(--vRythm) * 1);
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/mastodon.svg");
-        }
-        li.twitter a {
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/twitter.svg");
-        }
-        li.facebook a {
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/facebook.svg");
-        }
-        li.feed a {
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/feed.svg");
-        }
-        span {
-          display: none;
-        }
-      `}</style>
     </nav>
   );
 }

@@ -1,17 +1,16 @@
-const ListItem = ({
-    children,
-    ...props
-}: {
-  children: React.ReactNode;
-} & React.LiHTMLAttributes<HTMLLIElement>) => (
-  <li className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root > :global(:first-child:last-child) {
-        margin: 0;
-      }
-    `}</style>
-  </li>
-);
+import styles from "./li.module.scss";
+import { ReactNode, LiHTMLAttributes } from "react";
 
-export default ListItem;
+export default function ListItem({
+  children,
+  className,
+  ...props
+}: {
+  children: ReactNode;
+} & LiHTMLAttributes<HTMLLIElement>) {
+  return (
+    <li className={styles.root + (className ? " " + className : "")} {...props}>
+      {children}
+    </li>
+  );
+}

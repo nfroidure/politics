@@ -1,0 +1,14 @@
+@import "../../styles/variables.scss";
+
+.signature {
+  text-align: center;
+}
+.signature img {
+  height: calc(var(--vRythm) * 3);
+  width: auto;
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+  .content {
+    flex-direction: row;
+  }
+}

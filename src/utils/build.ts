@@ -17,7 +17,10 @@ const baseURL = publicRuntimeConfig.baseURL;
 const builtAt = new Date().toISOString();
 
 export async function buildAssets<T extends BaseContentPageMetadata>(
-  props: BaseListingPageMetadata<T>,
+  props: BaseListingPageMetadata<T> & {
+    title: string;
+    description: string;
+  },
   path: string
 ) {
   await Promise.all([

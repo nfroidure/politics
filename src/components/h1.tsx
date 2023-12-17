@@ -1,24 +1,14 @@
-import type { HTMLAttributes } from "react";
+import styles from "./h1.module.scss";
+import type { ReactNode, HTMLAttributes } from "react";
 
-const Heading1 = ({
+export default function Heading1({
   children,
   className,
   ...props
-}: { children: React.ReactNode } & HTMLAttributes<HTMLElement>) => (
-  <h1 className={`root${className ? ' ' + className : ""}`} {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        color: var(--primary);
-        font-family: var(--headingFont);
-        font-size: var(--giantFontSize);
-        line-height: var(--giantLineHeight);
-        font-weigth: bold;
-        margin: 0 0 calc(var(--vRythm) * 2) 0;
-        text-align: center;
-      }
-    `}</style>
-  </h1>
-);
-
-export default Heading1;
+}: { children: ReactNode } & HTMLAttributes<HTMLElement>) {
+  return (
+    <h1 className={styles.root + (className ? " " + className : "")} {...props}>
+      {children}
+    </h1>
+  );
+}

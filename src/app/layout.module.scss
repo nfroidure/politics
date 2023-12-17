@@ -1,0 +1,32 @@
+@import "../../styles/variables.scss";
+
+.root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--tertiary);
+}
+.contents {
+  flex-grow: 1;
+  margin: 0 auto var(--vRythm) auto;
+}
+@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+  .contents {
+    width: 100%;
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_M) and (max-width: $CSS_BREAKPOINT_END_M) {
+  .contents {
+    width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_L) and (max-width: $CSS_BREAKPOINT_END_L) {
+  .contents {
+    width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_XL) {
+  .contents {
+    width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
+  }
+}

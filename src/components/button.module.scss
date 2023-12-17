@@ -1,0 +1,58 @@
+@import "../../styles/variables.scss";
+
+.root {
+  display: block;
+  height: calc(var(--vRythm) * 2);
+  max-width: 100%;
+}
+.button {
+  display: inline-flex;
+  flex-direction: horizontal;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: calc(var(--vRythm) * 1.6);
+  min-width: var(--block);
+  line-height: calc(var(--vRythm) * 1.6);
+  font-size: var(--bigFontSize);
+  appearance: none;
+  border: none;
+  border-radius: var(--borderRadius);
+  font-weight: bold;
+  background-color: var(--primary);
+  color: var(--light);
+  cursor: pointer;
+  text-decoration: none;
+}
+.button.icon.no_label {
+  width: calc(var(--vRythm) * 0.8);
+}
+.button:hover:not([disabled]),
+.button:focus:not([disabled]) {
+  opacity: 0.85;
+}
+.button:disabled,
+.button.disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+}
+span.icon {
+  display: block;
+  height: calc(var(--vRythm) * 1.6);
+  width: var(--gutter);
+  background-color: var(--light);
+  mask-repeat: no-repeat;
+  mask-position: center center;
+  mask-size: 100%;
+}
+.root.both span.icon {
+  margin: 0 var(--hGrid) 0 0;
+}
+@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+  .button {
+    display: flex;
+    max-width: 100%;
+    min-width: auto;
+    width: auto;
+  }
+}

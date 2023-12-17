@@ -1,0 +1,46 @@
+@import "../../styles/variables.scss";
+
+.root {
+  margin: 0;
+  padding: var(--vRythm) var(--gutter);
+  background-color: var(--primary);
+  color: var(--light);
+}
+
+.root footer {
+  margin: 0 auto;
+  text-align: center;
+}
+.root p {
+  padding: 0;
+  margin: 0;
+}
+.root a,
+.root a:visited,
+.root a:hover {
+  color: var(--light);
+}
+@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+  .root footer {
+    width: 100%;
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_M) and (max-width: $CSS_BREAKPOINT_END_M) {
+  .root footer {
+    width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_L) and (max-width: $CSS_BREAKPOINT_END_L) {
+  .root footer {
+    width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
+  }
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: $CSS_BREAKPOINT_START_XL) {
+  .root footer {
+    width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
+  }
+}

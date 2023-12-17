@@ -1,20 +1,14 @@
-import type { HTMLAttributes } from "react";
+import styles from "./code.module.scss";
+import type { ReactNode, HTMLAttributes } from "react";
 
-const Code = ({
+export default function Code({
   children,
+  className,
   ...props
 }: {
-  children: React.ReactNode;
-} & HTMLAttributes<HTMLElement>) => (
-  <code className="root" {...props}>
+  children: ReactNode;
+} & HTMLAttributes<HTMLElement>) {
+  return <code className={styles.root + (className ? " " + className : "")} {...props}>
     {children}
-    <style jsx>{`
-      .root {
-        text-decoration: none;
-        font-family: monospace;
-      }
-    `}</style>
-  </code>
-);
-
-export default Code;
+  </code>;
+}

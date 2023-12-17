@@ -1,51 +1,27 @@
+import styles from "./anchored.module.scss";
 import Link from "next/link";
-import { publicRuntimeConfig } from "../utils/config";
+import type { ReactNode } from "react";
 
-const Anchored = ({
+export default function Anchored({
   children,
   id = "",
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   id?: string;
-}) => {
+}) {
   return (
-    <span className="root">
+    <span className={styles.root}>
       {children}{" "}
       <small>
-        <Link legacyBehavior href={`#${id}`}>
-          <a className="icon" id={id} title="Lien vers cette section">
-            <span>🔗</span>
-          </a>
+        <Link
+          href={`#${id}`}
+          className={styles.icon}
+          id={id}
+          title="Lien vers cette section"
+        >
+          <span>🔗</span>
         </Link>
       </small>
-      <style jsx>{`
-        small {
-          font-weight: bold;
-        }
-        a.icon {
-          display: none;
-          width: var(--column);
-          height: var(--vRythm);
-          background: var(--tertiary);
-          mask-repeat: no-repeat;
-          mask-position: left center;
-          -webkit-mask-size: calc(var(--vRythm) * 1);
-          mask-size: calc(var(--vRythm) * 1);
-        }
-        .root:hover a.icon {
-          display: inline-block;
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/link.svg");
-        }
-        a.icon:target {
-          display: inline-block;
-          mask-image: url("${publicRuntimeConfig.staticPrefix}/images/icons/target.svg");
-        }
-        a.icon span {
-          display: none;
-        }
-      `}</style>
     </span>
   );
-};
-
-export default Anchored;
+}

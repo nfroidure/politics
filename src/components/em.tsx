@@ -1,20 +1,16 @@
-import type { HTMLAttributes } from "react";
+import styles from "./em.module.scss";
+import type { ReactNode, HTMLAttributes } from "react";
 
-const Emphasis = ({
+export default function Emphasis({
   children,
+  className,
   ...props
 }: {
-  children: React.ReactNode;
-} & HTMLAttributes<HTMLElement>) => (
-  <em className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        text-decoration: none;
-        font-style: italic;
-      }
-    `}</style>
-  </em>
-);
-
-export default Emphasis;
+  children: ReactNode;
+} & HTMLAttributes<HTMLElement>) {
+  return (
+    <em className={styles.root + (className ? " " + className : "")} {...props}>
+      {children}
+    </em>
+  );
+}

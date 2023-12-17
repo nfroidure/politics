@@ -1,20 +1,19 @@
-import type { HTMLAttributes } from "react";
+import styles from "./strong.module.scss";
+import type { ReactNode, HTMLAttributes } from "react";
 
-const Strong = ({
+export default function Strong({
   children,
+  className,
   ...props
 }: {
-  children: React.ReactNode;
-} & HTMLAttributes<HTMLElement>) => (
-  <strong className="root" {...props}>
-    {children}
-    <style jsx>{`
-      .root {
-        color: var(--quinary);
-        font-weight: bold;
-      }
-    `}</style>
-  </strong>
-);
-
-export default Strong;
+  children: ReactNode;
+} & HTMLAttributes<HTMLElement>) {
+  return (
+    <strong
+      className={styles.root + (className ? " " + className : "")}
+      {...props}
+    >
+      {children}
+    </strong>
+  );
+}

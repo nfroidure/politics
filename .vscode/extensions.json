@@ -9,6 +9,7 @@
     "divlo.vscode-styled-jsx-languageserver",
     "divlo.vscode-styled-jsx-syntax",
     "christian-kohler.path-intellisense",
-    "yzane.markdown-pdf"
+    "yzane.markdown-pdf",
+    "clinyong.vscode-css-modules"
   ]
 }

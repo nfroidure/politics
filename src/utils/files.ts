@@ -1,8 +1,12 @@
 import { join as pathJoin } from "path";
+import { glob } from "glob";
 import { promises as fs } from "fs";
 
 export { pathJoin };
 
+export async function readDirDeep(dirPath: string): Promise<string[]> {
+  return await glob(dirPath);
+}
 export async function readDir(dirPath: string): Promise<string[]> {
   return await fs.readdir(dirPath);
 }

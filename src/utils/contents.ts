@@ -13,8 +13,6 @@ export type BaseContentPageMetadata = {
 };
 
 export type BaseListingPageMetadata<T extends BaseContentPageMetadata> = {
-  title: string;
-  description: string;
   entries: T[];
   pagesCount: number;
 };
