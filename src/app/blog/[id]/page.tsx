@@ -1,6 +1,6 @@
 import { DOMAIN_NAME } from "../../../utils/constants";
 import { fixText } from "../../../utils/text";
-import { renderMarkdown } from "../../../utils/markdown";
+import { qualifyPath, renderMarkdown } from "../../../utils/markdown";
 import { pathJoin } from "../../../utils/files";
 import { readEntries } from "../../../utils/frontmatter";
 import buildMetadata from "../../../utils/metadata";
@@ -34,6 +34,9 @@ export async function generateMetadata({
     pathname: `/blog/${entry.id}`,
     title: fixText(entry.title),
     description: fixText(entry.description),
+    ...(entry.illustration?.url
+      ? { image: qualifyPath(entry.illustration?.url) }
+      : {}),
   });
 }
 
