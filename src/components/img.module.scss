@@ -6,8 +6,8 @@
   width: 100%;
   max-width: 100%;
   background: var(--secondary);
-  padding: calc(var(--vRythm) / 2) calc(var(--gutter) / 2);
-  margin: var(--vRythm) 0;
+  padding: calc(var(--vRhythm) / 2) calc(var(--gutter) / 2);
+  margin: var(--vRhythm) 0;
   align-items: center;
   justify-content: center;
 }
@@ -24,38 +24,38 @@
 @media screen and (min-width: $CSS_BREAKPOINT_START_M) {
   .root.left {
     float: left;
-    margin: 0 var(--gutter) var(--vRythm) 0;
+    margin: 0 var(--gutter) var(--vRhythm) 0;
   }
   .root.right {
     float: right;
-    margin: 0 0 var(--vRythm) var(--gutter);
+    margin: 0 0 var(--vRhythm) var(--gutter);
   }
   .root.left,
   .root.right {
     width: var(--block);
-    height: calc(var(--vRythm) * 10);
+    height: calc(var(--vRhythm) * 10);
   }
   .root.left.landscape,
   .root.right.landscape {
-    height: calc(var(--vRythm) * 8);
+    height: calc(var(--vRhythm) * 8);
   }
   .root.left.portrait,
   .root.right.portrait {
-    height: calc(var(--vRythm) * 14);
+    height: calc(var(--vRhythm) * 14);
   }
 }
 @media screen and (min-width: $CSS_BREAKPOINT_START_L) {
   .root.left,
   .root.right {
     width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 3));
-    height: calc(var(--vRythm) * 14);
+    height: calc(var(--vRhythm) * 14);
   }
   .root.left.landscape,
   .root.right.landscape {
-    height: calc(var(--vRythm) * 11);
+    height: calc(var(--vRhythm) * 11);
   }
   .root.left.portrait,
   .root.right.portrait {
-    height: calc(var(--vRythm) * 19);
+    height: calc(var(--vRhythm) * 19);
   }
 }

@@ -19,13 +19,13 @@
 }
 .root a {
   display: block;
-  width: var(--vRythm);
-  height: var(--vRythm);
+  width: var(--vRhythm);
+  height: var(--vRhythm);
   background: var(--light);
   mask-repeat: no-repeat;
   mask-position: center bottom;
-  mask-size: calc(var(--vRythm) * 1);
-  -webkit-mask-size: calc(var(--vRythm) * 1);
+  mask-size: calc(var(--vRhythm) * 1);
+  -webkit-mask-size: calc(var(--vRhythm) * 1);
   mask-image: url("/images/icons/mastodon.svg");
 }
 li.bluesky a {

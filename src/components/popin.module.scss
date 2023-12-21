@@ -12,7 +12,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: var(--vRythm);
+  padding: var(--vRhythm);
 }
 .popin.visible {
   visibility: visible;
@@ -25,8 +25,8 @@
 .content {
   background: var(--light);
   color: var(--dark);
-  padding: var(--vRythm) calc(var(--gutter) * 2);
-  min-height: var(--vRythm);
+  padding: var(--vRhythm) calc(var(--gutter) * 2);
+  min-height: var(--vRhythm);
   border-radius: var(--borderRadius);
 }
 @media screen and (max-width: $CSS_BREAKPOINT_END_S) {
@@ -43,6 +43,6 @@
 @media screen and (min-width: $CSS_BREAKPOINT_START_L) {
   .content {
     width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
-    padding: var(--vRythm) calc(var(--gutter) * 2);
+    padding: var(--vRhythm) calc(var(--gutter) * 2);
   }
 }

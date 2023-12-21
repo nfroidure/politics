@@ -1,6 +1,7 @@
 import "../../styles/normalize.css";
 import "../../styles/main.scss";
 import styles from "./layout.module.scss";
+import { StrictMode } from "react";
 import { ORGANISATION_PRIMARY_COLOR } from "../utils/constants";
 import Header from "../components/header";
 import Footer from "../components/footer";
@@ -21,14 +22,29 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-      <body>
+      <body
+        className={
+          process.env.NODE_ENV === "development" ? "showScreenSizes" : ""
+        }
+      >
         {process.env.NODE_ENV === "development" ? <GridSystem /> : null}
-        <div className={styles.root}>
-          <Menu />
-          <Header />
-          <div className={styles.contents}>{children}</div>
-          <Footer />
-        </div>
+        {process.env.NODE_ENV === "development" ? (
+          <StrictMode>
+            <div className={styles.root}>
+              <Menu />
+              <Header />
+              <div className={styles.contents}>{children}</div>
+              <Footer />
+            </div>
+          </StrictMode>
+        ) : (
+          <div className={styles.root}>
+            <Menu />
+            <Header />
+            <div className={styles.contents}>{children}</div>
+            <Footer />
+          </div>
+        )}
       </body>
     </html>
   );

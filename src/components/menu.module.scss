@@ -33,7 +33,7 @@
 }
 .root nav span {
   display: block;
-  padding: calc(var(--vRythm) / 2) var(--gutter);
+  padding: calc(var(--vRhythm) / 2) var(--gutter);
 }
 @media screen and (max-width: $CSS_BREAKPOINT_END_S) {
   .root nav {
@@ -51,11 +51,11 @@
     width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
   }
   .newsletter span {
-    width: calc(var(--vRythm));
+    width: calc(var(--vRhythm));
     background: var(--light);
     mask-repeat: no-repeat;
     mask-position: center center;
-    mask-size: calc(var(--vRythm));
+    mask-size: calc(var(--vRhythm));
     mask-image: url("/images/icons/mail.svg");
   }
 }

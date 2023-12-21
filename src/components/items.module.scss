@@ -13,15 +13,15 @@
   margin: 0 !important;
 }
 .entries .entry_item {
-  padding: var(--vRythm) 0;
+  padding: var(--vRhythm) 0;
   border-bottom: var(--border) solid var(--secondary);
 }
 .entries .entry_item:first-child {
-  padding: 0 0 var(--vRythm) 0;
+  padding: 0 0 var(--vRhythm) 0;
 }
 .entries .entry_item:last-child {
   border: none;
-  padding: var(--vRythm) 0 0 0;
+  padding: var(--vRhythm) 0 0 0;
 }
 
 @media screen and (min-width: $CSS_BREAKPOINT_START_L) {

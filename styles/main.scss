@@ -25,11 +25,14 @@
 
   /* Atomic values */
   --hGrid: #{$CSS_GRID_H};
-  --gutter: calc(var(--hGrid) * 3);
-  --column: calc(var(--hGrid) * 8);
+  --gutterRatio: #{$CSS_GUTTER_RATIO};
+  --gutter: calc(var(--hGrid) * var(--gutterRatio));
+  --columnRatio: #{$CSS_COLUMN_RATIO};
+  --column: calc(var(--hGrid) * var(--columnRatio));
   --block: calc(var(--column) * 3 + var(--gutter) * 2);
   --vGrid: #{$CSS_GRID_V};
-  --vRythm: calc(8 * var(--vGrid));
+  --vRhythmRatio: #{$CSS_V_RYTHM_RATIO};
+  --vRhythm: calc(var(--vGrid) * var(--vRhythmRatio));
   --border: calc(var(--vGrid) / 2);
   --borderRadius: calc(var(--hGrid));
   --shadowX: calc(var(--vGrid) * 2);
@@ -79,4 +82,42 @@ body,
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+body.showScreenSizes::after {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  pointer-events: none;
+  line-height: var(--giantLineHeight);
+  font-size: var(--giantFontSize);
+  font-weight: bold;
+  color: var(--dark);
+  text-shadow: var(--border) var(--border) 0 var(--light);
+  opacity: 0.5;
+  padding: calc(var(--vRhythm) / 2) var(--gutter);
+}
+
+@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+  body.showScreenSizes::after {
+    content: "S";
+  }
+}
+
+@media screen and (min-width: $CSS_BREAKPOINT_START_M) and (max-width: $CSS_BREAKPOINT_END_M) {
+  body.showScreenSizes::after {
+    content: "M";
+  }
+}
+
+@media screen and (min-width: $CSS_BREAKPOINT_START_L) and (max-width: $CSS_BREAKPOINT_END_L) {
+  body.showScreenSizes::after {
+    content: "L";
+  }
+}
+
+@media screen and (min-width: $CSS_BREAKPOINT_START_XL) {
+  body.showScreenSizes::after {
+    content: "XL";
+  }
 }
