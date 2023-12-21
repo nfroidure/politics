@@ -56,15 +56,15 @@ Dans l’ensemble, le livre reste de qualité et vaut les 10€ investis pour to
 
 ## Livre sur l’environnement
 
-Le contraste est d’ailleurs de mise avec le second livre de Jacques Vernier que j'ai moins apprécié. Un certain nombre de passages m’ont ulcérés.
+Le contraste est d’ailleurs de mise avec le second livre de Jacques Vernier que j’ai moins apprécié. Un certain nombre de passages m’ont ulcérés.
 
-Le livre commence de manière saugrenue, dès le premier paragraphe de l’introduction (p3), en citant les amish⋅es par opposition au progrès. À ce stade, je m’autorise à croire à une référence bienveillante à la comparaison mal venue d'Emmanuel Macron des écologistes avec ces dernier⋅es.
+Le livre commence de manière saugrenue, dès le premier paragraphe de l’introduction (p3), en citant les amish⋅es par opposition au progrès. À ce stade, je m’autorise à croire à une référence bienveillante à la comparaison mal venue d’Emmanuel Macron des écologistes avec ces dernier⋅es.
 
 Mais les choses se gâtent ensuite. Au milieu d’une revue des différentes thématiques qu’impliquent l’environnement, quelques approximations et omissions se sont glissées.
 
 Parmi les plus notables, une différence de traitement entre le trou de la couche d’ozone (qualifiée de certitude p33) et le réchauffement climatique (présenté comme fait de certitudes et incertitudes p35).
 
-Je peine à voir, en quoi, cette différence de traitement peut-être pertinente hormis une forme de relativisation des effets du second. Le réchauffement climatique et le trou de la couche d’ozone sont des phénomènes prouvés scientifiquement et mesurables (aucune incertitude sur ce plan). Chacun de ces phénomènes a cependant, comme tout phénomène global, une part d’incertitudes sur les effets réels présents et ou futurs, l'incertitude, c'est la base de la science.
+Je peine à voir, en quoi, cette différence de traitement peut-être pertinente hormis une forme de relativisation des effets du second. Le réchauffement climatique et le trou de la couche d’ozone sont des phénomènes prouvés scientifiquement et mesurables (aucune incertitude sur ce plan). Chacun de ces phénomènes a cependant, comme tout phénomène global, une part d’incertitudes sur les effets réels présents et ou futurs, l’incertitude, c’est la base de la science.
 
 Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat) tente de prédire avec une fourchette qui peut changer au gré des découvertes scientifiques et/ou de l’évolution des modèles prédictifs.
 
@@ -76,15 +76,15 @@ Autre imprécision, la montée des eaux en 2100 serait selon l’auteur située 
 
 Autre affirmation étonnante, le remplacement du fioul et du charbon par le gaz naturel qui peut paraitre anachronique (p39) au milieu de l’évocation du nucléaire (dont la remise en cause est, malheureusement, moins partagée) et des énergies renouvelables reléguées en dernière position.
 
-Enfin, j’ai tressailli à l’évocation de productions propres, dans la sous partie “agriculture écologique” (p84). On y parle de maitrise des pesticides et autres épandages, de produits plus ciblés (p85), d’organismes génétiquement modifiés (OGM, p85-86-87) **sans jamais évoquer l’agriculture biologique, l’agroforesterie ou la permaculture !**. Comme l’auteur lui-même affirme qu’il est plus “efficient de règlementer les causes que les conséquences” (p112), cette omission du bio qui évite simplement tout pesticide semble incongrue.
+Enfin, j’ai tressailli à l’évocation de productions propres, dans la sous partie “agriculture écologique” (p84). On y parle de maitrise des pesticides et autres épandages, de produits plus ciblés (p85), d’organismes génétiquement modifiés (OGM, p85-86-87) **sans jamais évoquer l’agriculture biologique, l’agroforesterie ou la permaculture !** Comme l’auteur lui-même affirme qu’il est plus “efficient de règlementer les causes que les conséquences” (p112), cette omission du bio qui évite simplement tout pesticide semble incongrue.
 
 Ce qui précède est en flagrante contradiction avec l’évocation de la biodiversité, de la nécessité de maintenir le vivant et notamment les insectes pollinisateurs actuellement en déclin massif à cause de l’agriculture conventionnelle (p92-93).
 
 Dans les cours que je donne au sujet du numérique responsable, je commence par élargir la focale pour parler du sens de l’écologie et du contexte dans lequel nous sommes (la [présentation est librement accessible](https://slides.com/d/gG3J6Lc/live#/2/1)). Bien entendu, nous évoquons la théorie de l’évolution car elle explique pourquoi la biodiversité doit être préservée, pas uniquement à cause des interdépendances entre espèces, mais aussi et surtout, à cause de la lente évolution qui les a produites et qu’il serait illusoire de songer reconstituer. Ces milliards d’années d’évolution son perdues à jamais, c’est bien là que se trouve le drame de l’extinction des espèces.
 
-Petite note positive, l’[Affaire du siècle](https://laffairedusiecle.net/qui-sommes-nous/) est cité dans les exemples de recours juridiques. Cette association a exercé un recours contre l’État français (notamment avec Marie Toussaint, tête de liste écologiste pour les européennes 2024).
+Petite note positive, l’[Affaire du siècle](https://laffairedusiecle.net/qui-sommes-nous/) est citée dans les exemples de recours juridiques. Cette association a exercé un recours contre l’État français (notamment avec Marie Toussaint, tête de liste écologiste pour les européennes 2024).
 
-Vous l’aurez compris, je ne vous recommande pas ce livre comme le précédent qui ne traite pas le sujet de l’environnement dans toutes ses dimensions ou avec suffisamment d'exhaustivité pour embrasser la logique Éviter Réduire Compenser. Il reste bien trop environnementaliste à mon goût, la nature n’y occupe qu’une part congrue alors qu’elle est finalement la base de l’environnement, ou du moins, de l’intérêt de le préserver.
+Vous l’aurez compris, je ne vous recommande pas ce livre comme le précédent qui ne traite pas le sujet de l’environnement dans toutes ses dimensions ou avec suffisamment d’exhaustivité pour embrasser la logique Éviter Réduire Compenser. Il reste bien trop environnementaliste à mon goût, la nature n’y occupe qu’une part congrue alors qu’elle est finalement la base de l’environnement, ou du moins, de l’intérêt de le préserver.
 
 ## Quelques mots sur Douai
 
@@ -94,4 +94,27 @@ Est-ce à dire que le tableau de l’action n’est pas aussi reluisant que celu
 
 Une inaction moins coupable hier, certes, mais quand on se veut précurseur, je pense que l’on doit aussi se montrer exemplaire. De ce point de vue, je pense qu’une fois de plus, l’écologie sans écologistes reste une chimère.
 
-Reste donc un livre intéressant, un autre qui l'est moins et un monde qui va vers +3 degrés et un pari, après nous être posé la question du “Que sais-je ?” passons au “Que fais-je ?”.
+Reste donc un livre intéressant, un autre qui l’est moins, un monde qui va vers +3 degrés et un pari, après nous être posé la question du “Que sais-je ?” passons au “Que fais-je ?”.
+
+---
+
+## Retour sur la conférence du mardi 19 décembre
+
+Une conférence était organisée par le Festiplanète afin de faire un bilan entre la première édition du livre et la 8ème trente ans plus tard.
+
+![Photographie de Jacques Vernier au début de la conférence](/public/illustrations/conference-jacques-vernier2.jpg)
+![Photographie du public présence à la conférence](/public/illustrations/conference-jacques-vernier1.jpg)
+![Photographie du point sur les énergies renouvelables et leur baisse de coût important](/public/illustrations/conference-jacques-vernier3.jpg)
+![Photographie du présentateur du débat Hervé Dujardin](/public/illustrations/conference-jacques-vernier4.jpg)
+
+J’ai posé la question de l’absence de mention de l’agriculture biologique dans la section "Produire propre > Agriculture" qui était un non sens puisque précisément, de l’aveu de l’auteur lui même, l’agriculture conventionnelle provoque des pollutions diffuses difficiles à juguler. Or, dans la séquence [Éviter-Réduire-Compenser](https://www.morbihan.gouv.fr/Actions-de-l-Etat/Environnement-et-developpement-durable/Eviter-Reduire-Compenser/Eviter-Reduire-Compenser), l’agriculture biologique évite tout simplement l’utilisation des pesticides ce qui en fait un allié de choix pour les amoureux de l’environnement. Jacques Vernier n’a pas pu me répondre sur ce point, je lui ai suggéré de ne pas faire l’impasse sur celle-ci en cas de réédition.
+
+D’autres questions ont été soulevées par le public et le présentateur de Radio Scarpe Sensée, notamment sur le glyphosate et le nucléaire mais ces questions ont été éludées au principe que ces sujets étaient complexes et que l’auteur n’avait pas de religion en la matière.
+
+L’autorisation du glyphosate serait, selon lui, validée par des experts. C’est le cas pour ceux de la commission européenne (EFSA), mais ils sont bien isolés si l’on considère que de nombreux organismes scientifiques dans le monde le classent en cancérigène (probable selon l’Organisation Mondiale de la Santé (OMS) et le Centre International de Recherche sur le Cancer (CIRC)). On peut mettre en lumière également les [co-produits](https://fr.wikipedia.org/wiki/Coproduit), [co-formulants](https://secretstoxiques.fr/) et [adjuvants](https://fr.wikipedia.org/wiki/Additif) qui ne sont pas analysés par les agences alors qu’ils sont bien présents dans le produit final pulvérisé sur les terres agricoles.
+
+[Voir la vidéo de Blast sur le glyphosate](https://www.youtube.com/watch?v=qEs0RA5suKU "📺")
+
+Malgré des désaccords sur le fond, je salue la forme, les Répulicains seraient bien inspirés de s’intéresser à l’environnement comme Jacques Vernier. On en viendrait presque à être nostalgiques de la droite du passé 😅.
+
+Nous n’avons d’ailleurs pas échappé à quelques sorties lunaires d’une personne se félicitant que le GIEC n’ait pas été évoqué et une autre regrettant le militantisme écologiste. Il reste du travail à faire pour éveiller certaines consciences.
