@@ -1,12 +1,7 @@
 {
-    "cSpell.language": "fr,fr_FR",
-    "spellright.language": [
-        "fr",
-        "fr_FR"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext"
-    ]
+  "spellright.language": ["fr", "fr_FR"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext"],
+  "cSpell.enabled": true,
+  "cSpell.language": "en,fr",
+  "cSpell.words": ["cyclabilité"]
 }
