@@ -19,7 +19,6 @@ import HorizontalRule from "../components/hr";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
 import type { MarkdownRootNode } from "../utils/markdown";
-import { TestGridContext } from "../contexts/test";
 
 const htmlToMarkdown = new NodeHtmlMarkdown({});
 
@@ -68,7 +67,6 @@ export default async function Page() {
         Bienvenue sur le site Internet de
         <br /> Nicolas Froidure
       </Heading1>
-      <TestGridContext />
       <Paragraph>
         Lassé de constater l’inaction des personnalités politiques classiques,
         j’ai décidé de ne plus être spectateur de la vie politique, mais au
