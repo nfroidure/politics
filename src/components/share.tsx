@@ -26,7 +26,7 @@ export default function Share({
         href={`https://twitter.com/intent/tweet/?url=${encodeURIComponent(
           url
         )}&text=${encodeURIComponent(title)}&via=${TWITTER_ACCOUNT}`}
-        title="Commenter sur Facebook"
+        title="Commenter sur Twitter"
         target="_blank"
       >
         <span className="icon twitter" />

@@ -18,7 +18,10 @@ export default function Items<T extends BaseContentPageMetadata>({
         <div className={styles.entry_item} key={entry.id}>
           {entry.illustration ? (
             <p className={styles.entry_illustration}>
-              <Anchor href={`${base}${entry.id}`}>
+              <Anchor
+                href={`${base}${entry.id}`}
+                title="Lire le billet complet"
+              >
                 <Img
                   float="left"
                   orientation="landscape"
@@ -29,13 +32,19 @@ export default function Items<T extends BaseContentPageMetadata>({
             </p>
           ) : null}
           <Heading2 className={styles.entry_title}>
-            <Anchor href={`${base}${entry.id}`} className={styles.no_underline}>
+            <Anchor
+              href={`${base}${entry.id}`}
+              title="Lire le billet complet"
+              className={styles.no_underline}
+            >
               {entry.title}
             </Anchor>
           </Heading2>
           <Paragraph className={styles.entry_description}>
             {entry.description}{" "}
-            <Anchor href={`${base}${entry.id}`}>Lire la suite</Anchor>
+            <Anchor href={`${base}${entry.id}`} title="Lire le billet complet">
+              Lire la suite
+            </Anchor>
           </Paragraph>
           <div className={styles.clear}></div>
         </div>

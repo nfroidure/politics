@@ -19,6 +19,7 @@ import HorizontalRule from "../components/hr";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
 import type { MarkdownRootNode } from "../utils/markdown";
+import { TestGridContext } from "../contexts/test";
 
 const htmlToMarkdown = new NodeHtmlMarkdown({});
 
@@ -67,6 +68,7 @@ export default async function Page() {
         Bienvenue sur le site Internet de
         <br /> Nicolas Froidure
       </Heading1>
+      <TestGridContext />
       <Paragraph>
         Lassé de constater l’inaction des personnalités politiques classiques,
         j’ai décidé de ne plus être spectateur de la vie politique, mais au
@@ -81,17 +83,27 @@ export default async function Page() {
       <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
       <UnorderedList>
         <ListItem>
-          <Anchor href="/blog">Un blog politique&nbsp;:</Anchor> j’y parle de
-          politique locale, nationale mais aussi de sujet plus globaux,
+          <Anchor href="/blog" title="Lire mes billets de blog">
+            Un blog politique&nbsp;:
+          </Anchor>{" "}
+          j’y parle de politique locale, nationale mais aussi de sujet plus
+          globaux,
         </ListItem>
         <ListItem>
-          <Anchor href="/biographie">Ma biographie&nbsp;:</Anchor> pour vous
-          permettre de découvrir qui je suis et en quoi je porte une expérience
-          différente des personnalités politiques usuelles,
+          <Anchor href="/biographie" title="Lire la biographie">
+            Ma biographie&nbsp;:
+          </Anchor>{" "}
+          pour vous permettre de découvrir qui je suis et en quoi je porte une
+          expérience différente des personnalités politiques usuelles,
         </ListItem>
         <ListItem>
-          <Anchor href="/faq">Une FAQ&nbsp;:</Anchor> pour répondre aux
-          questions que vous me posez.
+          <Anchor
+            href="/faq"
+            title="Voir les réponses aux question fréquemment posées"
+          >
+            Une FAQ&nbsp;:
+          </Anchor>{" "}
+          pour répondre aux questions que vous me posez.
         </ListItem>
       </UnorderedList>
       <Heading2>Rejoindre la dynamique&nbsp;!</Heading2>
@@ -124,7 +136,7 @@ export default async function Page() {
           {renderMarkdown({ index: 0 }, toot.text)}
           <Paragraph>
             Publié le{" "}
-            <Anchor href={toot.url as string}>
+            <Anchor href={toot.url as string} title="Voir le toot sur Mastodon">
               {new Date(toot.createdAt).toLocaleString()}.
             </Anchor>
           </Paragraph>

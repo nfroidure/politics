@@ -30,6 +30,7 @@ export default function BlogEntries({
             icon="arrow-left"
             href={page > 2 ? `/blog/pages/${page - 1}` : "/blog"}
             rel="previous"
+            title={`Aller à la page ${page - 1}`}
           >
             Précédent
           </Anchor>
@@ -40,6 +41,7 @@ export default function BlogEntries({
             iconPosition="last"
             href={`/blog/pages/${page + 1}`}
             rel="next"
+            title={`Aller à la page ${page + 1}`}
           >
             Suivant
           </Anchor>

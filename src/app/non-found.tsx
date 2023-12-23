@@ -24,14 +24,19 @@ export default function Page() {
       </Paragraph>
       <UnorderedList>
         <ListItem>
-          <Anchor href="/blog/c-est-decide-je-m-engage-en-politique">
+          <Anchor
+            href="/blog/c-est-decide-je-m-engage-en-politique"
+            title="Lire l'article fondateur"
+          >
             les raisons de mon engagement en politique
           </Anchor>
           ,
         </ListItem>
         <ListItem>
-          <Anchor href="/biographie">ma biographie&nbsp;:</Anchor> pour mieux me
-          connaitre (attention, version longue 😉).
+          <Anchor href="/biographie" title="Lire la biographie">
+            ma biographie&nbsp;:
+          </Anchor>{" "}
+          pour mieux me connaitre (attention, version longue 😉).
         </ListItem>
       </UnorderedList>
     </ContentBlock>

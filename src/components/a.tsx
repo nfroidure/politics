@@ -1,39 +1,24 @@
 import Link from "next/link";
 import styles from "./a.module.scss";
-import type { LinkProps } from "next/link";
-import type { ReactNode, AnchorHTMLAttributes } from "react";
+import type { ComponentProps } from "react";
 
 export default function Anchor({
   children,
   href,
-  as,
-  replace,
-  scroll,
-  shallow,
-  passHref,
-  prefetch,
-  locale,
   className,
   icon,
   iconPosition = "first",
   ...props
 }: {
-  children: ReactNode;
-} & LinkProps & {
-    icon?: string;
-    iconPosition?: "first" | "last";
-  } & Exclude<AnchorHTMLAttributes<HTMLAnchorElement>, "href">) {
+  icon?: string;
+  iconPosition?: "first" | "last";
+} & Exclude<ComponentProps<typeof Link>, "href" | "target"> & {
+    title: string;
+  }) {
   return (
     <Link
       {...{
         href,
-        as,
-        replace,
-        scroll,
-        shallow,
-        passHref,
-        prefetch,
-        locale,
       }}
       className={[
         styles.root,
@@ -43,7 +28,7 @@ export default function Anchor({
           : []),
       ].join(" ")}
       {...props}
-      target={href.startsWith("http") ? "_blank" : "_self"}
+      target={href.toString().startsWith("http") ? "_blank" : "_self"}
     >
       {icon ? <span className={styles.icon} /> : null}
       {children}

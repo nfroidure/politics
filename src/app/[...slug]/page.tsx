@@ -1,6 +1,10 @@
 import styles from "./page.module.scss";
 import { fixText } from "../../utils/text";
-import { parseMarkdown, qualifyPath, renderMarkdown } from "../../utils/markdown";
+import {
+  parseMarkdown,
+  qualifyPath,
+  renderMarkdown,
+} from "../../utils/markdown";
 import { readEntry } from "../../utils/frontmatter";
 import { pathJoin, readDirDeep } from "../../utils/files";
 import { toASCIIString } from "../../utils/ascii";
@@ -56,7 +60,9 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
         title={entry.title}
       />
       <Paragraph>
-        <Anchor href="/">Retour</Anchor>
+        <Anchor href="/" title="Revenir à la page d'accueil">
+          Retour
+        </Anchor>
       </Paragraph>
     </ContentBlock>
   );

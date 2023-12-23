@@ -35,7 +35,7 @@ export async function generateMetadata({
   const description = "Découvrez le blog d'un militant écologiste de Douai.";
 
   const metadata = await buildMetadata({
-    pathname: "/blog",
+    pathname: `/blog${page && page !== 1 ? `/pages/${page}` : ""}`,
     title,
     description,
   });
