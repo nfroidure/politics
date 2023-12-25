@@ -1,6 +1,7 @@
 @import "../../styles/variables.scss";
 
 .signature {
+  height: calc(var(--vRhythm) * 3);
   text-align: center;
 }
 .signature img {

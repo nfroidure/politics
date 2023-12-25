@@ -8,15 +8,18 @@
   display: flex;
   flex-direction: column;
 }
-.root nav a,
-.root nav a:visited {
+.root nav a {
   display: block;
-  color: var(--light);
   font-size: var(--bigFontSize);
   line-height: var(--bigLineHeight);
   text-decoration: none;
   transition: background-color var(--baseAnimationRate),
     color var(--baseAnimationRate);
+  padding: calc(calc(calc(var(--vRhythm) * 3) - var(--bigLineHeight)) / 2) 0;
+}
+.root nav a,
+.root nav a:visited {
+  color: var(--light);
 }
 .root nav a:hover {
   color: var(--primary);
@@ -38,6 +41,12 @@
 @media screen and (max-width: $CSS_BREAKPOINT_END_S) {
   .root nav {
     width: 100%;
+  }
+  .root nav a {
+    display: block;
+    font-size: var(--bigFontSize);
+    line-height: var(--vRhythm);
+    padding: 0;
   }
 }
 @media screen and (min-width: $CSS_BREAKPOINT_START_M) and (max-width: $CSS_BREAKPOINT_END_M) {

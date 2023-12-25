@@ -4,11 +4,11 @@ import { type ReactNode, createContext } from "react";
 import useCSSVar from "../hooks/useCSSVar";
 import styles from "./grid.module.scss";
 
-const DEFAULT_GRID_H = parseFloat(styles.hGrid.replace("rem", ""));
-const DEFAULT_GRID_V = parseFloat(styles.vGrid.replace("rem", ""));
-const DEFAULT_V_RHYTHM_RATIO = parseFloat(styles.vRhythmRatio);
-const DEFAULT_COLUMN_RATIO = parseFloat(styles.columnRatio);
-const DEFAULT_GUTTER_RATIO = parseFloat(styles.gutterRatio);
+export const DEFAULT_GRID_H = parseFloat(styles.hGrid.replace("rem", ""));
+export const DEFAULT_GRID_V = parseFloat(styles.vGrid.replace("rem", ""));
+export const DEFAULT_V_RHYTHM_RATIO = parseFloat(styles.vRhythmRatio);
+export const DEFAULT_COLUMN_RATIO = parseFloat(styles.columnRatio);
+export const DEFAULT_GUTTER_RATIO = parseFloat(styles.gutterRatio);
 
 export const GridContext = createContext({
   vGrid: DEFAULT_GRID_H,

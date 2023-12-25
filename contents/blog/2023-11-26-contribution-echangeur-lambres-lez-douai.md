@@ -1,6 +1,6 @@
 ---
 title: "Échangeur de Lambres : contribution et réflexions"
-description: "Suite à l’augmentation du trafic routier engendrépar la création de l’usine de batterie Envision, l’aglomération dépense millions d’euros pour de nouvelles routes…"
+description: "Suite à l’augmentation du trafic routier engendré par la création de l’usine de batterie Envision, l’aglomération dépense 45 millions d’euros pour de nouvelles routes…"
 date: "2023-11-26T10:00:00.000Z"
 draft: false
 categories:
