@@ -6,7 +6,7 @@
     "build": "next build && touch out/.nojekyll && echo 'nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
     "types": "tsc --pretty --noEmit",
-    "tootNewPosts": "ts-node --esm -O '{ \"target\": \"es2022\", \"module\": \"node16\" }' bin/tootNewPosts.ts"
+    "tootNewPosts": "tsx bin/tootNewPosts.ts"
   },
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.3",
@@ -18,7 +18,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark-parse": "^11.0.0",
-    "ts-node": "^10.9.2",
     "unified": "^11.0.4",
     "yaml": "^2.3.4",
     "yerror": "^8.0.0"
@@ -28,6 +27,7 @@
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.18",
     "sass": "^1.69.5",
+    "tsx": "^4.7.0",
     "typescript": "^5.3.3"
   },
   "license": "SEE LICENSE.md"
