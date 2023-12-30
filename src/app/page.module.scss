@@ -13,3 +13,8 @@
     flex-direction: row;
   }
 }
+@media print {
+  .toots {
+    display: none;
+  }
+}

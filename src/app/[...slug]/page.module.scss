@@ -10,3 +10,8 @@
 .clear {
   clear: both;
 }
+@media print {
+  .back {
+    display: none;
+  }
+}

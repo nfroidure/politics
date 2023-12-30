@@ -296,7 +296,11 @@ const blockquoteMap: NodeToElementMapper<MarkdownBlockquoteNode> = (
 );
 const imageMap: NodeToElementMapper<MarkdownImageNode> = (context, node) => {
   return (
-    <Img key={context.index} {...{ ...parseImageProps(node), alt: node.alt }} />
+    <Img
+      key={context.index}
+      {...{ ...parseImageProps(node), alt: node.alt }}
+      showAlt={node?.title?.includes("#️⃣")}
+    />
   );
 };
 
@@ -475,7 +479,9 @@ function parseImageProps(node: MarkdownImageNode): {
   orientation: ImageOrientation;
   src: string;
 } {
-  const title = (node.title || "").replace(/^🖼(➡️|⬅️)\s*/u, "");
+  const title = (node.title || "")
+    .replace(/^🖼(➡️|⬅️)\s*/u, "")
+    .replace("#️⃣", "");
   const float = node.title?.includes("➡️")
     ? "right"
     : node.title?.includes("⬅️")

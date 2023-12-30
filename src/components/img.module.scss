@@ -3,14 +3,20 @@
 .root {
   clear: both;
   display: flex;
-  width: 100%;
-  max-width: 100%;
   background: var(--secondary);
   padding: calc(var(--vRhythm) / 2) calc(var(--gutter) / 2);
   margin: var(--vRhythm) 0;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
+
+.root .picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* For mobile device we forget layout shift
         since what we want is the biggest image size possible */
 .root img {
@@ -21,41 +27,39 @@
         orientation and build boxes that respect the
         vertical rythm and horizontal dimensions of the
         layout avoiding layout shifting */
-@media screen and (min-width: $CSS_BREAKPOINT_START_M) {
+@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
   .root.left {
     float: left;
     margin: 0 var(--gutter) var(--vRhythm) 0;
+    max-width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 5));
   }
   .root.right {
     float: right;
     margin: 0 0 var(--vRhythm) var(--gutter);
+    max-width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 5));
   }
-  .root.left,
-  .root.right {
-    width: var(--block);
-    height: calc(var(--vRhythm) * 10);
-  }
-  .root.left.landscape,
-  .root.right.landscape {
-    height: calc(var(--vRhythm) * 8);
-  }
-  .root.left.portrait,
-  .root.right.portrait {
-    height: calc(var(--vRhythm) * 14);
-  }
-}
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
-  .root.left,
-  .root.right {
+  .root.left .picture,
+  .root.right .picture {
     width: calc(calc(var(--column) * 4) + calc(var(--gutter) * 3));
     height: calc(var(--vRhythm) * 14);
   }
-  .root.left.landscape,
-  .root.right.landscape {
+  .root.left.landscape .picture,
+  .root.right.landscape .picture {
     height: calc(var(--vRhythm) * 11);
   }
-  .root.left.portrait,
-  .root.right.portrait {
+  .root.left.portrait .picture,
+  .root.right.portrait .picture {
     height: calc(var(--vRhythm) * 19);
   }
+}
+
+.alt {
+  display: block;
+  background: var(--primary);
+  color: var(--light);
+  margin: 0;
+  padding: calc(var(--vRhythm) / 2) calc(var(--gutter) / 2);
+  width: auto;
+  max-width: calc(100% - var(--gutter));
+  font-size: var(--smallFontSize);
 }

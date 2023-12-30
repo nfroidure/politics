@@ -59,7 +59,7 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
         url={`https://${DOMAIN_NAME}/${pathJoin(...params.slug)}`}
         title={entry.title}
       />
-      <Paragraph>
+      <Paragraph className={styles.back}>
         <Anchor href="/" title="Revenir à la page d'accueil">
           Retour
         </Anchor>

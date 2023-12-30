@@ -1,4 +1,5 @@
 import { DOMAIN_NAME } from "../../../utils/constants";
+import styles from "./page.module.scss";
 import { fixText } from "../../../utils/text";
 import { qualifyPath, renderMarkdown } from "../../../utils/markdown";
 import { pathJoin } from "../../../utils/files";
@@ -70,16 +71,21 @@ export default async function Page({ params }: { params: { id: string } }) {
   return (
     <ContentBlock>
       {renderMarkdown({ index: 0 }, entry.content)}
-      <Paragraph>Publié le {new Date(entry.date).toLocaleString()}.</Paragraph>
-      <aside>
-        <Heading2>Commenter et partager</Heading2>
-        <Share
-          url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
-          title={entry.title}
-        />
-      </aside>
+      <Paragraph>
+        Publié le{" "}
+        {new Intl.DateTimeFormat("fr-FR", {
+          timeZone: "Europe/Paris",
+          dateStyle: 'full',
+          timeStyle: 'medium',
+        }).format(Date.parse(entry.date))}
+        .
+      </Paragraph>
+      <Share
+        url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
+        title={entry.title}
+      />
       {linkedEntries.length ? (
-        <aside>
+        <aside className={styles.linkedEntries}>
           <Heading2>
             {linkedEntries.length === 1
               ? "Article similaire"

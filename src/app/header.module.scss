@@ -1,6 +1,6 @@
 @import "../../styles/variables.scss";
 
-.root header {
+header.root {
   background-color: var(--secondary-darker);
 }
 .root a {
@@ -71,7 +71,7 @@ span.description {
   }
 }
 @media print {
-  .root header {
+  header.root {
     display: none;
   }
 }

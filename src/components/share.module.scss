@@ -17,3 +17,8 @@ span.icon.facebook {
 span.icon.mail {
   mask-image: url("/images/icons/mail.svg");
 }
+@media print {
+  .root {
+    display: none;
+  }
+}

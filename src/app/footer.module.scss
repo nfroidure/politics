@@ -44,3 +44,14 @@
     width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
   }
 }
+@media print {
+  .root, .root footer, .bottom, .bottom p {
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+  }
+  .root a {
+    display: none;
+  }
+}

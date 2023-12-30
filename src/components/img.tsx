@@ -8,10 +8,15 @@ export default function Img({
   orientation = "landscape",
   float,
   className,
+  alt,
+  showAlt,
+  title,
   ...props
 }: {
   orientation: ImageOrientation;
   float?: ImageFloating;
+  alt: string;
+  showAlt?: boolean;
 } & ImgHTMLAttributes<HTMLImageElement>) {
   return (
     <span
@@ -22,7 +27,10 @@ export default function Img({
         ...(className ? [className] : []),
       ].join(" ")}
     >
-      <img {...props} />
+      <span className={styles.picture}>
+        <img alt={alt} {...{ ...props, ...(title ? { title } : {}) }} />
+      </span>
+      {showAlt ? <span className={styles.alt}>{alt}</span> : null}
     </span>
   );
 }

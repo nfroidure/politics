@@ -46,3 +46,9 @@ li.feed a {
 .root span {
   display: none;
 }
+
+@media print {
+  .root {
+    display: none;
+  }
+}

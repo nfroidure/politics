@@ -127,20 +127,30 @@ export default async function Page() {
           <img src="/images/signature.svg" alt="Signature" />
         </Paragraph>
       </Blockquote>
-      <Heading2>Derniers messages Mastodon&nbsp;:</Heading2>
-      <HorizontalRule />
-      {toots.map((toot) => (
-        <Fragment key={toot.id}>
-          {renderMarkdown({ index: 0 }, toot.text)}
-          <Paragraph>
-            Publié le{" "}
-            <Anchor href={toot.url as string} title="Voir le toot sur Mastodon">
-              {new Date(toot.createdAt).toLocaleString()}.
-            </Anchor>
-          </Paragraph>
-          <HorizontalRule />
-        </Fragment>
-      ))}
+      <aside className={styles.toots}>
+        <Heading2>Derniers messages Mastodon&nbsp;:</Heading2>
+        <HorizontalRule />
+        {toots.map((toot) => (
+          <Fragment key={toot.id}>
+            {renderMarkdown({ index: 0 }, toot.text)}
+            <Paragraph>
+              Publié le{" "}
+              <Anchor
+                href={toot.url as string}
+                title="Voir le toot sur Mastodon"
+              >
+                {new Intl.DateTimeFormat("fr-FR", {
+                  timeZone: "Europe/Paris",
+                  dateStyle: "full",
+                  timeStyle: "medium",
+                }).format(Date.parse(toot.createdAt))}
+                .
+              </Anchor>
+            </Paragraph>
+            <HorizontalRule />
+          </Fragment>
+        ))}
+      </aside>
     </ContentBlock>
   );
 }
