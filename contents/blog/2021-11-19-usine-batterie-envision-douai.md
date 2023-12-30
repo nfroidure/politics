@@ -6,10 +6,11 @@ draft: false
 categories:
   - Industrie
   - Contributions
+  - Automobile
 tags:
-  - envision
+  - Envision
   - batterie
-  - renault
+  - Renault
 illustration:
   url: "/public/illustrations/site-lot-1-envision.jpg"
   alt: Site du futur projet Envision

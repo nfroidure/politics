@@ -62,6 +62,7 @@ En effet, le parc est toujours squatté la nuit. Pire, les portes sont vandalis�
 ![Photographie de l’entrée du Parc Bertin](/public/illustrations/entree-parc-bertin.jpg)
 ![Photographie du coût du Parc Bertin](/public/illustrations/cout-parc-bertin.jpg)
 ![Photographie du portique du Parc Bertin entrain d'être réparé pour une énième fois](/public/illustrations/parc-bertin-portique-en-maintenance.jpg)
+![Photographie d'une personne SDF que j'ai retrouvée suspendue à la clôture du parc Bertin](/public/illustrations/photographie-sdf-suspendu-cloture-parc-bertain.jpg)
 
 Comble de l’ironie, l’entrée du parc est signalée parc un rétro-éclairage LED alors qu’à ces heures nocturnes, il n’est plus possible d’y entrer.
 
@@ -186,6 +187,7 @@ Nous avons à gagner un futur désirable, nous avons à apprendre le sens du tem
 La commune, plus petit échelon administratif français, doit être le berceau des possibles. L’aménagement de ces dernières conditionnera notre capacité de résilience face aux répercussions systémiques des effets du réchauffement climatique.
 
 Pour cela, comme je l’ai démontré ci-dessus, il faut appliquer une méthode simple :
+
 - sortir des silos et faire système,
 - créer les possibles et renoncer au contrôle systématique,
 - simplifier l’action,

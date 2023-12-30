@@ -4,12 +4,12 @@ description: "La réunion de clôture de la concertation publique sur la créati
 date: "2022-07-07T10:00:00.000Z"
 draft: false
 tags:
-  - "Douai"
-  - "Envision"
-  - "Automobile"
+  - Douai
+  - Envision
 categories:
-  - "Industrie"
-  - "Contributions"
+  - Industrie
+  - Contributions
+  - Automobile
 illustration:
   url: "/public/illustrations/affichage-envision.jpg"
   alt: "Signalisation de la réunion de clôture de la concertation d’Envision"

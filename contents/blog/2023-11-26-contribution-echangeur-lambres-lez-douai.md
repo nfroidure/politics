@@ -6,6 +6,7 @@ draft: false
 categories:
   - Politique locale
   - Contributions
+  - Automobile
 tags:
   - Lambres-lez-Douai
 illustration:

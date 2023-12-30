@@ -20,15 +20,15 @@ Le 27 juin 2022, le Département du Nord a attribué une concession de service p
 
 En plus de la communication institutionnelle, **50% des 500 panneaux publicitaires et 50 panneaux digitaux nouvellement installés afficheront de la publicité commerciale**.
 
-Au delà du fait que la communication institutionnelle que l’on trouvera sur ces panneaux sera essentiellement de la propagande au service du bilan du département ([changer simplement la vie des gens](https://nicolasfroidure.fr/blog/le-clientelisme-m-horripile#quelle-alternative) étant trop demander...), ces panneaux nuisent à notre environnement :
+Au delà du fait que la communication institutionnelle que l’on trouvera sur ces panneaux sera essentiellement de la propagande au service du bilan du département ([changer simplement la vie des gens](https://nicolasfroidure.fr/blog/le-clientelisme-m-horripile#quelle-alternative) étant trop demander…), ces panneaux nuisent à notre environnement :
 
 - ils défigurent le paysage,
 - posent des questions d’accessibilité sur les trottoirs,
 - représentent un danger pour la visibilité des piétons,
 - demandent de faire des tournées régulières pour leur entretien,
-- consomment de l’énergie pour leur version numérique ou éclairée...
+- consomment de l’énergie pour leur version numérique ou éclairée…
 
-Bref, ce n’est clairement pas l’idée du siècle ! Nos élu⋅es écologistes du Nord ont, bien entendu, [voté contre cette disposition](https://groupe-ecologiste-nord.fr/2023/02/communique-de-presse-publicite-dans-lespace-public/) et iels furent bien seul⋅es dans cette démarche...
+Bref, ce n’est clairement pas l’idée du siècle ! Nos élu⋅es écologistes du Nord ont, bien entendu, [voté contre cette disposition](https://groupe-ecologiste-nord.fr/2023/02/communique-de-presse-publicite-dans-lespace-public/) et iels furent bien seul⋅es dans cette démarche…
 
 Alors que ces derniers commencent à fleurir dans le Douaisis (notamment ici à Somain), je pense qu’il est temps de parler de la publicité.
 
@@ -52,7 +52,7 @@ Y a-t-il une démarche écologique plus populaire et partagée que le stop pub 
 
 Je pense que l’objectif de ces stops pub n’est pas uniquement de préserver l’environnement, mais aussi que, consciemment ou non, nous nous rendons bien compte que la publicité est un fléau. **Il s’agit en premier lieu de nous protéger de la publicité.**
 
-Car c’est probablement l’impact indirect de la publicité qui est le plus grave : surconsommation, création du "besoin", frustration, formatage... Dans son [Manifeste contre le système publicitaire](https://antipub.org/asso/manifeste-contre-le-systeme-publicitaire/), l’association Résistance à l’Agression Publicitaire fait une énumération exhaustive des dégâts causés par la publicité.
+Car c’est probablement l’impact indirect de la publicité qui est le plus grave : surconsommation, création du "besoin", frustration, formatage… Dans son [Manifeste contre le système publicitaire](https://antipub.org/asso/manifeste-contre-le-systeme-publicitaire/), l’association Résistance à l’Agression Publicitaire fait une énumération exhaustive des dégâts causés par la publicité.
 
 Ces dégâts sont nombreux et documentés très largement.
 
@@ -64,13 +64,13 @@ Malgré cela, les collectivités restent complices, dans leur grande majorité, 
 
 Bien-sûr, les panneaux publicitaires ne sont pas l’apanage du département. Des communes comme Douai avec JCDecaux, Somain avec ClearChanel également, ajoutent leur contribution à la pollution visuelle. Les EPCI comme le SYMEVAD et ses camions floqués (et éclairés !) ou encore le SMTD et ses arrêts de bus ou publicités lumineuses ou statiques dans les bus sont également de la partie.
 
-Mais c’est aussi exposer les citoyen⋅nes à la publicité que de les enjoindre à [se rendre sur Facebook ou Twitter](./reseaux-sociaux-vraiment#pour-conclure) pour aimer la page de leur collectivité...
+Mais c’est aussi exposer les citoyen⋅nes à la publicité que de les enjoindre à [se rendre sur Facebook ou Twitter](./reseaux-sociaux-vraiment#pour-conclure) pour aimer la page de leur collectivité…
 
 ## On peut faire sans !
 
 Comme souvent, les écologistes ont un train d’avance sur le sujet de la publicité. La Ville de Grenoble a [supprimé les panneaux publicitaires municipaux en 2014](https://www.courrierinternational.com/article/reportage-dans-les-rues-sans-publicite-de-grenoble). La Métropole de Lyon a récemment décidé d’[interdire les panneaux numériques](https://reporterre.net/Publicite-la-metropole-de-Lyon-met-un-coup-de-frein-spectaculaire) et prévoit l’interdiction des publicités aux abords des écoles.
 
-Dans une récente publication Bruno Bernard relatait que cette décision avait été motivé par le fait que “Une très grande part du développement des comportements se forge dès la petite enfance : Entre 1200 à 2200 messages publicitaires sont adressés chaque jour à chaque individu.” et qu’“en 2018, les publicités de produits Nutri-Score D et E représentent 53,3 % des publicités alimentaires vues par les enfants”...
+Dans une récente publication Bruno Bernard relatait que cette décision avait été motivé par le fait que “Une très grande part du développement des comportements se forge dès la petite enfance : Entre 1200 à 2200 messages publicitaires sont adressés chaque jour à chaque individu.” et qu’“en 2018, les publicités de produits Nutri-Score D et E représentent 53,3 % des publicités alimentaires vues par les enfants”…
 
 Pour toutes ces raisons, je souhaite que la ville de Douai emboîte le pas et refuse l’installation des panneaux publicitaires du département. Ça tombe bien, dans [cet article de la Voix du Nord](https://www.lavoixdunord.fr/1287373/article/2023-02-03/le-departement-du-nord-plante-ses-panneaux-publicitaires-les-ecolos-fulminent), Christian Poiret dit avoir “choisi de faire les choses en concertation avec les maires. Nous leurs avons envoyé deux courriers. Nous avons d’ailleurs eu des refus. En aucun cas on ne force la main des maires.”.
 
@@ -89,3 +89,14 @@ Enfin, comme l’illustration jointe le démontre, les publicités sont bien sou
 Les plans [action cœur de ville](https://agence-cohesion-territoires.gouv.fr/action-coeur-de-ville-42) et [petite ville de demain](https://agence-cohesion-territoires.gouv.fr/petites-villes-de-demain-45), pour être efficaces, doivent à mon sens nécessairement s’accompagner de mesures de suppression de la publicité du paysage urbain.
 
 C’est donc aussi une notion d’efficacité (et de crédibilité) de l’action publique qui est en jeu. Comparativement, avec moins de publicité, c’est plus de visibilité pour les enseignes des centres villes. À méditer pour la prochaine révision du Règlement Local de Publicité !
+
+**Note suite aux émeutes à Douai :**
+
+Suite au meurtre de Nahel à bout portant par un policier, de nombreux quartiers populaires se sont embrasés. Douai n’a pas échappé à la règle et a subit de nombreuses dégradations et l’interpellation de [33 personnes](https://www.lobservateur.fr/douai-presents-lors-des-emeutes-de-cet-ete-ils-comparaissent-au-tribunal/).
+
+Un détail frappant est que la publicité a été l’une des cibles principales de ces émeutes (avec les commerces). Un constat lourd de sens qui n’est pas sans évoquer la frustration que la publicité provoque chez les nombreuses personnes qui ne peuvent pas s’offrir ces produits que la publicité fait passer pour indispensables au bonheur…
+
+![Panneau publicitaire détruit place d’Armes](/public/illustrations/panneau-pub-detruit-1.jpg)
+![Panneau publicitaire détruit place d’Armes (autre face)](/public/illustrations/panneau-pub-detruit-2.jpg)
+![Panneau publicitaire détruit boulevard Paul Hayez](/public/illustrations/panneau-pub-detruit-3.jpg)
+![Panneau publicitaire détruit rue de Paris](/public/illustrations/panneau-pub-detruit-4.jpg)

@@ -26,7 +26,7 @@ Le parc automobile français représente 38.2 millions de véhicules. Leur duré
 
 ### Les problèmes que pose l’automobile
 
-![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](/public/illustrations/avenir-automobile.jpg)
+![Photographie de voiture brûlée sur le parking de Leroy Merlin à Douai](/public/illustrations/avenir-automobile.jpg "🖼️➡️")
 
 Un des soucis majeurs de l’automobile est sont impact environnemental. Émission de polluants, lors de leur fabrication, transport, puis durant leur utilisation avec la combustion de carburant qui émet des particules, l’usure des pneus et plaquettes de frein, les fuites d’huile…
 
@@ -48,7 +48,7 @@ Ceci, sans contrainte administrative, sans billet, sans dépendre de personne d�
 
 Bien-sûr, la bicyclette offre la même liberté, mais elle demande quelques efforts tout de même (qu’on a tendance à surévaluer, dans un pays plat comme le Douaisis) et n’offre pas la même capacité de déplacement longue distance.
 
-Pour quelqu’un comme moi qui a vécu à la campagne sans le permis, je peux vous assurer que ce n’est pas anodin du tout.
+Ayant vécu à la campagne sans le permis, je peux vous assurer que ce n’est pas anodin du tout.
 
 ### Et les transports en commun ?
 
@@ -70,7 +70,7 @@ Non, je pense qu’entre le laxisme coupable des défenseurs de l’automobile e
 
 ### Réduire la pollution
 
-![Photographie de l’action pour dénoncer la pollution de l’air à Douai](/public/illustrations/action-pollution-air.jpg)
+![Photographie de l’action pour dénoncer la pollution de l’air à Douai](/public/illustrations/action-pollution-air.jpg "🖼️➡️")
 
 La dernière fois que j’ai regardé les chiffres, nous en étions à 43 000 morts prématurées dues à la pollution de l’air en France. Derrière ces chiffres, des personnes. Nos enfants, nous.
 
@@ -80,21 +80,27 @@ Il démontre admirablement l’intérêt du véhicule électrique malgré les qu
 
 C’est pour cette raison que nous ne nous sommes pas opposés au [projet d’usine de batterie d’Envision](./projet-d-usine-de-batterie-envision-douai) sur le site de l’usine Georges Besse de Renault à Cuincy.
 
-Malgré tout, la question des limites planétaires, et notamment, de l’extraction des ressources nécessaires à sa fabrication nécessitent d’agir sur un autre levier : le nombre d’automobiles en circulation.
+L’impact environnemental des véhicules électrique est souvent décrié, mais l’Ademe [a réalisé une analyse du cycle de vie](https://presse.ademe.fr/2022/10/mondial-de-lautomobile-lademe-publie-son-avis-sur-le-vehicule-electrique-une-batterie-de-taille-raisonnable-assure-une-pertinence-climatique-et-economique.html "Lire cette analyse du cycle de vie") qui tend à démontrer que les véhicules électriques sont pertinents, surtout en respectant le cadre que je décris dans cet article.
+
+Il est à noter que Valeo et Renault ont développé [un moteur sans terres rares](https://www.valeo.com/fr/catalogue/pts/moteur-electrique-haute-tension-sans-terre-rare/ "Lire le communiqué de Valeo à ce sujet") et que les innovations, notamment concernant les [batteries sodium-ion](https://www.cnrs.fr/fr/cnrsinfo/batteries-sodium-ion-une-premiere-mondiale-dont-nous-sommes-tres-fiers "Lire le communiqué du CNRS sur ce sujet"), risquent bien de réduire encore cet impact (surtout vis à vis de l’extraction du Cobalt qui pose des problèmes éthiques).
+
+Malgré tout, la question des limites planétaires et la raréfaction de certains m étaux nécessitent d’agir sur d’autres leviers : le nombre et le poids des automobiles en circulation.
 
 ### Limiter le poids des véhicules
 
-La fin du SUV doit être actée. Les personnes qui achètent les automobiles neuves peuvent certainement se permettre de mettre le plein dans un véhicule d’une tonne mais ce n’est pas nécessairement le cas des personnes qui s’équipent sur le marché de l’occasion.
+![Photographie d’une Renault 4L de couleur verte](/public/illustrations/renault-4l-verte.jpg "🖼️➡️")
+
+La fin du SUV doit être actée. Les personnes qui achètent les automobiles neuves peuvent certainement se permettre de faire le plein (ou changer la batterie) d’un véhicule d’une tonne mais ce n’est pas nécessairement le cas des personnes qui s’équipent sur le marché de l’occasion.
 
 On se retrouve dans des situations ubuesques où les gens ne sont plus en mesure de payer les déplacements domicile-travail, comment peut-on laisser faire la mode des SUV ?
 
-La taxation sur le poids des véhicules doit être démultipliée pour rendre dissuasif l’achat de SUVs, qu’ils soient thermiques ou électriques.
+La taxation sur le poids des véhicules doit être démultipliée pour rendre extrêmement dissuasif l’achat de SUVs, qu’ils soient thermiques ou électriques.
 
 ### Limiter le nombre de voitures
 
-Le parc automobile français est, en tout temps, dans sa grande majorité, stationné. Ceci implique une très importante occupation du sol par des véhicules inertes, utiles pour personne à ce moment.
+Le parc automobile français est, en tout temps, dans sa grande majorité, stationné. Ceci implique une très importante occupation du sol par des véhicules inertes donc inutiles à ce moment.
 
-La seule manière d’adresser ce problème est la collectivisation des automobiles. Aujourd’hui, c’est déjà une réalité pour une fraction des déplacements : les taxis, l’autopartage, le covoiturage tente de limiter la nécessité pour toutes et tous de posséder une voiture.
+La seule manière d’adresser ce problème est la collectivisation des automobiles. Aujourd’hui, c’est déjà une réalité pour une fraction des déplacements : les taxis, l’autopartage, le covoiturage tentent de limiter la nécessité pour toutes et tous de posséder une voiture.
 
 Malheureusement, cette collectivisation reste marginale, pour débloquer la collectivisation du parc automobile, il me semble que la seule solution viable est le véhicule autonome (sans chauffeur ou véhicule autonome de niveau 4 voire 5).
 
@@ -108,13 +114,14 @@ Aujourd’hui, les personnes qui achètent des véhicules neufs sont [principale
 
 Un des freins à la mise en gestion de son propre véhicule sera certainement le fait de le voir dégradé. Ces plateformes vont très certainement reporter leur système de notation du trajet vers une notation de l’état du véhicule afin de récompenser les usagèr·es qui respecteront les véhicules ainsi gérés.
 
-Les infrastructures routières changent moins vite que le parc automobile (qui se renouvelle tous les dix ans). Il est donc urgent de penser leur évolution à l’aune de ce nouvel outil :
+Les infrastructures routières changent moins vite que le parc automobile (leur durée de vie est de dix à vingt ans, mais elles sont parfois renouvelées bien plus tard pour certaines rues). Il est donc urgent de penser leur évolution à l’aune de ce nouvel outil :
 
-- les projets d’élargissement des axes routiers doivent être gelés, les réfections temporisées tant qu’elles le peuvent,
+- les projets d’élargissement des axes routiers doivent être gelés, les réfections temporisées tant qu’elles le peuvent (voir [l’élargissement de la RD500](./projet-de-requalification-de-la-rd-500) et [l’échangeur de Lambres-lez-Douai](https://nicolasfroidure.fr/blog/echangeur-de-lambres-contribution-et-reflexions)),
 - les exigences de stationnement doivent être revues à la baisse dans les appels à projet pour l’immobilier neuf,
 - les sens uniques de circulation doivent être généralisés dans les quartiers résidentiels pour simplifier la conduite et regagner du terrain sur l’occupation de l’espace par l’automobile,
 - les parkings silos en entrée des agglomérations doivent être multipliés pour accueillir les véhicules en surplus le soir et transformés en véritables centre de recharge et entretien,
-- le code de la route doit être aménagé voire simplifié et les signalisations ré-examinées pour identifier en amont les potentielles difficultés d’interprétation qu’elles pourraient représenter pour les véhicules autonomes.
+- le code de la route doit être aménagé voire simplifié et les signalisations ré-examinées pour identifier en amont les potentielles difficultés d’interprétation qu’elles pourraient représenter pour les véhicules autonomes,
+- les stationnements résidentiels doivent bénéficier de goulottes prêtes à être câblées depuis le domicile des particuliers.
 
 La France doit également faire évoluer son cadre législatif pour le rendre favorable aux véhicules autonomes afin d’éviter des contretemps dans leur mise en œuvre qui pourraient bien faire perdurer des situations dramatiques, notamment avec l’augmentation du coût des carburants.
 
@@ -126,14 +133,15 @@ Les véhicules de fonction doivent être généralisés, il n’y a aucune raiso
 
 ## Et le Douaisis dans tout ça ?
 
-![Photographie de l’usine Renault ELectriCity à Douai](/public/illustrations/renault-electricity.jpg)
+![Photographie de l’usine Renault ElectriCity à Douai](/public/illustrations/renault-electricity.jpg "🖼️➡️")
 
 Notre agglomération souhaite, avec l’usine Renault en orchestratrice, faire du Douaisis un pôle d’excellence industrielle pour le véhicule électrique.
 
 J’y suis favorable pour toutes les raisons suscitées. Mais Renault doit également sortir du modèle de vente de véhicules aux particuliers et embrasser les usages de demain (ou mieux les porter) :
 
 - l’usine Renault ne peut plus être qu’une unité de production. Dans un modèle circulaire où le futur semble plutôt privilégier l’usage à la possession, les usines doivent devenir ré-entrantes et pouvoir produire un véhicule neuf comme reconditionner un véhicule accidenté ou usé, il en va de la survie de notre industrie qui devra s’adapter à un modèle ou les bénéfices seront basés sur la fiabilité et non sur la vente de véhicule. Le slogan "qui mieux que Renault peut entretenir votre Renault" prendra alors tout son sens,
-- Renault, et plus globalement l’industrie automobile française, doit se préparer au véhicule autonome. A minima, pour être en mesure d’accueillir les logiciels développés outre-atlantique et, idéalement, pour développer les siens. La France (et pourquoi pas le Douaisis en tête de proue), doit créer un cadre favorable aux expérimentations de ce type de transports en commun qui cumule tous les atouts.
+- Renault, et plus globalement l’industrie automobile française, doit se préparer au véhicule autonome. A minima, pour être en mesure d’accueillir les logiciels développés outre-atlantique et, idéalement, pour développer les siens. La France (et pourquoi pas le Douaisis en tête de proue), doit créer un cadre favorable aux expérimentations de ce type de transports en commun qui cumule tous les atouts,
+- la décarbonation de l’industrie doit également y advenir et malheureusement, sur ce point, l’utilisation du rail par l’usine Renault de Cuincy malgré des embranchements n’est pas optimale (pire la nouvelle [usine de batterie Envision](/usine-de-batterie-envision-reunion-de-cloture "Lire un article sur cette usine") ne l’exploite pas du tout à ce jour).
 
 Bref, un pôle du véhicule électrique dans le Douaisis, je dis, pourquoi pas, mais un pôle du véhicule autonome, je dis chiche !
 
