@@ -2,7 +2,7 @@ import "../../styles/normalize.css";
 import "../../styles/main.scss";
 import styles from "./layout.module.scss";
 import { StrictMode } from "react";
-import { FACEBOOK_ACCOUNT, ORGANISATION_PRIMARY_COLOR } from "../utils/constants";
+import { ORGANISATION_PRIMARY_COLOR } from "../utils/constants";
 import Header from "./header";
 import Footer from "./footer";
 import Menu from "../components/menu";
@@ -22,12 +22,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
-      <head>
-        <meta
-          property="fb:app_id"
-          content={FACEBOOK_ACCOUNT}
-        />
-      </head>
       <body
         className={
           process.env.NODE_ENV === "development" ? "showScreenSizes" : ""

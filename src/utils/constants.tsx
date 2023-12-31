@@ -9,5 +9,6 @@ export const MASTODON_ACCOUNT = "nfroidure";
 export const MASTODON_ACCOUNT_ID = "110836610848478694";
 export const MASTODON_SERVER = "mastodon.social";
 export const TWITTER_ACCOUNT = "nfroidure";
-export const FACEBOOK_ACCOUNT = "nicolas.froidure.douai/106564588528096";
-
+export const FACEBOOK_ACCOUNT = "nicolas.froidure.douai";
+export const LINKEDIN_ACCOUNT = "nfroidure";
+export const BLUESKY_ACCOUNT = "nfroidure.bsky.social";

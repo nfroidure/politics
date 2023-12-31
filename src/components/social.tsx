@@ -1,6 +1,8 @@
 import styles from "./social.module.scss";
 import {
+  BLUESKY_ACCOUNT,
   FACEBOOK_ACCOUNT,
+  LINKEDIN_ACCOUNT,
   MASTODON_ACCOUNT,
   MASTODON_SERVER,
   TWITTER_ACCOUNT,
@@ -22,7 +24,7 @@ export default function Social(): JSX.Element {
         </li>
         <li className={styles.bluesky}>
           <a
-            href={`https://bsky.app/profile/nfroidure.bsky.social`}
+            href={`https://bsky.app/profile/${BLUESKY_ACCOUNT}`}
             rel="me"
             title="Me suivre sur Bluesky"
             target="_blank"
@@ -32,7 +34,7 @@ export default function Social(): JSX.Element {
         </li>
         <li className={styles.linkedin}>
           <a
-            href={`https://www.linkedin.com/in/nfroidure/`}
+            href={`https://www.linkedin.com/in/${LINKEDIN_ACCOUNT}/`}
             rel="me"
             title="Me suivre sur LinkedIn"
             target="_blank"
@@ -43,6 +45,7 @@ export default function Social(): JSX.Element {
         <li className={styles.twitter}>
           <a
             href={`https://twitter.com/${TWITTER_ACCOUNT}`}
+            rel="me"
             title="Me suivre sur Twitter"
             target="_blank"
           >
@@ -52,6 +55,7 @@ export default function Social(): JSX.Element {
         <li className={styles.facebook}>
           <a
             href={`https://facebook.com/${FACEBOOK_ACCOUNT}`}
+            rel="me"
             title="Me suivre sur Facebook"
             target="_blank"
           >
