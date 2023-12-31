@@ -12,6 +12,9 @@ categories:
 illustration:
   url: "/public/illustrations/steph-et-nico.jpg"
   alt: "Photographie de Stéphanie Stiernon et Nicolas Froidure dans un pré"
+audio:
+  url: "/public/music/l-espoir-est-permis.ogg"
+  type: "audio/ogg"
 ---
 
 # L’espoir est permis

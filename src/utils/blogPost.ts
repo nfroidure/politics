@@ -20,6 +20,10 @@ export type BlogPostFrontmatterMetadata = {
     url: string;
     alt: string;
   };
+  audio?: {
+    url: string;
+    type: string;
+  };
 };
 
 export type BlogPost = {

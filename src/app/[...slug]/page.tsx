@@ -43,7 +43,12 @@ export async function generateMetadata({
     title: fixText(entry.title),
     description: fixText(entry.description),
     ...(entry.illustration?.url
-      ? { image: qualifyPath(entry.illustration?.url) }
+      ? {
+          image: {
+            url: qualifyPath(entry.illustration.url),
+            alt: entry.illustration.alt,
+          },
+        }
       : {}),
   });
 }

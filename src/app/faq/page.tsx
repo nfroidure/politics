@@ -29,7 +29,10 @@ export async function generateMetadata() {
     title: "La FAQ",
     description:
       "Recueil de réponses aux questions qui me sont fréquemment posées.",
-    image: "/images/faq.png",
+    image: {
+      url: "/images/faq.png",
+      alt: "Bannière de la page FAQ",
+    },
   });
 }
 

@@ -11,6 +11,9 @@ categories:
 illustration:
   url: "/public/illustrations/guitare-et-ampli.jpg"
   alt: "Photographie de ma guitare et de l’ampli."
+audio:
+  url: "/public/music/lets-consume-our-planet.ogg"
+  type: "audio/ogg"
 ---
 
 # Consumons la planète
@@ -56,4 +59,3 @@ It is smoking yet
 Let’s consume our planet
 I don’t give a shit
 Let’s insta this place
-

@@ -5,37 +5,63 @@ import {
   DOMAIN_NAME,
   TWITTER_ACCOUNT,
 } from "../utils/constants";
-import type { Metadata } from "next";
+import type { Metadata, ResolvedMetadata } from "next";
+
+// Copied from NextJS types, replace per imports whenever possible
+type OGImageDescriptor = {
+  url: string;
+  alt?: string;
+  type?: string;
+  width?: number;
+  height?: number;
+};
+type OGAudioDescriptor = {
+  url: string;
+  type?: string;
+};
+export type OGAudio = NonNullable<
+  NonNullable<ResolvedMetadata["openGraph"]>["audio"]
+>[number];
 
 export default async function buildMetadata({
   pathname,
   title,
   description,
-  image,
   type = "website",
+  image,
+  audio,
 }: {
   pathname: string;
   title: string;
   description: string;
-  image?: string;
   type?: OpenGraphType;
+  image?: OGImageDescriptor;
+  audio?: OGAudioDescriptor;
 }): Promise<Metadata> {
   const fullTitle = `${title ? `${title} - ` : ""}${ORGANISATION_NAME}`;
   const canonicalURL =
     publicRuntimeConfig.baseURL +
     publicRuntimeConfig.basePath +
     (pathname || "/");
-  const imageURL =
-    typeof image === "string" && image && /^https?:\/\//.test(image)
-      ? image
-      : image
-      ? publicRuntimeConfig.baseURL +
-        publicRuntimeConfig.basePath +
-        (image.startsWith("/") ? "" : "/") +
-        image
-      : publicRuntimeConfig.baseURL +
-        publicRuntimeConfig.basePath +
-        "/images/banner.png";
+  const finalImage: OGImageDescriptor =
+    typeof image !== "undefined"
+      ? /^https?:\/\//.test(image.url)
+        ? image
+        : {
+            ...image,
+            url:
+              publicRuntimeConfig.baseURL +
+              publicRuntimeConfig.basePath +
+              (image.url.startsWith("/") ? "" : "/") +
+              image.url,
+          }
+      : {
+          alt: "Bannière du site",
+          url:
+            publicRuntimeConfig.baseURL +
+            publicRuntimeConfig.basePath +
+            "/images/banner.png",
+        };
 
   return {
     title: fullTitle,
@@ -77,10 +103,15 @@ export default async function buildMetadata({
       url: canonicalURL,
       title: fullTitle,
       description,
-      images: [imageURL],
+      images: [finalImage],
       siteName: ORGANISATION_NAME,
       locale: "fr_FR",
       type,
+      ...(typeof audio !== "undefined"
+        ? {
+            audio: [audio],
+          }
+        : {}),
     },
     twitter: {
       site: `@${TWITTER_ACCOUNT}`,

@@ -35,8 +35,22 @@ export async function generateMetadata({
     pathname: `/blog/${entry.id}`,
     title: fixText(entry.title),
     description: fixText(entry.description),
-    ...(entry.illustration?.url
-      ? { image: qualifyPath(entry.illustration?.url) }
+    type: 'article',
+    ...(typeof entry.illustration !== "undefined"
+      ? {
+          image: {
+            url: qualifyPath(entry.illustration.url),
+            alt: entry.illustration.alt,
+          },
+        }
+      : {}),
+    ...(typeof entry.audio !== "undefined"
+      ? {
+        audio: {
+            url: qualifyPath(entry.audio.url),
+            type: entry.audio.type,
+          },
+        }
       : {}),
   });
 }
@@ -75,8 +89,8 @@ export default async function Page({ params }: { params: { id: string } }) {
         Publié le{" "}
         {new Intl.DateTimeFormat("fr-FR", {
           timeZone: "Europe/Paris",
-          dateStyle: 'full',
-          timeStyle: 'medium',
+          dateStyle: "full",
+          timeStyle: "medium",
         }).format(Date.parse(entry.date))}
         .
       </Paragraph>
