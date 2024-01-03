@@ -1,27 +1,15 @@
 /** @type {import('next').NextConfig} */
 
-// Website base URL/path
-const baseURL =
-  process.env.NODE_ENV === "production"
-    ? "https://nicolasfroidure.fr"
-    : "http://nfroidure.localhost:3000";
-const basePath = '';
+
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 // Internal NextJS assets
-const assetPrefix = `${baseURL}${basePath}`;
-// Static contents (public folder)
-const staticPrefix = `${baseURL}${basePath}`;
+const assetPrefix = process.env.NEXT_PUBLIC_ASSET_PREFIX;
 
 const config = {
   output: 'export',
   trailingSlash: false,
   distDir: 'out',
   reactStrictMode: true,
-  publicRuntimeConfig: {
-    environment: process.env.NODE_ENV,
-    baseURL,
-    basePath,
-    staticPrefix,
-  },
   assetPrefix,
   basePath,
 };

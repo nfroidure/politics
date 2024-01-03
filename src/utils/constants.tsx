@@ -1,3 +1,6 @@
+export const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
+export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH;
+export const ASSET_PREFIX = `${BASE_URL}${BASE_PATH || ""}`;
 export const ORGANISATION_LEGAL_NAME = "Nicolas Froidure";
 export const ORGANISATION_NAME = "Nicolas Froidure";
 export const ORGANISATION_ADDRESS = "79 rue Alexandre Descatoire 59500 Douai";

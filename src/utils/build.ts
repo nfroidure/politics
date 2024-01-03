@@ -2,8 +2,7 @@ import { writeFile } from "fs";
 import { promisify } from "util";
 import { join as joinPath } from "path";
 import { generateAtomFeed, generateRSSFeed } from "./feeds";
-import { publicRuntimeConfig } from "./config";
-import { ORGANISATION_NAME } from "./constants";
+import { ASSET_PREFIX, ORGANISATION_NAME } from "./constants";
 import type { FeedDescription, FeedItem } from "./feeds";
 import type {
   BaseListingPageMetadata,
@@ -13,7 +12,6 @@ import type {
 const doWriteFile = promisify(writeFile);
 
 const PROJECT_DIR = joinPath(".");
-const baseURL = publicRuntimeConfig.baseURL;
 const builtAt = new Date().toISOString();
 
 export async function buildAssets<T extends BaseContentPageMetadata>(
@@ -29,7 +27,7 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
       const feedItems = entries.map((entry) => ({
         title: entry.title,
         description: entry.description,
-        url: `${baseURL}${path}/${entry.id}`,
+        url: `${ASSET_PREFIX}${path}/${entry.id}`,
         updatedAt: entry.date,
         publishedAt: entry.date,
         author: {
@@ -38,7 +36,7 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
       }));
       const commonDescription: Omit<FeedDescription, "url"> = {
         title: `${title} - ${ORGANISATION_NAME}`,
-        sourceURL: `${baseURL}${path}`,
+        sourceURL: `${ASSET_PREFIX}${path}`,
         description,
         updatedAt: new Date(
           entries.reduce(
@@ -66,7 +64,7 @@ async function buildAtomFeed(
   const content = await generateAtomFeed(
     {
       ...commonDescription,
-      url: `${baseURL}${path}.atom`,
+      url: `${ASSET_PREFIX}${path}.atom`,
     },
     feedItems
   );
@@ -85,7 +83,7 @@ async function buildRSSFeed(
   const content = await generateRSSFeed(
     {
       ...commonDescription,
-      url: `${baseURL}${path}.rss`,
+      url: `${ASSET_PREFIX}${path}.rss`,
     },
     feedItems
   );

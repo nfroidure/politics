@@ -22,11 +22,11 @@ import Cite from "../components/cite";
 import Img from "../components/img";
 import Gallery from "../components/gallery";
 import { fixText } from "./text";
+import { ASSET_PREFIX } from "./constants";
 import { YError } from "yerror";
-import { publicRuntimeConfig } from "./config";
 import { toASCIIString } from "./ascii";
 import { parseYouTubeURL } from "./youtube";
-import { Fragment, type ReactNode } from "react";
+import { type ReactNode } from "react";
 import type { ImageFloating, ImageOrientation } from "../components/img";
 
 export type MarkdownRootNode = {
@@ -209,16 +209,7 @@ const headingMap: NodeToElementMapper<MarkdownHeadingNode> = (
   );
 };
 const textMap: NodeToElementMapper<MarkdownTextNode> = (context, node) => (
-  <span key={context.index}>
-    {fixText(node.value)
-      .split(/\r?\n/gm)
-      .map((text, i) => (
-        <Fragment key={1}>
-          {i > 0 ? <br /> : null}
-          {text}
-        </Fragment>
-      ))}
-  </span>
+  <span key={context.index}>{fixText(node.value)}</span>
 );
 const boldMap: NodeToElementMapper<MarkdownEmphasisNode> = (context, node) => (
   <Strong key={context.index}>
@@ -508,9 +499,7 @@ export function qualifyPath(path: string): string {
     return path;
   }
   if (path.startsWith("/public/")) {
-    return (
-      (publicRuntimeConfig?.staticPrefix || "") + path.replace("/public/", "/")
-    );
+    return ASSET_PREFIX + path.replace("/public/", "/");
   }
   return path;
 }

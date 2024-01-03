@@ -1,9 +1,9 @@
 import { OpenGraphType } from "next/dist/lib/metadata/types/opengraph-types";
-import { publicRuntimeConfig } from "../utils/config";
 import {
   ORGANISATION_NAME,
   DOMAIN_NAME,
   TWITTER_ACCOUNT,
+  ASSET_PREFIX,
 } from "../utils/constants";
 import type { Metadata, ResolvedMetadata } from "next";
 
@@ -39,10 +39,7 @@ export default async function buildMetadata({
   audio?: OGAudioDescriptor;
 }): Promise<Metadata> {
   const fullTitle = `${title ? `${title} - ` : ""}${ORGANISATION_NAME}`;
-  const canonicalURL =
-    publicRuntimeConfig.baseURL +
-    publicRuntimeConfig.basePath +
-    (pathname || "/");
+  const canonicalURL = ASSET_PREFIX + (pathname || "/");
   const finalImage: OGImageDescriptor =
     typeof image !== "undefined"
       ? /^https?:\/\//.test(image.url)
@@ -50,17 +47,13 @@ export default async function buildMetadata({
         : {
             ...image,
             url:
-              publicRuntimeConfig.baseURL +
-              publicRuntimeConfig.basePath +
+              ASSET_PREFIX +
               (image.url.startsWith("/") ? "" : "/") +
               image.url,
           }
       : {
           alt: "Bannière du site",
-          url:
-            publicRuntimeConfig.baseURL +
-            publicRuntimeConfig.basePath +
-            "/images/banner.png",
+          url: ASSET_PREFIX + "/images/banner.png",
         };
 
   return {
@@ -79,17 +72,17 @@ export default async function buildMetadata({
     icons: {
       icon: [
         {
-          url: publicRuntimeConfig.basePath + "/images/favicon.svg",
+          url: ASSET_PREFIX + "/images/favicon.svg",
           type: "image/svg+xml",
           sizes: "any",
         },
         {
-          url: publicRuntimeConfig.basePath + "/images/favicon-16.png",
+          url: ASSET_PREFIX + "/images/favicon-16.png",
           type: "image/png",
           sizes: "16x16",
         },
         {
-          url: publicRuntimeConfig.basePath + "/images/favicon-128.png",
+          url: ASSET_PREFIX + "/images/favicon-128.png",
           type: "image/png",
           sizes: "128x128",
         },
