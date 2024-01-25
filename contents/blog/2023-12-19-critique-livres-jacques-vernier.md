@@ -6,6 +6,7 @@ draft: false
 categories:
   - Politique locale
   - Critique de livre
+  - Énergies renouvelables
 tags:
   - livre
 illustration:
