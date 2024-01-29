@@ -4,10 +4,10 @@ description: Quelques réflexions en pagaille sur l’intérêt des terrains syn
 date: "2020-09-28T12:00:00.000Z"
 draft: false
 categories:
-  - Humeurs
-  - Politique locale
+  - Sport
 tags:
-  - sport
+  - terrain
+  - synthétique
 illustration:
   url: "/public/illustrations/terrain-football-stade-demeny.jpg"
   alt: Photographie du terrain de football du stade Demeny à Douai
