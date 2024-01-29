@@ -6,7 +6,29 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2024-01-23T18:00:00.000Z</updated>
+  <updated>2024-01-28T18:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/voeux-2024</id>
+    <title>Vœux 2024</title>
+    <link href="https://nicolasfroidure.fr/blog/voeux-2024" rel="alternate" type="text/html" />
+    <updated>2024-01-28T18:00:00.000Z</updated>
+    <published>2024-01-28T18:00:00.000Z</published>
+    <summary>Encore une année dans le rétroviseur avec du bon et du moins bon, mais toujours l’envie de mieux faire.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/douai-les-terrains-synthetiques-en-question</id>
+    <title>Douai : les terrains synthétiques en question</title>
+    <link href="https://nicolasfroidure.fr/blog/douai-les-terrains-synthetiques-en-question" rel="alternate" type="text/html" />
+    <updated>2024-01-27T12:00:00.000Z</updated>
+    <published>2024-01-27T12:00:00.000Z</published>
+    <summary>Ce 28 janvier, le conseil municipal de Douai avait lieu, avec lui, le vote du PPI avec un gazon synthétique auquel les élu·es écologistes étaient opposé·es.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/zaer-5000-arbres-menaces-a-biache-saint-vaast</id>
     <title>ZAER : 5000 arbres menacés à Biache-Saint-Vaast !</title>

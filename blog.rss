@@ -6,9 +6,23 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 23 Jan 2024 18:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 25 Jan 2024 11:41:02 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2024 18:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jan 2024 06:31:14 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/voeux-2024</guid>
+        <title>Vœux 2024</title>
+        <description>Encore une année dans le rétroviseur avec du bon et du moins bon, mais toujours l’envie de mieux faire.</description>
+        <link>https://nicolasfroidure.fr/blog/voeux-2024</link>
+        <pubDate>Sun, 28 Jan 2024 18:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/douai-les-terrains-synthetiques-en-question</guid>
+        <title>Douai : les terrains synthétiques en question</title>
+        <description>Ce 28 janvier, le conseil municipal de Douai avait lieu, avec lui, le vote du PPI avec un gazon synthétique auquel les élu·es écologistes étaient opposé·es.</description>
+        <link>https://nicolasfroidure.fr/blog/douai-les-terrains-synthetiques-en-question</link>
+        <pubDate>Sat, 27 Jan 2024 12:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/zaer-5000-arbres-menaces-a-biache-saint-vaast</guid>
         <title>ZAER : 5000 arbres menacés à Biache-Saint-Vaast !</title>
