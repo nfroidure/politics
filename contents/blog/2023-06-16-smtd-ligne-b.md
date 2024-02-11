@@ -93,9 +93,12 @@ Enfin, j’ai formulé à nouveau ma vieille idée de ponctuer les trains direct
 
 Toutes ces remarques seront portées au dossier d’enquête publique. N’hésitez pas à m’envoyer les votres.
 
-**Note rétrospective :**
+---
+
+**Note rétrospective du 25 juillet 2023 :**
 
 Finalement, j’ai ajouté à ma contribution la demande de ne pas changer le tracé de la ligne et donc, de ne pas réaliser les travaux rue de Paris pour les raisons suivantes :
+
 - la solution du feu rouge pour permettre aux bus de se croiser me semble bancale,
 - l’impact évident sur la sécurité des cyclistes au moment où il faudrait plutôt favoriser ce mode de déplacement est trop fort,
 - l’arrêt place de Gaulle n’est pas si éloigné, le parcours jusque la rue de Paris est sécurisé et accessible notamment grâce à la piétonnisation,
@@ -104,3 +107,19 @@ Finalement, j’ai ajouté à ma contribution la demande de ne pas changer le tr
 Bref, plutôt qu’engager de grand frais, il me semble opportun de temporiser l’aménagement de la rue de Paris. Le reste des aménagements reste pertinent moyennant une meilleure prise en compte des cyclistes rue de Cambrai (suppression du stationnement d’un côté pour la création de véritables pistes cyclables).
 
 Pourquoi, enfin, ne pas utiliser l’argent ainsi économisé pour créer les aménagements cyclables rue de Cambrai (notamment la passerelle ou l’aménagement du pont de Cambrai au coût estimé à 1M€ selon Claude Hégo).
+
+---
+
+**Note rétrospective du 11 février 2024 :**
+
+Dans le numéro 27 de son magazine institutionnel, le SMTD annonce un avis favorable suite à l’enquête publique. Le commissaire enquêteur ayant estimé que le projet **répondait aux besoins du territoire en matière de mobilité tout en préservant la qualité de vie des habitant·es** (en page 3).
+
+Au même endroit, les préoccupations émises lors des contributions sont évoquées : circulation, sécurité des cyclistes, stationnement et préservation de l’environnement. Malheureusement, les ajustements du projet (évoqués en page 6) consistent en une adaptation à la marge du placement de certains stationnements et la conservation de feux tricolores.
+
+Aucune réponse aux craintes formulées sur le passage rue de Paris ou les aménagements cyclables détériorés par le projet qui ne saisit malheureusement pas l’opportunité de ces travaux pour améliorer la cyclabilité des axes retravaillés.
+
+Pour consulter le rapport, il est nécessaire, selon le même magazine, de se déplacer en mairie ou au siège du SMTD. J’ai tout de même fait une demande par mail car j’estime que le numérique permet d’éviter de faire perdre leur temps aux citoyen·nes qui prennent de leur temps pour s’intéresser à la chose politique. Au pire, je me déplacerai... pour lire les réponses aux contributions que j’ai formulées numériquement.
+
+Le Schéma Directeur Modes Doux (SDMD) est également évoqué avec la création de la piste Férin / Centre Hospitalier. La route de Cambrai et la rue de Cambrai sont pourtant le prolongement naturel de cette piste qui pourrait faciliter le déplacement des férinois·es vers Douai par les modes actifs comme l'illustre cette carte de l'état actuel de la cyclabilité du Douaisis.
+
+[Carte des itinéraires pour les modes actifs dans le Douaisis](/public/illustrations/itineraires-modes-actifs-douai-2023.jpg)
