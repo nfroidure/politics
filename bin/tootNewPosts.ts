@@ -31,6 +31,11 @@ async function run() {
     .filter((row) => row[0] === "create")
     .map((row) => row[3]);
 
+  if (!posts.length) {
+    console.warn("🤷 - No new blog posts to share");
+    return;
+  }
+
   for (const post of posts) {
     const metadata = parse(
       (await readFile(post)).toString().split(/\-\-\-/gm)[1]

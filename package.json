@@ -6,7 +6,8 @@
     "build": "next build && touch out/.nojekyll && echo 'nicolasfroidure.fr' > out/CNAME",
     "start": "next start",
     "types": "tsc --pretty --noEmit",
-    "tootNewPosts": "tsx bin/tootNewPosts.ts"
+    "tootNewPosts": "tsx bin/tootNewPosts.ts",
+    "bskNewPosts": "tsx bin/bskNewPosts.ts"
   },
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.3",
