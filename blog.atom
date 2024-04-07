@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2024-03-10T17:00:00.000Z</updated>
+  <updated>2024-04-07T17:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/trop-d-impots-a-douai</id>
+    <title>Trop d’impôts à Douai ?</title>
+    <link href="https://nicolasfroidure.fr/blog/trop-d-impots-a-douai" rel="alternate" type="text/html" />
+    <updated>2024-04-07T17:00:00.000Z</updated>
+    <published>2024-04-07T17:00:00.000Z</published>
+    <summary>Lors du dernier conseil municipal de Douai portant sur le budget, le sujet des taxes a été de nouveau soulevé par l’opposition.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/3615-code-qui-n-en-voeux</id>
     <title>3615 code qui n’en vœux ?</title>
