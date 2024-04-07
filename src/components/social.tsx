@@ -1,6 +1,8 @@
 import styles from "./social.module.scss";
 import {
   BLUESKY_ACCOUNT,
+  BLUESKY_APP,
+  BLUESKY_SERVER,
   FACEBOOK_ACCOUNT,
   LINKEDIN_ACCOUNT,
   MASTODON_ACCOUNT,
@@ -24,7 +26,7 @@ export default function Social(): JSX.Element {
         </li>
         <li className={styles.bluesky}>
           <a
-            href={`https://bsky.app/profile/${BLUESKY_ACCOUNT}`}
+            href={`https://${BLUESKY_APP}/profile/${BLUESKY_ACCOUNT}.${BLUESKY_SERVER}`}
             rel="me"
             title="Me suivre sur Bluesky"
             target="_blank"

@@ -35,7 +35,7 @@ Au vu de ces éléments, il me semble effectivement important de différer cet i
 - le stade Demeny, lui même, dispose de terrains délaissés pouvant accueillir de nouveaux terrains enherbés, d’ailleurs, le coût d’un terrain en herbe est bien inférieur (de moitié) à celui d’un terrain synthétique, de même que sa durée de vie (au moins double),
   à la résidence Gayant, et dans bien d’autres quartiers, il est parfaitement envisageable de créer d’autres terrains en herbe afin de rapprocher la pratique libre du sport des lieux de résidence des usagèr·es,
 - l’arrosage nécessaire pour les terrains en herbe, soulevé comme contre argument, était incongru quand dans le même temps, suite à la grande insistance des écologistes depuis plusieurs années, un investissement dans la récupération des eaux de pluie était enfin mis en œuvre,
-- enfin, il existe au stade Demény un terrain synthétique avec des microbilles, comme évoqué précédemment. Ce n’est pas ce dernier qui serait rénové, mais un autre posant finalement moins de problème de pollution (bien que plus vétuste).
+- enfin, il existe au stade Demény un [terrain synthétique avec des microbilles](https://youtube.com/shorts/6OQEj3c9E5A?si=isdk6xwEEpQnchp8), comme évoqué précédemment. Ce n’est pas ce dernier qui serait rénové, mais un autre posant finalement moins de problème de pollution (bien que plus vétuste).
 
 Bref, vous l’aurez compris, ce n’est pas une vue de l’esprit, ni, comme l’a simplifié la Voix du Nord, uniquement une question de microplastiques (même si ce n’est pas anodin du tout, les microplastiques…).
 

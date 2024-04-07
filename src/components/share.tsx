@@ -18,7 +18,7 @@ export default function Share({
         <Anchor
           href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
             url
-          )}`}
+          )}&t=${encodeURIComponent(title)}`}
           title="Commenter sur Facebook"
           target="_blank"
         >
@@ -38,7 +38,7 @@ export default function Share({
         </Anchor>
         {" - "}
         <Anchor
-          href={`mailto:${ORGANISATION_CONTACT}`}
+          href={`mailto:${ORGANISATION_CONTACT}?subject=${encodeURIComponent(`A propos de "${title}"`)}`}
           title="Me répondre par courriel"
           target="_blank"
         >

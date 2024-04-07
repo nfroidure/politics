@@ -14,4 +14,6 @@ export const MASTODON_SERVER = "mastodon.social";
 export const TWITTER_ACCOUNT = "nfroidure";
 export const FACEBOOK_ACCOUNT = "nicolas.froidure.douai";
 export const LINKEDIN_ACCOUNT = "nfroidure";
-export const BLUESKY_ACCOUNT = "nfroidure.bsky.social";
+export const BLUESKY_ACCOUNT = "nfroidure";
+export const BLUESKY_SERVER = "bsky.social";
+export const BLUESKY_APP = "bsky.app";
