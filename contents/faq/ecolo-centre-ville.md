@@ -10,7 +10,7 @@ Une attaque dénuée de fondement. En effet, si je prends le cas d’EÉLV, qui 
 
 Une formation comme EÉLV qui a obtenu plusieurs mairies, mandats départementaux et régionaux dans des secteurs ruraux comme métropolitains, est, bien entendu, aux prises avec les réalités des français·es.
 
-Si je prend l’exemple du GL du Douaisis, nous avons des adhérent·es de divers milieux (des agriculteurices, des personnes sans emploi, des étudiant·es...).
+Si je prend l’exemple du GL du Douaisis, nous avons des adhérent·es de divers milieux (des agriculteurices, des personnes sans emploi, des étudiant·es…).
 
 Je suis moi-même plus rural que citadin étant donné que j’ai passé toute ma jeunesse [dans un village de 1500 habitant·es](/biographie#origine-et-enfance "Lire la partie enfance de ma biographie").
 

@@ -1,6 +1,6 @@
 ---
 title: Pour une région actrice d’un numérique humain
-description: Le rôle des collectivités est d'influer sur les tendances pour les rendre plus humaines. Le numérique ne devrait pas être en reste.
+description: Le rôle des collectivités est d’influer sur les tendances pour les rendre plus humaines. Le numérique ne devrait pas être en reste.
 date: "2020-09-13T11:00:00.000Z"
 draft: false
 categories:
@@ -37,7 +37,7 @@ Il est temps de mettre ces compétences au service des citoyen-nes pour passer d
 
 Le numérique n’est pas une fin en soi. On a pas besoin d’acheter un multimètre pour bénéficier du courant électrique. Pourquoi en serait-il autrement pour le numérique ?
 
-La digitalisation des services publics mène au concept de fracture numérique quand il existe des moyens tout à fait fonctionnels de permettre aux personnes qui ont embrassé la technologie d'accéder rapidement et librement à l’information, aux services publics, et en même temps, de permettre un accès alternatif à ceux qui ne souhaitent pas consacrer une part non négligeable de leur temps et de leur budget à faire parti d’un monde pour lequel iels n’ont aucun attrait.
+La digitalisation des services publics mène au concept de fracture numérique quand il existe des moyens tout à fait fonctionnels de permettre aux personnes qui ont embrassé la technologie d’accéder rapidement et librement à l’information, aux services publics, et en même temps, de permettre un accès alternatif à ceux qui ne souhaitent pas consacrer une part non négligeable de leur temps et de leur budget à faire parti d’un monde pour lequel iels n’ont aucun attrait.
 
 Il est de la responsabilité des professionnel-les du numérique de prendre en charge des alternatives à l’accès via un terminal : envois de courrier automatisé, serveurs vocaux, reconnaissance de caractères/vocale, traitement du langage naturel… les solutions fiables et pérennes ne manquent pas pour combler le manque flagrant d’inclusivité du numérique.
 

@@ -34,17 +34,17 @@ La/le commerçant·e, à ce même titre, propose des verres consignés vides et 
 
 Il s’occupe d’apporter les consignes sales et d’emporter les consignes neuves (ou un service de retrait/dépôt est créé).
 
-## Avantages pour les commerçant-es
+## Avantages pour les commerçant·es
 
 Le/la commerçant·e proposant ce service jouit, bien-sûr, d’une image de marque écologique volontariste.
 
-Au titre des déchets non traités en déchetterie, l’agglomération pourrait verser à ces commerçant·es une prime de réutilisation équivalent à l’argent économisé pour le traitement des déchets en fonction du nombre de contenant apportés et retirés à la laverie communautaire.
+Au titre des déchets non traités en déchèterie, l’agglomération pourrait verser à ces commerçant·es une prime de réutilisation équivalent à l’argent économisé pour le traitement des déchets en fonction du nombre de contenant apportés et retirés à la laverie communautaire.
 
 Iels sont défrayé·es de tous leurs allers-retours à cette laverie (si c’est iels qui se chargent de ces derniers).
 
-## Avantages pour les client-es
+## Avantages pour les client·es
 
-Grâce au système de consigne, les client-es n’ont plus besoin de s’occuper du nettoyage minutieux de leurs contenants et bénéficient donc d’une garantie maximale en terme de respect des normes sanitaires.
+Grâce au système de consigne, les client·es n’ont plus besoin de s’occuper du nettoyage minutieux de leurs contenants et bénéficient donc d’une garantie maximale en terme de respect des normes sanitaires.
 
 ## Avantages pour la ville
 

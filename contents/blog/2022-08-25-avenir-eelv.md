@@ -38,7 +38,7 @@ Je suis, en revanche, toujours [favorable à l’union](./l-union-pour-quoi-fair
 
 Cela dépend donc :
 - de la nature du scrutin : aux européennes, il est inutile de faire liste commune puisque [c’est un scrutin proportionnel](https://fr.wikipedia.org/wiki/%C3%89lections_du_Parlement_europ%C3%A9en),
-- de la nature des partenaires : leur propension à accepter d’intégrer des mesures écologiques au programme commun, puis, à les respecter. En cas de leadership d’une formation, sa capacité à respecter ses partenaires... les scrutins municipaux, présidentiels et législatifs s’y prêtent certainement,
+- de la nature des partenaires : leur propension à accepter d’intégrer des mesures écologiques au programme commun, puis, à les respecter. En cas de leadership d’une formation, sa capacité à respecter ses partenaires… les scrutins municipaux, présidentiels et législatifs s’y prêtent certainement,
 - de l’attrait des propositions portées par chaque formation : il va de soi que le poids de chaque formation dans les urnes doit être pris en compte lors des unions pour que chaque formation puisse obtenir la juste représentation qu’elle mérite aux yeux des électeurices.
 
 Il serait facile de qualifier tout cela de tambouille électorale, mais ceci est dû à la nature du clivage gauche/droite compris comme celleux qui souhaitent le changement contre les tenant·es de l’immobilisme voire du retour en arrière. D’un côté, le changement est protéiforme, de l’autre, le recul est plutôt uniforme voire carrément linéaire.

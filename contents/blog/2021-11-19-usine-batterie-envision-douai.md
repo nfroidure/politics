@@ -1,6 +1,6 @@
 ---
 title: Projet d’usine de batterie Envision Douai
-description: La consultation préalable sur ce projet vient d’être lancée, je m'y suis plongé et vous livre le contenu de ma participation.
+description: La consultation préalable sur ce projet vient d’être lancée, je m’y suis plongé et vous livre le contenu de ma participation.
 date: "2021-11-24T09:00:00.000Z"
 draft: false
 categories:

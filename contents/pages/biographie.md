@@ -19,7 +19,7 @@ Je suis également un bon manuel, j’ai rénové la maison, que ma compagne et 
 
 Je fais parti des dernier·es né·es à Douai, dans la clinique des Augustins qui aujourd’hui n’existe plus.
 
-Ma mère était enseignante au lycée Rabelais (annexe Fortier) et issue d’une famille de commerçant·es Douaisien·nes (pompes funèbres, cafés, stores, tapis/décoration... famille Vernez).
+Ma mère était enseignante au lycée Rabelais (annexe Fortier) et issue d’une famille de commerçant·es Douaisien·nes (pompes funèbres, cafés, stores, tapis/décoration… famille Vernez).
 
 Mon père a changé de vie professionnelle plusieurs fois mais fût principalement visiteur médical. Mon grand père occupait des fonctions liées à l’exploitation minière à la cockerie d’Auby et ma grand mère était dentiste employée par une société minière du Douaisis.
 
@@ -29,7 +29,7 @@ J’ai donc toujours oscillé entre vie rurale et plaisir de côtoyer les rues d
 
 J’ai grandi dans une famille nombreuse de 6 frères et sœurs avec d’importants écarts d’âge dûs aux remariages de mes parents. J’ai donc eu très tôt le sens du partage et des responsabilités.
 
-J’ai aussi pu profiter d’un cadre naturel verdoyant une bonne partie de l’année, construction de cabanes, pêche à la ligne... j’ai nourri un lien étroit avec la nature : j’ai vécu avec de nombreux animaux de compagnie (jusqu’à 4 chien·nes en même temps), mais aussi d’élevage (poules, canards, oies, lapins et moutons) et, bien-sûr, j’ai jouit des avantages de la vie en milieu rural (vendre les fruits du verger, glâner dans les champs, vagabonder librement).
+J’ai aussi pu profiter d’un cadre naturel verdoyant une bonne partie de l’année, construction de cabanes, pêche à la ligne… j’ai nourri un lien étroit avec la nature : j’ai vécu avec de nombreux animaux de compagnie (jusqu’à 4 chien·nes en même temps), mais aussi d’élevage (poules, canards, oies, lapins et moutons) et, bien-sûr, j’ai jouit des avantages de la vie en milieu rural (vendre les fruits du verger, glâner dans les champs, vagabonder librement).
 
 Mais j’ai également pu assister aux moments forts de Douai en ne ratant que quelques fêtes de Gayant, en visitant régulièrement la ville pour y voir parents, grands-parents, oncles et tantes). J’ai pu expérimenter les apports qu’une ville centre comme Douai prodigue aux habitant·es des villages alentours.
 
@@ -45,13 +45,13 @@ Tout ceci m’a amené au lycée Corot où j’ai doublé une première fois en 
 
 J’ai tenté une licence en informatique en étant, en parallèle, assistant d’éducation au collège de Marquion, mais j’ai arrêté mes études après une première année où il fût difficile de lier activité professionnelle et cours pour finalement entrer définitivement dans le monde professionnel.
 
-En effet, pris dans le fameux trou entre bénéficiaires des bourses et milieux aisés pouvant mettre la main à la poche pour les études de leurs enfants (les crédits contractés ne sont pas pris en compte pour l’attribution des bourses...), je n’avais d’autre choix que de travailler mais les horaires étaient compliqués et cela relevait de l’abnégation totale pour suivre des cours que je ne considérais pas à l’époque comme très utiles.
+En effet, pris dans le fameux trou entre bénéficiaires des bourses et milieux aisés pouvant mettre la main à la poche pour les études de leurs enfants (les crédits contractés ne sont pas pris en compte pour l’attribution des bourses…), je n’avais d’autre choix que de travailler mais les horaires étaient compliqués et cela relevait de l’abnégation totale pour suivre des cours que je ne considérais pas à l’époque comme très utiles.
 
 Aujourd’hui encore, je suis littéralement fasciné par celleux qui ont su étudier avec succès tout en ayant pas eu d’aide de la part de leurs parents.
 
 ## Parcours professionnel
 
-Obtenir un premier emploi sans diplôme ni expérience n’est pas une mince affaire. J’ai cumulé plusieurs petits contrats : tour à tour vendeur en magasin le temps d’un remplacement congé maternité, technico-commercial en bureautique... J’ai connu quelques périodes de chômage.
+Obtenir un premier emploi sans diplôme ni expérience n’est pas une mince affaire. J’ai cumulé plusieurs petits contrats : tour à tour vendeur en magasin le temps d’un remplacement congé maternité, technico-commercial en bureautique… J’ai connu quelques périodes de chômage.
 
 J’ai commencé à chercher du travail en informatique suite à la rencontre de ma compagne qui me voyant programmer le week-end me demanda pourquoi je ne cherchais pas de travail dans ce secteur.
 
@@ -65,7 +65,7 @@ Avec plusieurs amis nous avons créé un cercle de programmeurs/euses nommé ["C
 
 Suite à cela, j’ai été sollicité pour écrire un livre technique ([Javascript - MA Éditions](http://www.ma-editions.com/informatique/1-micro-application/39-le-guide-complet-poche/4442/javascript/)) et ai rencontré un certain succès avec mes librairies et logiciels open-source ce qui m’a valut de nombreuses propositions d’emploi que j’ai fini par accepter.
 
-J’ai eu la chance de participer à la fondation de plusieurs startups qui ont connu un succès international, de parfaire mon anglais en voyageant à Londres régulièrement...
+J’ai eu la chance de participer à la fondation de plusieurs startups qui ont connu un succès international, de parfaire mon anglais en voyageant à Londres régulièrement…
 
 Je donne, enfin, des cours dans une école d’ingénieur·es sur une thématique qui m’est chère : le GreenIT (où comment créer des services informatiques à faible consommation énergétique/en matières premières).
 

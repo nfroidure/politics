@@ -33,7 +33,7 @@ Au delà de la forme, peu engageante, d’une association dont les fondateurs so
 
 Selon ces derniers, ils seraient maintenant apolitiques, mais la question est, pour combien de temps ? Comment apporter du crédit aux éventuelles conclusions de cette association dès lors ?
 
-D’autant qu’au delà du simple engagement politique, pour certains membres, on est clairement sur une ligne très à droite, comme en témoignent ces publications relayant les discours de l’extrême droite ou faisant sauter le barrage républicain avec les [conséquences que l’on connaît dans le Douaisis](./la-contagion-rn-peut-etre-stoppee)...
+D’autant qu’au delà du simple engagement politique, pour certains membres, on est clairement sur une ligne très à droite, comme en témoignent ces publications relayant les discours de l’extrême droite ou faisant sauter le barrage républicain avec les [conséquences que l’on connaît dans le Douaisis](./la-contagion-rn-peut-etre-stoppee)…
 
 ![Publication de Jacques Brenot relayant Éric Zemmour](/public/illustrations/publication-jacques-brenot-zemmour.png)
 ![Publication de Jacques Brenot relayant Marion Maréchal Le Pen](/public/illustrations/publication-jacques-brenot-lepen.png)
@@ -57,7 +57,7 @@ Bref, je pense que tout·e citoyen·ne du Douaisis maximisera son impact contre 
 
 Enfin, dernier point qui me semble important à souligner : la posture de "contribuable" me semble être un mauvais point d’entrée. Elle introduit un sorte de sous-groupe où, finalement, ce serait le montant de vos impôts qui ferait votre légitimité.
 
-Or, nous sommes toutes et tous des [contribuables](https://fr.wiktionary.org/wiki/contribuable). Chacun·e d’entre nous paie a minima de la TVA. Une TVA qui pèse lourdement sur les foyers les plus modestes. C’est ce que démontre le graphique suivant. En fait, l’effort est réel dans quasi toutes les tranches de revenu sauf pour les 99.9% les plus riches, cherchez l’erreur...
+Or, nous sommes toutes et tous des [contribuables](https://fr.wiktionary.org/wiki/contribuable). Chacun·e d’entre nous paie a minima de la TVA. Une TVA qui pèse lourdement sur les foyers les plus modestes. C’est ce que démontre le graphique suivant. En fait, l’effort est réel dans quasi toutes les tranches de revenu sauf pour les 99.9% les plus riches, cherchez l’erreur…
 
 ![La régressivité du système fiscal français. Source : Libération du 21 janvier 2011](/public/illustrations/composition-impots.jpg)
 

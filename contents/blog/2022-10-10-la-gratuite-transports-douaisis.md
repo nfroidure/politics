@@ -25,7 +25,7 @@ Malgré un certain soupçon de tentative d’influencer le résultat du vote (qu
 
 Nous le savons, la voiture individuelle est vouée à disparaître tant son impact écologique est néfaste pour notre environnement (j’ai pu développer [ma vision complète sur ce thème](./quel-avenir-pour-l-automobile)).
 
-Il est donc crucial de trouver la bonne formule pour que la mobilité de nos concitoyen·nes soit préservée tout en augmentant la part des transports en commun ou des modes actifs (marche, vélo...).
+Il est donc crucial de trouver la bonne formule pour que la mobilité de nos concitoyen·nes soit préservée tout en augmentant la part des transports en commun ou des modes actifs (marche, vélo…).
 
 La gratuité totale des transports en commun sert cet objectif de plusieurs manières.
 
@@ -43,7 +43,7 @@ Dans le Douaisis, on a pu constater, selon Claude Hégo, président du SMTD et m
 
 La gratuité des transports en commun c’est aussi de nombreux effets bénéfiques indirects.
 
-Tout d’abord, des économies de gestion, de ressources et matières premières (agences, bornes, traitement administratif, contrôle...). Plus besoin d’installer, entretenir et alimenter des bornes d’achat de billets. Les agences ne sont plus nécessaires et les arrêts sont plus courts.
+Tout d’abord, des économies de gestion, de ressources et matières premières (agences, bornes, traitement administratif, contrôle…). Plus besoin d’installer, entretenir et alimenter des bornes d’achat de billets. Les agences ne sont plus nécessaires et les arrêts sont plus courts.
 
 Mais même en dehors du Syndicat Mixte des Transports du Douaisis, ce sont surprenamment les entreprises qui font l’économie de coûts de gestion. En effet, les allers-retours avec la comptabilité et prises en compte du remboursement des transports en commun sont de facto supprimés pour les salariés habitant et travaillant dans le Douaisis.
 
@@ -55,7 +55,7 @@ La gratuité permet le retour de la mixité sociale et de ses bénéfices. Nos a
 
 ## Financement
 
-Un grief souvent porté à la gratuité est que rien n’est gratuit, il y a toujours quelqu’un qui paie au final. C’est vrai, mais c’est déjà largement le cas : réductions en fonction des revenus, part de l’employeur...
+Un grief souvent porté à la gratuité est que rien n’est gratuit, il y a toujours quelqu’un qui paie au final. C’est vrai, mais c’est déjà largement le cas : réductions en fonction des revenus, part de l’employeur…
 
 En fait, la gratuité par ses économies de gestion rend simplement la fiscalité plus efficace. Les communautés de commune sont en fait déjà financées pour moitié par les entreprises. Que cette fiscalité remplace le remboursement de la part employeur me semble plus efficient. Cette part est en revanche perdue concernant les entreprises hors agglomération. Pour une ville comme Douai, ceci peut représenter un certains budget mais les transports hors agglomération ne sont pas gratuits à ce jour, c’est donc plutôt anecdotique.
 

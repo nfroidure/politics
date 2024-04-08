@@ -40,7 +40,7 @@ Face à la multiplication des événements climatiques extrêmes, l’aménageme
 
 Ce qui peut frapper, quand on s’intéresse à l’aménagement d’une ville, c’est l’obsession du contrôle. **On prévoit des usages et on ne permet qu’eux.**
 
-Un exemple concret; les bancs anti-clochard·es : on ne souhaite pas qu’un endroit soit squatté alors on supprime les bancs ou on les rend suffisamment inconfortables pour qu’ils ne puissent être utilisés de façon non-souhaitée (pas de dossier, bancs inconfortables, impossibilité de s’allonger dessus...).
+Un exemple concret; les bancs anti-clochard·es : on ne souhaite pas qu’un endroit soit squatté alors on supprime les bancs ou on les rend suffisamment inconfortables pour qu’ils ne puissent être utilisés de façon non-souhaitée (pas de dossier, bancs inconfortables, impossibilité de s’allonger dessus…).
 
 ![Photographie des bancs au Faubourg de Béthune](/public/illustrations/banc-faubourg-bethune-douai.jpg)
 ![Photographie de banc anti clochard à la fonderie](/public/illustrations/banc-anti-clochard-fonderie-douai.jpg)
@@ -61,8 +61,8 @@ En effet, le parc est toujours squatté la nuit. Pire, les portes sont vandalis�
 ![Photographie du portail automatique mis en sécurité puis forcé au Parc Bertin](/public/illustrations/porte-automatique-douai-parc-bertin.jpg)
 ![Photographie de l’entrée du Parc Bertin](/public/illustrations/entree-parc-bertin.jpg)
 ![Photographie du coût du Parc Bertin](/public/illustrations/cout-parc-bertin.jpg)
-![Photographie du portique du Parc Bertin entrain d'être réparé pour une énième fois](/public/illustrations/parc-bertin-portique-en-maintenance.jpg)
-![Photographie d'une personne SDF que j'ai retrouvée suspendue à la clôture du parc Bertin](/public/illustrations/photographie-sdf-suspendu-cloture-parc-bertain.jpg)
+![Photographie du portique du Parc Bertin entrain d’être réparé pour une énième fois](/public/illustrations/parc-bertin-portique-en-maintenance.jpg)
+![Photographie d’une personne SDF que j’ai retrouvée suspendue à la clôture du parc Bertin](/public/illustrations/photographie-sdf-suspendu-cloture-parc-bertain.jpg)
 
 Comble de l’ironie, l’entrée du parc est signalée parc un rétro-éclairage LED alors qu’à ces heures nocturnes, il n’est plus possible d’y entrer.
 
@@ -150,9 +150,9 @@ Raisonner en silo est dangereux, ce n’est pas parce que la ville n’a pas tel
 
 C’est pour cela que je suis en faveur de l’application stricte du filtre écologique aux dépenses et investissements de toutes les collectivités.
 
-Un excellent moyen d’éviter les effets de silos est de sortir des projets gigantesques où l’on part d’une feuille blanche pour créer une aire de jeu, une rue... De petites actions mélioratives me semblent préférables, même si elle sont moins visibles des citoyen·nes (et donc, ne sont pas mises au "crédit" des élu·es).
+Un excellent moyen d’éviter les effets de silos est de sortir des projets gigantesques où l’on part d’une feuille blanche pour créer une aire de jeu, une rue… De petites actions mélioratives me semblent préférables, même si elle sont moins visibles des citoyen·nes (et donc, ne sont pas mises au "crédit" des élu·es).
 
-Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pures visées électoraliste et/ou de postérité...
+Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pures visées électoraliste et/ou de postérité…
 
 Les silos idéologiques représentent également un danger pour notre avenir commun. Si chacun·e s’arc-boute sur sa verticale (l’écologie n’est d’ailleurs pas épargnée, du tout climat, à l’anthropomorphisme en passant par la mystification volontaire ou involontaire de la Nature), alors, il n’y a aucune chance d’advenir à une doctrine écologique qui fasse système, qui soit connectée à notre époque, ses enjeux et le contexte dans lequel la transition écologique doit prendre racine.
 

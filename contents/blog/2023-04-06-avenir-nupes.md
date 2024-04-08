@@ -27,7 +27,7 @@ Sur le point de l’Union, la lecture de la France Insoumise est que le PCF (Par
 
 Pour ma part, je pense que l’échec de cette union est l’impréparation : il eût été possible de trouver des terrains d’entente communs en ayant des négociations programmatiques sincères et des règles de désignation claires.
 
-Malheureusement, chaque camp était arc-bouté sur ses faire valoir : LFI sur le score de Jean-Luc Mélenchon aux dernières présidentielles, EÉLV sur leur score aux européennes, le PS focalisé sur sa renaissance et le PCF sur son indépendance vis à vis du forcing LFI...
+Malheureusement, chaque camp était arc-bouté sur ses faire valoir : LFI sur le score de Jean-Luc Mélenchon aux dernières présidentielles, EÉLV sur leur score aux européennes, le PS focalisé sur sa renaissance et le PCF sur son indépendance vis à vis du forcing LFI…
 
 La société civile, au travers de la primaire populaire, a fait une tentative de clé de bras pour forcer une union autour d’un processus de désignation déterminé et d’un socle de valeurs communes. [Une tentative qui s’est soldée par un échec](./primaire-populaire-un-echec-cuisant).
 
@@ -77,7 +77,7 @@ La campagne a été rude, il n’était pas rare que je retrouve des affiches LF
 
 In fine, c’est à 345 voix que s’est joué le résultat. Une nouvelle fois, c’est Chritian Poiret qui a tiré parti de la désunion et de la désorganisation de la gauche à Douai. Le Douaisis aurait pu faire sa part en l’empêchant, par les urnes, de devenir Président du département du Nord et d’y amplifier ses politiques anti-sociales.
 
-Dans ce contexte, forcément, les accords nationaux qui ont désigné le binôme LFI qui avait été face à nous aux départementales ont eu un goût amer. Ils ont occulté les dynamiques locales, la NUPES, elle était faite depuis longtemps à Douai, en dépit du contre-feu LFI. Cela n’a pas été évident à accepter et, vécu comme une violence par certain⋅es. Malgré tout, le sens de l’intérêt général l’a emporté et il n’y a pas eu de candidature dissidente. C'est aussi la raison pour laquelle je rédige ce billet, seulement maintenant, [après avoir fait bloc](./legislatives-2022-pas-investi-mais-implique).
+Dans ce contexte, forcément, les accords nationaux qui ont désigné le binôme LFI qui avait été face à nous aux départementales ont eu un goût amer. Ils ont occulté les dynamiques locales, la NUPES, elle était faite depuis longtemps à Douai, en dépit du contre-feu LFI. Cela n’a pas été évident à accepter et, vécu comme une violence par certain⋅es. Malgré tout, le sens de l’intérêt général l’a emporté et il n’y a pas eu de candidature dissidente. C’est aussi la raison pour laquelle je rédige ce billet, seulement maintenant, [après avoir fait bloc](./legislatives-2022-pas-investi-mais-implique).
 
 Aujourd’hui, il ne s’agit pas de refaire l’histoire, mais de tisser des liens sincères qui permettent de travailler localement. Bien-sûr le cadre cité plus haut est une voie possible, mais je pense qu’il est nécessaire aussi de clarifier la situation et, surtout, les intentions de chacun⋅e.
 

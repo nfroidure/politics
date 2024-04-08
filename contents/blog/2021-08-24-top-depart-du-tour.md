@@ -19,7 +19,7 @@ tags:
 
 🚲 Et comme, de surcroît, celui-ci reste facilement traversable en bicyclette, j’ai décidé de faire le tour du Douaisis à vélo pour cette fin d’été !
 
-✅ L’idée est d’aller revoir les coins où j’ai vécu, joué, ri, de dire bonjour à des ami-es et de rencontrer de nouvelles personnes et accessoirement remplir ma gourde ! Je ferais des publications au gré de mes rencontres.
+✅ L’idée est d’aller revoir les coins où j’ai vécu, joué, ri, de dire bonjour à des ami·es et de rencontrer de nouvelles personnes et accessoirement remplir ma gourde ! Je ferais des publications au gré de mes rencontres.
 
 👍 D’ailleurs, si vous le souhaitez, n’hésitez pas à m’envoyer un message privé pour me proposer un peu d’eau sur la route, de visiter un lieu qu’il faut absolument voir dans le Douaisis, ou juste pour faire ma connaissance, toutes les possibilités sont ouvertes ! Je sais aussi que nombreux/euses sont mes camarades d’enfance qui me suivent sur Facebook : si je ne l’ai pas encore fait, contactez moi, je passe vous dire bonjour en chemin !!!
 

@@ -49,7 +49,7 @@ On pourrait s’attendre, donc, à ce que les abonnements fibre soient moins on�
 
 Tous les opérateurs affichent un prix équivalent pendant 1 an, puis, le prix de l’abonnement double quasiment.
 
-Qu’est-ce qui justifie une telle différence ? De mon point de vue : rien. Du point de vue des opérateurs, c’est l’offre de service plus complète : TV, téléphone... et bien sûr la nouvelle box.
+Qu’est-ce qui justifie une telle différence ? De mon point de vue : rien. Du point de vue des opérateurs, c’est l’offre de service plus complète : TV, téléphone… et bien sûr la nouvelle box.
 
 Pour les personnes qui, comme moi, souhaitent juste avoir Internet, c’est clairement un recul dans l’offre de service. Le problème est que ce recul est coordonné entre tous les opérateurs qui s’entendent une fois de plus sur les prix.
 
@@ -65,7 +65,7 @@ En fait, on joue sur les mots, ce n’est plus commercialisé, mais les lignes e
 
 ### Dégradation du service, organisée ?
 
-Perdants dans le maintien des offres fibres et cuivre simultanément, les opérateurs forcent la main des usager·es avec un service Internet qui se dégrade, j’ai pu personnellement le constater : problèmes d’obtention d’adresse IP, débit limité... À chaque fois, il est alors nécessaire de passer par le support qui, bien-sûr, en remet une couche avec une publicité pour abonnement fibre pendant l’attente...
+Perdants dans le maintien des offres fibres et cuivre simultanément, les opérateurs forcent la main des usager·es avec un service Internet qui se dégrade, j’ai pu personnellement le constater : problèmes d’obtention d’adresse IP, débit limité… À chaque fois, il est alors nécessaire de passer par le support qui, bien-sûr, en remet une couche avec une publicité pour abonnement fibre pendant l’attente…
 
 Si elle n’est pas organisée, cette dégradation est à tout le moins le résultat d’un effort minimal (voire inexistant) dans la maintenance de ces infrastructures vieillissantes. 
 
@@ -81,7 +81,7 @@ Bref, une solution intéressante, j’ai hâte de profiter de cette connexion. P
 
 ## Avenir des télécoms
 
-Comme pour tous les réseaux (EDF, SNCF...) je suis favorable au retour de la nationalisation des infrastructures. On le voit, ce sont des maillons essentiels à la planification écologique. Ils évitent la redondance des infrastructures (véritable aberration écologique), mais aussi, permettent un accès égal au service public sur tout le territoire et une utilisation rationnelle des moyens mis en œuvre.
+Comme pour tous les réseaux (EDF, SNCF…) je suis favorable au retour de la nationalisation des infrastructures. On le voit, ce sont des maillons essentiels à la planification écologique. Ils évitent la redondance des infrastructures (véritable aberration écologique), mais aussi, permettent un accès égal au service public sur tout le territoire et une utilisation rationnelle des moyens mis en œuvre.
 
 Nous l’avons vu avec les possibles délestages et les coupures d’Internet probables, les opérateurs privés, intéressés uniquement par le profit, ne sont pas en mesure d’assurer la résilience des infrastructures stratégiques ou vitales pour la population. Dans une société numérique, la connexion Internet devient nécessaire et les coupures peuvent avoir de graves conséquences.
 

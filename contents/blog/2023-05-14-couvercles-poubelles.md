@@ -48,7 +48,7 @@ Nous n’avons pas pris les élu⋅es par surprise puisqu’en réalité, cela f
 
 Nous avons interpellé les élu⋅es en charge à l’oral un bon nombre de fois, puis, par écrit, en 2022 (notamment Patrice Bricout et Frédéric Delannoy tous deux élus à la CCCO, le premier délégué à la collecte et au traitement des déchets ménagers et le second président).
 
-Auparavant, des démarches ont été entreprises à Auberchicourt par Bernard Coquelle qui a recensé les poubelles sans couvercles et demandé à la mairie d’envoyer par courrier aux habitant⋅es la marche à suivre pour les faire remplacer ; ce qu'elle a fait.
+Auparavant, des démarches ont été entreprises à Auberchicourt par Bernard Coquelle qui a recensé les poubelles sans couvercles et demandé à la mairie d’envoyer par courrier aux habitant⋅es la marche à suivre pour les faire remplacer ; ce qu’elle a fait.
 
 Bien qu’un bon nombre de personnes aient joué le jeu, il reste des récalcitrant⋅es. Visiblement, pour solutionner le problème, il faut changer d’échelon.
 
@@ -67,7 +67,7 @@ En passant mon samedi matin en conférence de presse à Somain, je pensais bien 
 
 Cela a été le cas grâce à l’[article de la Voix du Nord](https://www.lavoixdunord.fr/1323237/article/2023-05-03/somain-les-couvercles-des-poubelles-sont-indispensables-pour-le-respect-du-tri), mais l’article de l’Observateur a été moins satisfaisant, pour ne pas dire, déceptif.
 
-Rien à voir avec les journalistes, mais plutôt avec la posture de Frédéric Delannoy qui a littéralement botté en touche. Prétextant que ce n’est pas là qu’il faut aller chercher l’écologie (merci pour la leçon...), ce dernier nous propose de "regarder ailleurs", notamment à la cité des Chauffour qui a [subit des malfaçons](https://www.lobservateur.fr/somain-suite-aux-malfacons-cite-du-chauffour-le-maire-va-demander-des-comptes-au-bailleur/) lors de sa rénovation. 
+Rien à voir avec les journalistes, mais plutôt avec la posture de Frédéric Delannoy qui a littéralement botté en touche. Prétextant que ce n’est pas là qu’il faut aller chercher l’écologie (merci pour la leçon…), ce dernier nous propose de "regarder ailleurs", notamment à la cité des Chauffour qui a [subit des malfaçons](https://www.lobservateur.fr/somain-suite-aux-malfacons-cite-du-chauffour-le-maire-va-demander-des-comptes-au-bailleur/) lors de sa rénovation. 
 
 Pratique, puisque ces problèmes, du ressort de SIA Habitat, ne nécessitent qu’un "coup de poing sur la table" alors que quand il est possible de se sortir les mains des poches, c’est pour balayer les sujets d’un revers de la main.
 

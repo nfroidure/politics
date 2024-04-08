@@ -16,7 +16,7 @@ illustration:
 
 # Quel avenir pour l’automobile ?
 
-On fait souvent le procès aux écologistes d’être anti-automobile. Pourtant, plutôt que Cassandre, c’est [Paracelse](https://fr.wikipedia.org/wiki/Paracelse) que je citerai : «Toutes les choses sont poison, et rien n’est sans poison ; seule la dose fait qu’une chose n’est pas poison».
+On fait souvent le procès aux écologistes d’être anti-automobile. Pourtant, plutôt que Cassandre, c’est [Paracelse](https://fr.wikipedia.org/wiki/Paracelse) que je citerai : «Toutes les choses sont poison, et rien n’est sans poison ; seule la dose fait qu’une chose n’est pas poison».
 
 **C’est pourquoi il nous faut 10 fois moins de voitures, 3 fois moins lourdes et à l’électricité décarbonée.**
 

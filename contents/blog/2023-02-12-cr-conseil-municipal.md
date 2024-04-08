@@ -21,7 +21,7 @@ Ce vendredi soir nos élu·es de la municipalité se sont de nouveau réuni·es 
 
 Nous avons assisté à une belle présentation qui démontre que les choses vont dans le bon sens. Les interventions ont été peu nombreuses, celles de Franz Quatreboeuf, Xavier Thierry et François Thibaut ont été similaires et soulignaient ce qui avait été dit précédemment : il reste du travail à faire et la ville reste impactée par la société qui est encore inégalitaire.
 
-Passons sur la sortie de Xavier Thierry sur l’écriture inclusive... Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mises en lumière.
+Passons sur la sortie de Xavier Thierry sur l’écriture inclusive… Il y avait pourtant quelques fragilités dans ce rapport qui méritaient d’être mises en lumière.
 
 ![Rapport égalité femme/homme de la Ville de Douai](/public/illustrations/rapport-egalite-femme-homme-ville-douai.png)
 ![Répartition femme/homme des effectifs de la Ville de Douai](/public/illustrations/effectifs-femme-homme-ville-douai.png)
@@ -39,7 +39,7 @@ Cette approche me semble plus révélatrice de la répartition de la capacité d
 
 ![Investissement de la Ville de Douai pour 2023](/public/illustrations/investissement-douai-2023.png)
 
-Ce parallèle budgétaire pourrait, d’ailleurs, également être fait concernant les délégations des adjoint·es ; le résultat serait probablement sensiblement le même.
+Ce parallèle budgétaire pourrait, d’ailleurs, également être fait concernant les délégations des adjoint·es ; le résultat serait probablement sensiblement le même.
 
 On peut regretter que le récent départ en retraite du directeur du service jardin et cadre de vie n’ait pu faire pencher la balance favorablement à plus d’égalité femme/homme de ce point de vue.
 
@@ -59,8 +59,8 @@ Une idée pour 2025, mettre en valeur ces femmes qui investissent des métiers l
 ![Courrier reçu de la Ville de Douai](/public/illustrations/courrier-mairie-egalite-f-h.jpg "🖼➡️")En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
 
 
-- la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
-- la rémunération moyenne par catégorie :
+- la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
+- la rémunération moyenne par catégorie :
 - - catégorie A : 37 343€ pour les hommes et 34 204€ pour les femmes (3 139€ de plus),
 - - catégorie B : 27 648€ pour les hommes et 25 631€ pour les femmes (2 017€ de plus),
 - - catégorie C : 22 552€ pour les hommes et 20 081€ pour les femmes (2 471€ de plus).
@@ -140,6 +140,6 @@ Malheureusement, ce conseil a de nouveau été ponctué de tensions, notamment s
 
 Le thème de prédilections des oppositions (aussi bien Coline Craeye pour LReM, Xavier Thierry pour LR, Thibaut François RN et François Guiffard majorité de Christian Poiret mais absent ce soir là) a, de nouveau, été mis sur la table.
 
-Il a cependant été bien mal amené, les habitant·es des quartiers s’en souviendront... Espérons que les débats seront plus apaisés au prochain conseil.
+Il a cependant été bien mal amené, les habitant·es des quartiers s’en souviendront… Espérons que les débats seront plus apaisés au prochain conseil.
 
 [Vidéo du conseil municipal](https://www.youtube.com/watch?v=eYrIJzhJBhU "📺 Voir ce conseil municipal en vidéo")

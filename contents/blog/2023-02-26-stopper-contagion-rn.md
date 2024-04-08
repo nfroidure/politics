@@ -22,7 +22,7 @@ Après de nombreux rebondissements ([ma candidature](./profession-de-foi-legisla
 
 En écrivant ces mots, je me rends compte que je n’en ai même pas parlé ici. Toute la gauche était sous le choc, abattue.
 
-Dimitri Houbron, fût battu par Thibaut François et Alain Bruneel par Matthieu Marchio. Ces deux illustres inconnus sont maintenant sensés représenter le peuple...
+Dimitri Houbron, fût battu par Thibaut François et Alain Bruneel par Matthieu Marchio. Ces deux illustres inconnus sont maintenant sensés représenter le peuple…
 
 ## Le barrage républicain a sauté
 
@@ -45,7 +45,7 @@ Dans la seizième circonscription, si l’on additionne les scores "républicain
 - Antoine Stathoulias (Parti Animaliste) : **2,78%** (962 voix)
 - Éric Pecqueur (Lutte Ouvrière) : **1,67%** (577 voix)
 
-Avec un report de voix bien effectué, c’est **61.29%** qu’obtiendrait Alain Bruneel... Mais non, au second tour ce sont 2.01% de nuls (+1.44%) et 5.77% de blancs (+4.17%), une participation moindre et un report de voix prévisible de Reconquête vers le RN supplémenté d’une parti des Républicains...
+Avec un report de voix bien effectué, c’est **61.29%** qu’obtiendrait Alain Bruneel… Mais non, au second tour ce sont 2.01% de nuls (+1.44%) et 5.77% de blancs (+4.17%), une participation moindre et un report de voix prévisible de Reconquête vers le RN supplémenté d’une parti des Républicains…
 
 Les mauvaises langues diront que cela est dû à l’appartenance au Parti Communiste du candidat NUPES, mais dans la dix-septième circonscription, ce n’était pas le cas. Pourtant, là aussi, les résultats laissaient supposer le bon fonctionnement du barrage avec **61.48%** des voix au moins :
 
@@ -62,7 +62,7 @@ Les mauvaises langues diront que cela est dû à l’appartenance au Parti Commu
 - Jean-Luc Frydman (Divers Droite) : 1,38% (438 voix)
 - Dominique Garaud (Mouvement de la Ruralité) : 0,69% (219 voix)
 
-Pourtant, de nouveau, 5,82% de votes blancs (+4.05%) et 2,04% de votes nuls (+1.46%), un report des voix de Reconquête, d’une partie de la droite donnent la victoire au RN malgré une plus forte participation...
+Pourtant, de nouveau, 5,82% de votes blancs (+4.05%) et 2,04% de votes nuls (+1.46%), un report des voix de Reconquête, d’une partie de la droite donnent la victoire au RN malgré une plus forte participation…
 
 Celles et ceux qui ont privilégié leur carrière à une consigne claire et à un refus ferme, de principe, du vote RN portent une lourde responsabilité.
 
@@ -129,9 +129,9 @@ Autre phénomène : la résidentialisation. Elle doit être combattue. Réserve
 
 Quelques mesures simples peuvent faire renaître les communs et l’idée du collectif :
 
-- du mobilier urbain confortable, convivial et inclusif (des bancs avec dossier, des tables de jeu, des rues piétonnes, des aires de jeu qui créent du lien aussi pour les parents, des tiers-lieux...),
-- des règles collaboratives (pour les boîtes à livre, pour la démocratie participative, pour l’affichage de la commune, pour les débats politiques...),
-- la proximité des élu·es et la transparence des politiques publiques (permanences publiques, systèmes de tickets, files d’attente transparentes pour le logement social, votation citoyenne...),
-- sortir les gens des réseaux sociaux, leur suggérer d’éteindre la télévision (et non pas les appeler à s’y rendre pour suivre leur commune...).
+- du mobilier urbain confortable, convivial et inclusif (des bancs avec dossier, des tables de jeu, des rues piétonnes, des aires de jeu qui créent du lien aussi pour les parents, des tiers-lieux…),
+- des règles collaboratives (pour les boîtes à livre, pour la démocratie participative, pour l’affichage de la commune, pour les débats politiques…),
+- la proximité des élu·es et la transparence des politiques publiques (permanences publiques, systèmes de tickets, files d’attente transparentes pour le logement social, votation citoyenne…),
+- sortir les gens des réseaux sociaux, leur suggérer d’éteindre la télévision (et non pas les appeler à s’y rendre pour suivre leur commune…).
 
 Bref, on ne luttera pas contre le RN derrière une ligne Maginot mais en menant une offensive républicaine et sociale. N’hésitez pas à [m’envoyer un courriel](mailto:nicolas.froidure@gmail.com?subject=Stop+RN) si vous souhaitez entrer en action.

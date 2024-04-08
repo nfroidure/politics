@@ -9,7 +9,7 @@ tags:
   - numérique
 illustration:
   url: "/public/illustrations/stop-effet-de-serre.jpg"
-  alt: 'Photographie d’un autocollant "Stop effet de serre"'
+  alt: Photographie d’un autocollant “Stop effet de serre”
 ---
 
 # Les vols intérieurs, ça suffit !

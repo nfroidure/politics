@@ -1,6 +1,6 @@
 ---
 title: "Profession de foi législatives 2022"
-description: "Je candidate officiellement à l'investiture du pôle écologiste pour les législatives 2022. Voici ma profession de foi."
+description: "Je candidate officiellement à l’investiture du pôle écologiste pour les législatives 2022. Voici ma profession de foi."
 date: "2022-02-14T08:53:00.000Z"
 draft: false
 categories:
@@ -9,7 +9,7 @@ tags:
   - Législatives 2022
 illustration:
   url: "/public/illustrations/profession-foi-legislatives-2022.png"
-  alt: "Profession de foi de Nicolas Froidure pour l'investiture aux législatives 2022"
+  alt: "Profession de foi de Nicolas Froidure pour l’investiture aux législatives 2022"
 ---
 
 # Profession de foi
@@ -19,9 +19,9 @@ illustration:
 
 **Note rétrospective :**
 
-Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux législatives sous la bannière exclusive d'Europe Écologie - Les Verts sur la dix-septième circonscription du Nord (Douaisis).
+Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux législatives sous la bannière exclusive d’Europe Écologie - Les Verts sur la dix-septième circonscription du Nord (Douaisis).
 
-Retenue par EÉLV, ma candidature a au final été retirée [en faveur du duo Cyril Grandin / Patricia Boulan (LFI)](./legislatives-2022-pas-investi-mais-implique) à l'occasion de la formation de la [NUPES](https://fr.wikipedia.org/wiki/Nouvelle_Union_populaire_%C3%A9cologique_et_sociale) (Nouvelle Union Populaire Écologique et Sociale).
+Retenue par EÉLV, ma candidature a au final été retirée [en faveur du duo Cyril Grandin / Patricia Boulan (LFI)](./legislatives-2022-pas-investi-mais-implique) à l’occasion de la formation de la [NUPES](https://fr.wikipedia.org/wiki/Nouvelle_Union_populaire_%C3%A9cologique_et_sociale) (Nouvelle Union Populaire Écologique et Sociale).
 
 ---
 

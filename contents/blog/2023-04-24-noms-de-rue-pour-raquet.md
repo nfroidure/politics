@@ -28,7 +28,7 @@ Je regrette également que des personnes encore en vie aient été ajoutées à 
 
 Il me semble que suffisamment de femmes se sont illustrées à travers les siècles pour pouvoir trouver des noms correspondants à cette définition, dès lors, pourquoi s’en priver ?
 
-Enfin, la nature des rues n’est pas idéale. En effet, elles sont neuves et ne seront pas forcément très fréquentées même si c’est toujours bon à prendre, je pense qu’il faudra, à terme, afin d’obtenir une présence féminine plus marquée, renommer des rues qui ont une histoire, et, pourquoi pas, pour les femmes célèbres locales, qui croisent leur histoire : habitation, événement historique etc... Ce qui avait été fait pour la place [Suzanne Lannoy](https://fr.m.wikipedia.org/wiki/Suzanne_Lanoy).
+Enfin, la nature des rues n’est pas idéale. En effet, elles sont neuves et ne seront pas forcément très fréquentées même si c’est toujours bon à prendre, je pense qu’il faudra, à terme, afin d’obtenir une présence féminine plus marquée, renommer des rues qui ont une histoire, et, pourquoi pas, pour les femmes célèbres locales, qui croisent leur histoire : habitation, événement historique etc… Ce qui avait été fait pour la place [Suzanne Lannoy](https://fr.m.wikipedia.org/wiki/Suzanne_Lanoy).
 
 ## Du positif
 
@@ -36,7 +36,7 @@ Mais il y a bien-sûr du positif. À commencer par le fait de consulter les habi
 
 En effet, bien qu’elles aient toujours tenu 50% (un peu plus en fait) du rôle dans l’Histoire de notre pays, elles sont largement sous-représentées dans les noms de rues et d’édifice à Douai. Ce n’est d’ailleurs pas une spécificité locale.
 
-Cette volonté de rétablir une juste représentation est à souligner, d’autant qu’il ne serait pas étonnant que quelques personnes réagissent négativement par incompréhension ou par pur machisme...
+Cette volonté de rétablir une juste représentation est à souligner, d’autant qu’il ne serait pas étonnant que quelques personnes réagissent négativement par incompréhension ou par pur machisme…
 
 ## Mon choix, parmi la sélection
 
@@ -53,8 +53,8 @@ Et des personnalités qui ont un lien particulier avec Douai : [Virginie Demont
 Le choix est difficile, mais je me suis arrêté sur :
 - Rosa Parks pour l’international et la lutte contre le racisme dans un territoire où le Rassemblement National gagne du terrain,
 - Gisèle Halimi pour le national et sa lutte plus que d’actualité au moment de l’inscription du droit à l’avortement dans la constitution (et petit clien-d’œil à Mélanie Vogel, sénatrice écologiste qui a porté avec d’autres cette inscription),
-- Martha Desrumaux qui fût, entre autre, syndicaliste, en echo à [la réforme des retraites](./reforme-des-retraites-2023) (une rue des casseroles serait bienvenue...),
-- Albertine Patin-Eidenschenk pour le local et en clin d’œil à l’école normale, propriété du département, qui est toujours en état de délabrement avancé...
+- Martha Desrumaux qui fût, entre autre, syndicaliste, en echo à [la réforme des retraites](./reforme-des-retraites-2023) (une rue des casseroles serait bienvenue…),
+- Albertine Patin-Eidenschenk pour le local et en clin d’œil à l’école normale, propriété du département, qui est toujours en état de délabrement avancé…
 
 ## Mon choix, si je l’avais vraiment
 
@@ -72,6 +72,6 @@ Enfin, j’aurai probablement proposé [Ada Lovelace](https://fr.wikipedia.org/w
 
 Pour que cette dynamique aille au delà du symbole, il faudrait accélerer le renommage de certaines rues, je vois déjà venir les accusations de "cancel culture wokiste", mais à un moment, il faut agir pour rétablir les équilibres. On ne peut pas se draper ad eternam dans l’inertie au motif de respecter les traditions.
 
-Autre idée, pourquoi ne pas, également, proposer des noms plus poétiques, du type : rue des grandes femmes, boulevard des Douasiennes, rue de l’école normale... des noms qui finalement englobent toutes les femmes et dans lesquelles chacune d’entre elles peut se retrouver. La limite devient alors l’imagination de chacun⋅e.
+Autre idée, pourquoi ne pas, également, proposer des noms plus poétiques, du type : rue des grandes femmes, boulevard des Douasiennes, rue de l’école normale… des noms qui finalement englobent toutes les femmes et dans lesquelles chacune d’entre elles peut se retrouver. La limite devient alors l’imagination de chacun⋅e.
 
 Pourquoi pas enfin, un jour, **la rue de ter-toustes** 😉.

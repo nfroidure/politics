@@ -52,7 +52,7 @@ Enfin, en ce qui concerne l’aspect durable, dont se revendique l’événement
 
 ## Addendum de septembre 2022
 
-Suite à l’obtention des subventions aux associations par le biais d'une CADA effectuée par un citoyen Douaisien, j’ai pu connaître le montant de la subvention accordée s’élevant à 89 658€ (versé en une fois). Les moyens mis à disposition par la mairie n'y sont en revanche pas retranscris. Ce qui représente une subvention de 18€ par entrée (5000 selon les organisateurices si l’on en croit [cet article de l’Observateur](https://www.lobservateur.fr/douai-le-plein-air-festival-va-encore-monter-en-gamme/)).
+Suite à l’obtention des subventions aux associations par le biais d’une CADA effectuée par un citoyen Douaisien, j’ai pu connaître le montant de la subvention accordée s’élevant à 89 658€ (versé en une fois). Les moyens mis à disposition par la mairie n’y sont en revanche pas retranscris. Ce qui représente une subvention de 18€ par entrée (5000 selon les organisateurices si l’on en croit [cet article de l’Observateur](https://www.lobservateur.fr/douai-le-plein-air-festival-va-encore-monter-en-gamme/)).
 
 Et pourtant, cet événement était loin d’être gratuit. Le prix d’entrée de ce festival s’élevait à 26,25€ pour le samedi, 21€ pour le dimanche, 47.25€ pour les 2 jours et 15.99€ pour les résident·es douaisien·nes.
 

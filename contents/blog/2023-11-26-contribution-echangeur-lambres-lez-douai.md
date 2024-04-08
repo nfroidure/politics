@@ -83,9 +83,9 @@ Bref, je me joins aux autres avis :
 
 **Note rétrospective du 7 avril 2024 :**
 
-L'envers du décor. J'ai fait une petite ballade dominicale pour mettre une image sur ce qu'est ce projet, concrètement. Cela sentait encore l'humus malgré la disparition rapide des souches (toutes les zones brunes dans les vues ci-après étaient le bois dont parlais ma contribution). Demain, cela sentira le goudron et les gaz d'échappement. Les 200 camions supplémentaires par jour venus livrer [Envision AESC](./projet-d-usine-de-batterie-envision-douai) à l'idée d'utiliser le rail et le fluvial pourtant à quelques mètres de là.
+L’envers du décor. J’ai fait une petite ballade dominicale pour mettre une image sur ce qu’est ce projet, concrètement. Cela sentait encore l’humus malgré la disparition rapide des souches (toutes les zones brunes dans les vues ci-après étaient le bois dont parlais ma contribution). Demain, cela sentira le goudron et les gaz d’échappement. Les 200 camions supplémentaires par jour venus livrer [Envision AESC](./projet-d-usine-de-batterie-envision-douai) à l’idée d’utiliser le rail et le fluvial pourtant à quelques mètres de là.
 
 ![Vue globale des arbres arrachés](/public/illustrations/echangeur-lambres-travaux-vue-globale.jpg)
 ![Vue du désouchage à travers un engin de chantier](/public/illustrations/echangeur-lambres-travaux-vue-engin-chantier.jpg)
 ![Vue rapprochée des souches retirées](/public/illustrations/echangeur-lambres-travaux-vue-rapprochee-souches.jpg)
-![Vue de la communication de l'agglomération/du département restée là](/public/illustrations/echangeur-lambres-travaux-vue-communication.jpg)
+![Vue de la communication de l’agglomération/du département restée là](/public/illustrations/echangeur-lambres-travaux-vue-communication.jpg)

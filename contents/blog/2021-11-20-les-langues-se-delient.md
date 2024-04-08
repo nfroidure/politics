@@ -33,7 +33,7 @@ Alors, certain·es diront que ces sujets sont anecdotiques par rapport aux faits
 
 Un exemple : quand je constate cette situation, et que j’en ai le réflexe à cet instant, je continue de fixer la femme qui parlait pour lui signifier que je suis toujours en train de l’écouter. Souvent, cela fonctionne et la personne se rend compte de sa bévue.
 
-Mais à la moindre inattention, où quand il n’y a pas d’alliés, ou simplement quand cette femme n’a sur l’instant pas l'énergie pour se rebeller car très certainement, à la maison, c’est en mode ["fallait demander"](https://emmaclit.com/2017/05/09/repartition-des-taches-hommes-femmes/), cela passe, et on retombe dans cette culture machiste, qui finalement, s’applique "par défaut".
+Mais à la moindre inattention, où quand il n’y a pas d’alliés, ou simplement quand cette femme n’a sur l’instant pas l’énergie pour se rebeller car très certainement, à la maison, c’est en mode ["fallait demander"](https://emmaclit.com/2017/05/09/repartition-des-taches-hommes-femmes/), cela passe, et on retombe dans cette culture machiste, qui finalement, s’applique "par défaut".
 
 ## Le pouvoir, un frein à la Justice
 
@@ -67,7 +67,7 @@ Le contexte évolue, et, on le voit, ce n’est pas le fruit du hasard ! Malheu
 
 Le [démarrage de la campagne municipale du groupe local EÉLV Douai](https://www.lavoixdunord.fr/604800/article/2019-06-26/apres-les-europeennes-les-verts-ont-de-nouvelles-ambitions-pour-douai "Voir le lien partagé par Nicolas Froidure") a commencé par un tract que j’ai créé et distribué à un bon nombre de Douaisien·nes.
 
-Une partie de ce dernier était consacrée à l’arrivée de Marie Cagenon aux côtés de Monsieur Gayant pour laquelle [une pétition ayant reçu 150 signatures](https://www.change.org/p/maire-de-douai-et-son-conseil-municipal-pour-que-mme-gayant-figure-sur-le-logo-de-la-ville-de-douai) a été créée. J’ai eu la révélation en créant le logo de EÉLV Douaisis, de l'absence totale de Mme Gayant sur le logo de la ville. Nous avons ensuite organisé plusieurs événements pour soutenir cette cause, notamment la braderie où l’idée a reçu un chaleureux accueil.
+Une partie de ce dernier était consacrée à l’arrivée de Marie Cagenon aux côtés de Monsieur Gayant pour laquelle [une pétition ayant reçu 150 signatures](https://www.change.org/p/maire-de-douai-et-son-conseil-municipal-pour-que-mme-gayant-figure-sur-le-logo-de-la-ville-de-douai) a été créée. J’ai eu la révélation en créant le logo de EÉLV Douaisis, de l’absence totale de Mme Gayant sur le logo de la ville. Nous avons ensuite organisé plusieurs événements pour soutenir cette cause, notamment la braderie où l’idée a reçu un chaleureux accueil.
 
 ![Tract EÉLV des municipales 2020 à Douai](/public/illustrations/tract-municipales-douai.svg)
 
@@ -87,7 +87,7 @@ Je pense qu’il est urgent de remettre de l’entièreté dans la vie politique
 
 Et sur ce thème, comme sur bien d’autres, il est temps d’assumer la radicalité de nos idées pour une société plus juste.
 
-Je vous encourage à [signer l'appel pour mettre fin aux violences sexuelles en politique](https://www.change.org/p/stop-aux-violences-sexuelles-en-politique-aucun-candidat-mis-en-cause-investi-metoopolitique). Aucun candidat mis en cause ne doit être investi.
+Je vous encourage à [signer l’appel pour mettre fin aux violences sexuelles en politique](https://www.change.org/p/stop-aux-violences-sexuelles-en-politique-aucun-candidat-mis-en-cause-investi-metoopolitique). Aucun candidat mis en cause ne doit être investi.
 
 ---
 

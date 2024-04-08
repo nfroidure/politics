@@ -1,5 +1,5 @@
 ---
-title: "Douai : les terrains synthétiques en question"
+title: "Douai : les terrains synthétiques en question"
 description: Ce 28 janvier, le conseil municipal de Douai avait lieu, avec lui, le vote du PPI avec un gazon synthétique auquel les élu·es écologistes étaient opposé·es.
 date: "2024-01-27T12:00:00.000Z"
 draft: false
@@ -19,9 +19,9 @@ Ce 28 janvier, le conseil municipal de Douai avait lieu, avec lui, le vote du PP
 
 ## Les terrains synthétiques, c’est pas automatique
 
-Je partage largement cette réticence à propos des terrains synthétiques. Pour plusieurs raisons :
+Je partage largement cette réticence à propos des terrains synthétiques. Pour plusieurs raisons :
 
-- il est difficile de faire confiance aux fabricants, malgré leur green washing : comme l’a dit Mickaël Dozière (adjoint au sport), “dans les années 2000, on trouvait bien de recycler les pneus pour faire des terrains de football”. Aujourd’hui, l’Union Européenne a [proclamé leur interdiction](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/sport-on-vous-explique-pourquoi-les-pelouses-synthetiques-a-base-de-microplastiques-c-est-termine-2863817.html) au motif de la diffusion de microplastiques et des impacts sur la santé des sportifs/ves. J’avais d’ailleurs déjà évoqué mes réticences aux [terrains synthétiques en 2020](./pour-une-politique-demographique-ecologique-en-france) sur ce blog, il aura fallût bien du temps avant que les alertes ne soient entendues. Aujourd’hui, ces mêmes fabricants changent la formule pour d’autres plastiques qui cassent par temps froid et continuent donc de polluer les abords des stades, peut-on réellement leur faire confiance ?
+- il est difficile de faire confiance aux fabricants, malgré leur green washing : comme l’a dit Mickaël Dozière (adjoint au sport), “dans les années 2000, on trouvait bien de recycler les pneus pour faire des terrains de football”. Aujourd’hui, l’Union Européenne a [proclamé leur interdiction](https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/sport-on-vous-explique-pourquoi-les-pelouses-synthetiques-a-base-de-microplastiques-c-est-termine-2863817.html) au motif de la diffusion de microplastiques et des impacts sur la santé des sportifs/ves. J’avais d’ailleurs déjà évoqué mes réticences aux [terrains synthétiques en 2020](./pour-une-politique-demographique-ecologique-en-france) sur ce blog, il aura fallût bien du temps avant que les alertes ne soient entendues. Aujourd’hui, ces mêmes fabricants changent la formule pour d’autres plastiques qui cassent par temps froid et continuent donc de polluer les abords des stades, peut-on réellement leur faire confiance ?
 - les terrains synthétiques sont de l’artificialisation, là où les sols pourraient absorber les pluies et les transformer en gazon, ils deviennent de nouvelles sources d’eaux usées (polluées, on l’a vu au point précédent). Malgré la neutralité carbone prônée par les fabricants, dès que l’on creuse, on retrouve d’autres polluants, voir même dans certains cas, du pneu recyclé mais “confiné”…
 - les terrains synthétiques [ne sont pas forcément appréciés](https://www.lamontagne.fr/clermont-ferrand-63000/asm-clermont/asm-un-synthetique-pas-sympathique_12659228/) par les sportifs, notamment les pros, qui sont loin de les apprécier et évoquent des blessures caractéristiques de ces terrains,
 - certes, les terrains en herbe nécessitent de l’entretien (mais les terrains synthétiques ont aussi besoin d’être entretenus, les fientes, insectes, résidus organiques etc… se biodégradent plus vite sur un terrain en herbe, on le conçoit aisément), mais c’est aussi de l’emploi. La question revient donc aussi à choisir entre coût de fonctionnement générant de l’emploi local ou investissement plus important,
@@ -29,7 +29,7 @@ Je partage largement cette réticence à propos des terrains synthétiques. Pour
 
 ![Photographie du terrain de hockey du stade Demeny à Douai en pleine séance d’arrosage](/public/illustrations/terrain-hockey-demeny-arrose.jpg)
 
-Au vu de ces éléments, il me semble effectivement important de différer cet investissement et je me réjouis que les élu·es écologistes aient témoigné de leur réticences à ce sujet. La raison invoquée par Jean-Christophe Leclerc, adjoint, est qu’il faudrait plus de terrains en herbe pour le même usage. Certes, mais à Douai, il y avait des alternatives :
+Au vu de ces éléments, il me semble effectivement important de différer cet investissement et je me réjouis que les élu·es écologistes aient témoigné de leur réticences à ce sujet. La raison invoquée par Jean-Christophe Leclerc, adjoint, est qu’il faudrait plus de terrains en herbe pour le même usage. Certes, mais à Douai, il y avait des alternatives :
 
 - le parc Charles Fenain (et le stade Demeny, en partie) étaient utilisés par la FFD (Foot Féminin du Douaisis). Sa dissolution ayant provoqué le [départ de joueuses](https://www.lavoixdunord.fr/1353924/article/2023-07-19/football-une-soixantaine-de-filles-du-foot-feminin-douai-rejoignent-l-es-lambres), ces terrains de nouveau disponibles pourraient accueillir des équipes d’autres clubs (si le Parc Charles Fenain est bon pour les femmes, il l’est aussi pour les hommes),
 - le stade Demeny, lui même, dispose de terrains délaissés pouvant accueillir de nouveaux terrains enherbés, d’ailleurs, le coût d’un terrain en herbe est bien inférieur (de moitié) à celui d’un terrain synthétique, de même que sa durée de vie (au moins double),
@@ -47,15 +47,15 @@ Inscrit au compte rendu à la demande de Stéphanie Stiernon, l’abstention con
 
 Il est regrettable que le maire ait choisi de couper le sifflet des écologistes alors qu’il lui était parfaitement possible de permettre le vote différencié, d’autant qu’il n’avait pas été pris de court, mais était bien informé.
 
-Les coups de théâtre ayant suivi étaient cousus de fil blanc… malgré tout, le Maire s’est engagé à accéder aux demandes des écologistes : associer (enfin !) les écologistes au choix du terrain (qui malgré tout resterait synthétique, mais il est permis d’espérer un changement de point de vue…) et, surtout, investir massivement dans la réfection des écoles.
+Les coups de théâtre ayant suivi étaient cousus de fil blanc… malgré tout, le Maire s’est engagé à accéder aux demandes des écologistes : associer (enfin !) les écologistes au choix du terrain (qui malgré tout resterait synthétique, mais il est permis d’espérer un changement de point de vue…) et, surtout, investir massivement dans la réfection des écoles.
 
 ## Investir, c’est choisir
 
-Ce qui me permet de faire le lien avec l’autre revendication (autrement plus importante) qui sous-tendait l’intervention des écologistes et qui n’a pas été reprise par la presse à ce jour : la rénovation des écoles.
+Ce qui me permet de faire le lien avec l’autre revendication (autrement plus importante) qui sous-tendait l’intervention des écologistes et qui n’a pas été reprise par la presse à ce jour : la rénovation des écoles.
 
 En effet, le budget de 1,3M€ consacré au stade faisait également grincer des dents de part sa proportion dans le budget (10% du total) et au regard de la ligne d’investissement concernant la rénovation énergétique des bâtiments et, notamment, les écoles ainsi que la désimperméabilisation des leurs cours. Comme l’a souligné Colline Craeye, avec qui, une fois n’est pas coutume, j’étais d’accord, ce budget a effectivement baissé si l’on compare les lignes de manière rigoureuse.
 
-Bref, le maire s’est engagé à augmenter significativement l’investissement de ce côté, j’ose espérer donc, qu’à l’issue de cet épisode, la concertation sera effectivement de mise afin que chaque partie puisse tenir ses engagements scellés lors du contrat de mandat : voter le budget et passer toutes les décisions de ce dernier au filtre de la transition écologique.
+Bref, le maire s’est engagé à augmenter significativement l’investissement de ce côté, j’ose espérer donc, qu’à l’issue de cet épisode, la concertation sera effectivement de mise afin que chaque partie puisse tenir ses engagements scellés lors du contrat de mandat : voter le budget et passer toutes les décisions de ce dernier au filtre de la transition écologique.
 
 ## Le mot de la fin
 
@@ -69,4 +69,4 @@ Pour des mouvements politiques émergents comme les écologistes, ceci représen
 
 Ce défaut de représentativité mène à des aberrations et un effet de “culbute” obligatoire. On se retrouve alors avec un grand écart entre des agglomérations n’ayant pas encore passé le cap de la transition écologique et des territoires nouvellement conquis (comme les métropoles de Lyon, Grenoble… les villes de Loos-en-Gohelle, Grande-Synthe…).
 
-Je documente ces évolutions en relayant très souvent les avancées faites par les écologistes dans ces territoires sur ce blog, dans ma lettre d’information ou sur les médias sociaux, il faut dire que cela donne envie. Un souhait, donc, pour terminer ce billet : puisse la bascule se faire dans le bon sens, et au plus vite, pour aborder plus sereinement les changements induits par le réchauffement climatique global et l’effondrement de la biodiversité.
+Je documente ces évolutions en relayant très souvent les avancées faites par les écologistes dans ces territoires sur ce blog, dans ma lettre d’information ou sur les médias sociaux, il faut dire que cela donne envie. Un souhait, donc, pour terminer ce billet : puisse la bascule se faire dans le bon sens, et au plus vite, pour aborder plus sereinement les changements induits par le réchauffement climatique global et l’effondrement de la biodiversité.

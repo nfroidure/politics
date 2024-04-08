@@ -37,9 +37,9 @@ Il ne s’agissait donc pas d’un désintérêt pour la fonction mais d’un re
 
 ### La fonction de secrétaire
 
-La ou le secrétaire du groupe local a une [fonction exécutive](https://fr.wikipedia.org/wiki/Pouvoir_ex%C3%A9cutif) au sein de ce dernier. Iel met en œuvre les décisions du groupe local en prenant des décisions de nature organisationnelles : gestion de la parole, ordre du jour, comptes rendus...
+La ou le secrétaire du groupe local a une [fonction exécutive](https://fr.wikipedia.org/wiki/Pouvoir_ex%C3%A9cutif) au sein de ce dernier. Iel met en œuvre les décisions du groupe local en prenant des décisions de nature organisationnelles : gestion de la parole, ordre du jour, comptes rendus…
 
-Iel a des fonctions représentatives également (communication auprès des adhérent·es et sympathisant·es, représentation dans les événements etc...) mais surtout, un rôle de chef·fe d’orchestre : rythmer la vie du groupe, identifier les enjeux et porter au vote les prises de position du groupe ainsi que ses orientations politiques et stratégiques.
+Iel a des fonctions représentatives également (communication auprès des adhérent·es et sympathisant·es, représentation dans les événements etc…) mais surtout, un rôle de chef·fe d’orchestre : rythmer la vie du groupe, identifier les enjeux et porter au vote les prises de position du groupe ainsi que ses orientations politiques et stratégiques.
 
 ## Candidature
 
@@ -73,7 +73,7 @@ Amicalement, Nicolas Froidure
 
 C’est au cours de ces dernières que se jouera notre préparation (ou impréparation) pour les futures élections municipales de 2026 et donc, le sort de nos agglomérations.
 
-En dehors de la ville de Douai, nous ne disposons d’aucun·e élu·e municipal·e. Absent·es de la CCCO ([Communauté de communes Cœur d'Ostrevent](https://fr.wikipedia.org/wiki/Communaut%C3%A9_de_communes_C%C5%93ur_d%27Ostrevent)), opposant·es, et en minorité à [Douaisis Agglo](https://fr.wikipedia.org/wiki/Douaisis_Agglo), nous n’avons pas la visibilité que nous pourrions obtenir avec une stratégie de long terme rigoureusement mise en œuvre.
+En dehors de la ville de Douai, nous ne disposons d’aucun·e élu·e municipal·e. Absent·es de la CCCO ([Communauté de communes Cœur d’Ostrevent](https://fr.wikipedia.org/wiki/Communaut%C3%A9_de_communes_C%C5%93ur_d%27Ostrevent)), opposant·es, et en minorité à [Douaisis Agglo](https://fr.wikipedia.org/wiki/Douaisis_Agglo), nous n’avons pas la visibilité que nous pourrions obtenir avec une stratégie de long terme rigoureusement mise en œuvre.
 
 C’est le sens de ce texte : la **conquête d’une nouvelle représentation pour sortir de l’opposition**, nécessaire, mais sans commune mesure avec la capacité d’action que nous pouvons obtenir en nous organisant et en nous développant plus largement.
 
@@ -119,7 +119,7 @@ C’est pourquoi, en supplément des actions de développement de notre groupe l
 
 Nous devons également améliorer notre visibilité grâce à la participation de toutes et tous à la diffusion des informations de notre groupe local : partage coordonné des publications du groupe local, mis en avant des membres et partages mutuels des diverses publications de chaque membres du groupe.
 
-Le site Internet doit également être dynamisé régulièrement avec du contenu comme, par exemple, les tribunes de nos élu·es, les communiqués de presse etc...
+Le site Internet doit également être dynamisé régulièrement avec du contenu comme, par exemple, les tribunes de nos élu·es, les communiqués de presse etc…
 
 #### Déroulé
 

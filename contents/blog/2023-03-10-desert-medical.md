@@ -26,13 +26,13 @@ Combien d’entre nous sont dans cette situation ? Difficile de le dire. On peu
 
 Il y a 10 ans, à l’occasion d’un départ en retraite, France 3 [réalisait un reportage](https://france3-regions.francetvinfo.fr/hauts-de-france/2014/11/27/la-ville-de-douai-en-manque-de-medecins-generalistes-601572.html "Voir le reportage") sur le déjà “éternel problème de la désertification médicale” à Douai.
 
-Bien entendu, ce problème n’est pas spécifique à notre commune. [Selon le journal La Dépêche](https://www.ladepeche.fr/2022/09/29/vrai-ou-faux-6-millions-de-francais-sont-ils-vraiment-sans-medecin-traitant-10701795.php), le 30 juin 2021, la Caisse Nationale d’Assurance Maladie (CNAM), annonçait que "11% des patient⋅es de 17 ans et plus n’avaient pas de médecin traitant" (soit 5,9M de patient⋅es), en 2019, c’étaient 9,6% soit 1,4% de moins...
+Bien entendu, ce problème n’est pas spécifique à notre commune. [Selon le journal La Dépêche](https://www.ladepeche.fr/2022/09/29/vrai-ou-faux-6-millions-de-francais-sont-ils-vraiment-sans-medecin-traitant-10701795.php), le 30 juin 2021, la Caisse Nationale d’Assurance Maladie (CNAM), annonçait que "11% des patient⋅es de 17 ans et plus n’avaient pas de médecin traitant" (soit 5,9M de patient⋅es), en 2019, c’étaient 9,6% soit 1,4% de moins…
 
 C’est donc à **une situation de pénurie globale**, en augmentation, que nous faisons face, mais elle ne se répercute pas uniformément entre les territoires.
 
 ## Un manque d’anticipation flagrant
 
-En 1971, alors que les médecins sont jugé⋅es en trop grand nombre (situation que l’on aimerait connaître aujourd’hui...), le “numerus clausus” est mis en œuvre. Objectif : limiter la quantité de diplômé⋅es arrivant sur le “marché” chaque année.
+En 1971, alors que les médecins sont jugé⋅es en trop grand nombre (situation que l’on aimerait connaître aujourd’hui…), le “numerus clausus” est mis en œuvre. Objectif : limiter la quantité de diplômé⋅es arrivant sur le “marché” chaque année.
 
 ![Évolution du numerus clausus en médecine pour la France](/public/illustrations/evolution-numerus-clausus-medecine.png)
 
@@ -68,7 +68,7 @@ On pourrait imaginer que lors de la prochaine "Faites du sport" à Douai, un sta
 
 Bien, sûr, il faut également attirer les médecins grâce à un cadre de vie agréable et des équipements qui répondent à leurs aspirations. De ce point de vue, il y a des efforts à faire au niveau de notre agglomération (Douaisis Agglo).
 
-On peine en effet à imaginer que la politique d’aménagement et de développement économique de celle-ci attire : artificialisation, développement automobile, commerce de périphérie... L’extrême inverse des centres villes métropolitains qui attirent aujourd’hui les jeunes médecins.
+On peine en effet à imaginer que la politique d’aménagement et de développement économique de celle-ci attire : artificialisation, développement automobile, commerce de périphérie… L’extrême inverse des centres villes métropolitains qui attirent aujourd’hui les jeunes médecins.
 
 On peine à imaginer également comment un boulodrome de 196 pistes (9,5M€), une patinoire (14,5M€) et le plus grand planétarium au Nord de Paris (9,7 M€) apporteront. On imagine plutôt que le doublement de la RD500 (30M€) leur permettra de déserter plus vite le territoire face au rapport entre fiscalité locale et service rendu.
 
@@ -86,7 +86,7 @@ La première crainte, que je partage largement, est la création d’un prise en
 
 Les maisons médicales ou de santé sont également décriées car le suivi ne serait pas aussi personnalisé qu’avec le modèle du médecin de famille.
 
-Il semble que les déserts médicaux soient pour certain⋅es une opportunité de faire basculer la France dans un modèle anglo-saxon... la vigilance est de mise pour sauvegarder la solidarité française sur le plan de la santé.
+Il semble que les déserts médicaux soient pour certain⋅es une opportunité de faire basculer la France dans un modèle anglo-saxon… la vigilance est de mise pour sauvegarder la solidarité française sur le plan de la santé.
 
 ## Une nécessité, agir sur le long cours
 
@@ -112,9 +112,9 @@ Les solutions du type plus de certificats médicaux et/ou pas de certificats pou
 
 En effet, ces consultations, a priori anodines, sont parfois l’occasion du petit contrôle supplémentaire que l’on aurait pas fait en cas de pathologie à traiter.
 
-Elle peuvent être la bulle d’air de la journée au regard de la charge mentale que peut représenter l’activité d’un⋅e médecin libéral⋅e et les situations humainement difficiles qu’il est nécessaire de gérer (cancers, fin de vie, alcoolisme, violences intra-familiales...).
+Elle peuvent être la bulle d’air de la journée au regard de la charge mentale que peut représenter l’activité d’un⋅e médecin libéral⋅e et les situations humainement difficiles qu’il est nécessaire de gérer (cancers, fin de vie, alcoolisme, violences intra-familiales…).
 
-Assister à des étapes importantes de la vie des patient⋅es (première licence, examen pour postuler à un concours etc...) est un facteur de liant et d’ancrage d’une activité libérale. Le médecin fini par, en quelque sorte, faire parti de la famille.
+Assister à des étapes importantes de la vie des patient⋅es (première licence, examen pour postuler à un concours etc…) est un facteur de liant et d’ancrage d’une activité libérale. Le médecin fini par, en quelque sorte, faire parti de la famille.
 
 Il semble que les jeunes médecins ne veuillent pas toujours de cela, c’est aussi un constat qui interroge et qu’il faudrait probablement contrer.
 
@@ -124,7 +124,7 @@ Comme le rappelle l’adage “il vaut mieux prévenir que guérir”, une bonne
 
 L’environnement dans lequel nous vivons et son niveau de pollution ont des conséquences directes sur notre santé. Notre région, l’une des plus polluées de France, est aussi celle qui a l’espérance de vie la plus faible de France métropolitaine.
 
-Malgré cela, la région des Hauts-de-France, au travers de son président Xavier Bertrand, persiste à promouvoir l’agriculture conventionnelle. Portant le “local” comme unique vertu agricole, il se prive de levier importants (notamment les cantines des lycées) pour accélérer la transition vers une agriculture biologique des agriculteurices de la région. Ce faisant, des milliers de tonnes de pesticides sont déversées sur nos terres et se retrouvent, en bout de course, [dans notre eau potable](https://www.20minutes.fr/sante/4001318-20220915-hauts-france-eau-robinet-mise-sous-surveillance-105-villes-region). Il va sans dire que le département suit cette dynamique, notamment dans les cantines des collèges également...
+Malgré cela, la région des Hauts-de-France, au travers de son président Xavier Bertrand, persiste à promouvoir l’agriculture conventionnelle. Portant le “local” comme unique vertu agricole, il se prive de levier importants (notamment les cantines des lycées) pour accélérer la transition vers une agriculture biologique des agriculteurices de la région. Ce faisant, des milliers de tonnes de pesticides sont déversées sur nos terres et se retrouvent, en bout de course, [dans notre eau potable](https://www.20minutes.fr/sante/4001318-20220915-hauts-france-eau-robinet-mise-sous-surveillance-105-villes-region). Il va sans dire que le département suit cette dynamique, notamment dans les cantines des collèges également…
 
 Le manque de volonté de la région pour développer le ferroviaire et l’empressement du département à construire de nouvelles routes ne sont pas non-plus de nature à améliorer ces facteurs (notamment via les micro-particules et par les micro-plastiques).
 

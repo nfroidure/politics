@@ -19,7 +19,7 @@ illustration:
 
 ![Carte indiquant la situation du quartier Carnot-Gare](/public/illustrations/douai-quartier-carnot-gare.svg "🖼➡️")
 
-Le projet de ZAC est présenté comme “entreprenant, connecté, vivant et verdoyant” sur le site de Douaisis Agglo. Il présente un investissement de 50 millions d’euros de Douaisis Agglo (soit tout de même [5 boulodromes](./inauguration-du-boulodrome-geant-du-douaisis), 4 patinoires ou encore [1,2 élargissements de la route départementale](./projet-de-requalification-de-la-rd-500)...).
+Le projet de ZAC est présenté comme “entreprenant, connecté, vivant et verdoyant” sur le site de Douaisis Agglo. Il présente un investissement de 50 millions d’euros de Douaisis Agglo (soit tout de même [5 boulodromes](./inauguration-du-boulodrome-geant-du-douaisis), 4 patinoires ou encore [1,2 élargissements de la route départementale](./projet-de-requalification-de-la-rd-500)…).
 
 Comme à mon habitude, j’ai décidé, sans grande conviction, de participer à l’avis d’enquête publique afin d’y apporter un peu de matière grise.
 
@@ -29,7 +29,7 @@ C’est un vieux sujet de la vie Douaisienne que l’enclavement de certains qua
 
 L’idée de cette passerelle est également d’offrir du stationnement aux personnes qui prennent le train. Je sais, pour avoir pris régulièrement le train à Arleux, que bon nombre de fois, il est nécessaire de se rendre à Douai suite aux nombreux retards enregistrés sur la ligne Douai-Cambrai. D’ailleurs avec la fermeture pour travaux de cette ligne (contestable, mais ce n’est pas le sujet), il y a fort à parier que le report de stationnement sera d’autant plus important.
 
-Petit aparté : selon la séquence ERC (Éviter/Réduire/Compenser), il me semble important d’ajouter un arrêt intermédiaire à chaque liaison directe (à Aubencheul-au-Bac entre Douai et Cambrai, à Libercourt entre entre Douai et Lille etc...). Cela permettrait d’éviter de se rendre dans les villes centres, déjà congestionnées, en cas de retard ou suppression du train toutes gares sans augmenter significativement le temps de trajet du train direct.
+Petit aparté : selon la séquence ERC (Éviter/Réduire/Compenser), il me semble important d’ajouter un arrêt intermédiaire à chaque liaison directe (à Aubencheul-au-Bac entre Douai et Cambrai, à Libercourt entre entre Douai et Lille etc…). Cela permettrait d’éviter de se rendre dans les villes centres, déjà congestionnées, en cas de retard ou suppression du train toutes gares sans augmenter significativement le temps de trajet du train direct.
 
 Mais pour venir à la passerelle ; la proposition présentée à ce jour a un goût de pis-aller.
 
@@ -64,7 +64,7 @@ L’idée, plutôt que de créer un nouveau projet, est surtout de faire du neuf
 
 Le pari est que la création du parking silo, de la passerelle et l’installation de moteurs tels que Maisons et Cités participeront à l’attractivité de la ZAC pour les entreprises. Les faiblesses de la passerelle notées précédemment sont donc de nature à compromettre ce pari.
 
-Un hôtel 4 étoiles sera implanté à deux pas du Volubilis, espérons que cela ne lui nuise pas. Des appart’hôtels sont également prévus dans le même secteur. Ce projet peut prêter à sourire quand on sait qu’un hôtel 4 étoiles est déjà prévu à l’ancien Hospice Général et que les travaux n’avancent pas depuis bientôt dix ans...
+Un hôtel 4 étoiles sera implanté à deux pas du Volubilis, espérons que cela ne lui nuise pas. Des appart’hôtels sont également prévus dans le même secteur. Ce projet peut prêter à sourire quand on sait qu’un hôtel 4 étoiles est déjà prévu à l’ancien Hospice Général et que les travaux n’avancent pas depuis bientôt dix ans…
 
 ![Travaux de l’ancien Hôpital Général à Douai](/public/illustrations/ancien-hopital-general-travaux-douai.jpg)
 
@@ -78,7 +78,7 @@ L’atelier du Livre d’Art et de l’Estampe, issue de l’Imprimerie National
 
 De façon générale, les plans de voirie semblent être prévus pour les cyclistes. Il serait par contre préférable que les voies secondaires aient leurs propres pistes cyclables séparées des voies de circulation et non des bandes cyclables comme cela est prévu.
 
-Au regard des bénéfices en matière de santé publique que l’usage du vélo permet (moins de gaz d’échappement, pratique d’une activité physique, absence de nuisance sonore...) et de son rôle pour la limitation des gaz à effet de serre, il est important de reconsidérer ce choix.
+Au regard des bénéfices en matière de santé publique que l’usage du vélo permet (moins de gaz d’échappement, pratique d’une activité physique, absence de nuisance sonore…) et de son rôle pour la limitation des gaz à effet de serre, il est important de reconsidérer ce choix.
 
 Étant donné leur qualificatif (de “voie secondaire”), il semble que des sens uniques soient envisageables (rue Antonio Vivaldi, rue Lili Boulanger, rue Germaine Tailleferre, voire rue Barbara Strozzi). Ceci permettrait de dégager l’espace nécessaire à ces pistes cyclables séparées et de remplir l’objectif annoncé de la création d’un “maillage de liaisons douces et connectées”.
 
@@ -88,7 +88,7 @@ Au regard des bénéfices en matière de santé publique que l’usage du vélo 
 
 - malgré la mention “mobilier urbain de confort”, on note que le mobilier retenu pour s’asseoir est en majorité sans dossier. Or, pour une position assise prolongée, il est préférable d’avoir un dossier et une assise courbe. Pourquoi ne pas installer quelques chaises longues également comme on peut en observer près de la maison de quartier Bois-Blancs à Lille (cf cet article sur [l’aménagement écologique de la ville](https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles#controler-ou-rendre-possible)),
 - les poubelles publiques proposées permettent le tri mais semblent de très petite dimension ce qui peut à terme générer un risque de dissémination des déchets,
-- on note aussi la présence de plantes comestibles : les noisetiers. Il serait prudent d’éviter ces derniers étant donnée la pollution relevée sur tout le site consécutive à son passé industriel (métaux, hydrocarbures...),
+- on note aussi la présence de plantes comestibles : les noisetiers. Il serait prudent d’éviter ces derniers étant donnée la pollution relevée sur tout le site consécutive à son passé industriel (métaux, hydrocarbures…),
 - un espace d’animation est prévu, l’érection d’un kiosque à cet endroit permettrait des animations quel que soit le temps (protégé du vent et de la pluie) et procurerait de l’ombre aux personnes s’y promenant.
 
 **Note annexe : La scarpe**
@@ -101,7 +101,7 @@ Son état biologique serait moyen et son état écologique plutôt médiocre. �
 
 **Note annexe 2 : La crèche**
 
-Initialement, j’aurai proposé des plantes comestibles (un verger aurait pu être sympa), mais les résultats des sondages démontrent que c’est une très mauvaise idée...
+Initialement, j’aurai proposé des plantes comestibles (un verger aurait pu être sympa), mais les résultats des sondages démontrent que c’est une très mauvaise idée…
 
 Les analyses de sols ont mis en évidence une forte pollution du site, notamment avec des métaux lourds, des hydrocarbures avec un risque de dégazage. Étant donné qu’une crèche est présente sur la ZAC, je pense qu’il y a nécessité d’une véritable dépollution du site (et non un simple recouvrement par 30cm de “terre saine” et une toile géotextile).
 

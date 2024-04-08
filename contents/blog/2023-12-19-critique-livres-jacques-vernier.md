@@ -67,9 +67,9 @@ Parmi les plus notables, une différence de traitement entre le trou de la couch
 
 Je peine à voir, en quoi, cette différence de traitement peut-être pertinente hormis une forme de relativisation des effets du second. Le réchauffement climatique et le trou de la couche d’ozone sont des phénomènes prouvés scientifiquement et mesurables (aucune incertitude sur ce plan). Chacun de ces phénomènes a cependant, comme tout phénomène global, une part d’incertitudes sur les effets réels présents et ou futurs, l’incertitude, c’est la base de la science.
 
-Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat) donne l'état de la science à date sur le changement climatique en compilant tous les travaux scientifiques existants.
+Le GIEC (Groupe d’experts intergouvernemental sur l’évolution du climat) donne l’état de la science à date sur le changement climatique en compilant tous les travaux scientifiques existants.
 
-Parmi ces travaux, des études techniques tentent de prédire avec une fourchette qui peut changer au gré des découvertes scientifiques et/ou de l’évolution des modèles prédictifs le réchauffement global. Il y a une incertitude sur l'ampleur du phénomène et son déroulé, mais pas sur sa survenue.
+Parmi ces travaux, des études techniques tentent de prédire avec une fourchette qui peut changer au gré des découvertes scientifiques et/ou de l’évolution des modèles prédictifs le réchauffement global. Il y a une incertitude sur l’ampleur du phénomène et son déroulé, mais pas sur sa survenue.
 
 Ce qualificatif différencié semble d’autant plus étonnant que l’auteur qualifie de “problème majeur de notre temps” le réchauffement climatique. Espérons une mise à jour trop précipitée et non un fond de climatoscepticisme inavoué.
 

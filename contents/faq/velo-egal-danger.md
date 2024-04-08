@@ -4,7 +4,7 @@ date: "2023-03-09T08:30:00.000Z"
 draft: false
 ---
 
-Quand on parle de violence routière due à la voiture, on provoque souvent des commentaires du type : “les vélos aussi sont dangereux et que dire des trottinettes…”.
+Quand on parle de violence routière due à la voiture, on provoque souvent des commentaires du type : “les vélos aussi sont dangereux et que dire des trottinettes…”.
 
 La question de la violence routière doit être examinée à l’aune des risques. Entre un accident de vélo et de voiture les conséquences sont très différentes.
 
@@ -17,6 +17,6 @@ Un arbitrage est nécessaire concernant la mobilité également, moins d’autom
 ![Statistique: Nombre de personnes décédées sur le réseau routier français de 2010 à 2021 | Statista](https://fr.statista.com/graphique/1/513052/accidents-circulation-nombre-de-tues-france.jpg)
 [Source](https://fr.statista.com/statistiques/513052/accidents-circulation-nombre-de-tues-france/) - Trouver plus de statistiques sur [Statista](https://fr.statista.com).
 
-Les transports en commun, le vélo, la marche à pied peuvent aisément se substituer à de nombreux déplacements sans perte significative de mobilité. Dès lors, pourquoi se priver de les favoriser par rapport à l’automobile ?
+Les transports en commun, le vélo, la marche à pied peuvent aisément se substituer à de nombreux déplacements sans perte significative de mobilité. Dès lors, pourquoi se priver de les favoriser par rapport à l’automobile ?
 
 Bref, si le vélo représente des dangers, les proportions et les occurrences des dommages qu’ils peuvent causer sont sans commune mesure avec les dégâts provoqués par les automobiles.

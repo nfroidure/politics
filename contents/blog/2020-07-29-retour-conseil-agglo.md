@@ -22,7 +22,7 @@ illustration:
 
 Au delà de cette obsession pour avoir le plus gros équipement, on peut s’interroger sur le positionnement stratégique en terme d’attractivité de ce planétarium.
 
-En effet, étant donnée la rapidité d’évolution du secteur du numérique (un-e particulier-e peut déjà s’offrir une projecteur 8k…), il y a fort à parier que d’ici quelques années nous aurons la meilleure résolution au Nord d’Arras et au Sud de Valenciennes…
+En effet, étant donnée la rapidité d’évolution du secteur du numérique (un·e particulier·e peut déjà s’offrir une projecteur 8k…), il y a fort à parier que d’ici quelques années nous aurons la meilleure résolution au Nord d’Arras et au Sud de Valenciennes…
 
 La question est donc : ce positionnement est-il pertinent puisqu’il nous obligera à renouveler des équipements d’une valeur de 1.5M€ régulièrement ?
 
@@ -38,11 +38,11 @@ C’est intéressant de voir comme la politique de l’agglomération "ruisselle
 
 💻 Aussi, je vais parler de ce que je connais, on a appris également que la communauté d’agglomération prévoyait l’acquisition d’un CRM (Customer Relationship Management).
 
-Pour gérer ce projet, on a bien-sûr prévu de recruter un-e stagiaire… Nous avons posé la question en séance de la destination de ce dernier : qui sont les "consommateurs" dont on doit gérer les relations à l’agglo ?
+Pour gérer ce projet, on a bien-sûr prévu de recruter un·e stagiaire… Nous avons posé la question en séance de la destination de ce dernier : qui sont les "consommateurs" dont on doit gérer les relations à l’agglo ?
 
 La réponse fournie me laisse songeur. A minima, il y a un problème sémantique et ce serait probablement un ERP qu’il faudrait mettre en place (cf https://www.choisirmonerp.com/erp/definition-d-un-erp).
 
-Mais je suis perplexe sur le fait de confier ce projet à un-e étudiant-e, surtout si il s’agit d’une "création" comme stipulé dans l’ordre du jour. Le contrat étant conclu pour deux ans, le risque sera également de se trouver avec un outil dont personne ne comprend plus le fonctionnement. Ajoutons à cela le risque projet très fort dans le domaine de l’IT.
+Mais je suis perplexe sur le fait de confier ce projet à un·e étudiant·e, surtout si il s’agit d’une "création" comme stipulé dans l’ordre du jour. Le contrat étant conclu pour deux ans, le risque sera également de se trouver avec un outil dont personne ne comprend plus le fonctionnement. Ajoutons à cela le risque projet très fort dans le domaine de l’IT.
 
 Il y a de grandes chances que cela tombe aux oubliettes, mais je me permet de préconiser l’utilisation de logiciels open-source afin d’éviter une création qui risque bien d’aboutir sur un logiciel inutilisable. Il existe OpenERP ou Dolibarr, mais très certainement bien d’autres outils libres.
 

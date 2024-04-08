@@ -40,7 +40,7 @@ Pour rappel, nous dénoncions plusieurs avaries écologiques, stratégiques et d
 ![Panneaux des promoteurs au quartier du Raquet à Douai](/public/illustrations/raquet-panneaux.jpg)
 ![Grande voie du quartier du Raquet à Douai](/public/illustrations/raquet-grande-voie.jpg)
 
-Pour terminer, hasard du calendrier, le 8 mars prochain ce sera la Journée Internationale des Droits des Femmes. Vu le budget consacré à l’opération de communication d’envergure pour éviter un bide (150 000€ ?!), je me dis que c’eût été plus profitable d’utiliser ces budgets pour porter une des mesures proposées par EÉLV Douai pour les municipales 2020 : « affichage contre les violences faîtes aux femmes dans les transports en commun et arrêts de bus ».
+Pour terminer, hasard du calendrier, le 8 mars prochain ce sera la Journée Internationale des Droits des Femmes. Vu le budget consacré à l’opération de communication d’envergure pour éviter un bide (150 000€ ?!), je me dis que c’eût été plus profitable d’utiliser ces budgets pour porter une des mesures proposées par EÉLV Douai pour les municipales 2020 : « affichage contre les violences faîtes aux femmes dans les transports en commun et arrêts de bus ».
 
 En lieu et place, on a des affiches pour un boulodrome qui ne nous évoque rien d’autre qu’un gigantesque gâchis d’argent public.
 

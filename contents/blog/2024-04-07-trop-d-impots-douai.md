@@ -29,7 +29,7 @@ Selon Thibaut François, il eut fallu compenser la hausse décidée par l’Éta
 
 **On notera que, comme à son habitude, le Rassemblement National, se préoccupe bien plus du sort des plus aisé·es que du peuple, en bon parti d’extrême droite.**
 
-On peut le comprendre puisque selon sa dernière déclaration HATVP, il fait parti des 1% des français·es les plus aisé·es et pourtant, paradoxalement, ce n’est jamais que l’impôt qui lui a permis de subsister pendant de nombreuses années, que ce soit en tant qu’élu député aujourd’hui (7 600€ bruts mensuels) ou comme collaborateur au parlement Européen (149 075€ net pour l’année 2021) ou encore, en tant que consultant dans une société belge dont il fût le gérant et qui fournissait des prestations au Rassemblement National (voir le papier de Médiapart “[Campagne de Marine Le Pen: le florissant business de cadres FN et de leurs familles](https://www.mediapart.fr/journal/france/280518/campagne-de-marine-le-pen-le-florissant-business-de-cadres-fn-et-de-leurs-familles)”).
+On peut le comprendre puisque selon sa dernière déclaration HATVP, il fait parti des 1% des français·es les plus aisé·es et pourtant, paradoxalement, ce n’est jamais que l’impôt qui lui permet de subsister depuis de nombreuses années, que ce soit en tant qu’élu, député aujourd’hui (7 600€ bruts mensuels), ou comme collaborateur d’élu au parlement Européen (149 075€ net pour l’année 2021) ou, encore, en tant que consultant dans une société belge dont il fût le gérant et qui fournissait des prestations au Rassemblement National (voir le papier de Médiapart “[Campagne de Marine Le Pen: le florissant business de cadres FN et de leurs familles](https://www.mediapart.fr/journal/france/280518/campagne-de-marine-le-pen-le-florissant-business-de-cadres-fn-et-de-leurs-familles)”).
 
 Bref, on sent bien l’enfumage poindre.
 
@@ -39,13 +39,13 @@ Bref, on sent bien l’enfumage poindre.
 
 Dès lors, la question de l’impôt d’un point de vue politique concerne plus son périmètre et la répartition de l’imposition entre les citoyen·nes.
 
-**Le périmètre** de l’impôt est de nos jours assez large. Il finance des nombreux pans de nos vies : éducation, santé, sécurité, défense... Ce périmètre est en constante évolution au gré des diverses décisions prises par les nombreuses strates du mille feuille administratif français.
+**Le périmètre** de l’impôt est de nos jours assez large. Il finance de nombreux pans de nos vies : éducation, santé, sécurité, défense… Ce périmètre est en constante évolution au gré des diverses décisions prises par les nombreuses strates du mille feuille administratif français.
 
 Certains impôts sont dédiés et financent un périmètre limité (par exemple, la TOEM, Taxe sur l’Enlèvement des Ordures Ménagères) d’autres sont généraux et l’affectation de cet impôt est à la discrétion des exécutifs en place (c’est précisément le cas pour la part communale et intercommunale de la taxe foncière).
 
-Le clivage entre la gauche et la droite concernant le périmètre de l’impôt porte sur de nombreux aspect. Pour simplifier, en général, la droite est plutôt encline à réduire le périmètre de l’impôt concernant le social (privatisation, suppression des mesures de protection sociale...) et à l’accroitre sur les sujets régaliens/économiques (budget militaire, aide aux entreprises...). La gauche, au contraire, tend à accroitre le périmètre de l’impôt pour les besoins essentiels (mise en place de services publics, de protections sociales) et à le réduire en ce qui concerne l’aide en direction des plus favorisés.
+Le clivage entre la gauche et la droite concernant le périmètre de l’impôt porte sur de nombreux aspect. Pour simplifier, en général, la droite est plutôt encline à réduire le périmètre de l’impôt concernant le social (privatisation, suppression des mesures de protection sociale…) et à l’accroitre sur les sujets régaliens/économiques (budget militaire, aide aux entreprises…). La gauche, au contraire, tend à accroitre le périmètre de l’impôt pour les besoins essentiels (mise en place de services publics, de protections sociales) et à le réduire en ce qui concerne l’aide en direction des plus favorisés.
 
-C’est d’ailleurs une autre dimension de l’impôt qui traduit bien ce clivage, celui de sa **répartition**. La droite tendra à faire peser l’impôt de la même manière sans distinction (une illustration de cette vision est la TVA, Taxe sur la Valeur Ajoutée, qui est la même pour tout le monde) tandis que la gauche essaiera au contraire de faire peser la fiscalité sur les ménages ou entreprises les plus privilégiés (ce qui vaut pour l’impôt sur le revenu mais pas uniformément...).
+C’est d’ailleurs une autre dimension de l’impôt qui traduit bien ce clivage, celui de sa **répartition**. La droite tendra à faire peser l’impôt de la même manière sans distinction (une illustration de cette vision est la TVA, Taxe sur la Valeur Ajoutée, qui est la même pour tout le monde) tandis que la gauche essaiera au contraire de faire peser la fiscalité sur les ménages ou entreprises les plus privilégiés (ce qui vaut pour l’impôt sur le revenu mais pas uniformément…).
 
 Finalement, si on résume, à droite, on ne remet pas en question le principe de l’impôt, mais on souhaite réduire son périmètre et éviter les impôts de nature à compenser les inégalités. À gauche, au contraire, on considère que l’impôt est un [outil de redistribution](https://inegalites.fr/Redistribution-comment-les-impots-et-les-prestations-reduisent-les-inegalites) et qu’il faut donc étendre son périmètre pour financer un socle social protecteur en faisant peser son coût sur les personnes les plus privilégiées.
 
@@ -53,7 +53,7 @@ Finalement, si on résume, à droite, on ne remet pas en question le principe de
 
 C’est pour cette raison que parler du taux d’imposition est assez vain. C’est comme aller faire ses courses en se plaignant du prix de la facture sans se poser la question de ce qui coûte cher dans son panier, ni de ce qui est essentiel ou non.
 
-Vous pourriez dire que l’on a pas toujours suffisamment de temps ni d’informations (coût de production, distribution, marges...) pour juger de ce que l’on achète et vous auriez raison.
+Vous pourriez dire que l’on a pas toujours suffisamment de temps ni d’informations (coût de production, distribution, marges…) pour juger de ce que l’on achète et vous auriez raison.
 
 **Fort heureusement, ce n’est pas le cas pour nos élu·es qui savent précisément (ou devraient s’y intéresser de toute urgence) quels sont les différents postes de dépenses et de recettes fiscales des collectivités pour lesquels iels prennent des décisions.**
 
@@ -85,9 +85,9 @@ Difficile de lire entre les lignes souvent évasives des politiques locaux, mais
 - [élargissement de la RD 500](./projet-de-requalification-de-la-rd-500) (8 millions d’euros de Douaisis Agglo),
 - [le boulodrome](./inauguration-du-boulodrome-geant-du-douaisis) (9,5 millions d’euros),
 - la patinoire (14 millions d’euros),
-- [l’échangeur de Lambres-lez-Douai](./echangeur-de-lambres-contribution-et-reflexions)...
+- [l’échangeur de Lambres-lez-Douai](./echangeur-de-lambres-contribution-et-reflexions)…
 
-Ni François Thibaut, ni Coline Craeye ou Frédéric Chéreau ne se sont opposé·es... seuls les écologistes ont rappelé leur opposition.
+Ni François Thibaut, ni Coline Craeye ou Frédéric Chéreau ne se sont opposé·es… seuls les écologistes ont rappelé leur opposition.
 
 Au niveau de la commune, de mon avis personnel que je sais partagé par d’autres, il y a également des projets qui peuvent être revus. Dernièrement, le [terrain synthétique](./douai-les-terrains-synthetiques-en-question), mais aussi le [festival techno](./un-festival-electronique-a-douai).
 
@@ -99,11 +99,11 @@ On peut, par contre lister les dépenses supplémentaires qu’exigent les oppos
 
 Et c’est probablement à ce niveau que se situe la troisième dimension du débat sur l’impôt. Un impôt redistributif ne devrait pas être contesté, du moins, pour des personnes qui se soucient du sort des moins riches (et nous sommes toutes et tous très largement bénéficiaires de notre système de protection sociale sur toute la durée de nos vies).
 
-En revanche, **le bon usage des deniers publics devrait être un sujet transpartisan :** lutte contre la corruption, économies d’échelles, simplification administrative etc... les sujets ne manquent pas.
+En revanche, **le bon usage des deniers publics devrait être un sujet transpartisan :** lutte contre la corruption, économies d’échelles, simplification administrative etc… les sujets ne manquent pas.
 
 On voit bien aujourd’hui l’impact du quoi qu’il en coûte mis en oeuvre par Emmanuel Macron sans aucun discernement. Des milliards dépensés pour sauver des entreprises auxquelles aucune contrepartie n’a été demandée.
 
-Aussi bien au niveau local que national, tant qu’on recrutera les copains (voire dans certains cas la famille...) plutôt que les personnes les plus compétentes, tant que des appels d’offre seront truqués ou que ce seront toujours les mêmes entreprises auxquelles les collectivités feront appel, difficile de s’émouvoir du faible rapport entre les taux de prélèvement et les bénéfices apportés par les pouvoirs publics.
+Aussi bien au niveau local que national, tant qu’on recrutera les copains (voire dans certains cas la famille…) plutôt que les personnes les plus compétentes, tant que des appels d’offre seront truqués ou que ce seront toujours les mêmes entreprises auxquelles les collectivités feront appel, difficile de s’émouvoir du faible rapport entre les taux de prélèvement et les bénéfices apportés par les pouvoirs publics.
 
 Enfin, les collectivités, en fonction de la pertinence de leurs investissements sur le long terme, peuvent accroitre leur efficience et faire plus avec moins. Un exemple concret est la production d’énergie (photovoltaïque, hydroélectricité, puits canadiens) et les économies d’énergie qui permettent de réduire les coûts tout en maintenant le même niveau de service.
 

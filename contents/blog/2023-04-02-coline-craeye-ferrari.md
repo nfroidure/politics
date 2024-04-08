@@ -35,9 +35,9 @@ On peut également se souvenir du foin que Coline Craeye a fait autour de l’au
 
 ![Capture d’une publication de Coline Craeye sur la rémunération de Frédéric Chéreau](/public/illustrations/coline-craeye-ferrari-indemnite-chereau.png)
 
-Bref, comme bien d’autres élu⋅es LReM/Renaissance, Coline Craeye voit la paille dans l’œil de son voisin et mais pas la poutre dans le sien... Une opposition stérile, de posture, qui s’est encore illustrée au dernier conseil municipal [au sujet du PLU](./contribution-nouveau-plu-douai) où elle s’est montrée incapable de reconnaître l’existence de simples panneaux.
+Bref, comme bien d’autres élu⋅es LReM/Renaissance, Coline Craeye voit la paille dans l’œil de son voisin et mais pas la poutre dans le sien… Une opposition stérile, de posture, qui s’est encore illustrée au dernier conseil municipal [au sujet du PLU](./contribution-nouveau-plu-douai) où elle s’est montrée incapable de reconnaître l’existence de simples panneaux.
 
-Quand on pense aux accusations incessantes de dogmatisme envoyées au visage de nos élu⋅es écologistes... cela pourrait prêter à sourire, si ce spectacle déplorable ne renforçait pas les rangs du Rassemblement National...
+Quand on pense aux accusations incessantes de dogmatisme envoyées au visage de nos élu⋅es écologistes… cela pourrait prêter à sourire, si ce spectacle déplorable ne renforçait pas les rangs du Rassemblement National…
 
 [Vidéo: Coline Craeye et les panneaux](https://youtu.be/QeAJ77ROWg8 "📺")
 

@@ -27,7 +27,7 @@ Le terme est, en fait, issu du militantisme anti-spéciste. Du fait que je mange
 
 En effet, en tant qu’humaniste, je suis forcément empreint d’anthropocentrisme et ceci a des effets directs sur ma relation au vivant.
 
-Je considère qu’un être humain peut, s’il le veut, employer les animaux pour atteindre ses objectifs : alimentation, transport, travail, spectacle... En fait, je pense même qu’à défaut de leur prêter une utilité, nous devons alors juste laisser les animaux tranquilles, dans la nature.
+Je considère qu’un être humain peut, s’il le veut, employer les animaux pour atteindre ses objectifs : alimentation, transport, travail, spectacle… En fait, je pense même qu’à défaut de leur prêter une utilité, nous devons alors juste laisser les animaux tranquilles, dans la nature.
 
 J’assume bien-sûr cette position car mettre toute la faune (humanité comprise) sur le même niveau peut avoir des implications loufoques. Je défends la vie humaine en priorité. C’est un fait.
 
@@ -63,9 +63,9 @@ Elle est aussi un régal pour les yeux, j’adorais travailler avec un œil sur 
 
 Bref, on le voit, la gastronomie est un livre ouvert sur la condition paysanne, mais surtout, sa capacité à ne rien gâcher, à faire preuve de créativité pour maximiser le fruit de l’effort fourni.
 
-On pourrait parler du fromage (moyen de conservation du lait), du génie mis en œuvre pour la préparation des abats...
+On pourrait parler du fromage (moyen de conservation du lait), du génie mis en œuvre pour la préparation des abats…
 
-D’une certaine manière, on peut dire que le geste de tuer un animal pour le manger était suivi d’une forme de respect pour que ce geste ne soit pas inconséquent. D’où le fameux adage "tout est bon dans le cochon", mais on pourrait en dire autant de la poule, du mouton, du bœuf...
+D’une certaine manière, on peut dire que le geste de tuer un animal pour le manger était suivi d’une forme de respect pour que ce geste ne soit pas inconséquent. D’où le fameux adage "tout est bon dans le cochon", mais on pourrait en dire autant de la poule, du mouton, du bœuf…
 
 La condition animale n’était alors pas tellement un sujet puisqu’on vivait parmi les animaux qu’on élevait et l’être humain, que je pense par nature bon, n’infligeait pas de souffrances outrancièrement inutiles aux animaux.
 
@@ -81,7 +81,7 @@ On produit des espèces pour les œufs et on broie les poussins mâles. On récu
 
 On mange des steaks, mais pas d’abats (ou alors dans des "saucisses" uniformes ou au travers de la gamelle de nos animaux de compagnie devenus inutiles mais indispensables).
 
-Et si tout cela se termine par des milliers de barquettes plastiques encore pleines de viande dans une poubelle de supermarché, peu importe, tant que les linéaires étaient bien pleins pour la saison des barbecues...
+Et si tout cela se termine par des milliers de barquettes plastiques encore pleines de viande dans une poubelle de supermarché, peu importe, tant que les linéaires étaient bien pleins pour la saison des barbecues…
 
 ## La déculturation au profit du grand gâchis
 
@@ -115,7 +115,7 @@ Je ne partage pas cette sensibilité, mais je peux la comprendre : j’ai fait 
 
 D’une certaine manière, c’est en cohérence avec le fait de manger de la viande, savoir ce que cela signifie exactement, c’est une sorte de chemin initiatique vers le respect du produit fini et l’exécration du gâchis.
 
-Finalement, si chacun·e s’occupait de ses poules, il n’y aurait plus ce métier qu’une connaissance, autrefois employée de l’usine Doux de Graincourt-lez-Havrincourt exerçait : tuer des milliers d’oiseaux par jour. Ce n’est pas une partie de plaisir, d’autant qu’ensuite, elle fût passablement jetée dehors sans autre forme de procès pour fermer définitivement une "unité de production" plus assez rentable...
+Finalement, si chacun·e s’occupait de ses poules, il n’y aurait plus ce métier qu’une connaissance, autrefois employée de l’usine Doux de Graincourt-lez-Havrincourt exerçait : tuer des milliers d’oiseaux par jour. Ce n’est pas une partie de plaisir, d’autant qu’ensuite, elle fût passablement jetée dehors sans autre forme de procès pour fermer définitivement une "unité de production" plus assez rentable…
 
 On est loin du sketch de Dany Boon. On en parle le regard noir et le ton grave. À vrai dire, si même quand on tue des milliers de poulets chaque jour, on reste sensible, je pense qu’il est raisonnable de dire que personne ne peut être insensible à la condition animale.
 
@@ -137,7 +137,7 @@ Mais je ne jette pas la pierre, si j’écoutais mon cœur, j’aurais déjà un
 
 Je vais sûrement surprendre, mais j’ai grandi entouré de chasseurs de gibier d’eau et de plaine (en vallée de la Sensée). Je connais très bien ce milieu.
 
-Pas de chasseur dans ma famille, mais on a souvent récupéré, plumé et mangé des canards colverts, lapins de garenne et/ou lièvres donnés par des amis chasseurs (qui ne les mangeaient pas...). J’ai même emmené mon chien à la chasse une fois à la demande d’un ami. Je sais que, pour une partie d’entre eux, il y a un véritable respect de la nature. Cependant, souvent, l’effet de groupe, le culte de la performance amène à des pratiques inconséquentes qui sont à reconsidérer.
+Pas de chasseur dans ma famille, mais on a souvent récupéré, plumé et mangé des canards colverts, lapins de garenne et/ou lièvres donnés par des amis chasseurs (qui ne les mangeaient pas…). J’ai même emmené mon chien à la chasse une fois à la demande d’un ami. Je sais que, pour une partie d’entre eux, il y a un véritable respect de la nature. Cependant, souvent, l’effet de groupe, le culte de la performance amène à des pratiques inconséquentes qui sont à reconsidérer.
 
 C’est pourquoi, je suis favorable à un contrôle bien plus strict des espèces chassées et à l’interdiction de la chasse le week-end entier dans les lieux fréquentés par d’autres personnes et le dimanche dans les lieux sans passage car la nature aussi a droit au répit.
 
@@ -169,14 +169,14 @@ Je vais terminer avec quelques propositions à appliquer à titre individuel si 
 
 - **avoir ses poules :** si vous vivez à la campagne ou si vous avez du terrain, vous devez avoir des poules ! J’espère avoir réussi avec ce long texte à vous en donner l’envie. Vous serez alors responsable du bien-être de ces petites bêtes qui vous le rendront bien. Vous déciderez alors en âme et conscience de leur devenir, attention toutefois, il y a un nombre de coq par poule maximum à respecter. Si vous avez trop de mâles, l’inaction ne sera pas bonne conseillère,
 - **voir les animaux que l’on mange :** c’est ce que je tente de faire en me fournissant localement au maximum, mais des initiatives telles qu’à Cambridge où des bœufs d’élevage paissent dans les parcs me semble intéressantes,
-- **manger des abats, du pâté :** les amateurs de viande rouge boudent les autres morceaux, une façon intelligente de se faire plaisir tout en limitant les dégâts est de consommer les abats : langue, cœur, cervelle... contrairement aux idées reçues, c’est souvent excellent quand c’est bien cuisiné,
+- **manger des abats, du pâté :** les amateurs de viande rouge boudent les autres morceaux, une façon intelligente de se faire plaisir tout en limitant les dégâts est de consommer les abats : langue, cœur, cervelle… contrairement aux idées reçues, c’est souvent excellent quand c’est bien cuisiné,
 - **mangez moins de viande :** je suis un grand amateur de charcuterie et de viande rouge. Du coup, je mange de la viande rouge quasi uniquement quand je vais au restaurant ou aux repas de fêtes, c’est un peu mon moment plaisir. Mais en manger tous les jours, cela n’a pas de sens. Enfin, comme j’aime le rappeler, c’est la dose qui fait le poison. Manger de la viande en quantité excessive est de plus très mauvais pour la santé,
 - **donner ses restes à son chien :** les vendeurs de croquettes vous diront le contraire, j’ai toujours fait comme ça, si c’est bon pour moi, c’est bon pour mon chien (c’est comme ça depuis des millénaires),
 - **adopter, ou mieux, garder :** si vous envisagez d’avoir un animal de compagnie, pensez à l’adoption, bien-sûr, stérilisez-le. Encore mieux, gardez gratuitement ceux de vos ami·es. En effet, généralement, c’est difficile de trouver quelqu’un pour garder ses animaux, cela peut vous permettre de tester voire, de bénéficier de la présence d’animaux quand vous êtes effectivement chez vous, pendant les congés, par exemple.
 
 Ces "petits gestes" personnels démontrent malgré tout les limites de la démarche individuelle, à mon sens, c’est au niveau législatif qu’il faut traiter le problème et abolir purement et simplement l’élevage industriel.
 
-Ceci aura nécessairement un effet sur les prix de la viande et, c’est bien ce qu’il faudra pour limiter les appétits de celles et ceux qui refuseront coûte que coûte de renoncer à leur beefsteak quotidien et qui doivent être remis en minorité comme les propriétaires de yachts et autres jets...
+Ceci aura nécessairement un effet sur les prix de la viande et, c’est bien ce qu’il faudra pour limiter les appétits de celles et ceux qui refuseront coûte que coûte de renoncer à leur beefsteak quotidien et qui doivent être remis en minorité comme les propriétaires de yachts et autres jets…
 
 Je n’ai absolument pas parlé des effets néfastes de l’élevage industriel sur l’environnement puisqu’il s’agissait surtout ici de condition animale, mais il y a une corrélation directe entre moins de souffrance animale et moins de réchauffement climatique. Pensez-y !
 

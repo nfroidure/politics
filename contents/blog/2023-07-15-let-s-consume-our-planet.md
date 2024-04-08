@@ -1,5 +1,5 @@
 ---
-title: "Chanson : Consumons la planète"
+title: "Chanson : Consumons la planète"
 description: "Une petite chanson pour exprimer l’amertume qu’on peut parfois ressentir face à l’inconscience et l’inconséquence de certains de nos congénères…"
 date: "2023-07-15T16:00:00.000Z"
 draft: false

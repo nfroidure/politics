@@ -51,8 +51,8 @@ Il me semble que les demandes de modifications sont trop permissives. En effet, 
 Il me semble important de classer en éléments de paysage à préserver les nombreux linéaires d’arbres et autres bosquets présents au sein de la ville :
 
 - boulevards Delebecque, Paul Hayet, Paul Phalempin, de Liège, Vauban, Louis Bréguet, Albert Ier, de la République, Louis Pasteur et Jeanne d’Arc,
-- avenues du 4 septembre, de Twickenham, Paul Hénin...
-- rues Alexandre Descatoire, Constant Dutilleux, du Faubourg d’Arras...
+- avenues du 4 septembre, de Twickenham, Paul Hénin…
+- rues Alexandre Descatoire, Constant Dutilleux, du Faubourg d’Arras…
 
 Il ne me semble pas utile de préserver l’uniformité de leur taille étant donné le coût et le bilan carbone du transport d’arbres de taille significative et leur résilience moindre par rapport à un arbre qui a grandi sur place. Il ne me semble également pas souhaitable de limiter les essences utilisables au regard du changement climatique qui peut nécessiter la sélection d’espèces différentes.
 
@@ -63,7 +63,7 @@ Enfin, il pourrait être intéressant de classer certaines rues / certains parcs
 
 ## Parité/diversité pour les noms de rue
 
-Il peut être utile d’étudier l’établissement de critères pour le nom des rues à la création et/ou en cas de renommage afin de favoriser la représentativité de toute la population (femmes, minorités et/ou communautés, tirailleurs sénégalais, héros de la résistance à la colonisation etc...) trop absentes du récit national au regard de leur contribution non négligeable.
+Il peut être utile d’étudier l’établissement de critères pour le nom des rues à la création et/ou en cas de renommage afin de favoriser la représentativité de toute la population (femmes, minorités et/ou communautés, tirailleurs sénégalais, héros de la résistance à la colonisation etc…) trop absentes du récit national au regard de leur contribution non négligeable.
 
 ## Zones commerciales
 
@@ -89,15 +89,15 @@ Il pourrait être utile de préciser que l’élévation de bâtiments ne doit p
 
 La binarité du zonage commercial semble être réglementaire, mais il me semble important de faire remonter aux services de l’État qu’une différenciation en plusieurs catégories de commerces serait souhaitable.
 
-Commerces de bouche, services à la personne (coiffeurs/euses...), bazars, supérettes pour les îlots de commerces de proximité et le reste dans le centre me semblerait une approche utile mais, a priori, selon la réponse des services lors de la réunion PLU, impossible à ce jour.
+Commerces de bouche, services à la personne (coiffeurs/euses…), bazars, supérettes pour les îlots de commerces de proximité et le reste dans le centre me semblerait une approche utile mais, a priori, selon la réponse des services lors de la réunion PLU, impossible à ce jour.
 
 C’est regrettable à mon sens.
 
 ## Cheminements intergénérationnels
 
-Il pourrait être intéressant, à l’image des différentes trames vertes, bleues, sombres... etc. De prévoir des artères aux cheminements adaptés à la pratique intergénérationnelles.
+Il pourrait être intéressant, à l’image des différentes trames vertes, bleues, sombres… etc. De prévoir des artères aux cheminements adaptés à la pratique intergénérationnelles.
 
-Des bancs pour les personnes âgées, des agrès pour les enfants, de l’art... l’idée étant de proposer des parcours piétons semés d’escales afin d’adapter la ville aux générations et à leurs aspirations et d’associer aux pratiques de mobilités actives les notions de plaisir et de sérendipité.
+Des bancs pour les personnes âgées, des agrès pour les enfants, de l’art… l’idée étant de proposer des parcours piétons semés d’escales afin d’adapter la ville aux générations et à leurs aspirations et d’associer aux pratiques de mobilités actives les notions de plaisir et de sérendipité.
 
 ## Remerciements
 

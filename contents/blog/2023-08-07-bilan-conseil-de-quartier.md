@@ -19,7 +19,7 @@ illustration:
 
 Tout comme la démocratie française, je pense que les conseils de quartier ont des progrès à faire pour devenir véritablement démocratiques. J’ai formulé quelques [propositions d’amélioration](./democratie-participative-des-idees-pour-douai), mais je suis tout de même résolu à y participer.
 
-C’est ce que j’ai fait suite au tirage au sort de ma candidature lors des dernières désignations. Après presque un an, il est temps de regarder dans le rétroviseur !
+C’est ce que j’ai fait suite au tirage au sort de ma candidature lors des dernières désignations. Après presque un an, il est temps de regarder dans le rétroviseur !
 
 ## A propos du périmètre du conseil
 

@@ -16,13 +16,13 @@ illustration:
 
 Gérer les demandes des habitant⋅es et les changements de leur cadre de vie ne peut plus se faire dans l’opacité. **Les citoyen⋅nes veulent connaître les décisions prises, leurs motivations et application** jusque dans leurs moindres détails.
 
-C’est pourquoi les collectivités (commune, communauté de commune, département, région...) doivent se doter d’un **système de ticket ouvert, libre, open-source et collaboratif.**
+C’est pourquoi les collectivités (commune, communauté de commune, département, région…) doivent se doter d’un **système de ticket ouvert, libre, open-source et collaboratif.**
 
 ## Des principes à incarner
 
 ![Photographie de la formation des conseils de quartier](/public/illustrations/formation-conseil-de-quartier.jpg "🖼➡️") Lors des formations organisées par la ville de Douai pour les conseils de quartiers, le formateur, [Patrick Norynberg](https://www.patricknorynberg.com/), est revenu sur la nature des relations des habitant⋅es avec les élu⋅es et les services de la collectivité ou des opérateurs privés mandatés par un contrat de service.
 
-Les habitant⋅es sont lié⋅es aux élu⋅es par un contrat politique (programme, principes, vision du monde...) et aux services technique par un contrat de service.
+Les habitant⋅es sont lié⋅es aux élu⋅es par un contrat politique (programme, principes, vision du monde…) et aux services technique par un contrat de service.
 
 Le rôle des conseiller⋅es de quartier est donc de fluidifier ces interactions en instituant un cadre facilitateur de la démocratie participative.
 
@@ -59,7 +59,7 @@ Un cas récent est le linéaire d’arbres de chaque côté de l’avenue du 4 s
 
 Cette promenade, téléphone à la main avec Google Street View ouvert pour comparer, est un miroir des demandes individuelles des habitantes depuis 2009. En fait, on constate de nombreuses ruptures du linéaire qui n’ont aucune cohérence d’ensemble particulière.
 
-On imagine bien que par un quelconque moyen (permanence des élu⋅es, accointance avec les services...), il est possible de faire couper l’arbre devant chez soi pour plus de lumière du jour, au détriment de la cohérence d’ensemble de l’avenue et du confort des piétons en période de canicule.
+On imagine bien que par un quelconque moyen (permanence des élu⋅es, accointance avec les services…), il est possible de faire couper l’arbre devant chez soi pour plus de lumière du jour, au détriment de la cohérence d’ensemble de l’avenue et du confort des piétons en période de canicule.
 
 Ce sont pas moins de 12 coupes détectées (entre 2009 et aujourd’hui) dont une partie est visible dans le diaporama suivant, mais aussi 13 ruptures de la continuité du linéaire qui sont certainement des coupes plus anciennes qu’il conviendrait de combler également.
 
@@ -104,11 +104,11 @@ C’est également, pour les élu⋅es un excellent moyen de bénéficier du con
 
 Pour les services, c’est aussi la garantie de ne pas être mis en cause à tort par des commandes politiques peu avouables.
 
-Enfin, pour les citoyen⋅nes cela permet également de voir concrètement le temps nécessaire pour accéder à leurs demandes et d’éventuellement revoir à la baisse leurs exigences (faut-il encore brûler les “mauvaises herbes”...) ou, en tout cas, de trouver une justification au montant de leurs impôts locaux.
+Enfin, pour les citoyen⋅nes cela permet également de voir concrètement le temps nécessaire pour accéder à leurs demandes et d’éventuellement revoir à la baisse leurs exigences (faut-il encore brûler les “mauvaises herbes”…) ou, en tout cas, de trouver une justification au montant de leurs impôts locaux.
 
 ## Détails techniques
 
-Il s’avère que Douai utilise un logiciel nommé "e-Colbert" (la référence à [Jean-Baptiste Colbert](https://fr.wikipedia.org/wiki/Jean-Baptiste_Colbert) peut prêter à sourire...). Cependant, il n’est pas open-source (on ne peut savoir comment il fonctionne, ni participer à l’améliorer) et ne serait pas conçu pour offrir un accès public aux informations détenues.
+Il s’avère que Douai utilise un logiciel nommé "e-Colbert" (la référence à [Jean-Baptiste Colbert](https://fr.wikipedia.org/wiki/Jean-Baptiste_Colbert) peut prêter à sourire…). Cependant, il n’est pas open-source (on ne peut savoir comment il fonctionne, ni participer à l’améliorer) et ne serait pas conçu pour offrir un accès public aux informations détenues.
 
 Il me semble, en tant que défenseur de la [FSF](https://www.fsf.org/) que tout argent public doit uniquement servir à investir dans du code public.
 
