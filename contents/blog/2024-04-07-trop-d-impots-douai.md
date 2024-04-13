@@ -15,35 +15,39 @@ illustration:
 
 # Y-a-t-il trop d’impôts à Douai ?
 
-Le dernier conseil municipal de Douai a eu lieu le 5 avril 2024. Il y était question du vote du budget et du taux de fiscalité. Le conseil municipal et député Rassemblement National, Thibaut François, a fustigé la municipalité sur l’augmentation de la taxe foncière.
+Le dernier conseil municipal de Douai a eu lieu le 5 avril 2024. Il y était question du vote du budget et du taux de fiscalité. Le conseiller municipal et député Rassemblement National (ex Front National), Thibaut François, a fustigé la municipalité sur l’augmentation de la taxe foncière.
 
 ![Capture de l’intervention du député RN de Douai, François Thibaut](/public/illustrations/francois-thibaut-depute-douaisis.jpg "🖼➡️")
 
-En effet, suite à l’augmentation de la base fiscale par l’État, les recettes fiscales de la commune ont augmenté en euros malgré le fait que le taux de fiscalité n’ait pas évolué.
+En effet, les recettes fiscales des communes ont augmenté en euros. La raison à cela est simple. La taxe foncière est le produit de la base fiscale et du taux de fiscalité. La base fiscale a augmenté à l’initiative de l’État.
 
-La raison à cela est que la base fiscale a augmenté à l’initiative de l’État et ce de façon identique dans toutes les communes.
+C’est pourquoi, sans que la municipalité n’augmente le taux de fiscalité, il est probable que la taxe foncière des propriétaires ait augmenté à un rythme comparable à l’inflation.
 
-En effet, l’inflation ayant été importante, les recettes fiscales des communes ont suivi mécaniquement, ce que le gouvernement a répercuté sur les bases fiscales.
+En effet, l’inflation ayant été importante, les dépenses des communes ont suivi mécaniquement, ce que le gouvernement a répercuté sur les bases fiscales.
 
 Selon Thibaut François, il eut fallu compenser la hausse décidée par l’État par une baisse du taux de fiscalité ce qui signifie donc que la commune aurait dû se priver volontairement d’une partie de son pouvoir d’agir au prétexte de ne pas faire peser l’impôt autant que l’inflation sur les propriétaires de biens immobiliers.
 
 **On notera que, comme à son habitude, le Rassemblement National, se préoccupe bien plus du sort des plus aisé·es que du peuple, en bon parti d’extrême droite.**
 
-On peut le comprendre puisque selon sa dernière déclaration HATVP, il fait parti des 1% des français·es les plus aisé·es et pourtant, paradoxalement, ce n’est jamais que l’impôt qui lui permet de subsister depuis de nombreuses années, que ce soit en tant qu’élu, député aujourd’hui (7 600€ bruts mensuels), ou comme collaborateur d’élu au parlement Européen (149 075€ net pour l’année 2021) ou, encore, en tant que consultant dans une société belge dont il fût le gérant et qui fournissait des prestations au Rassemblement National (voir le papier de Médiapart “[Campagne de Marine Le Pen: le florissant business de cadres FN et de leurs familles](https://www.mediapart.fr/journal/france/280518/campagne-de-marine-le-pen-le-florissant-business-de-cadres-fn-et-de-leurs-familles)”).
+Et pourtant, selon sa dernière déclaration HATVP, paradoxalement, ce n’est jamais que l’impôt qui lui permet de subsister depuis de nombreuses années :
 
-Bref, on sent bien l’enfumage poindre.
+- en tant qu’élu, député aujourd’hui (7 600€ bruts mensuels),
+- ou comme collaborateur d’élu au parlement Européen (149 075€ net pour l’année 2021)
+- ou, encore, en tant que consultant dans une société belge dont il fût le gérant et qui fournissait des prestations au Rassemblement National (voir le papier de Médiapart “[Campagne de Marine Le Pen: le florissant business de cadres FN et de leurs familles](https://www.mediapart.fr/journal/france/280518/campagne-de-marine-le-pen-le-florissant-business-de-cadres-fn-et-de-leurs-familles)”).
+
+Bref, de l’enfumage, comme c’est de coutume avec l’extrême droite. Alors, clarifions un peu le rôle et les enjeux que les impôts impliquent.
 
 ## Peut-on être contre l’impôt ?
 
-**L’impôt est un outil de collectivisation de la dépense.** Sans impôt, pas d’État, pas de région, de département ni de commune. Même les plus libéraux n’ont pas pour velléité de supprimer tout impôt.
+**L’impôt est un outil de collectivisation de la dépense.** Sans impôt, pas d’État, pas de région, de département, ni de commune. Même les plus libéraux n’ont pas pour velléité de supprimer tout impôt.
 
-Dès lors, la question de l’impôt d’un point de vue politique concerne plus son périmètre et la répartition de l’imposition entre les citoyen·nes.
+Dès lors, la question de l’impôt d’un point de vue politique concerne plus son périmètre et la répartition de l’imposition entre les citoyen·nes. Qui paie quoi et pourquoi ?
 
 **Le périmètre** de l’impôt est de nos jours assez large. Il finance de nombreux pans de nos vies : éducation, santé, sécurité, défense… Ce périmètre est en constante évolution au gré des diverses décisions prises par les nombreuses strates du mille feuille administratif français.
 
 Certains impôts sont dédiés et financent un périmètre limité (par exemple, la TOEM, Taxe sur l’Enlèvement des Ordures Ménagères) d’autres sont généraux et l’affectation de cet impôt est à la discrétion des exécutifs en place (c’est précisément le cas pour la part communale et intercommunale de la taxe foncière).
 
-Le clivage entre la gauche et la droite concernant le périmètre de l’impôt porte sur de nombreux aspect. Pour simplifier, en général, la droite est plutôt encline à réduire le périmètre de l’impôt concernant le social (privatisation, suppression des mesures de protection sociale…) et à l’accroitre sur les sujets régaliens/économiques (budget militaire, aide aux entreprises…). La gauche, au contraire, tend à accroitre le périmètre de l’impôt pour les besoins essentiels (mise en place de services publics, de protections sociales) et à le réduire en ce qui concerne l’aide en direction des plus favorisés.
+Le clivage entre la gauche et la droite concernant le périmètre de l’impôt porte sur de nombreux aspects. Pour simplifier, en général, la droite est plutôt encline à réduire le périmètre de l’impôt concernant le social (privatisation, suppression des mesures de protection sociale…) et à l’accroitre sur les sujets régaliens/économiques (budget militaire, aide aux entreprises…). La gauche, au contraire, tend à accroitre le périmètre de l’impôt pour les besoins essentiels (mise en place de services publics, de protections sociales) et à le réduire en ce qui concerne l’aide en direction des plus favorisés.
 
 C’est d’ailleurs une autre dimension de l’impôt qui traduit bien ce clivage, celui de sa **répartition**. La droite tendra à faire peser l’impôt de la même manière sans distinction (une illustration de cette vision est la TVA, Taxe sur la Valeur Ajoutée, qui est la même pour tout le monde) tandis que la gauche essaiera au contraire de faire peser la fiscalité sur les ménages ou entreprises les plus privilégiés (ce qui vaut pour l’impôt sur le revenu mais pas uniformément…).
 
@@ -59,7 +63,7 @@ Vous pourriez dire que l’on a pas toujours suffisamment de temps ni d’inform
 
 Le champs d’action le plus large pour une commune comme Douai reste le périmètre de l’impôt. Bien que les communes aient des compétences biens précises, elles peuvent les investir plus ou moins bien et se saisir de compétences qu’elles n’ont pas nécessairement.
 
-Elles peuvent avoir un impact également sur la répartition de l’impôt mais de façon indirecte et limitée. Par exemple, la taxe foncière est un impôt réservé aux propriétaires (les plus démunis peuvent en être exonéré selon certaines conditions). Augmenter cet impôt est probablement plus redistributif que d’augmenter le prix de la piscine municipale pour éviter d’augmenter les impôts par exemple.
+Elles peuvent avoir un impact également sur la répartition de l’impôt mais de façon indirecte et limitée. Par exemple, la taxe foncière est un impôt réservé aux propriétaires (les plus démunis peuvent en être exonéré selon certaines conditions). Augmenter cet impôt est probablement plus redistributif que d’augmenter le prix de la piscine municipale pour éviter d’augmenter les impôts, par exemple.
 
 On peut dire que, globalement, la fiscalité des communes est plutôt redistributive et qu’il y a un lien direct entre redistribution et taux d’imposition.
 
@@ -80,7 +84,7 @@ On retrouve à Douai selon ma dernière taxe foncière un taux de 48,84% contre 
 
 **Comment trier l’essentiel du superflu ?** C’est là qu’est vraiment la question et c’est là que la politique entre vraiment en jeu.
 
-Difficile de lire entre les lignes souvent évasives des politiques locaux, mais globalement, on peut poser la question des grands projets inutiles de l’agglomération :
+Difficile de lire entre les lignes souvent évasives des politiques locales, mais globalement, on peut poser la question des grands projets inutiles de l’agglomération :
 
 - [élargissement de la RD 500](./projet-de-requalification-de-la-rd-500) (8 millions d’euros de Douaisis Agglo),
 - [le boulodrome](./inauguration-du-boulodrome-geant-du-douaisis) (9,5 millions d’euros),
@@ -93,7 +97,7 @@ Au niveau de la commune, de mon avis personnel que je sais partagé par d’autr
 
 Est-ce à dire que les écologistes sont pour faire baisser les impôts ? La réponse est non. Du moins, ce n’est pas un objectif revendiqué. L’allocation des recettes de l’imposition en revanche est le nerf de la guerre, tout comme son véritable usage.
 
-On peut, par contre lister les dépenses supplémentaires qu’exigent les oppositions : vidéosurveillance, armement de la police municipale. Combien coûtent ces mesure et comment financer cela en faisant baisser l’impôt ? Ces derniers ne répondent pas à la question, en toute démagogie.
+On peut, par contre lister les dépenses supplémentaires qu’exigent les oppositions : vidéosurveillance, armement de la police municipale. Combien coûtent ces mesures et comment financer cela en faisant baisser l’impôt ? Ces derniers ne répondent pas à la question, en toute démagogie.
 
 ## Du quantitatif au qualitatif
 
@@ -107,6 +111,22 @@ Aussi bien au niveau local que national, tant qu’on recrutera les copains (voi
 
 Enfin, les collectivités, en fonction de la pertinence de leurs investissements sur le long terme, peuvent accroitre leur efficience et faire plus avec moins. Un exemple concret est la production d’énergie (photovoltaïque, hydroélectricité, puits canadiens) et les économies d’énergie qui permettent de réduire les coûts tout en maintenant le même niveau de service.
 
-L’usage des low tech peut également réduire drastiquement les coûts de maintenance grâce à une conception simple et durable. Le logiciel libre également peut permettre de faire de [belles économies sur les licences informatiques](https://grenoble.ninja/un-land-allemand-libere) propriétaires de logiciel qui sont souvent moins bons que leur équivalent libre.
+L’usage des low tech peut également réduire drastiquement les coûts de maintenance grâce à une conception simple et durable. Le logiciel libre également peut permettre de faire de [belles économies sur les licences informatiques](https://grenoble.ninja/un-land-allemand-libere) propriétaires de logiciel qui sont souvent moins bons que leur équivalent libre. Et d’une manière générale, j’ai la conviction qu’[un aménagement écologique de la ville](./amenagement-de-la-ville-creons-les-possibles) permet une plus grande efficience de l’action publique.
 
 Bref, tout un programme autrement plus réjouissant que de s’exciter sur un pourcentage qui ne dit rien de la politique menée ni de celle qu’on lui préfèrerait.
+
+---
+
+**Addendum du 13 avril 2024** 
+
+## Quid de la «culture de la recette» ?
+
+C’est la phrase phare des prises de paroles de Christian Poiret aux divers médias qui lui prêtent le micro. L’agglomération et le département feraient des recettes. Un peu comme un entrepreneur, Christian Poiret cherche les sous ailleurs que dans la poche des contribuables.
+
+Mais alors, où les trouve-t-il ? C’est très simple, en en prenant un peu dans la poche de toutes et tous (et surtout des plus précaires).
+
+Cela s’opère, tranquillement, en dégradant des services publics... Une petite vidéo pour illustrer cela ?
+
+[Vidéo de Sud / Département du Nord](https://www.youtube.com/watch?v=Lr1dHFyIaNM "📺 Voir la vidéo")
+ 
+C’est donc la **répartition** et le **périmètre** qui évoluent ici, mais dans le mauvais sens, avec des répercussions claires sur la redistribution et donc, l’augmentation de la précarité sur notre territoire.
