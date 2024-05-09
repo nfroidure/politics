@@ -121,7 +121,7 @@ Les élu·es doivent mettre en œuvre des politiques qui éveillent et non endor
 
 Ensuite, favoriser la rencontre, la mixité. Trop de communes refusent encore le logement social, trop de programmes de construction et/ou de rénovation excluent systématiquement toute mixité.
 
-L’aménagement urbain doit redonner sa place à l’échange spontané, aux rencontres fortuites. On ne peut pas tolérer des bancs conçus pour ne pas rester assis trop longtemps. On ne peut pas accepter que l’automobile, véritable bulle hermétique au monde, soit le moyen de transport privilégié par les politiques publiques.
+L’[aménagement urbain doit redonner sa place à l’échange](https://nicolasfroidure.fr/blog/amenagement-de-la-ville-creons-les-possibles#controler-ou-rendre-possible) spontané, aux rencontres fortuites. On ne peut pas tolérer des bancs conçus pour ne pas rester assis trop longtemps. On ne peut pas accepter que l’automobile, véritable bulle hermétique au monde, soit le moyen de transport privilégié par les politiques publiques.
 
 Du point de vue de la rencontre et de la mixité, les transports en commun sont sans commune mesure avec cette dernière. Les rues piétonnes, les spectacles de rues, la gratuité : autant d’idées pour provoquer la rencontre.
 
@@ -131,7 +131,7 @@ Quelques mesures simples peuvent faire renaître les communs et l’idée du col
 
 - du mobilier urbain confortable, convivial et inclusif (des bancs avec dossier, des tables de jeu, des rues piétonnes, des aires de jeu qui créent du lien aussi pour les parents, des tiers-lieux…),
 - des règles collaboratives (pour les boîtes à livre, pour la démocratie participative, pour l’affichage de la commune, pour les débats politiques…),
-- la proximité des élu·es et la transparence des politiques publiques (permanences publiques, systèmes de tickets, files d’attente transparentes pour le logement social, votation citoyenne…),
+- la proximité des élu·es et la transparence des politiques publiques (permanences publiques, [systèmes de tickets ouverts et participatifs](./un-systeme-de-ticket-ouvert-pour-les-collectivites), files d’attente transparentes pour le logement social, votation citoyenne…),
 - sortir les gens des réseaux sociaux, leur suggérer d’éteindre la télévision (et non pas les appeler à s’y rendre pour suivre leur commune…).
 
 Bref, on ne luttera pas contre le RN derrière une ligne Maginot mais en menant une offensive républicaine et sociale. N’hésitez pas à [m’envoyer un courriel](mailto:nicolas.froidure@gmail.com?subject=Stop+RN) si vous souhaitez entrer en action.

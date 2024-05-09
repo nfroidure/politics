@@ -40,14 +40,14 @@ Face à la multiplication des événements climatiques extrêmes, l’aménageme
 
 Ce qui peut frapper, quand on s’intéresse à l’aménagement d’une ville, c’est l’obsession du contrôle. **On prévoit des usages et on ne permet qu’eux.**
 
-Un exemple concret; les bancs anti-clochard·es : on ne souhaite pas qu’un endroit soit squatté alors on supprime les bancs ou on les rend suffisamment inconfortables pour qu’ils ne puissent être utilisés de façon non-souhaitée (pas de dossier, bancs inconfortables, impossibilité de s’allonger dessus…).
+Un exemple concret; les bancs anti-clochard·es : on ne souhaite pas qu’un endroit soit squatté alors on supprime les bancs ou on les rend suffisamment inconfortables pour qu’ils ne puissent pas être utilisés de façon non-souhaitée (pas de dossier, bancs inconfortables, impossibilité de s’allonger dessus…).
 
 ![Photographie des bancs au Faubourg de Béthune](/public/illustrations/banc-faubourg-bethune-douai.jpg)
 ![Photographie de banc anti clochard à la fonderie](/public/illustrations/banc-anti-clochard-fonderie-douai.jpg)
 ![Photographie de banc rue de Bellain, pas de position allongée possible](/public/illustrations/banc-rue-bellain-douai.jpg)
 ![Photographie de banc rue de Bellain, sans dossier](/public/illustrations/bancs-rue-bellain-douai-2.jpg)
 
-Il est pourtant possible, comme dans le quartier de Bois-Blanc à Lille d’au contraire permettre un véritable confort allant jusqu’à la position allongée, comme sur cette photo.
+Il est pourtant possible, comme dans le quartier de Bois-Blanc à Lille, d’au contraire permettre un véritable confort allant jusqu’à la position allongée, comme sur cette photo.
 
 ![Photographie d’un espace détente avec des chaises longues](/public/illustrations/chaises-longues-lille-bois-blanc.jpg "🖼➡️")
 
@@ -63,6 +63,8 @@ En effet, le parc est toujours squatté la nuit. Pire, les portes sont vandalis�
 ![Photographie du coût du Parc Bertin](/public/illustrations/cout-parc-bertin.jpg)
 ![Photographie du portique du Parc Bertin entrain d’être réparé pour une énième fois](/public/illustrations/parc-bertin-portique-en-maintenance.jpg)
 ![Photographie d’une personne SDF que j’ai retrouvée suspendue à la clôture du parc Bertin](/public/illustrations/photographie-sdf-suspendu-cloture-parc-bertain.jpg)
+![Photographie d’une entrée du parc Bertin condamnée suite à une chute d’arbre](/public/illustrations/entree-parc-bertin-condamne.jpg)
+![Photographie du tourniquet du parc condamné](/public/illustrations/tourniquet-parc-bertin-condamne.jpg)
 
 Comble de l’ironie, l’entrée du parc est signalée parc un rétro-éclairage LED alors qu’à ces heures nocturnes, il n’est plus possible d’y entrer.
 

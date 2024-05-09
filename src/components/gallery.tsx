@@ -22,7 +22,10 @@ export default function Gallery({
       <ul>
         {imagesNodes.map((imageNode, index) => (
           <li key={index}>
-            <a onClick={setSelectedIndex.bind(null, index)}>
+            <a
+              onClick={setSelectedIndex.bind(null, index)}
+              title={imageNode.alt || ""}
+            >
               <img src={qualifyPath(imageNode.url)} alt={imageNode.alt || ""} />
             </a>
           </li>
