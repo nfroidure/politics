@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 01 May 2024 19:00:00 GMT</lastBuildDate>
-    <pubDate>Thu, 09 May 2024 09:14:33 GMT</pubDate>
+    <lastBuildDate>Fri, 10 May 2024 11:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 10 May 2024 12:07:02 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/elections-europeennes-je-choisis-l-ecologie</guid>
+        <title>Élections Européennes : Je choisis l’écologie !</title>
+        <description>Les élections européennes auront lieu le dimanche 9 juin 2024. Écologiste, je vote logiquement pour Marie Toussaint.</description>
+        <link>https://nicolasfroidure.fr/blog/elections-europeennes-je-choisis-l-ecologie</link>
+        <pubDate>Fri, 10 May 2024 11:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/zac-barrois-a-pecquencourt-non-a-primelog</guid>
         <title>ZAC Barrois à Pecquencourt : Non à Primelog</title>
