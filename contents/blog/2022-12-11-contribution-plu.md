@@ -19,7 +19,7 @@ illustration:
 
 ![Photographie de la consultation PLU du quartier Barlet-Centre](/public/illustrations/reunion-plu-douai-1.jpg "🖼➡️")
 
-La ville de Douai renouvelle son PLU et il est ambitieux ! Je tenais cependant à apporter une contribution pour compléter le travail réalisé et proposer d’autres mesures possibles.
+Par l'intermédiaire de l'élue écologiste, adjointe à l'urbanisme, Stéphanie Stiernon, la ville de Douai renouvèle son PLU et il est ambitieux ! Je tenais cependant à apporter une contribution pour compléter le travail réalisé et proposer d’autres mesures possibles.
 
 ## Classements en zone N
 

@@ -6,9 +6,10 @@ draft: false
 categories:
   - Politique locale
   - Critique de livre
-  - Énergies renouvelables
+  - Énergie
 tags:
   - livre
+  - renouvelables
 illustration:
   url: "/public/illustrations/livres-jacques-vernier.jpg"
   alt: "Photographie des deux livres de Jacques Vernier"
