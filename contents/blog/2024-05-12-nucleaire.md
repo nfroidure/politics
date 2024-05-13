@@ -37,7 +37,7 @@ En revanche, ce procédé comporte des risques sans comparaison, de part leur di
 
 Il est également important de noter que, bien que la fission ne produise pas de CO2, le nucléaire reste une énergie fossile (l’Uranium étant exploité dans des gisements miniers). C’est également une énergie tributaire de pays étrangers pour l’extraction de l’Uranium.
 
-Bien entendu, le nucléaire dans tout son cycle de vie produit du CO2 : transport et traitement des matières premières et du combustible usager, béton nécessaire aux centrales, mais aussi au confinement des installations victimes d’accidents, stockage des déchets…
+Bien entendu, le nucléaire dans tout son cycle de vie produit du CO2 : transport et traitement des matières premières et du combustible usagé, béton nécessaire aux centrales, mais aussi au confinement des installations victimes d’accidents, stockage des déchets…
 
 Ce qui nous amène à une autre caractéristique de la fission nucléaire : la production de déchets hautement radioactifs d’une durée de vie variable allant jusqu’à plus de 100 000 ans.
 
@@ -51,7 +51,7 @@ En effet, avec ses 220 000 collaborateur⋅ices, la filière nucléaire représe
 - la centrale devait être prête en 2012 (après une autorisation signée en 2007), c’est finalement **avec 12 années de retard** que cette dernière devrait démarrer,
 - elle devait coûter 3.3 milliards d’euros, elle en coûtera finalement 19.1 milliards soit **presque six fois plus chère que prévue**.
 
-Ces déboires ne sont pas isolés, les EPR d’Hinkley Point (au Royaume-Uni, 20 milliards d’euros de surcoût, toujours en construction), Olkiluoto 3 en Finlande (10 années de retard). Seul l’EPR de Taishan (Chine) semble avoir tenu les délais, mais a subi des arrêts depuis.
+Ces déboires ne sont pas isolés, les EPR d’Hinkley Point (au Royaume-Uni, 20 milliards d’euros de surcoût, toujours en construction), Olkiluoto 3 en Finlande (10 années de retard) sont également concernés. Seul l’EPR de Taishan (Chine) semble avoir tenu les délais, mais a subi des arrêts depuis.
 
 Comme le démontrent les déboires des constructions d’EPR, maintenir un tel niveau de technicité est complexe au siècle de l’instantané et du divertissement permanent.
 
@@ -95,7 +95,7 @@ Pour gérer l’intermittence des énergies renouvelables, les solutions de stoc
 Le nucléaire est une source d’énergie constante, mais pas aisément pilotable non plus. Démarrer ou arrêter une centrale nucléaire ne se fait pas d’un coup de baguette magique. Selon EDF, il faut près d’un mois, 200 personnes et 4000 opérations pour redémarrer un réacteur nucléaire.
 
 Avec les énergies renouvelables l’enjeu existe également mais heureusement, il est amoindri par la complémentarité des différentes sources de production :
-- le solaire est intermittent, mais prédictible : il produit le jour, quasiment pas la nuit et un peu moins en hiver. En revanche, les périodes de non production sont courtes (7 à 10 heures en France) et permettent donc d’utiliser des méthodes de stockage de court terme ou à capacité limitée (volants d’inerties, stations STEP…),
+- le solaire est intermittent, mais prédictible : il produit le jour, quasiment pas la nuit et un peu moins en hiver. En revanche, les périodes de non production sont courtes (les nuits durent 7 à 10 heures en France) et permettent donc d’utiliser des méthodes de stockage de court terme ou à capacité limitée (volants d’inerties, stations STEP…),
 - le vent est intermittent, un peu moins prédictible, mais produit généralement plus quand le solaire produit moins : temps nuageux, hiver… cependant, il est plus réparti que le solaire.
 
 Il existe même des énergies renouvelables constantes et/ou pilotables :
@@ -115,7 +115,7 @@ L’une des différences fondamentales entre un mix 100% renouvelable et une pro
 
 Le couple panneaux solaires et batterie résidentielle est de plus en plus plébiscité par les particulier⋅es et il se pourrait bien qu’EDF ait des difficultés à vendre son électricité à des personnes devenues autonomes avant le démarrage du premier EPR.
 
-Le développement de [la voiture électrique](./quel-avenir-pour-l-automobile) vient avec une technologie "vehicle to grid" (V2G) qui permet à une automobile de réinjecter du courant en période de baisse de production. Avec [37,9 millions](https://www.insee.fr/fr/statistiques/2045167) de voitures en service, si demain elle deviennent toutes électriques et V2G, cela fait 40kWh × 37.9M = 1.7TWh de stockage potentiel, un gisement énorme comparé aux 5GW de stations STEP déployées aujourd’hui en France (il n’est pas souhaitable de garder autant de voiture en circulation mais même en divisant ce chiffre par 10, l’ordre de grandeur est conséquent).
+Le développement de [la voiture électrique](./quel-avenir-pour-l-automobile) vient avec une technologie "vehicle to grid" (V2G) qui permet à une automobile de réinjecter du courant en période de baisse de production. Avec [37,9 millions](https://www.insee.fr/fr/statistiques/2045167) de voitures en service, si demain elle deviennent toutes électriques et V2G, cela fait 40kWh × 37.9M = 1.7TWh de stockage potentiel, un gisement énorme comparé aux 5GW de stations STEP déployées aujourd’hui en France (il n’est pas souhaitable de garder autant de voitures en circulation mais même en divisant ce chiffre par 10, l’ordre de grandeur est conséquent).
 
 L’auto-consommation permet, au delà d’une certaine autonomie énergétique, une forme d’émancipation individuelle. Des économies substantielles pour les ménages sont à la clef et elles permettent de sensibiliser les populations à leur consommation et surtout, à l’adequation entre leur production d’énergie et leur consommation.
 
@@ -127,7 +127,7 @@ En misant sur l’atome et un chimérique futur d’abondance énergétique, le 
 
 Elle est un des fondements de la stratégie 100% renouvelables.
 
-En effet, la promesse d’une grande quantité d’énergie dans les décennies à venir grâce à des EPR flambants neufs permet d’esquiver la question des économies d’énergies : rénovation énergétique des bâtiments, efficience des processus de production industrielle, consommation au bon moment, effacement intelligent… tous ces sujets méritent d’être creusé comme le suggère la maxime désormais bien connue, “la meilleure énergie c’est celle qu’on ne consomme pas”.
+En effet, la promesse d’une grande quantité d’énergie dans les décennies à venir grâce à des EPR flambants neufs permet d’esquiver la question des économies d’énergies : rénovation énergétique des bâtiments, efficience des processus de production industrielle, consommation au bon moment, effacement intelligent… tous ces sujets méritent d’être creusés comme le suggère la maxime désormais bien connue, “la meilleure énergie c’est celle qu’on ne consomme pas”.
 
 Faut-il développer le nucléaire pour pouvoir s’exposer 7j/7 à des nuisances visuelles telles que [les publicités numériques](/stop-pub-mettons-fin-a-la-publicite) ?
 
@@ -135,18 +135,18 @@ Doit-on investir massivement dans le nucléaire ou dans l’isolation de nos log
 
 ## Considérations géopolitiques
 
-Enfin, d’un point de vue géopolitique, le nucléaire représente une vulnérabilité importante. Les problèmes observés avec la guerre en Ukraine le démontrent, une production électrique centralisée permet des nuisances importantes en touchant un nombre réduit de cibles.
+Enfin, d’un point de vue géopolitique, le nucléaire représente une vulnérabilité importante. Les problèmes observés avec la guerre en Ukraine le démontrent ; une production électrique centralisée permet des nuisances importantes en touchant un nombre réduit de cibles.
 
 Là où il est envisageable de détruire les 18 sites nucléaires en France, il est improbable de détruire chaque panneau solaire ou éolienne dans une frappe coordonnée.
 
 Au delà du risque que représentent les centrales en cas d’attentat ou de guerre, elle provoquent également la nécessité de transporter l’électricité sur de longues distances là où une production décentralisée ne nécessite que d’équilibrer les territoires qui peuvent, d’ailleurs, viser l’autonomie à leur propre échelle, faisant de chaque collectivité un acteur potentiel de l’équilibrage du réseau.
 
-Ces lignes à hautes tensions représentent également des points stratégiques en cas de conflit. On peut se dire que nous ne sommes pas prêt de revoir la guerre en France ou suivre la fameuse loi de Murphy et se préparer au pire. Pour ma part, c’est simple, qui peut le plus, peut le moins !
+Ces lignes à haute tension représentent également des points stratégiques en cas de conflit. On peut se dire que nous ne sommes pas prêt·es de revoir la guerre en France ou suivre la fameuse loi de Murphy et se préparer au pire. Pour ma part, c’est simple, qui peut le plus, peut le moins !
 
 ## Le nucléaire : un jacobinisme bien français
 
-Loin de “l’empouvoirement” de ses citoyen·nes (mais aussi leur responsabilisation) que proposent les énergies renouvelables, le nucléaire est également une philosophie verticale : une centralité importante (quelques dizaines de lieux de production) et un contrôle en haut lieu. Finalement, c’est très jacobin et vertical.
+Loin de “l’empouvoirement” de ses citoyen·nes (mais aussi leur responsabilisation) que proposent les énergies renouvelables, le nucléaire est également une philosophie verticale : une centralité importante (quelques dizaines de lieux de production) et un contrôle en haut lieu. Finalement, c’est très jacobin, très vertical, très français.
 
-Là où les énergies renouvelables proposent une forme d’indépendance énergétique (une subsidiarité organisée de la production), c’est finalement une dépendance que le nucléaire promeut, presque qu’une indigence, si l’on considère que seul un grand groupe multinational peut en faire produire ce type d’électricité. C’est aussi une dépense, du point de vue de notre balance commerciale, pour les combustibles qui sont importés.
+Là où les énergies renouvelables proposent une forme d’indépendance énergétique (une subsidiarité organisée de la production), c’est finalement une dépendance que le nucléaire promeut, presque une indigence, si l’on considère que seul un grand groupe multinational (voire un conglomérat de groupes…) peut en fait produire ce type d’électricité. C’est aussi une dépense, du point de vue de notre balance commerciale, pour les combustibles qui sont importés.
 
 Bref, vous l’aurez compris, je ne suis pas favorable à de nouvelles centrales nucléaires, mais plutôt pour fermer progressivement nos centrales nucléaires à mesure que nous achevons notre transition : sobriété, émancipation et indépendance en seraient le fruit. Car après tout, nous nous devons plus que la lumière !
