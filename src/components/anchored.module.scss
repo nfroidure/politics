@@ -1,11 +1,22 @@
 .root small {
+  display: inline;
+  position: relative;
+  width: 0;
+  height: 0;
+  line-height: inherit;
   font-weight: bold;
+  top: 0;
+  left: 0;
 }
 a.icon {
   display: none;
-  width: var(--column);
-  height: var(--vRhythm);
-  background: var(--tertiary);
+  position: absolute;
+  top: 0;
+  left: calc(var(--gutter) * -1);
+  width: var(--gutter);
+  min-height: calc(var(--vRhythm) * 1);
+  line-height: inherit;
+  background: var(--primary);
   mask-repeat: no-repeat;
   mask-position: left center;
   -webkit-mask-size: calc(var(--vRhythm) * 1);
@@ -14,6 +25,7 @@ a.icon {
 .root:hover a.icon {
   display: inline-block;
   mask-image: url("/images/icons/link.svg");
+  background: var(--primary);
 }
 a.icon:target {
   display: inline-block;

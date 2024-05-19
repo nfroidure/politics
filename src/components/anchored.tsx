@@ -11,7 +11,6 @@ export default function Anchored({
 }) {
   return (
     <span className={styles.root}>
-      {children}{" "}
       <small>
         <Link
           href={`#${id}`}
@@ -22,6 +21,7 @@ export default function Anchored({
           <span>🔗</span>
         </Link>
       </small>
+      {children}
     </span>
   );
 }
