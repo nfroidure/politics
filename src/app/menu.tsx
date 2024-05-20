@@ -50,7 +50,7 @@ export default function Menu() {
             key={href}
             href={href}
             className={[
-              ...((pathname || "").startsWith(href) ? [styles.selected] : []),
+              ...(href === pathname ? [styles.selected] : []),
               ...(href === "#" ? [styles.newsletter] : []),
             ].join(" ")}
             title={title}
