@@ -5,7 +5,7 @@ import { StrictMode } from "react";
 import { ORGANISATION_PRIMARY_COLOR } from "../utils/constants";
 import Header from "./header";
 import Footer from "./footer";
-import Menu from "../components/menu";
+import Menu from "./menu";
 import GridSystem from "../components/_gridSystem";
 import Contents from "./contents";
 import type { Viewport } from "next";

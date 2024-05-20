@@ -4,10 +4,10 @@ import styles from "./menu.module.scss";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import Heading2 from "./h2";
-import Paragraph from "./p";
-import Popin from "./popin";
-import Button from "./button";
+import Heading2 from "../components/h2";
+import Paragraph from "../components/p";
+import Popin from "../components/popin";
+import Button from "../components/button";
 import { ORGANISATION_CONTACT } from "../utils/constants";
 
 const MENU_ITEMS = [
