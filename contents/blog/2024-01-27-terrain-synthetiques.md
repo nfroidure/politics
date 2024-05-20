@@ -70,3 +70,13 @@ Pour des mouvements politiques émergents comme les écologistes, ceci représen
 Ce défaut de représentativité mène à des aberrations et un effet de “culbute” obligatoire. On se retrouve alors avec un grand écart entre des agglomérations n’ayant pas encore passé le cap de la transition écologique et des territoires nouvellement conquis (comme les métropoles de Lyon, Grenoble… les villes de Loos-en-Gohelle, Grande-Synthe…).
 
 Je documente ces évolutions en relayant très souvent les avancées faites par les écologistes dans ces territoires sur ce blog, dans ma lettre d’information ou sur les médias sociaux, il faut dire que cela donne envie. Un souhait, donc, pour terminer ce billet : puisse la bascule se faire dans le bon sens, et au plus vite, pour aborder plus sereinement les changements induits par le réchauffement climatique global et l’effondrement de la biodiversité.
+
+**Note rétrospective du 20 mai 2024 :**
+
+Suite au conseil municipal de ce vendredi 17 mai, nos élu·es ont pu exprimer leur position sur ce sujet sans le parasitage des modalités de vote arbitrairement définies par Frédéric Chéreau au conseil précédent.
+
+En effet, la passation de marché du terrain synthétique y a fait l’objet d’un vote comme l’exige la loi. Stéphanie Stiernon, Katia Bittner et Guy Caruyer ont donc pu s’abstenir conformément aux réserves émises par le groupe.
+
+Malgré les efforts pour limiter l’impact de ce terrain, l’herbe est toujours en polypropylène ce qui reste une matière plastique non biodégradable, émettrice de microplastiques et, bien entendu, la surface est toujours, par définition, artificialisée.
+
+La majorité des voix (PS, PC mais aussi LReM/UDI/LR/RN et les autres groupes d’opposition) s’est cependant exprimée en faveur de ce terrain ce qui démontre qu’il reste encore du chemin pour jeter le plastique hors de nos vies et agir plus efficacement contre les effets du réchauffement climatique.
