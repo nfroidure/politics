@@ -1,6 +1,6 @@
 import styles from "./footer.module.scss";
 import Link from "next/link";
-import Social from "../components/social";
+import Social from "./social";
 import { ORGANISATION_NAME } from "../utils/constants";
 
 export default function Footer() {

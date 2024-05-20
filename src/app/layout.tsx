@@ -7,6 +7,7 @@ import Header from "./header";
 import Footer from "./footer";
 import Menu from "../components/menu";
 import GridSystem from "../components/_gridSystem";
+import Contents from "./contents";
 import type { Viewport } from "next";
 
 export const viewport: Viewport = {
@@ -20,6 +21,14 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const mainLayout = (
+    <div className={styles.root}>
+      <Menu />
+      <Header />
+      <Contents>{children}</Contents>
+      <Footer />
+    </div>
+  );
   return (
     <html lang="fr">
       <body
@@ -29,21 +38,9 @@ export default function RootLayout({
       >
         {process.env.NODE_ENV === "development" ? <GridSystem /> : null}
         {process.env.NODE_ENV === "development" ? (
-          <StrictMode>
-            <div className={styles.root}>
-              <Menu />
-              <Header />
-              <div className={styles.contents}>{children}</div>
-              <Footer />
-            </div>
-          </StrictMode>
+          <StrictMode>{mainLayout}</StrictMode>
         ) : (
-          <div className={styles.root}>
-            <Menu />
-            <Header />
-            <div className={styles.contents}>{children}</div>
-            <Footer />
-          </div>
+          <div className={styles.root}>{mainLayout}</div>
         )}
       </body>
     </html>
