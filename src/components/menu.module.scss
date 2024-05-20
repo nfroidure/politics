@@ -3,49 +3,78 @@
 .root {
   background-color: var(--primary);
 }
+
 .root nav {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
 }
+
 .root nav a {
-  display: block;
+  display: flex;
+  flex-direction: row;
   font-size: var(--bigFontSize);
+  height: calc(var(--vRhythm) * 4);
   line-height: var(--bigLineHeight);
   text-decoration: none;
   transition: background-color var(--baseAnimationRate),
     color var(--baseAnimationRate);
   padding: calc(calc(calc(var(--vRhythm) * 3) - var(--bigLineHeight)) / 2) 0;
 }
+
 .root nav a,
 .root nav a:visited {
   color: var(--light);
 }
+
 .root nav a:hover {
   color: var(--primary);
   background-color: var(--light);
   text-decoration: underline;
 }
+
 .root nav a.selected {
   text-decoration: underline;
   color: var(--secondary-darker);
 }
+
 .root nav a.newsletter {
   background-color: var(--quaternary);
   color: var(--light);
 }
-.root nav span {
+
+.root nav span.label {
   display: block;
   padding: calc(var(--vRhythm) / 2) var(--gutter);
 }
+
+.root nav span.icon {
+  display: none;
+}
+
+.root nav a.newsletter span.icon {
+  display: block;
+  height: 100%;
+  width: calc(var(--gutter) * 2.5);
+  background: var(--light);
+  mask-repeat: no-repeat;
+  mask-position: var(--gutter) center;
+  mask-size: calc(var(--vRhythm));
+  mask-image: url("/images/icons/mail.svg");
+}
+
+.root nav a.newsletter span.label {
+  padding-left: 0;
+}
+
 @media screen and (max-width: $CSS_BREAKPOINT_END_S) {
   .root nav {
     width: 100%;
   }
   .root nav a {
-    display: block;
-    font-size: var(--bigFontSize);
-    line-height: var(--vRhythm);
+    height: calc(var(--vRhythm) * 2);
+    line-height: var(--mediumLineHeight);
+    border-top: var(--border) dotted var(--quaternary);
     padding: 0;
   }
 }
@@ -53,26 +82,27 @@
   .root nav {
     width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
   }
+  .root nav a {
+    height: calc(var(--vRhythm) * 2);
+    line-height: var(--mediumLineHeight);
+    border-top: var(--border) dotted var(--quaternary);
+    padding: 0;
+  }
 }
+
 @media screen and (min-width: $CSS_BREAKPOINT_START_L) {
   .root nav {
     flex-direction: row;
     width: calc(calc(var(--block) * 3) + calc(var(--gutter) * 4));
   }
-  .newsletter span {
-    width: calc(var(--vRhythm));
-    background: var(--light);
-    mask-repeat: no-repeat;
-    mask-position: center center;
-    mask-size: calc(var(--vRhythm));
-    mask-image: url("/images/icons/mail.svg");
-  }
 }
+
 @media screen and (min-width: $CSS_BREAKPOINT_START_XL) {
   .root nav {
     width: calc(calc(var(--block) * 4) + calc(var(--gutter) * 5));
   }
 }
+
 @media print {
   .root {
     display: none;

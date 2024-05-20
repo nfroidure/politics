@@ -8,6 +8,35 @@ import Heading2 from "./h2";
 import Paragraph from "./p";
 import Popin from "./popin";
 import Button from "./button";
+import { ORGANISATION_CONTACT } from "../utils/constants";
+
+const MENU_ITEMS = [
+  {
+    href: "/",
+    label: "Accueil",
+    title: "Revenir à l’accueil",
+  },
+  {
+    href: "/blog",
+    label: "Blog",
+    title: "Lire le blog",
+  },
+  {
+    href: "/biographie",
+    label: "Biographie",
+    title: "Lire ma biographie",
+  },
+  {
+    href: "/faq",
+    label: "FAQ",
+    title: "Lire mes questions/réponses",
+  },
+  {
+    href: "#",
+    label: "S’abonner",
+    title: "S’abonner à ma lettre d’information",
+  },
+];
 
 export default function Menu() {
   const pathname = usePathname();
@@ -16,56 +45,36 @@ export default function Menu() {
   return (
     <div className={styles.root}>
       <nav>
-        <Link
-          href="/"
-          className={`${pathname === "/" ? styles.selected : ""}`}
-          title="Revenir à l’accueil"
-        >
-          <span>Accueil</span>
-        </Link>
-        <Link
-          href="/blog"
-          className={
-            (pathname || "").startsWith("/blog") ? styles.selected : ""
-          }
-          title="Lire le blog"
-        >
-          <span>Blog</span>
-        </Link>
-        <Link
-          href="/biographie"
-          className={pathname === "/biographie" ? styles.selected : ""}
-          title="Lire ma biographie"
-        >
-          <span>Biographie</span>
-        </Link>
-        <Link
-          href="/faq"
-          className={pathname === "/faq" ? styles.selected : ""}
-          title="Lire mes questions/réponses"
-        >
-          <span>FAQ</span>
-        </Link>
-        <a
-          className={styles.newsletter}
-          onClick={() => setPopinIsVisible(true)}
-          href="#"
-          title="S’abonner à ma lettre d’information"
-        >
-          <span>S’abonner</span>
-        </a>
+        {MENU_ITEMS.map(({ href, label, title }) => (
+          <Link
+            key={href}
+            href={href}
+            className={[
+              ...((pathname || "").startsWith(href) ? [styles.selected] : []),
+              ...(href === "#" ? [styles.newsletter] : []),
+            ].join(" ")}
+            title={title}
+            {...(href === "#"
+              ? {
+                  onClick: () => setPopinIsVisible(true),
+                }
+              : {})}
+          >
+            <span className={styles.icon} />
+            <span className={styles.label}>{label}</span>
+          </Link>
+        ))}
       </nav>
       <Popin {...{ popinIsVisible, setPopinIsVisible }}>
         <Heading2>Lettre d’information</Heading2>
         <Paragraph>
-          Bien que présent sur les réseaux sociaux, je tiens à communiquer au
-          maximum en dehors. Vous inscrire à ma lettre d’information reste le
-          moyen le plus simple et direct de suivre mon actualité.
+          Suivez mon action grâce à de cours résumés envoyés régulièrement sur
+          votre boîte mail.
         </Paragraph>
         <Paragraph>
           <Button
             type="link"
-            href={`mailto:nicolas.froidure@gmail.com?subject=Abonnement&body=${encodeURIComponent(
+            href={`mailto:${ORGANISATION_CONTACT}?subject=Abonnement&body=${encodeURIComponent(
               "Je souhaite m’abonner à votre lettre d’information."
             )}`}
             label="S’inscrire"
