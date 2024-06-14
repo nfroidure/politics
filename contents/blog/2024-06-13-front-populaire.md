@@ -8,8 +8,8 @@ tags:
 categories:
   - Élections
 illustration:
-  url: "/public/illustrations/front-populaire.png"
-  alt: "Logo du Front Populaire et de ses luttes associées."
+  url: "/public/illustrations/nouveau-front-populaire.png"
+  alt: "Logo du Nouveau Front Populaire et de ses luttes associées."
 ---
 
 # Front Populaire : la gauche du Douaisis unie !
@@ -36,7 +36,7 @@ Rien d’insurmontable pour gouverner ensemble et répondre enfin aux attentes d
 
 [Interview de Julia Cagé par Blast](https://www.youtube.com/watch?v=VcSXtocODIA "📺 Voir la vidéo")
 
-## Un rassemblement pour s'organiser
+## Un rassemblement pour s’organiser
 
 Une manifestation est organisée ce samedi 15 juin à 10h. Rassemblement devant le monument aux morts rue de Valenciennes à Douai, nous vous attendons nombreuses et nombreux.
 
@@ -48,4 +48,14 @@ N’hésitez pas à vous inscrire à ma lettre d’information pour vous impliqu
 
 **Addendum du 13 juin :**
 
-C'est finalement pour le Parti Socialiste que revient la 17ème circonscription du Nord. La question est donc de déterminer si Frédéric Chéreau sera candidat à la députation comme il le laissait entendre plus tôt dans la semaine.
+C’est finalement pour le Parti Socialiste que revient la 17ème circonscription du Nord. La question est donc de déterminer si Frédéric Chéreau sera candidat à la députation comme il le laissait entendre plus tôt dans la semaine.
+
+**Addendum du 14 juin :**
+
+Ce sera donc bien Frédéric Chéreau qui sera le candidat du [Nouveau Front Populaire](https://www.nouveaufrontpopulaire.fr/) sur la 17ème circonscription du Nord Je lui souhaite de l’emporter, il fera certainement un bon député.
+
+Sans surprise, sur la 16ème circonscription du Nord, c’est Alain Bruneel, qui faisait un travail remarquable dans son précédent mandat et qui continue, aujourd’hui de défendre l’hôpital, qui se présente.
+
+Pour l’occasion de l’attribution définitive des circonscriptions, le logo et la charte graphique ont été retravaillés.
+
+[Logo du Nouveau Front Populaire](/public//illustrations/nouveau-front-populaire.png)
