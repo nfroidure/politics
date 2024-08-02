@@ -56,7 +56,7 @@ C’est finalement pour le Parti Socialiste que revient la 17ème circonscriptio
 
 **Addendum du 14 juin :**
 
-Ce sera donc bien Frédéric Chéreau qui sera le candidat du [Nouveau Front Populaire](https://www.nouveaufrontpopulaire.fr/) sur la 17ème circonscription du Nord Je lui souhaite de l’emporter, il fera certainement un bon député.
+Ce sera donc bien Frédéric Chéreau qui sera le candidat du [Nouveau Front Populaire](https://www.nouveaufrontpopulaire.fr/) sur la 17ème circonscription du Nord. Je lui souhaite de l’emporter, il fera certainement un bon député.
 
 Sans surprise, sur la 16ème circonscription du Nord, c’est Alain Bruneel, qui faisait un travail remarquable dans son précédent mandat et qui continue, aujourd’hui de défendre l’hôpital, qui se présente avec Jessica Noulette, adjointe au Maire à Hornaing, en suppléance.
 
@@ -80,3 +80,41 @@ La campagne du premier tour touche à sa fin, petit diaporama des différentes a
 ![Photographie du tractage en gare de Douai](/public/illustrations/tractage-gare-douai-legislatives-2024.jpg)
 ![Photographie du tractage sur le marché du Barlet](/public/illustrations/tractage-marche-barlet-douai.jpg)
 ![Photographie du tractage à la résidence des Moineaux](/public/illustrations/tractage-residence-des-moineux-raquet-douai.jpg)
+
+**Addendum du 30 juin :**
+
+Le premier tour passé, malheureusement, le constat est amer.
+
+Sur la 16ème circonscription, Matthieu Marchio l’emporte dès le premier tour avec 55,02% des voix face au deputé sortant, Alain Bruneel (PCF soutenu par la NUPES) qui ne réuni que 27,88% des voix.
+
+On savait que ce serait difficile sur cette circonscription qui, malheureusement, penche de plus en plus du côté de l’extrême droite.
+
+Sur la 17ème circonscription, en revanche, j’ai été moi-même surpris de la violence des résultats. Après une période de doute, la nouvelle est tombée, il y aura bien un second tour entre le Front Populaire et le Rassemblement National, mais la victoire sera difficile à décrocher. Thierry Tesson (RN + LR tendance Ciotti) est qualifié avec 47,92% des voix là où Frédéric Chéreau (PS investi par le NFP) n’obtient que 29,84% des voix.
+
+Même en faisant le plein des voix de Guillaume Honoré (Horizons/Ensemble, anciennement LReM) à 13,85% et de Cédric Fluckiger (Lutte ouvrière) à 1,81%, la majorité ne sera pas atteinte. Ce sont donc les voix des Loick Brouazin (Les Républicains) à 8,13% qui feront le vainqueur.
+
+Une élection que je savais difficile car en 2021, déjà, Frédéric Chéreau ne l’avait pas emporté face à Christian Poiret [aux départementales en 2021 sur le canton de Douai](./profession-de-foi-aux-departementales-2021), or, la dix-septième circonscription inclut plus de secteurs ruraux qui nourrissent une défiance forte vis à vis des élu·es professionnel·les.
+
+**Addendum du 2 juillet :**
+
+Après m’avoir surpris concernant l’[exclusion de Marie-Hélène Quatrebœufs](https://www.lobservateur.fr/rn-6e-marie-helene-quatreboeufs-sdis-upn/) pour avoir basculé du côté du Front National, Christian Poiret redescend dans mon estime en [refusant de prendre position](https://www.lavoixdunord.fr/1478992/article/2024-07-01/legislatives-douai-christian-poiret-ne-prend-pas-position-pour-le-second-tour) quand le choix est ici très clair, il faut faire barrage au RN par tous les moyens et dépasser les clivages partisans.
+
+**Analyse post-mortem du 8 juillet :**
+
+Finalement, le RN s’est imposé dans la 17ème circonscription également. C’est donc Thierry Tesson qui l’emporte avec 55,80% contre 44,20% pour Frédéric Chéreau.
+
+Le mutisme des élu·es des communes rurales a, comme lors des [législatives 2002](./legislatives-2022-pas-investi-mais-implique), été lourd de conséquences sur la dédiabolisation du Rassemblement National.
+
+Le choix de positionner deux hommes d’âge mûr peut avoir joué également avec un déficit de représentativité et un défaut d’identification pour les femmes et les jeunes. Dommage car c’est un espace qui était à conquérir, d’autant que le RN mais aussi les Républicains et Renaissance n’avaient pas, non-plus, eût l’idée de présenter des femmes.
+
+![Photographie des affiches avec uniquement des hommes](/public/illustrations/affiches-legislatives-2024-nord-17eme-douai.jpg)
+
+Preuve que dans l’urgence, les vieux réflexes patriarcaux refont surface.
+
+Il y a encore beaucoup de travail à faire pour regagner la confiance des électeur·ices. Déjà, sortir des vielles habitudes, renouveler les visages politiques et, surtout, changer, concrètement, la vie des gens.
+
+Fort heureusement, le NFP, partout ailleurs en France, a su tenir la dragée haute aux le penistes et aux macronistes. En ce sens, je me réjouis tout de même.
+
+**Rétrospective du 16 juillet :**
+
+Dans l’attente d’un nom de premier ministre, on découvre qu’en local, notre nouveau député qui hier se présentait LR, ne siègera pas dans le groupe d’Éric Ciotti, mais plutôt dans le groupe Rassemblement National. Voilà qui est clair. Ne sera que sa deuxième trahison en deux semaines.
