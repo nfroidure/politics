@@ -1,0 +1,40 @@
+media:
+  input: public/illustrations
+  output: /illustrations
+  extensions:
+    - jpg
+    - jpeg
+    - png
+    - webp
+    - svg
+content:
+  - name: posts
+    label: Blog Posts
+    path: contents/blog
+    type: collection
+    view:
+      fields: [ title ]
+      primary: title
+      sort: [ date, title ]
+      default:
+        search: ''
+        sort: title
+        order: desc
+    fields:
+      - name: draft
+        label: Draft
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Description
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+        format: markdown
