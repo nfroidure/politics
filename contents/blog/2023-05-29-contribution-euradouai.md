@@ -45,7 +45,7 @@ Une passerelle sera probablement érigée, mais des défauts de conception là e
 - tout d’abord, des brisures font que la passerelle semble zigzaguer ce qui pose des problèmes de visibilité (difficile de voir si des personnes se trouvent sur la passerelle avant de s’y engager). On peut aussi s’interroger sur le fait que le chemin soit le plus direct également,
 - la passerelle ne sera pas couverte, étrangement, seules certaines parties semblent bénéficier de sorte de préaux disparates,
 - seul un côté sera muni d’une rampe, a contrario, du côté de la gare, un escalier et un ascenseur seront présents. Difficile dans ces conditions, de l’emprunter à vélo de manière pratique,
-- il n’est pas prévu, comme à Euralille (voir galerie ci-dessous), que des escaliers desservent directement les voies de la gare obligeant à un détour malheureux.
+- il n’est pas prévu, comme à Euralille (voir galerie ci-dessous), que des escaliers desservent directement les voies de la gare obligeant à un détour malheureux (finalement, il y aura un ascenseur desservant une des voies, cf note de bas de page).
 
 ![Entrée de la passerelle de Lille-Flandres](/public/illustrations/lille-flandres-entree-passerelle.jpg)
 ![Intérieur de la passerelle de Lille-Flandres](/public/illustrations/lille-flandres-interieur-passerelle.jpg)
@@ -108,3 +108,11 @@ Les analyses de sols ont mis en évidence une forte pollution du site, notamment
 Selon l’avis de l’autorité environnementale : “Les remblais pollués situés à proximité de la crèche seront évacués et il est prévu de réaliser des analyses de la qualité de l’air intérieur avant, pendant et après les travaux au sein de l’établissement.
 
 Ces analyses devront être étendues aux composés trouvés dans les gaz de sol afin d’exclure tout risque de contamination au sein des locaux par remontée de ces derniers.”
+
+---
+
+**Note rétrospective du 21 septembre 2024 :**
+
+Il s’avère que finalement, un ascenseur est prévu pour desservir la voie 4. Difficile de dire, faute de réponse à ma contribution, si cette dernière a pesé dans cet ajout.
+
+Même si seule la voie TGV est concernée, c’est tout de même mieux que rien. 
