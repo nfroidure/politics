@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2024-06-13T08:00:00.000Z</updated>
+  <updated>2024-09-21T08:00:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/discours-journee-internationale-de-la-paix</id>
+    <title>Discours : Journée Internationale de la Paix</title>
+    <link href="https://nicolasfroidure.fr/blog/discours-journee-internationale-de-la-paix" rel="alternate" type="text/html" />
+    <updated>2024-09-21T08:00:00.000Z</updated>
+    <published>2024-09-21T08:00:00.000Z</published>
+    <summary>Discours prononcé à l’occasion de la Journée Internationale de la Paix.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/front-populaire-la-gauche-du-douaisis-unie</id>
     <title>Front Populaire : la gauche du Douaisis unie !</title>
