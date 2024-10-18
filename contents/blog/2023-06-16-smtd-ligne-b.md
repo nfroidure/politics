@@ -122,7 +122,7 @@ Pour consulter le rapport, il est nécessaire, selon le même magazine, de se d�
 
 Le Schéma Directeur Modes Doux (SDMD) est également évoqué avec la création de la piste Férin / Centre Hospitalier. La route de Cambrai et la rue de Cambrai sont pourtant le prolongement naturel de cette piste qui pourrait faciliter le déplacement des férinois·es vers Douai par les modes actifs comme l’illustre cette carte de l’état actuel de la cyclabilité du Douaisis.
 
-[Carte des itinéraires pour les modes actifs dans le Douaisis](/public/illustrations/itineraires-modes-actifs-douai-2023.jpg)
+![Carte des itinéraires pour les modes actifs dans le Douaisis](/public/illustrations/itineraires-modes-actifs-douai-2023.jpg)
 
 ---
 
