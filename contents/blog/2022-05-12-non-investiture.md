@@ -49,3 +49,25 @@ Avec Cyril Grandin, nous avons une candidature incarnant la jeunesse et le renou
 Je suis heureux également que l’union de la gauche aboutisse et que nous ayons été en mesure de maximiser les chances de victoire à gauche. Il y a des déçu·es certes, mais au final nous ne devons pas oublier que c’est ce que le peuple attend de nous et nous faisons de la politique pour les gens, pour rendre nos idées concrètes.
 
 Pour ce faire, il faut des élu·es que la division ne permet pas d’obtenir dans le système démocratique actuel.
+
+---
+
+## Note rétrospective (1er tour) :
+
+Sur la 16ème circonscription, à la surprise générale, Matthieu Marchio (inconnu de la vie politique locale, mais investi par le Rassemblement National) est en tête au premier tour avec 37,77% des voix face au deputé sortant, Alain Bruneel (PCF soutenu par la NUPES) qui réuni que 34,03% des voix. Chantal Rybak (pour Ensemble, ex-LReM) est largement distancée puisqu’elle ne réunit que 13,19% des voix.
+
+Sur la 17ème circonscription Thibaut François (RN) est également en tête avec 32,91%, Dimitri Houbron (Horizons-Ensemble) arrive second avec 24,13%. Malheureusement, la NUPES est privée d’un second tour avec Cyril Grandin qui ne réunit que 22,91% des voix.
+
+Difficile ne ne pas mettre en cause la déconnexion des négociations nationales et la volonté hégémonique de la France Insoumise. J’ai la certitude que le second tour était à notre portée avec un ticket plus en phase avec la réalité locale.
+
+---
+
+## Note rétrospective (2nd tour) :
+
+Sur la 16ème circonscription, Matthieu Marchio (RN) l’emporte avec 50,77% des voix face au deputé sortant, Alain Bruneel (NUPES) qui ne réuni que 49,23% des voix. Une terrible nouvelle pour ce territoire qui perd un député sérieux et engagé.
+
+Thibaut François (RN) emporte finalement la 16ème circonscription avec 53,57% des voix contre 46.43% des voix pour Dimitri Houbron (Horizons-Ensemble).
+
+Le Douaisis plonge vers l’extrême droite sans que les leçons ne soient tirées des raisons qui poussent ses habitant·es vers elle. **Face à l’extrême droite pas de résignation : de la pédagogie et de l’action !**
+
+J’ai décidé de créer un groupe Facebook pour [dire non à l’extrême droite dans le Douaisis](https://www.facebook.com/groups/non.a.l.extreme.droite.dans.le.douaisis), n’hésitez pas à vous y inscrire.
