@@ -57,7 +57,7 @@ de Communes du Cœur d’Ostrevent) le 30 mars 2004.
 
 On ne peut donc pas dire que c’est une artificialisation récente sur le papier. Cependant, réaliser, en 2024, un projet pensé 20 ans plus tôt n’est pas forcément une bonne idée. Entre temps, une prise de conscience a eu lieu : [la France artificialise l’équivalent d’un département tous les dix ans](https://www.carbone4.com/article-zan-decryptage) et ce n’est pas sans effets.
 
-La surface totale du terrain de Primelog est de 122 803 m². Entre l’emprise au sol du bâtiment (50 335 m²), les autres surfaces imperméabilisées (routes, parkings... 38 203 m²), l’artificialisation concerne au moins 91 351 m² (74,34 % du site) selon l’autorité environnementale.
+La surface totale du terrain de Primelog est de 122 803 m². Entre l’emprise au sol du bâtiment (50 335 m²), les autres surfaces imperméabilisées (routes, parkings… 38 203 m²), l’artificialisation concerne au moins 91 351 m² (74,34 % du site) selon l’autorité environnementale.
 
 Au delà de la destruction de terres potentiellement exploitables en partie par une activité agricole, plus d’artificialisation veut aussi dire moins d’infiltration. Or, les récentes inondations dans l’Audomarois, les [coulées de boue d’Auberchicourt](https://video-streaming.orange.fr/actu-politique/une-coulee-de-boue-a-ravage-auberchicourt-CNT000001pwDfJ.html) ou les fortes précipitations de cet hiver le montrent : construire sur une zone humide, tampon naturel pour l’infiltration des eaux, créera une fragilité supplémentaire face aux aléas climatiques.
 
@@ -69,7 +69,7 @@ Comme j’ai pu le rappeler lors du dernier café citoyen de Radio Scarpe Sensé
 
 [Émission de Radio Scarpe Sensée de janvier 2024 : Mobilité et aménagement du territoire le Douaisis à l’heure du tout voiture](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-240113-Mobilite-et-amenagement-du-territoire-le-douaisis-a-lheure-du-tout-voiture.mp3 "🎧 Écouter l’émission’")
 
-Or avec le développement de centres logistiques connectés au fluvial et au rail (E-Valley à Haynecourt, Bils Deroo à Somain...) et le projet de canal Seine-Nord l’offre bas carbone va se développer intensivement.
+Or avec le développement de centres logistiques connectés au fluvial et au rail (E-Valley à Haynecourt, Bils Deroo à Somain…) et le projet de canal Seine-Nord l’offre bas carbone va se développer intensivement.
 
 Le risque est de voir ce type d’entrepôts boudés par les clients et, bien entendu, les zones humides et prairies ne nous seront pas rendues en l’état.
 
@@ -86,7 +86,7 @@ Ce procédé ressemble furieusement à celui de [l’entrepôt Goodman](./point-
 Contrairement à ce que l’on pourrait penser de prime abord, le site de Primelog ne fait pas partie du carreau de l’ancienne fosse Barrois. Le site est bien plus au Nord et selon les relevés de l’enquête publique ne semble pas pollué.
 
 L’avis de la MRaE est clair : «l’aménagement du site est actuellement occupé par des prairies en friches agricoles et milieux associés
-(haies, mares temporaires, fossés...» et «faute de scénario alternatif ou de variantes, le projet détruit plus de neuf hectares sur douze, dont plus de deux hectares de zones humides. Plusieurs espèces animales protégées seront impactées sans mesures compensatoires adaptées. La séquence éviter, réduire, compenser n’a pas été suffisamment déclinée et l’absence de solution alternative n’est pas démontrée».
+(haies, mares temporaires, fossés…» et «faute de scénario alternatif ou de variantes, le projet détruit plus de neuf hectares sur douze, dont plus de deux hectares de zones humides. Plusieurs espèces animales protégées seront impactées sans mesures compensatoires adaptées. La séquence éviter, réduire, compenser n’a pas été suffisamment déclinée et l’absence de solution alternative n’est pas démontrée».
 
 ![Photographie du panneau chantier interdit](/public/illustrations/zac-barrois-chantier-interdit.jpg)
 ![Photographie de la famille chevreuil](/public/illustrations/zac-barrois-famille-chevreuils.jpg)

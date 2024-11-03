@@ -125,7 +125,7 @@ C’est la phrase phare des prises de paroles de Christian Poiret aux divers mé
 
 Mais alors, où les trouve-t-il ? C’est très simple, en en prenant un peu dans la poche de toutes et tous (et surtout des plus précaires).
 
-Cela s’opère, tranquillement, en dégradant des services publics... Une petite vidéo pour illustrer cela ?
+Cela s’opère, tranquillement, en dégradant des services publics… Une petite vidéo pour illustrer cela ?
 
 [Vidéo de Sud / Département du Nord](https://www.youtube.com/watch?v=Lr1dHFyIaNM "📺 Voir la vidéo")
  

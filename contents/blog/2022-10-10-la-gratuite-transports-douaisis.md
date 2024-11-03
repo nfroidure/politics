@@ -72,3 +72,31 @@ C’est la raison pour laquelle je la défend dans le Douaisis, mais partout ail
 Des [forfaits à 9€](https://www.lesechos.fr/industrie-services/tourisme-transport/allemagne-carton-plein-pour-le-forfait-de-train-a-9-euros-1411733) ont été testés en Allemagne, une sorte de licence globale appliquée au train.
 
 Si l’on souhaite respecter les accords de Paris, il faudra des mesures volontaristes, appuyer sur l’accélérateur des transports en commun me semble être un levier simple et socialement équitable pour aller dans cette direction.
+
+## Note complémentaire du 3 novembre 2024
+
+Suite à des discussions diverses, voici quelques réponses à des arguments souvent opposés à la gratuité totale des transports en commun.
+
+**Si les transports publics doivent bénéficier de la gratuité, au titre des biens de première nécessité, pourquoi pas d’abord les premiers m3 d’eau potable, les premiers KWh d’électricité, voire le logement ou certains produits alimentaires ?**
+
+Bien que je sois favorable également à la gratuité des premiers m3 et kWH  pour récompenser les plus sobres d’entre nous (qui s’avèrent souvent être les plus défavorisé·es) ou à la sécurité sociale alimentaire, la réponse est que l’eau, l’électricité et la nourriture n’ont pas d’alternative’.
+
+Ce n’est pas le cas des transports en commun, d’autant plus que cette concurrence est déloyale : les automobiles bénéficient de la gratuité des routes, d’une perception du coût d’usage moins forte car indirecte (assurance mensualisée, coût de l’acquisition masqué… et même pour le carburant, quand on a fait le plein, on ne pense plus tant à ce qu’il nous a coûté en utilisant son automobile). De plus, les externalités négatives nombreuses de l’automobile sont supportées par toute la population, ce ne sont pas seulement les automobilistes qui en paient le coût.
+
+**La gratuité totale met tout le monde au même tarif : est-ce bien équitable ?**
+
+Oui, c’est équitable car  cela ne change pas fondamentalement la situation.
+
+Comme le vocifèrent les partisan·es du moindre impôt : “si c’est gratuit, c’est le contribuable qui paie”. Or l’impôt est progressif (les plus démuni·es en paient peu, sauf TVA…) ce qui équivaut à un tarif progressif (mais sans les coûts de billetterie / contrôle).
+
+Dans les grandes agglomérations, les recettes des billets sont de l’ordre de 100M€ mais le coût de la billetterie représente 10 à 15% de ces recettes. Passer par l’impôt plutôt qu’une tarification progressive ne change quasiment rien, sauf que l’argent est dépensé uniquement pour le transport effectif et non des coûts de gestion.
+
+La seule inéquité réelle est plutôt entre celleux qui utilisent les transports en commun et celleux qui ne le font pas. Mais cela s’assume dans le cadre d’une politique d’incitation et surtout, de couverture du territoire pour réduire cette inéquité quand elle est structurelle et non liée aux comportements individuels.
+
+Mais même dans le cas d’un village qui ne serait pas aussi bien desservi que la ville, la réalité de l’impôt local est qu’il est plus fort dans les centres urbains que dans les communes rurales (notamment, justement, à cause de l’attractivité des premières qui bénéficient de plus de services). Il y a donc finalement, une forme d’ajustement fortuit entre le taux de prélèvement et les bénéfices réels pour la population de la gratuité des transports sur le plan territorial.
+
+**La gratuité des transports est une mesure irréversible**
+
+Difficile de l’affirmer catégoriquement aujourd’hui  étant donné que peu de collectivités l’ont mise en place et qu’aucune, à ce jour, n’a tenté de la défaire.
+
+Ceci dit, si elle l’est c’est que le service rendu est attendu et bénéfique. Aussi, comment ne pas se réjouir qu’une telle mesure, quand on a perçu tous ses avantages listés précédemment, soit difficile à défaire ? Si c’est une bonne mesure, alors, c’est une bonne nouvelle !
