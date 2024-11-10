@@ -51,7 +51,7 @@ export default function Button({
     <span
       className={[
         styles.root,
-        ...(icon ? [styles.icon] : []),
+        ...(icon ? [styles.with_icon] : []),
         ...(!label ? [styles.no_label] : []),
         ...(icon && label ? [styles.both] : []),
       ].join(" ")}

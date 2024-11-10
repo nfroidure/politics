@@ -24,7 +24,7 @@
   cursor: pointer;
   text-decoration: none;
 }
-.button.icon.no_label {
+.button.with_icon.no_label {
   width: calc(var(--vRhythm) * 0.8);
 }
 .button:hover:not([disabled]),
