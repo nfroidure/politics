@@ -95,7 +95,7 @@ Toutes ces remarques seront portées au dossier d’enquête publique. N’hési
 
 ---
 
-**Note rétrospective du 25 juillet 2023 :**
+## Note rétrospective du 25 juillet 2023
 
 Finalement, j’ai ajouté à ma contribution la demande de ne pas changer le tracé de la ligne et donc, de ne pas réaliser les travaux rue de Paris pour les raisons suivantes :
 
@@ -110,7 +110,7 @@ Pourquoi, enfin, ne pas utiliser l’argent ainsi économisé pour créer les am
 
 ---
 
-**Note rétrospective du 11 février 2024 :**
+## Note rétrospective du 11 février 2024
 
 Dans le numéro 27 de son magazine institutionnel, le SMTD annonce un avis favorable suite à l’enquête publique. Le commissaire enquêteur ayant estimé que le projet **répondait aux besoins du territoire en matière de mobilité tout en préservant la qualité de vie des habitant·es** (en page 3).
 
@@ -126,14 +126,16 @@ Le Schéma Directeur Modes Doux (SDMD) est également évoqué avec la création
 
 ---
 
-**Note rétrospective du 11 mai 2024 :**
+## Note rétrospective du 11 mai 2024
 
-## Suite à une réunion sur les mobilités à l’initiative des conseiller·es de quartier, j’ai appris que la proposition d’un carrefour à la Hollandaise que nous avons porté avec d’autres écologistes a été retenue. Nous verrons dans les faits si c’est bien le cas. Ce serait alors une excellente nouvelle pour la pratique du vélo dans le Douaisis.
+Suite à une réunion sur les mobilités à l’initiative des conseiller·es de quartier, j’ai appris que la proposition d’un carrefour à la Hollandaise que nous avons porté avec d’autres écologistes a été retenue. Nous verrons dans les faits si c’est bien le cas. Ce serait alors une excellente nouvelle pour la pratique du vélo dans le Douaisis.
 
-**Note rétrospective du 16 novembre 2024 :**
+---
+
+## Note rétrospective du 16 novembre 2024
 
 Le rond point de la place l’Hériller sera dans l’esprit d’un rond point à la Hollandaise, mais malheureusement, selon l’affichage installé, les pistes ne seront pas matérialisées dans la masse. J’ai prévenu l’adjoint en charge du problème et du fait que cela ne suivait pas l’esprit de ce type de rond point.
 
-Je lui ai également demandé si il était possible de faire des campagnes de prévention pour expliquer l’utilisation de ce rond-point car ma crainte est que le temps que les mentalités ne changent il soit plus accidentogène.
+Je lui ai également demandé si il était possible de faire des campagnes de prévention pour expliquer l’utilisation de ce rond-point car ma crainte est que, le temps que les mentalités ne changent, il soit plus accidentogène.
 
-Je recommande aux cyclistes la prudence le temps que les automobilistes ne comprennent qu’il ne sont plus prioritaires.
+Je recommande aux cyclistes la prudence le temps que les automobilistes ne comprennent qu’ils ne sont plus prioritaires.
