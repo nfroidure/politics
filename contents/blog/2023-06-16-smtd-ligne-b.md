@@ -128,4 +128,12 @@ Le Schéma Directeur Modes Doux (SDMD) est également évoqué avec la création
 
 **Note rétrospective du 11 mai 2024 :**
 
-Suite à une réunion sur les mobilités à l’initiative des conseiller·es de quartier, j’ai appris que la proposition d’un carrefour à la Hollandaise que nous avons porté avec d’autres écologistes a été retenue. Nous verrons dans les faits si c’est bien le cas. Ce serait alors une excellente nouvelle pour la pratique du vélo dans le Douaisis.
+## Suite à une réunion sur les mobilités à l’initiative des conseiller·es de quartier, j’ai appris que la proposition d’un carrefour à la Hollandaise que nous avons porté avec d’autres écologistes a été retenue. Nous verrons dans les faits si c’est bien le cas. Ce serait alors une excellente nouvelle pour la pratique du vélo dans le Douaisis.
+
+**Note rétrospective du 16 novembre 2024 :**
+
+Le rond point de la place l’Hériller sera dans l’esprit d’un rond point à la Hollandaise, mais malheureusement, selon l’affichage installé, les pistes ne seront pas matérialisées dans la masse. J’ai prévenu l’adjoint en charge du problème et du fait que cela ne suivait pas l’esprit de ce type de rond point.
+
+Je lui ai également demandé si il était possible de faire des campagnes de prévention pour expliquer l’utilisation de ce rond-point car ma crainte est que le temps que les mentalités ne changent il soit plus accidentogène.
+
+Je recommande aux cyclistes la prudence le temps que les automobilistes ne comprennent qu’il ne sont plus prioritaires.
