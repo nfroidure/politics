@@ -25,7 +25,7 @@ Au delà de la forme, peu engageante, d’une association dont les fondateurs so
 ## D’anciens candidats devenus apolitiques ?
 
 **Peut-on être juge et partie ?** C’est toute la question que pose la composition des membres fondateurs de cette association, tous plus ou moins impliqués (avec plus ou moins de succès) dans la politique locale :
-- Luc Tesson candidat aux municipales 2020 à Douai (liste Douai Capitale),
+- Thierry Tesson candidat aux municipales 2020 à Douai (liste Douai Capitale),
 - Jean-Luc Frydman, candidat aux municipales 2020 (Douai Pour Tous puis Douai Capitale) puis aux législatives 2022,
 - Jacques Brenot candidat aux municipales 2020 à Douai (liste Vision d’avenir, Douai Géant),
 - Christian Hatu, ex-maire adjoint de Lambres-lez-Douai et président du Syndicat Mixte des Transports du Douaisis (SMTD),
@@ -63,8 +63,12 @@ Or, nous sommes toutes et tous des [contribuables](https://fr.wiktionary.org/wik
 
 D’ailleurs, si l’on se concentre sur les impôts locaux, principalement liés au patrimoine immobilier, on se rend compte que quasiment tout le monde est concerné à lecture de ce graphique proposé par Thomas Piketty [sur son blog](https://www.lemonde.fr/blog/piketty/2017/10/10/isf-une-faute-historique/).
 
-![La régressivité du système fiscal français. Source : Libération du 21 janvier 2011](./../../public/illustrations/composition-patrimoine-2015.png)
+![La régressivité du système fiscal français. Source : Libération du 21 janvier 2011](/public/illustrations/composition-patrimoine-2015.png)
 
 Bref, **la vérification du bon usage des deniers publics est l’affaire des citoyen·nes**. Ce contrôle citoyen doit s’effectuer en vertu de notre appartenance à la communauté française et non à un sous-groupe fantasmé de contribuables méritant·es.
 
-Enfin, **la lutte contre la corruption se fait au regard du droit**, applicable à toutes et tous et opposable par toute personne morale ou physique. Elle est totalement décorrelée de notre situation fiscale et c’est heureux, dans une démocratie ou le suffrage censitaire n’a plus sa place.
+Enfin, **la lutte contre la corruption se fait au regard du droit**, applicable à toutes et tous et opposable par toute personne morale ou physique. Elle est totalement décorrélée de notre situation fiscale et c’est heureux, dans une démocratie ou le suffrage censitaire n’a plus sa place.
+
+## Note rétrospective du 16 novembre 2024
+
+Mon intuition concernant les membres de ce cercle s’est renforcé suite à la candidature et l’élection de Thierry Tesson sous l’étiquette du Rassemblement National (ex Front National). Pour plus de contexte, voir les notes [rétrospectives de mon article sur le Nouveau Front Populaire](./front-populaire-la-gauche-du-douaisis-unie).
