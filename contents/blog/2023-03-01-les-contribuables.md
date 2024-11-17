@@ -71,4 +71,4 @@ Enfin, **la lutte contre la corruption se fait au regard du droit**, applicable 
 
 ## Note rétrospective du 16 novembre 2024
 
-Mon intuition concernant les membres de ce cercle s’est renforcé suite à la candidature et l’élection de Thierry Tesson sous l’étiquette du Rassemblement National (ex Front National). Pour plus de contexte, voir les notes [rétrospectives de mon article sur le Nouveau Front Populaire](./front-populaire-la-gauche-du-douaisis-unie).
+Mon intuition concernant les membres de ce cercle s’est renforcée suite à la candidature et l’élection de Thierry Tesson sous l’étiquette du Rassemblement National (ex Front National). Pour plus de contexte, voir les notes [rétrospectives de mon article sur le Nouveau Front Populaire](./front-populaire-la-gauche-du-douaisis-unie).

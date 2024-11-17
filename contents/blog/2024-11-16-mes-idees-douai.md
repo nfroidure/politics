@@ -30,7 +30,7 @@ J’ai donc pris la liberté de proposer mes idées sans être totalement sûr d
 
 ### Créer des îlots de la transition
 
-![Exemple d’îlot de la transitiom](/public/illustrations/idee-ilot-transition.jpg "🖼➡️")
+![Exemple d’îlot de la transition](/public/illustrations/idee-ilot-transition.jpg "🖼➡️")
 
 En lieu et place de quelques places de parking, créer des îlots de la transition un peu partout dans Douai. Ces îlots permettraient de favoriser les pratiques écologiques et de rajouter de la verdure dans les rues. Ils pourraient proposer :
 
@@ -43,7 +43,7 @@ En lieu et place de quelques places de parking, créer des îlots de la transiti
 
 L’idée est de permettre le développement des pratiques écologiques tout en sensibilisant à l’espace occupé par l’automobile et les gains possible si on lui reprend un peu de terrain. Afin de bénéficier de l’assentiment des riverain·es, il me semble utile de mettre en jeu plusieurs îlots chaque année et de demander quels habitant·es seraient volontaires pour les accueillir dans leur rue.
 
-Cette idée est une amélioration de celle que nous avons proposé avec les conseils de quartiers et l’association Droit d’Vélo au sujet des boxs à vélo (j’y reviendrai bientôt sur ce blog).
+Cette idée est une amélioration de celle que nous avons proposé avec les conseils de quartiers et l’association Droit d’Vélo au sujet des box à vélo (j’y reviendrai bientôt sur ce blog).
 
 ### Aménager une rue aux écoles
 
@@ -63,7 +63,7 @@ Moins de pollution, moins d’accidents (parfois mortels). C’est tout ce que l
 
 Actuellement, le rond point de Valenciennes est accidentogène. Les cyclistes et les piéton·nes n’y sont pas en sécurité, notamment à cause de problèmes de vitesse, mais aussi, de visibilité (surtout en venant de Sin-le-Noble) et enfin, d’aménagement car les automobilistes serrent la corde en sortie de rond point et mordent donc sur les pistes cyclables. J’ai failli être renversé récemment de ce fait.
 
-Le rond point de la place l’Hériller sera bientôt réaménagé avec un [rond point qui est (presque) à la Hollandaise](./ligne-b-du-bhns-et-le-velo) (il manque une continuité dans la masse de la piste cyclable, il faudrait qu’elle soit matérialisée en dur et non uniquement via de la peinture, j’ai interpellé Jean-Michel Leroy, adjoint à la voirie, à ce propos hier, lors de la cérémonie de renouvèlement des jumelages de Seraing et Pulawy). C’est une bonne avancée, mais pour favoriser la compréhension de ce type de rond point, qui représente l’avenir, il serait judicieux d’avoir un plan d’harmonisation des ronds points d’entrée de ville.
+Le rond point de la place l’Hériller sera bientôt réaménagé avec un [rond point qui est (presque) à la Hollandaise](./ligne-b-du-bhns-et-le-velo) (il manque une continuité dans la masse de la piste cyclable, il faudrait qu’elle soit matérialisée en dur et non uniquement via de la peinture, j’ai interpelé Jean-Michel Leroy, adjoint à la voirie, à ce propos hier, lors de la cérémonie de renouvèlement des jumelages de Seraing et Pulawy). C’est une bonne avancée, mais pour favoriser la compréhension de ce type de rond point, qui représente l’avenir, il serait judicieux d’avoir un plan d’harmonisation des ronds points d’entrée de ville.
 
 Transformer celui de la porte de Valenciennes en ajoutant des olives aux intersections pour empêcher les véhicules de mordre sur la piste et en matérialisant la priorité aux cyclistes en entrée et en sortie de rond point devrait coûter moins de 25 000€ et améliorerait significativement la vie des cyclistes à cet endroit.
 
@@ -99,7 +99,7 @@ Cela va à l’encontre des efforts fait pour casser l’image de ville en voie 
 
 Il serait bon de remplacer ce panneau pour un message positif : "Douai ville, en transition", "Douai, la campagne en ville", "Douaisien·nes au premier regard"… pourquoi d’ailleurs ne pas lancer un appel à idées pour ce dernier.
 
-Propager une bonne image de la ville et sortir de la sinistrose d’un affichage qui a démontré son inefficacité.
+L'idée est de propager une bonne image de la ville et de sortir de la sinistrose d’un affichage qui a démontré son inefficacité.
 
 ### Des toilettes publiques rue de Bellain
 
