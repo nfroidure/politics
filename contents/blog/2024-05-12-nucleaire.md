@@ -35,7 +35,7 @@ La différence réside dans le fait que la fission, contrairement à la combusti
 
 En revanche, ce procédé comporte des risques sans comparaison, de part leur dimension et leurs dégâts potentiels, avec les autres sources d’énergie. On peut citer les incidents nucléaires de [Fukushima](https://fr.wikipedia.org/wiki/Accident_nucl%C3%A9aire_de_Fukushima) ou [Tchernobyl](https://fr.wikipedia.org/wiki/Catastrophe_nucl%C3%A9aire_de_Tchernobyl) qui ont nécessité des mesures de confinement inédites pour tenter de protéger l’environnement de ces centrales de la pollution radioactive.
 
-Il est également important de noter que, bien que la fission ne produise pas de CO2, le nucléaire reste une énergie fossile (l’Uranium étant exploité dans des gisements miniers). C’est également une énergie tributaire de pays étrangers pour l’extraction de l’Uranium.
+Il est également important de noter que, bien que la fission ne produise pas de CO2, le nucléaire reste une énergie non-renouvelable (l’Uranium étant exploité dans des gisements miniers). Selon l’Agence pour l’Énergie Nucléaire (AEN), nous ne disposons que d’un siècle de combustibles, d’autres scientifiques sont [bien moins optimistes](https://lejournal.cnrs.fr/articles/nucleaire-lepineuse-question-du-combustible). C’est également une énergie tributaire de pays étrangers pour l’extraction de l’Uranium et donc non souveraine.
 
 Bien entendu, le nucléaire dans tout son cycle de vie produit du CO2 : transport et traitement des matières premières et du combustible usagé, béton nécessaire aux centrales, mais aussi au confinement des installations victimes d’accidents, stockage des déchets…
 
@@ -45,9 +45,10 @@ On conçoit donc bien que le recours au nucléaire n’est pas une décision à 
 
 ## Une technicité difficile à gérer
 
-Autre spécificité du nucléaire, sa très haute technicité. En effet, la maîtrise (relative étant donné les précédents accidents) de cette source d’énergie requiert des ingénieur⋅es de haute volée et des technicien⋅ne hautement qualifié⋅es.
+Autre spécificité du nucléaire, sa très haute technicité. En effet, la maîtrise (relative étant donné les précédents accidents) de cette source d’énergie requiert des ingénieur⋅es de haute volée et des technicien⋅nes hautement qualifié⋅es.
 
 En effet, avec ses 220 000 collaborateur⋅ices, la filière nucléaire représente 7 % de l’emploi industriel en France. Malgré cela, l’EPR de Flamanville a cumulé les dérapages :
+
 - la centrale devait être prête en 2012 (après une autorisation signée en 2007), c’est finalement **avec 12 années de retard** que cette dernière devrait démarrer,
 - elle devait coûter 3.3 milliards d’euros, elle en coûtera finalement 19.1 milliards soit **presque six fois plus chère que prévue**.
 
@@ -62,6 +63,7 @@ La filière nucléaire fait face à des difficultés de recrutement selon [Cadre
 ## Des faiblesses intrinsèques
 
 Le nucléaire, au delà de sa propension à déraper au stade du projet, a également plusieurs faiblesses à considérer :
+
 - des déchets et un démantèlement qui grèvent leur modèle économique : il est difficile de trouver un équilibre qui prenne en compte tout le cycle de vie du nucléaire : on voit difficilement quelle rentabilité peut permettre de payer des personnes pour ne serait-ce que garder l’entrée d’un stockage de déchets pour 100 000 ans,
 - comme toute source d’électricité à partir de vapeur, elle consomme beaucoup d’eau. Or, les sècheresses successives et le réchauffement climatique représentent un problème pour ce type d’installation,
 - souvent côtières, ces installations sont vulnérables aux risques de submersion (la centrale de Fukushima a subit un tsunami ce qui a provoqué un accident industriel grave avec de très importantes répercussions encore perceptibles aujourd’hui) ou de crue,
@@ -95,10 +97,12 @@ Pour gérer l’intermittence des énergies renouvelables, les solutions de stoc
 Le nucléaire est une source d’énergie constante, mais pas aisément pilotable non plus. Démarrer ou arrêter une centrale nucléaire ne se fait pas d’un coup de baguette magique. Selon EDF, il faut près d’un mois, 200 personnes et 4000 opérations pour redémarrer un réacteur nucléaire.
 
 Avec les énergies renouvelables l’enjeu existe également mais heureusement, il est amoindri par la complémentarité des différentes sources de production :
+
 - le solaire est intermittent, mais prédictible : il produit le jour, quasiment pas la nuit et un peu moins en hiver. En revanche, les périodes de non production sont courtes (les nuits durent 7 à 10 heures en France) et permettent donc d’utiliser des méthodes de stockage de court terme ou à capacité limitée (volants d’inerties, stations STEP…),
 - le vent est intermittent, un peu moins prédictible, mais produit généralement plus quand le solaire produit moins : temps nuageux, hiver… cependant, il est plus réparti que le solaire.
 
 Il existe même des énergies renouvelables constantes et/ou pilotables :
+
 - la biomasse,
 - la méthanisation,
 - l’hydroélectricité.
@@ -150,3 +154,66 @@ Loin de “l’empouvoirement” de ses citoyen·nes (mais aussi leur responsabi
 Là où les énergies renouvelables proposent une forme d’indépendance énergétique (une subsidiarité organisée de la production), c’est finalement une dépendance que le nucléaire promeut, presque une indigence, si l’on considère que seul un grand groupe multinational (voire un conglomérat de groupes…) peut en fait produire ce type d’électricité. C’est aussi une dépense, du point de vue de notre balance commerciale, pour les combustibles qui sont importés.
 
 Bref, vous l’aurez compris, je ne suis pas favorable à de nouvelles centrales nucléaires, mais plutôt pour fermer progressivement nos centrales nucléaires à mesure que nous achevons notre transition : sobriété, émancipation et indépendance en seraient le fruit. Car après tout, nous nous devons plus que la lumière !
+
+## Note du 20 novembre 2024
+
+Le coût des EPR2 s’est envolé de 49% selon [les echos](https://nantes.maville.com/actu/actudet_-nucleaire-alors-que-le-devis-des-epr2-s-envole-l-etat-proposera-un-financement-a-edf-fin-2024-_54135-6555710_actu.Htm). Greenpeace avait annoncé un [coût deux fois plus élevé](https://www.ouest-france.fr/environnement/nucleaire/nucleaire-les-epr2-couteront-le-double-du-montant-annonce-assure-greenpeace-71736522-e1fd-11ee-94a7-1385a6efe21e), nous nous dirigeons, doucement, mais sûrement, vers cela. Prevue qu’il n’y a pas de maitrise réelle de la complexité du nucléaire, par nature.
+
+Suite à des échanges nourris, je complète cet article de quelques questions/réponses.
+
+### De l’envol de la consommation
+
+*L’énergie nucléaire, c’est 63% de la production d’électricité en France en 2023. L’éolien représente un peu plus de 10%, le solaire un peu plus de 4%. Il faut donc multiplier le solaire et l’éolien par un plus plus de 4 pour compenser le nucléaire à production constante. Or il est demandé une intensification des usages électriques : véhicules électriques voire véhicules autonomes (?), remplacement des chaudières à gaz par des pompes à chaleur, etc.*
+
+C’est un fait, si nous ne faisons rien, la consommation d’électricité va augmenter dans les décennies qui viennent. Cependant, ce n’est pas une fatalité. La France peut également agir autrement que par les moyens de production, notamment grâce à la sobriété énergétique (efficience énergétique, isolation thermique et développement des transports en commun et mobilités actives...). 
+
+En 2022, dans son [scénario nommé "M0"](https://assets.rte-france.com/prod/public/2022-02/BP50_Principaux%20re%CC%81sultats_fev2022_Chap5_scenarios%20mix%20production%20consommation.pdf), RTE (pour Réseau de Transport d’Électricité), dessine les plans d’un mix 100% renouvelable en 2050. Il n’est donc pas question de fermer toutes les centrales nucléaires françaises du jour au lendemain, nous avons 25 années pour le faire.
+
+Dans ce laps de temps, développer massivement les énergies renouvelables est tout à fait possible, d’autant que l’énergie solaire n’a [jamais autant été plébiscitée](https://www.lemonde.fr/economie/article/2024/10/27/la-ruee-vers-l-energie-solaire-grande-gagnante-de-la-bataille-de-la-competitivite_6360750_3234.html) qu’aujourd’hui.
+
+### L’Allemagne n’est pas un bon exemple
+
+*En arrêtant les centrales nucléaires, ils ont du ré-ouvrir ou conserver des centrales thermiques qui sont bien plus nocives pour le dérèglement climatique.*
+
+C’est vrai. D’ailleurs, sur la route de Recklinghausen (ville allemande jumelée à Douai), j’ai pu apercevoir une ds plus grande mines de charbon à ciel ouvert d’Europe.
+
+L’Allemagne a clairement contribué aux gaz à effet de serre plus que la France suite à sa sortie du nucléaire. Elle a cependant permis d’amorcer la pompe des énergies renouvelables. Seraient-elles aussi développées aujourd’hui si l’Allemagne avait fait les mêmes choix que la France ? Je pense que non.
+
+C’est donc, peut-être, un mal pour un bien. Mais dans tous les cas, leur stratégie s’avère payante à terme et nous qui sommes “avantagés” par notre parc nucléaire devrions leur emboiter le pas. Mais, finalement, ce parc nucléaire est aussi un poids financier et de lobbying qui nous tire vers le bas, étant donné notre retard sur nos voisins européens.
+
+### Le renouvelable est aussi une affaire de technique
+
+Oui, les énergies renouvelables reposent sur des technologies et innovations qui peuvent être également complexes. La différence avec le nucléaire réside dans le fait qu’elle est répartie au travers de plusieurs technologies (le fameux mix renouvelable et son foisonnement), mais aussi sur un grand nombres d’acteurs économiques indépendants là où les acteurs du nucléaire se comptent sur les doigts de la main.
+
+Ceci traduit la complexité importante, mais aussi, la centralisation gigantesque de moyens que nécessite le nucléaire.
+
+### Les ressources en hydrogène blanc sont marginales
+
+Nous ne sommes qu’au début de la prospection (rappel le pic pétrolier était envisagé bien plus tôt par les expert⋅es). Cependant, j’ai bien parlé de source tampon, ce ne sera certainement pas l’alpha et l’omega d’une stratégie 100% renouvelable.
+
+### Pour produire de l’hydrogène, il faut de l’électricité
+
+À ce jour oui, mais les recherches vont bon train, on peut citer notamment l’hydrogène thermochimique solaire (STCH) qui vise a exploiter directement l’énergie solaire.
+
+Ceci dit, il ne faut pas considérer l’hydrogène comme un carburant, mais comme un stockage d’énergie autrement perdue. C’est aussi une technologie qui pourra être envisagée comme un outil d’équilibrage du réseau électrique.
+
+Dans une transition énergétique correctement planifiée, l’hydrogène n’est produit qu’à partir d’électricité excédentaire.
+
+### Les matériaux sont limités aussi pour les EnR
+
+Oui, mais, à ce jour, il n’est pas question de pénurie [pour l’Ademe](https://librairie.ademe.fr/ged/6842/feuilleton_materiaux_de_la_te_transitions2050_ademe.pdf). Tout juste, parle-t-elle de sécuriser certains métaux ou terres rares dans le cas d’une production en France (ce qui n’est malheureusement pas gagné vu le manque d’ambition de la France en la matière).
+
+### Pourquoi mettre un gardien devant les stocks de déchets hautement radioactifs ?
+
+*Il doit bien y avoir d’autres méthodes de sécurisation et d’après JM Jancovici, leur empreinte en termes de surface serait très limitée.*
+
+D’abord, par précaution, mais aussi, de par la loi de Murphy. Des déchets d’une telle dangerosité ne peuvent pas échapper à une vigilance humaine constante à mon sens.
+
+### La sobriété, ce n’est pas gagné
+
+Oui, et c’est là que le rôle des écologistes est le plus pregnant. Nous devons continuer à porter une culture différente de celle impulsée par la société de consommation. C’est le sens de mon combat contre la pub qui est bien résumée par ce café citoyen auquel j’ai récemment participé.
+
+
+[Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
+
+L’écologie, en tant que doctrine politique solide fait système. C’est donc logique que ses projections ne se fassent pas “toutes choses égales par ailleurs”. **Un monde écologique, sera, au contraire, par ailleurs différent en toutes choses.**

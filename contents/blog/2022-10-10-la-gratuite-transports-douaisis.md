@@ -77,13 +77,13 @@ Si l’on souhaite respecter les accords de Paris, il faudra des mesures volonta
 
 Suite à des discussions diverses, voici quelques réponses à des arguments souvent opposés à la gratuité totale des transports en commun.
 
-**Si les transports publics doivent bénéficier de la gratuité, au titre des biens de première nécessité, pourquoi pas d’abord les premiers m3 d’eau potable, les premiers KWh d’électricité, voire le logement ou certains produits alimentaires ?**
+### Si les transports publics doivent bénéficier de la gratuité, au titre des biens de première nécessité, pourquoi pas d’abord les premiers m3 d’eau potable, les premiers KWh d’électricité, voire le logement ou certains produits alimentaires ?
 
-Bien que je sois favorable également à la gratuité des premiers m3 et kWH  pour récompenser les plus sobres d’entre nous (qui s’avèrent souvent être les plus défavorisé·es) ou à la sécurité sociale alimentaire, la réponse est que l’eau, l’électricité et la nourriture n’ont pas d’alternative’.
+Bien que je sois favorable également à la gratuité des premiers m3 et kWH  pour récompenser les plus sobres d’entre nous (qui s’avèrent souvent être les plus défavorisé·es) ou à la sécurité sociale alimentaire, la réponse est que l’eau, l’électricité et la nourriture n’ont pas d’alternative.
 
 Ce n’est pas le cas des transports en commun, d’autant plus que cette concurrence est déloyale : les automobiles bénéficient de la gratuité des routes, d’une perception du coût d’usage moins forte car indirecte (assurance mensualisée, coût de l’acquisition masqué… et même pour le carburant, quand on a fait le plein, on ne pense plus tant à ce qu’il nous a coûté en utilisant son automobile). De plus, les externalités négatives nombreuses de l’automobile sont supportées par toute la population, ce ne sont pas seulement les automobilistes qui en paient le coût.
 
-**La gratuité totale met tout le monde au même tarif : est-ce bien équitable ?**
+### La gratuité totale met tout le monde au même tarif : est-ce bien équitable ?
 
 Oui, c’est équitable car  cela ne change pas fondamentalement la situation.
 
@@ -95,8 +95,17 @@ La seule inéquité réelle est plutôt entre celleux qui utilisent les transpor
 
 Mais même dans le cas d’un village qui ne serait pas aussi bien desservi que la ville, la réalité de l’impôt local est qu’il est plus fort dans les centres urbains que dans les communes rurales (notamment, justement, à cause de l’attractivité des premières qui bénéficient de plus de services). Il y a donc finalement, une forme d’ajustement fortuit entre le taux de prélèvement et les bénéfices réels pour la population de la gratuité des transports sur le plan territorial.
 
-**La gratuité des transports est une mesure irréversible**
+### La gratuité des transports est une mesure irréversible
 
 Difficile de l’affirmer catégoriquement aujourd’hui  étant donné que peu de collectivités l’ont mise en place et qu’aucune, à ce jour, n’a tenté de la défaire.
 
 Ceci dit, si elle l’est c’est que le service rendu est attendu et bénéfique. Aussi, comment ne pas se réjouir qu’une telle mesure, quand on a perçu tous ses avantages listés précédemment, soit difficile à défaire ? Si c’est une bonne mesure, alors, c’est une bonne nouvelle !
+
+
+### Avec la gratuité des transports les gens marchent moins
+
+Difficile de le prouver. Ce qui est sûr, c’est que les usagèr·es des transports en commun marchent plus que les automobilistes. Rares sont les personnes qui habitent à proximité immédiate d’un arrêt (même si une bonne planification urbanistique privilégie cette situation, citons, par exemple, les projets de densification sur les friches Peugeot/Renault à deux pas de la [ligne B actuellement réaménagée](./ligne-b-du-bhns-et-le-velo)).
+
+Si ils existe surement des personnes qui prennent les transports en commun au lieu de marcher, elle marchent donc toujours un peu. Voire peut-être plus puisque les transports en commun, devenus accessibles pour elles, encouragent leur mobilité et leur permet de se déplacer plus loin plus aisément.
+
+Enfin, je refuse cette stigmatisation vis à vis des personnes qui évitent de marcher. Quand on a deux sacs de courses à porter, des enfants à gérer ou encore des difficultés à se déplacer, je ne vois pas en quoi il serait dommageable de soulager son quotidien en prenant les transports en commun.
