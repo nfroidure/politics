@@ -62,7 +62,7 @@ Sans surprise, sur la 16ème circonscription du Nord, c’est Alain Bruneel, qui
 
 Pour l’occasion de l’attribution définitive des circonscriptions, le logo et la charte graphique ont été retravaillés.
 
-[Logo du Nouveau Front Populaire](/public//illustrations/nouveau-front-populaire.png)
+![Logo du Nouveau Front Populaire](/public//illustrations/nouveau-front-populaire.png)
 
 ---
 
