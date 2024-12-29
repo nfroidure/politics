@@ -1,5 +1,8 @@
 export const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH;
+// For future use: https://stackoverflow.com/questions/76691710/custom-metadata-depending-on-the-language-in-next-js
+export const LANGUAGE = "fr";
+export const LOCALE = "fr-FR";
 export const ASSET_PREFIX = `${BASE_URL}${BASE_PATH || ""}`;
 export const ORGANISATION_LEGAL_NAME = "Nicolas Froidure";
 export const ORGANISATION_NAME = "Nicolas Froidure";
