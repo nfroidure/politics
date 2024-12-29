@@ -175,7 +175,7 @@ Dans ce laps de temps, développer massivement les énergies renouvelables est t
 
 *En arrêtant les centrales nucléaires, ils ont du ré-ouvrir ou conserver des centrales thermiques qui sont bien plus nocives pour le dérèglement climatique.*
 
-C’est vrai. D’ailleurs, sur la route de Recklinghausen (ville allemande jumelée à Douai), j’ai pu apercevoir une ds plus grande mines de charbon à ciel ouvert d’Europe.
+C’est vrai. D’ailleurs, sur la route de Recklinghausen (ville allemande jumelée à Douai), j’ai pu apercevoir une des plus grandes mines de charbon à ciel ouvert d’Europe.
 
 L’Allemagne a clairement contribué aux gaz à effet de serre plus que la France suite à sa sortie du nucléaire. Elle a cependant permis d’amorcer la pompe des énergies renouvelables. Seraient-elles aussi développées aujourd’hui si l’Allemagne avait fait les mêmes choix que la France ? Je pense que non.
 
@@ -216,4 +216,4 @@ Oui, et c’est là que le rôle des écologistes est le plus pregnant. Nous dev
 
 [Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
 
-L’écologie, en tant que doctrine politique solide fait système. C’est donc logique que ses projections ne se fassent pas “toutes choses égales par ailleurs”. **Un monde écologique, sera, au contraire, par ailleurs différent en toutes choses.**
+L’écologie, en tant que doctrine politique solide, fait système. C’est donc logique que ses projections ne se fassent pas “toutes choses égales par ailleurs”. **Un monde écologique, sera, au contraire, par ailleurs différent en toutes choses.**
