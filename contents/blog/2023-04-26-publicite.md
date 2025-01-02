@@ -90,7 +90,9 @@ Les plans [action cœur de ville](https://agence-cohesion-territoires.gouv.fr/ac
 
 C’est donc aussi une notion d’efficacité (et de crédibilité) de l’action publique qui est en jeu. Comparativement, avec moins de publicité, c’est plus de visibilité pour les enseignes des centres villes. À méditer pour la prochaine révision du Règlement Local de Publicité !
 
-**Note suite aux émeutes à Douai :**
+---
+
+## Note suite aux émeutes à Douai
 
 Suite au meurtre de Nahel à bout portant par un policier, de nombreux quartiers populaires se sont embrasés. Douai n’a pas échappé à la règle et a subit de nombreuses dégradations et l’interpellation de [33 personnes](https://www.lobservateur.fr/douai-presents-lors-des-emeutes-de-cet-ete-ils-comparaissent-au-tribunal/).
 
@@ -100,3 +102,29 @@ Un détail frappant est que la publicité a été l’une des cibles principales
 ![Panneau publicitaire détruit place d’Armes (autre face)](/public/illustrations/panneau-pub-detruit-2.jpg)
 ![Panneau publicitaire détruit boulevard Paul Hayez](/public/illustrations/panneau-pub-detruit-3.jpg)
 ![Panneau publicitaire détruit rue de Paris](/public/illustrations/panneau-pub-detruit-4.jpg)
+
+---
+
+## Note rétrospective du 18 novembre 2024
+
+Un café citoyen au sujet de la publicité a été organisé par la MJC de Lambres-lez-Douai. J’y ai participé et je vous propose de le découvrir car il couvre de nombreux aspects de cette dernière.
+
+[Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub ?](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
+
+---
+
+## Note rétrospective du 2 janvier 2025
+
+L’année 2025 a commencé avec une première imposture que je vais vous décortiquer.
+
+![Panneau JC Decaux en question](/public/illustrations/panneau-jcdecaux-par-jcdecaux.jpg)
+
+L’entreprise JC Decaux a cru bon d’utiliser les panneaux qu’elle a en gestion pour nous délivrer un message. Et ce dernier est politique.
+
+Sur ce panneau, on peut lire que : « la communication des marques (novlangue pour ne pas dire la pub) finance ce mobilier d’information (novlangue pour ne pas dire panneau de pub) ».
+
+Or, factuellement, si l’on considère que les 50% de communication institutionnelle (en ce moment les vœux, de nouveau) ne sont pas de la pub mais de l’information, alors ce n’est qu’un demi mobilier d’information.
+
+**Le demi "mobilier" supplémentaire, c’est bien de la publicité.**
+
+Alors, ce panneau annonce-t-il le renouvèlement du marché sous peu ? Si oui, une consultation du public sous forme de RIC serait de bon ton. Ne serait-ce que pour permettre une prise de conscience des enjeux tant la pub nous prépare, comme ici avec ce cas d’école, à la pub.

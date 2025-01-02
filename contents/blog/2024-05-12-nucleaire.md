@@ -214,6 +214,6 @@ D’abord, par précaution, mais aussi, de par la loi de Murphy. Des déchets d�
 Oui, et c’est là que le rôle des écologistes est le plus pregnant. Nous devons continuer à porter une culture différente de celle impulsée par la société de consommation. C’est le sens de mon combat contre la pub qui est bien résumée par ce café citoyen auquel j’ai récemment participé.
 
 
-[Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
+[Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub ?](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
 
 L’écologie, en tant que doctrine politique solide, fait système. C’est donc logique que ses projections ne se fassent pas “toutes choses égales par ailleurs”. **Un monde écologique, sera, au contraire, par ailleurs différent en toutes choses.**
