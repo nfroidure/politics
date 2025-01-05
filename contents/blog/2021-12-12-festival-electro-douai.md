@@ -7,7 +7,7 @@ categories:
   - Humeurs
   - Ville de Douai
 tags:
-  - "culture"
+  - Culture
 illustration:
   url: "/public/illustrations/rue-mairie-animation.jpg"
   alt: "Photo de la rue de la Mairie animée"

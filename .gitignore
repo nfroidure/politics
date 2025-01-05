@@ -128,3 +128,6 @@ next-env.d.ts
 # Built feeds
 blog.atom
 blog.rss
+
+# Private files
+private

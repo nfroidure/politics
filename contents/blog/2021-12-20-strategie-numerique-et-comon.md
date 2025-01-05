@@ -7,7 +7,7 @@ categories:
   - Numérique
   - EÉLV
 tags:
-  - "politique"
+  - politique
 illustration:
   url: "/public/illustrations/racines-club.jpg"
   alt: "Photo du racines club !"

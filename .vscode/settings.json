@@ -3,5 +3,10 @@
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "cSpell.enabled": true,
   "cSpell.language": "en,fr",
-  "cSpell.words": ["cyclabilité", "l’affût", "minorisation"]
+  "cSpell.words": [
+    "adelphique",
+    "cyclabilité",
+    "l’affût",
+    "minorisation"
+  ]
 }

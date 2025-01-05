@@ -4,9 +4,9 @@ description: "Une année se termine, une nouvelle commence mais la lutte continu
 date: "2022-01-02T14:33:00.000Z"
 draft: false
 categories:
-  - Voeux
+  - Vœux
 tags:
-  - "2021"
+  - "2022"
 illustration:
   url: "/public/illustrations/transports-gratuits-douaisis-2022.jpg"
   alt: "Photographies de la communication sur le tram gratuit"

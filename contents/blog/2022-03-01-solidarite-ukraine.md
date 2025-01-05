@@ -7,7 +7,7 @@ categories:
   - International
   - Humeurs
 tags:
-  - "Ukraine"
+  - Ukraine
 illustration:
   url: "/public/illustrations/soutien-ukraine.jpg"
   alt: "Photographie de l’office de tourisme illuminé aux couleurs de l’Ukraine"

@@ -6,9 +6,9 @@ draft: false
 categories:
   - Élections
 tags:
-  - "politique"
-  - "union"
-  - "gauche"
+  - politique
+  - union
+  - gauche
 illustration:
   url: "/public/illustrations/fin-du-monde-fin-du-mois.jpg"
   alt: "Photo du combat qui devrait nous rassembler"
