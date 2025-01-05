@@ -63,7 +63,7 @@ D’ailleurs, si le gouvernement ne faisait pas la sourde oreille face aux reven
 
 La critique que j’adresserai à l’aile qui se dit de gauche mais nous prouve chaque jour un peu plus qu’elle est de droite, personnifiée par François Guiffard son unique représentant, est le refus dogmatique de l’impôt.
 
-**N’oublions pas que la fonction première de l’impôt est redistributive, en finançant la collectivité, il apporte plus d’équité.** Je veux bien qu’on interroge la temporalité ou même la fonction redistributive réelle de l’impôt (car comparativement aux classes moyennes, les multinationales ou grosses fortunes en paient peu). Mais je pense que se complaire dans un refus catégorique du recours à l’impôt fait beaucoup de mal à la solidarité nationale.
+**N’oublions pas que la fonction première de l’impôt est redistributive, en finançant la collectivité, il apporte plus d’équité.** Je veux bien qu’on interroge la temporalité ou même la fonction redistributive réelle de l’impôt (car comparativement aux classes moyennes, les multinationales ou grosses fortunes en paient peu). Mais je pense que se complaire dans un refus catégorique du recours à l’impôt fait beaucoup de mal à la solidarité nationale (j’ai pris le temps de développer ce point de vu dans un [article dédié à l’impôt](./trop-d-impots-a-douai)).
 
 ## Le cirque municipal
 

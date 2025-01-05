@@ -26,7 +26,7 @@ C’est pourquoi un des enjeux majeurs du camp progressiste est de remobiliser l
 
 Le statut quo, en revanche, est de mise de l’autre côté de l’échiquier politique. Combiné au [clientélisme](https://nicolasfroidure.fr/blog/le-clientelisme-m-horripile), il permet de s’assurer d’une majorité électorale apte à perpétuer les intérêts d’une minorité gagnante au grand jeu du libéralisme économique.
 
-Volontaire ou subconsciente, la perpétuation d’une inertie politique qui permet de maintenir l’illusion d’une France irrémédiablement ancrée à droite, est parfaitement résumé dans une expression : « reste à ta place ».
+Volontaire ou subconsciente, la perpétuation d’une inertie politique qui permet de maintenir l’illusion d’une France irrémédiablement ancrée à droite, est parfaitement résumée dans une expression : « reste à ta place ».
 
 Sébastien Le Fol a contribué à populariser l’expression dans son livre idoine, mais s’est contenté de rester à sa place de commentateur en sélectionnant « des personnes qui ont réussi » (Nicolas Sarkozy, Anne Hildago) pour en faire « une éloge de la volonté ».
 
@@ -56,7 +56,7 @@ On méconnaît trop le fameux [effet de halo](https://fr.wikipedia.org/wiki/Effe
 
 Il suffit de voir les commentaires qui pullulent sur les réseaux sociaux, parfois par des élu·es, sur le surpoids de telle ou telle autre militant·e. C’est souvent le fait de la droite ou de l’extrême droite, mais il m’est arrivé d’entendre une personnalité de gauche exprimer son dégoût face aux politiques "bedonnants".
 
-Cette grossophobie veut que l’on fasse porter aux personnes la responsabilité de leur surpoids. Ici, on suggère l’oisiveté, mais c’est oublier que dans la société, nos métiers ont un impact indéniables sur nos morphologies (à titre personnel, travaillant assis 8h par jour, cela a une incidence sur ma santé et ma morphologie). De même, une personne qui a travaillé dans le bâtiment où l’agriculture a rarement des mains de pianiste.
+Cette grossophobie veut que l’on fasse porter aux personnes la responsabilité de leur surpoids. Ici, on suggère l’oisiveté, mais c’est oublier que dans la société, nos métiers ont un impact indéniables sur nos morphologies (à titre personnel, travaillant assis 8h par jour, cela a une incidence sur ma santé et ma morphologie). De même, une personne qui a travaillé dans le bâtiment ou l’agriculture a rarement des mains de pianiste.
 
 Nos milieux sociaux d’origine aussi influent sur notre apparence. Si être aisé ne rend pas beau, cela permet de le rester quand le quidam est marqué par les épreuves traversées. Les tenant·es du statut quo l’ont bien compris et feront volontiers comprendre aux [« sans dents »](https://www.youtube.com/watch?v=3ZNzQKOm9aw) qu’iels ne jouent pas dans la même cour.
 
@@ -64,11 +64,11 @@ Nos milieux sociaux d’origine aussi influent sur notre apparence. Si être ais
 
 On nous somme également de rester à notre place selon notre identité de genre, de classe, religieuse ou d’origine réelle ou supposée.
 
-![Portion d’une photographie de personnes priant autour de Donal Trump](/public/illustrations/personnes-priant-pour-trump.jpg "🖼️⬅️")Une image valant mille mots, la photographie suivante montre que le système électoral américain (officiellement sécularisé), multiplie les démonstrations religieuses qui, heureusement, choqueraient en France.
+![Portion d’une photographie de personnes priant autour de Donal Trump](/public/illustrations/personnes-priant-pour-trump.jpg "🖼️⬅️")Une image valant mille mots, la photographie suivante montre que le système électoral américain (officiellement sécularisé), multiplie des démonstrations religieuses qui, heureusement, choqueraient en France.
 
 Mais sans forcément brandir leur religion (même si cela arrive parfois localement, notamment un certain Franz Quatreboeufs qui ne manque pas une occasion d’évoquer sa foi dans ses prises de position politique) il arrive qu’on pointe aussi parfois du doigt celle des autres (voire que l’on colporte des rumeurs sur l’obédience d’untel selon l’adage qui veut qu’il en restera toujours quelque chose…).
 
-Une autre façon de commander de rester à sa place est l’étalage des titres. Ainsi, on s’envoie du « maître » dans le contexte du conseil municipal Douaisien, mais, selon les locuteur·ices, pas toujours, notamment quand leur sexe est féminin, ce qui en dit long sur le sexisme latent, au sein même de cette instance.
+Une autre façon de commander de rester à sa place est l’étalage des titres. Ainsi, on s’envoie du « maître » dans le contexte du conseil municipal Douaisien, mais, selon les locuteur·ices, pas toujours, notamment quand leur genre est féminin, ce qui en dit long sur le sexisme latent, au sein même de cette instance.
 
 Longtemps, il a été fait le procès à ma compagne élue au conseil municipal d’avoir été « placée », comme si elle n’avait pas de volonté propre, étant « femme de » (toujours par ce même Franz Quatreboeufs qui, il faut le dire, excelle dans cet art, entouré d’une cour friande de compagnie notabilisée).
 
@@ -86,6 +86,8 @@ Pourtant, on aime, dans certaines circonstances faire mine que non. C’est ains
 
 Je me retrouve souvent dans l’obligation de rappeler que tout est politique et qu’exclure de facto la politique est un acte politique (de droite, le plus souvent, mais ce n’est pas [un domaine réservé](./soiree-notre-france-parlons-en-du-ps-a-douai)).
 
+En raisonnant par l’absurde, on peut se demander qui décide de ce qui n’est pas politique. Définir cette limite imaginaire est en fait, déjà, un sujet politique.
+
 ### Le clientèlisme
 
 Il consiste en la résolution du cas personnel de celle ou celui qui sort du rang pour mieux continuer de réduire au silence les cas identiques dans la majorité de la population qui appellent à une résolution politique, systémique.
@@ -102,7 +104,7 @@ Le sommet du dévoiement de l’institution au profit de la diversion a, pour mo
 
 Mais la diversion s’exerce aussi sur le terrain idéologique, les slogans vendeurs mais frappés de pauvreté idéologiques sont légion. Bien-sûr, on peut tenter de réduire un programme politique à quelques formules en synthétisant son esprit global, mais une telle démarche, pour être honnête, doit s’accompagner de ponts permettant de reconstituer le cheminement qui amène à ces dernières.
 
-Exemple, je fait souvent l’effort de synthétiser mes articles de blogs pour offrir un point d’accès à ces derniers, mais en prenant soin d’y faire référence (c’est ainsi que j’affirme que [la gratuité des transport totale est éminemment sociale](./gratuite-des-transports-bilan-et-projections), qu’il faut [10 fois moins de voitures, trois fois moins lourdes mais électriques](./quel-avenir-pour-l-automobile)) et que la [contagion RN peut être stoppée](./la-contagion-rn-peut-etre-stoppee).
+Exemple, je fais souvent l’effort de synthétiser mes articles de blogs pour offrir un point d’accès à ces derniers, mais en prenant soin d’y faire référence (c’est ainsi que j’affirme que [la gratuité des transports totale est éminemment sociale](./gratuite-des-transports-bilan-et-projections), qu’il faut [10 fois moins de voitures, trois fois moins lourdes mais électriques](./quel-avenir-pour-l-automobile)) et que la [contagion RN peut être stoppée](./la-contagion-rn-peut-etre-stoppee).
 
 Cette pauvreté idéologique trouve son paroxysme dans les positions du Rassemblement National qui fait porter aux migrant·es tous les malheurs du monde sans jamais relier ces discours à une quelconque réalité (logique, puisqu’il n’y en a pas).
 
@@ -162,7 +164,7 @@ Le rôle du camp progressiste peut se résumer à la formule choisie lors du pro
 
 Il est d’ailleurs amusant de constater que cette même volonté d’ouverture a été raillée au sein même des écologistes car c’est également le slogan de Mc Donald dont José Bové démontait, autrefois, les restaurants, oubliant l’antérioté du « Come as you are » de Nirvana.
 
-Une autre façon de commander rester à sa place ?
+Ne pas investir les termes qui auraient été souillés par le mercantilisme ne serait alors qu’une autre façon de rester à sa place ?
 
 ---
 

@@ -49,3 +49,8 @@ jobs:
         run: npm run tootNewPosts
         env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+
+      - name: Send butterflies
+        run: npm run bskNewPosts
+        env:
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
