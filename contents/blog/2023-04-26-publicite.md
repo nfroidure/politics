@@ -128,3 +128,19 @@ Or, factuellement, si l’on considère que les 50% de communication institution
 **Le demi "mobilier" supplémentaire, c’est bien de la publicité.**
 
 Alors, ce panneau annonce-t-il le renouvèlement du marché sous peu ? Si oui, une consultation du public sous forme de RIC serait de bon ton. Ne serait-ce que pour permettre une prise de conscience des enjeux tant la pub nous prépare, comme ici avec ce cas d’école, à la pub.
+
+## Note rétrospective du 9 janvier 2025
+
+Grâce aux élu·es écologistes de la ville, j’ai pu avoir accès au contrat conclut entre JCDecaux et la ville de Douai le 21 décembre 2012 (suite à une délibération en date du 19 octobre 2012) de la main de Jacques Vernier alors maire.
+
+Un contrat conclut pour une durée de 15 ans (ce qui me semble énorme, surtout pour u choix effectué en fin de son dernier mandat, entravant ainsi la liberté d’action de ses successeur·euses sur le sujet durant deux mandats pleins).
+
+![Exemple de panneau NUMPI retro-éclairé géré par JCDecaux à Douai](/public/illustrations/panneau-numpi-jcdecaux-retro-eclaire.jpeg "🖼️➡️")Le prestataire jouit ainsi de 70 MUPIs (mobiliers urbains publicitaires et d’informations) dont une face est consacrée à la publicité tandis que l’autre est consacrée à l’information à discrétion de la commune.
+
+Le prestataire gère l’entretien et la maintenance de ces derniers et s’acquitte d’une redevance de 287€ par panneau et par an soit un revenu annuel pour la ville de 20 090€.
+
+Tous les panneaux sont rétroéclairés (bien que je ne suis pas sûr que tous fonctionnent encore) et l’électricité est à la charge de la commune (connectés au réseau d’éclairage public de la ville de Douai).
+
+Les panneaux sont sensés s’éteindre dès minuit et ne se rallumer que sur le coup de 6h du matin. À l’heure où l’éclairage public est coupé dans la commune, on peut trouver regrettable que ces panneaux soient toujours allumés, même si, leur consommation, au regard de celle de la ville, est certainement anecdotique.
+
+**Pour conclure, la fin de ce marché intervenant en 2028, il me semble important que ce sujet soit intégré au débat des municipales de 2026 à Douai.**

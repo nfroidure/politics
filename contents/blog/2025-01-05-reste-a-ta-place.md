@@ -1,6 +1,6 @@
 ---
 title: "Les 50 nuances du reste à ta place"
-description: "Depuis que j’ai commencé m’ont engagement politique, je ne compte plus les injonctions à mon encontre afin de rester à ma place. Décryptage."
+description: "Depuis que j’ai commencé mon engagement politique, je ne compte plus les injonctions à mon encontre afin de rester à ma place. Décryptage."
 date: "2025-01-05T18:00:00.000Z"
 draft: false
 tags:
