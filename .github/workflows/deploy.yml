@@ -15,7 +15,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
 
     steps:
       - name: Checkout
@@ -45,7 +45,7 @@ jobs:
           branch: gh-pages
           folder: out
 
-      - name: Send toot
+      - name: Send toots
         run: npm run tootNewPosts
         env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
