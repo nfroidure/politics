@@ -88,7 +88,7 @@ Je me retrouve souvent dans l’obligation de rappeler que tout est politique et
 
 En raisonnant par l’absurde, on peut se demander qui décide de ce qui n’est pas politique. Définir cette limite imaginaire est en fait, déjà, un sujet politique.
 
-### Le clientèlisme
+### Le clientélisme
 
 Il consiste en la résolution du cas personnel de celle ou celui qui sort du rang pour mieux continuer de réduire au silence les cas identiques dans la majorité de la population qui appellent à une résolution politique, systémique.
 
@@ -108,6 +108,8 @@ Exemple, je fais souvent l’effort de synthétiser mes articles de blogs pour o
 
 Cette pauvreté idéologique trouve son paroxysme dans les positions du Rassemblement National qui fait porter aux migrant·es tous les malheurs du monde sans jamais relier ces discours à une quelconque réalité (logique, puisqu’il n’y en a pas).
 
+On peut aussi noter que dans une société de divertissement, même avec de bonnes intentions, on peut finir par divertir en cherchant à atteindre d’autres objectifs. Ainsi, [Clément Viktorovitch](https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Viktorovitch) dont j’appréciais les vidéos de décryptage rhétorique finit par faire des lives interminables au rapport signal bruit très pauvre, pour l’audience, ses revenus afférents, la gloriole ou, plus insidieusement, pris dans un tourbillon médiatique qui ne permet plus la recherche d’objectifs militants ou pédagogiques.
+
 ### La déception
 
 Une autre stratégie, plus cynique, ou, peut-être, fortuite, est la déception chronique des citoyen·nes vis à vis des promesses politiques. Des promesses qui n’engagent que celleux qui y croient, mais surtout, désengagent celles et ceux qui n’y croient désormais plus.
@@ -119,6 +121,8 @@ Comme le disait récemment Marine Tondelier lors d’une interview, « quand le
 Autre stratégie, le report. En reportant, sans arrêt, les échéances, on use, sans en avoir l’air, les motivations. Stratégie de la chaise vide, l’attente sempiternelle du « bon moment », tant de techniques qui font peser la charge mentale sur celles et ceux qui, pourtant, sont dans leur bon droit de souhaiter progresser, mais qui de surcroît, arriveront rincé·es à la réunion de lancement qu’on attendait plus.
 
 La parade consistant alors à demander pardon plutôt que la permission comme le disait Grace Hopper.
+
+Dans le sens inverse, invoquer l’urgence permet de faire passer des mesures sans même qu’on ait le temps de s’en rendre compte. Pratique quand on a la certitude que le collectif refuserait la dite mesure.
 
 ### La brutalisation
 
@@ -135,6 +139,52 @@ Le fameux « il n’y a pas d’alternative » employé jusqu’à ébriété 
 L’habitus devient fatalité et le probable devient inexorable à force de [sophismes](https://fr.wikipedia.org/wiki/Sophisme) savamment distillés. Exemple : on ne peut pas [se passer de la pub](https://nicolasfroidure.fr/blog/stop-pub-mettons-fin-a-la-publicite).
 
 L’alternative devient alors hors de portée par décret.
+
+### L’homme ou la femme providentiel·le
+
+Une autre stratégie pour dépolitiser, mais, tout en se constituant une force de frappe militante, c’est la stratégie de l’incarnation.
+
+En faisant accepter aux masses un statut d’homme/de femme providentiel·le, on réduit tout débat aux déclarations (pas forcément à la pensée, nuance non-négligeable) d’un·e seul·e.
+
+Tout·e militant·e ayant entériné le statut prophétique de cette personne se voit alors contraint·e à adopter, sans délai, ces déclarations au risque de subir l’inconfort d’une [dissonance cognitive](https://fr.wikipedia.org/wiki/Dissonance_cognitive) ou le courroux du fan club. Stratégie qui est renforcée à chaque couleuvre avalée ou relayée publiquement rendant de plus en plus difficile la réappropriation de son propre jugement.
+
+Ce sujet a été débattu à l’occasion des européennes en 2019 dans un café citoyen ayant pour sujet l’abstention que vous pouvez retrouver ci-après.
+
+**Partie 1:**
+
+[Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub ?](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-220402-Abstention-bonne-ou-mauvaise-idee-partie1.mp3 "🎧 Écouter l’émission’")
+
+**Partie 2:**
+
+[Seconde partie de l’émission de Radio Scarpe Sensée de 2019 : Abstention, bonne ou mauvaise idee ?](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-220402-Abstention-bonne-ou-mauvaise-idee-partie2.mp3 "🎧 Écouter l’émission’")
+
+### Le sans-étiquette
+
+Une variante de la précédente stratégie est celle des représentant·es politique sans étiquette. De nombreuses personnes votent différemment en fonction des élections. Cette volatilité déplait nécessairement à toute personne dont l’obtention ou la conservation d’un mandat obsède plus que la mise en œuvre d’une quelconque vision politique.
+
+Les exemples sont légion dans le Douaisis : François Guiffard qui a quitté LFI peu avant les municipales 2020 [avec le résultat qu’on connait](./tout-n-est-pas-possible-en-politique) et d’une façon générale le MENID (Mouvement des Élus Non Inscrits du Douaisis), qui l’a inspiré, en a fait sa marque de fabrique.
+
+Selon la page Facebook de ce groupe « Le Menid est un mouvement politique local, regroupant des élus et citoyens du territoire souhaitant s’engager pour le Douaisis ! ». On voit donc que seules les personnes qui n’aiment pas le Douaisis sont exclues de ce groupe. Et quand on aime le Douaisis, on ne peut pas se tromper dans ses choix car on fait de ce qui est bon pour le Douaisis preuve qu’on aime le Douaisis. Un [raisonnement circulaire](https://fr.wikipedia.org/wiki/Raisonnement_circulaire) pratique et distillé à l’envi.
+
+Une façon de grouper des intérêts sans proposer de socle idéologique. Concluons sur cette stratégie, en paraphrasant un camarade de la CGT : le MENID c’est le « Mouvement des Élu·es Naturellement Incliné·es à Droite ».
+
+### Le mono engagement
+
+Une autre forme de dépolitisation est de montrer un engagement fort et déterminé sur un et un seul thème : le mono engagement. Idéalement, sur un thème qui ne provoque pas de controverse. C’est ainsi que Dimitri Houbron (ex député LReM de la 17ème circonscription du Nord) s’était voué corps et âme à la condition animale et plus spécifiquement [à la lutte contre la zoophilie](https://www.assemblee-nationale.fr/dyn/15/textes/l15b3321_proposition-loi). Un des rares engagements politiques mis en avant durant son mandat.
+
+Dans le monde du logiciel, on appelle cela travailler sur un [marché vertical](https://fr.wikipedia.org/wiki/March%C3%A9_vertical). La carte de l’engagement unique permet de tout ramener à un seul sujet afin de ne jamais avoir à s’exprimer sur les autres.
+
+J’ai d’ailleurs écrit un long article sur la [condition animale](./condition-animale-reflet-de-la-societe) pour préciser ma pensée et, en même temps, rappeler qu’EÉLV n’était pas Europe-Écologie les Végan·es et que nos rangs intégraient aussi des éleveur·euses passioné·es par leur métier qu’iels exercent en respectant leurs bêtes.
+
+### La désinformation
+
+Comment bien penser et prendre position si l’on est pas ou mal informé ?
+
+Entre les médias pratiquement allègrement la désinformation, ceux distillant sans filtre les plans de communication des politiques et les théories complotistes qui fleurissent ça et là, difficile de savoir à qui se fier.
+
+Alors les citoyen·nes se défient parfois de toute information et, ce faisant, s’excluent de la chose politique. Dans une forme de cynisme absolu, certains politiques dénoncent les Fake News sans jamais proposer de moyen d’en sortir (alors qu’il y en a, j’y reviendrai sur ce blog).
+
+En attendant, pour ne pas vous laisser sans alternative, je suis personnellement abonné à et sociétaire de [Politis](https://www.politis.fr/) que je vous recommande tout en conservant votre esprit critique.
 
 ### La submersion
 

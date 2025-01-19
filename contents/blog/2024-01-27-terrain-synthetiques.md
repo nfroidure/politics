@@ -29,7 +29,7 @@ Je partage largement cette réticence à propos des terrains synthétiques. Pour
 
 ![Photographie du terrain de hockey du stade Demeny à Douai en pleine séance d’arrosage](/public/illustrations/terrain-hockey-demeny-arrose.jpg)
 
-Au vu de ces éléments, il me semble effectivement important de différer cet investissement et je me réjouis que les élu·es écologistes aient témoigné de leur réticences à ce sujet. La raison invoquée par Jean-Christophe Leclerc, adjoint, est qu’il faudrait plus de terrains en herbe pour le même usage. Certes, mais à Douai, il y avait des alternatives :
+Au vu de ces éléments, il me semble effectivement important de différer cet investissement et je me réjouis que les élu·es écologistes aient témoigné de leur réticences à ce sujet. La raison invoquée par Jean-Christophe Leclercq, adjoint, est qu’il faudrait plus de terrains en herbe pour le même usage. Certes, mais à Douai, il y avait des alternatives :
 
 - le parc Charles Fenain (et le stade Demeny, en partie) étaient utilisés par la FFD (Foot Féminin du Douaisis). Sa dissolution ayant provoqué le [départ de joueuses](https://www.lavoixdunord.fr/1353924/article/2023-07-19/football-une-soixantaine-de-filles-du-foot-feminin-douai-rejoignent-l-es-lambres), ces terrains de nouveau disponibles pourraient accueillir des équipes d’autres clubs (si le Parc Charles Fenain est bon pour les femmes, il l’est aussi pour les hommes),
 - le stade Demeny, lui même, dispose de terrains délaissés pouvant accueillir de nouveaux terrains enherbés, d’ailleurs, le coût d’un terrain en herbe est bien inférieur (de moitié) à celui d’un terrain synthétique, de même que sa durée de vie (au moins double),
