@@ -10,7 +10,7 @@ L’une d’entre elle consiste à dénoncer le fait d’agir quand les election
 
 Il suffit bien-sûr de s’abonner à ma lettre d’information, de parcourir mon blog et d’assister aux diverses réunions publiques pour constater que ce n’est pas le cas.
 
-Du côté de nos élu·es aussi, j’en vœux pour preuve la [revue de presse fournie de Stéphanie](https://stephaniestiernon.fr/news/2025).
+Du côté de nos élu·es aussi, j’en veux pour preuve la [revue de presse fournie de Stéphanie](https://stephaniestiernon.fr/news/2025).
 
 Finalement, je retourne l’accusation. Il faut s’être réveillé aujourd’hui et ne pas connaitre l’action des écologistes pour penser cela.
 

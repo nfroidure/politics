@@ -66,7 +66,7 @@ On nous somme également de rester à notre place selon notre identité de genre
 
 ![Portion d’une photographie de personnes priant autour de Donal Trump](/public/illustrations/personnes-priant-pour-trump.jpg "🖼️⬅️")Une image valant mille mots, la photographie suivante montre que le système électoral américain (officiellement sécularisé), multiplie des démonstrations religieuses qui, heureusement, choqueraient en France.
 
-Mais sans forcément brandir leur religion (même si cela arrive parfois localement, notamment un certain Franz Quatreboeufs qui ne manque pas une occasion d’évoquer sa foi dans ses prises de position politique) il arrive qu’on pointe aussi parfois du doigt celle des autres (voire que l’on colporte des rumeurs sur l’obédience d’untel selon l’adage qui veut qu’il en restera toujours quelque chose…).
+Mais sans forcément brandir leur religion (même si cela arrive parfois localement, notamment un certain Franz Quatreboeufs qui ne manque pas une occasion d’évoquer sa foi dans ses prises de position politiques) il arrive qu’on pointe aussi parfois du doigt celle des autres (voire que l’on colporte des rumeurs sur l’obédience d’untel selon l’adage qui veut qu’il en restera toujours quelque chose…).
 
 Une autre façon de commander de rester à sa place est l’étalage des titres. Ainsi, on s’envoie du « maître » dans le contexte du conseil municipal Douaisien, mais, selon les locuteur·ices, pas toujours, notamment quand leur genre est féminin, ce qui en dit long sur le sexisme latent, au sein même de cette instance.
 
@@ -92,7 +92,7 @@ En raisonnant par l’absurde, on peut se demander qui décide de ce qui n’est
 
 Il consiste en la résolution du cas personnel de celle ou celui qui sort du rang pour mieux continuer de réduire au silence les cas identiques dans la majorité de la population qui appellent à une résolution politique, systémique.
 
-Ce reste à ta place là s’opère dans l’ambiance feutrée des permanences des élu·es.
+Ce reste à ta place là s’opère dans l’[ambiance feutrée des permanences des élu·es](./le-clientelisme-m-horripile).
 
 ### La diversion
 
@@ -164,7 +164,7 @@ Une variante de la précédente stratégie est celle des représentant·es polit
 
 Les exemples sont légion dans le Douaisis : François Guiffard qui a quitté LFI peu avant les municipales 2020 [avec le résultat qu’on connait](./tout-n-est-pas-possible-en-politique) et d’une façon générale le MENID (Mouvement des Élus Non Inscrits du Douaisis), qui l’a inspiré, en a fait sa marque de fabrique.
 
-Selon la page Facebook de ce groupe « Le Menid est un mouvement politique local, regroupant des élus et citoyens du territoire souhaitant s’engager pour le Douaisis ! ». On voit donc que seules les personnes qui n’aiment pas le Douaisis sont exclues de ce groupe. Et quand on aime le Douaisis, on ne peut pas se tromper dans ses choix car on fait de ce qui est bon pour le Douaisis preuve qu’on aime le Douaisis. Un [raisonnement circulaire](https://fr.wikipedia.org/wiki/Raisonnement_circulaire) pratique et distillé à l’envi.
+Selon la page Facebook de ce groupe « Le Menid est un mouvement politique local, regroupant des élus et citoyens du territoire souhaitant s’engager pour le Douaisis ! ». On voit donc que seules les personnes qui n’aiment pas le Douaisis sont exclues de ce groupe. Et quand on aime le Douaisis, on ne peut pas se tromper dans ses choix car on fait ce qui est bon pour le Douaisis preuve qu’on aime le Douaisis. Un [raisonnement circulaire](https://fr.wikipedia.org/wiki/Raisonnement_circulaire) pratique et distillé à l’envi.
 
 Une façon de grouper des intérêts sans proposer de socle idéologique. Concluons sur cette stratégie, en paraphrasant un camarade de la CGT : le MENID c’est le « Mouvement des Élu·es Naturellement Incliné·es à Droite ».
 
@@ -180,11 +180,15 @@ J’ai d’ailleurs écrit un long article sur la [condition animale](./conditio
 
 Comment bien penser et prendre position si l’on est pas ou mal informé ?
 
-Entre les médias pratiquement allègrement la désinformation, ceux distillant sans filtre les plans de communication des politiques et les théories complotistes qui fleurissent ça et là, difficile de savoir à qui se fier.
+Entre les médias pratiquant allègrement la désinformation, ceux distillant sans filtre les plans de communication des politiques et les théories complotistes qui fleurissent ça et là, difficile de savoir à qui se fier.
 
 Alors les citoyen·nes se défient parfois de toute information et, ce faisant, s’excluent de la chose politique. Dans une forme de cynisme absolu, certains politiques dénoncent les Fake News sans jamais proposer de moyen d’en sortir (alors qu’il y en a, j’y reviendrai sur ce blog).
 
-En attendant, pour ne pas vous laisser sans alternative, je suis personnellement abonné à et sociétaire de [Politis](https://www.politis.fr/) que je vous recommande tout en conservant votre esprit critique.
+En attendant, pour ne pas vous laisser sans alternative, je suis personnellement abonné à et sociétaire de [Politis](https://www.politis.fr/) que je vous recommande. Il existe d’autres des médias coopératifs dont le contenu est librement consultable comme [Blast!](https://www.blast-info.fr/).
+
+Pour le local, je rédige ce blog afin de mettre en exergue ce qui est passé sous silence (ou inaccessible pour les personnes qui n’ont pas les moyens de s’abonner à la presse) et permettre un accès gratuit à l’information.
+
+Cela ne vous dispense pas de conserver votre esprit critique, bien-entendu.
 
 ### La submersion
 

@@ -91,6 +91,8 @@ Il me semble plus utile d’exploiter les affichages publicitaires pour lutter c
 
 ### Remplacer le panneau "Douai doit garder ses TGV" par un message positif
 
+![Panneau Douai doit garder ses TGVs](/public/illustrations/douai-garder-tgv.jpg "🖼➡️")
+
 Les récentes et multiples suppressions de TGV à Douai ont démontré qu’un panneau ne peut rien contre l’idéologie de la rentabilité pour le service public.
 
 En revanche, ce panneau contribue à développer une image de ville en déclin pour Douai. Il s’agit, pour les personnes qui prennent le train, du premier message reçu en arrivant à Douai (si l’on exclue la publicité en gare…). Parmi ces personnes, il y a peut-être des personnes qui pourraient vouloir s’installer à Douai et seraient refroidies par ce message.

@@ -84,7 +84,7 @@ L’impact environnemental des véhicules électrique est souvent décrié, mais
 
 Il est à noter que Valeo et Renault ont développé [un moteur sans terres rares](https://www.valeo.com/fr/catalogue/pts/moteur-electrique-haute-tension-sans-terre-rare/ "Lire le communiqué de Valeo à ce sujet") et que les innovations, notamment concernant les [batteries sodium-ion](https://www.cnrs.fr/fr/cnrsinfo/batteries-sodium-ion-une-premiere-mondiale-dont-nous-sommes-tres-fiers "Lire le communiqué du CNRS sur ce sujet"), risquent bien de réduire encore cet impact (surtout vis à vis de l’extraction du Cobalt qui pose des problèmes éthiques).
 
-Malgré tout, la question des limites planétaires et la raréfaction de certains m étaux nécessitent d’agir sur d’autres leviers : le nombre et le poids des automobiles en circulation.
+Malgré tout, la question des limites planétaires et la raréfaction de certains métaux nécessitent d’agir sur d’autres leviers : le nombre et le poids des automobiles en circulation.
 
 ### Limiter le poids des véhicules
 
