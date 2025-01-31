@@ -42,8 +42,7 @@ En conséquence, je pense que la ville devrait favoriser l’adoption graduelle 
 
 ## Sources :
 
-1 - [Élection de Donald Trump : Elon Musk, un acteur clé de la victoire du républicain](https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/election-de-donald-trump-elon-musk-un-acteur-cle-de-la-victoire-du-republicain_6896543.html)
-2 - [Réseaux sociaux : comment protéger les jeunes ?](https://www.info.gouv.fr/actualite/reseaux-sociaux-comment-proteger-les-jeunes)
-3 - [Étude de l’impact environnemental des usages audiovisuels en France](https://www.arcom.fr/nos-ressources/etudes-et-donnees/etudes-bilans-et-rapports-de-larcom/etude-de-limpact-environnemental-des-usages-audiovisuels-en-france
-Numérique : quel impact environnemental ?
-https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/)
+1. [Élection de Donald Trump : Elon Musk, un acteur clé de la victoire du républicain](https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/election-de-donald-trump-elon-musk-un-acteur-cle-de-la-victoire-du-republicain_6896543.html)
+2. [Réseaux sociaux : comment protéger les jeunes ?](https://www.info.gouv.fr/actualite/reseaux-sociaux-comment-proteger-les-jeunes)
+3. [Étude de l’impact environnemental des usages audiovisuels en France](https://www.arcom.fr/nos-ressources/etudes-et-donnees/etudes-bilans-et-rapports-de-larcom/etude-de-limpact-environnemental-des-usages-audiovisuels-en-france)
+4. [Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/)
