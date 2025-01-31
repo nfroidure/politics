@@ -102,7 +102,7 @@ C’est ainsi que toute réunion commence par des énumérations protocolaires i
 
 Le sommet du dévoiement de l’institution au profit de la diversion a, pour moi, été atteint, lorsqu’un maire du Douaisis s’est fendu d’un arrêté autorisant le Père Noël à survoler sa commune le soir du 24 décembre.
 
-Mais la diversion s’exerce aussi sur le terrain idéologique, les slogans vendeurs mais frappés de pauvreté idéologiques sont légion. Bien-sûr, on peut tenter de réduire un programme politique à quelques formules en synthétisant son esprit global, mais une telle démarche, pour être honnête, doit s’accompagner de ponts permettant de reconstituer le cheminement qui amène à ces dernières.
+Mais la diversion s’exerce aussi sur le terrain idéologique, les slogans vendeurs mais frappés de pauvreté idéologique sont légion. Bien-sûr, on peut tenter de réduire un programme politique à quelques formules en synthétisant son esprit global, mais une telle démarche, pour être honnête, doit s’accompagner de ponts permettant de reconstituer le cheminement qui amène à ces dernières.
 
 Exemple, je fais souvent l’effort de synthétiser mes articles de blogs pour offrir un point d’accès à ces derniers, mais en prenant soin d’y faire référence (c’est ainsi que j’affirme que [la gratuité des transports totale est éminemment sociale](./gratuite-des-transports-bilan-et-projections), qu’il faut [10 fois moins de voitures, trois fois moins lourdes mais électriques](./quel-avenir-pour-l-automobile)) et que la [contagion RN peut être stoppée](./la-contagion-rn-peut-etre-stoppee).
 
@@ -130,7 +130,7 @@ Autre phénomène, employé largement par les hordes de harceleurs d’extrême 
 
 Cette violence tantôt brute, tantôt institutionnalisée sous des couverts culturels, a forgé l’idée qu’il faut être « fort·e » pour faire de la politique.
 
-Elle se décline également dans la brutalité policière lors de la répression de manifestations. On a toutes et tous encore en tête ces [vidéo de jeunes mis à genoux](https://www.humanite.fr/societe/violences-policieres/lyceens-mis-a-genoux-a-mantes-la-jolie-une-instruction-ouverte-pour-torture) par les CRS à Mantes-la-Jolie. On croit deviner le message prodigué à coup de matraque : ces dernier·es auraient dû rester chez elleux.
+Elle se décline également dans la brutalité policière lors de la répression de manifestations. On a toutes et tous encore en tête ces [vidéos de jeunes mis à genoux](https://www.humanite.fr/societe/violences-policieres/lyceens-mis-a-genoux-a-mantes-la-jolie-une-instruction-ouverte-pour-torture) par les CRS à Mantes-la-Jolie. On croit deviner le message prodigué à coup de matraque : ces dernier·es auraient dû rester chez elleux.
 
 ### L’incapacité
 
@@ -184,7 +184,7 @@ Entre les médias pratiquant allègrement la désinformation, ceux distillant sa
 
 Alors les citoyen·nes se défient parfois de toute information et, ce faisant, s’excluent de la chose politique. Dans une forme de cynisme absolu, certains politiques dénoncent les Fake News sans jamais proposer de moyen d’en sortir (alors qu’il y en a, j’y reviendrai sur ce blog).
 
-En attendant, pour ne pas vous laisser sans alternative, je suis personnellement abonné à et sociétaire de [Politis](https://www.politis.fr/) que je vous recommande. Il existe d’autres des médias coopératifs dont le contenu est librement consultable comme [Blast!](https://www.blast-info.fr/).
+En attendant, pour ne pas vous laisser sans alternative, je suis personnellement abonné à et sociétaire de [Politis](https://www.politis.fr/) que je vous recommande. Il existe d’autres médias coopératifs dont le contenu est librement consultable comme [Blast!](https://www.blast-info.fr/).
 
 Pour le local, je rédige ce blog afin de mettre en exergue ce qui est passé sous silence (ou inaccessible pour les personnes qui n’ont pas les moyens de s’abonner à la presse) et permettre un accès gratuit à l’information.
 
