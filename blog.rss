@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 28 Jan 2025 18:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 28 Jan 2025 20:11:36 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 08:14:32 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/une-presence-numerique-vertueuse-pour-douai</guid>
+        <title>Une présence numérique vertueuse pour Douai</title>
+        <description>Quitter X est un pas dans la bonne direction, mais c&apos;est l&apos;arbre qui cache la forêt. Allons plus loin !</description>
+        <link>https://nicolasfroidure.fr/blog/une-presence-numerique-vertueuse-pour-douai</link>
+        <pubDate>Fri, 31 Jan 2025 18:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/des-idees-pour-le-bus-a-douai</guid>
         <title>Des idées pour le bus à Douai</title>
