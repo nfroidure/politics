@@ -2,7 +2,6 @@ import { OpenGraphType } from "next/dist/lib/metadata/types/opengraph-types";
 import {
   ORGANISATION_NAME,
   DOMAIN_NAME,
-  TWITTER_ACCOUNT,
   ASSET_PREFIX,
 } from "../utils/constants";
 import type { Metadata, ResolvedMetadata } from "next";
@@ -105,10 +104,6 @@ export default async function buildMetadata({
             audio: [audio],
           }
         : {}),
-    },
-    twitter: {
-      site: `@${TWITTER_ACCOUNT}`,
-      creator: `@${TWITTER_ACCOUNT}`,
     },
   };
 }

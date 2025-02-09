@@ -16,7 +16,6 @@ export const ICONS = [
   "facebook",
   "link",
   "remove",
-  "twitter",
 ] as const;
 type Icon = (typeof ICONS)[number];
 

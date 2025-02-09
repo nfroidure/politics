@@ -1,5 +1,5 @@
 import styles from "./share.module.scss";
-import { ORGANISATION_CONTACT, TWITTER_ACCOUNT } from "../utils/constants";
+import { ORGANISATION_CONTACT } from "../utils/constants";
 import Paragraph from "./p";
 import Anchor from "./a";
 import Heading2 from "./h2";
@@ -24,17 +24,6 @@ export default function Share({
         >
           <span className={[styles.icon, styles.facebook].join(" ")} />
           Facebook
-        </Anchor>
-        {" - "}
-        <Anchor
-          href={`https://twitter.com/intent/tweet/?url=${encodeURIComponent(
-            url
-          )}&text=${encodeURIComponent(title)}&via=${TWITTER_ACCOUNT}`}
-          title="Commenter sur Twitter"
-          target="_blank"
-        >
-          <span className={[styles.icon, styles.twitter].join(" ")} />
-          Twitter
         </Anchor>
         {" - "}
         <Anchor

@@ -12,4 +12,4 @@ En arrière fond de cette affirmation, se trouve, la volonté de discréditer ma
 
 J’ai créé ce morceau d’Internet pour des raisons politiques et pour exprimer mon avis sur les sujets qui me tiennent à cœur, pas pour flatter mon ego.
 
-L’occasion pour moi de vous flécher vers le site Internet de quelques personnes dont j’aime les écrits : [David Cormand](https://www.davidcormand.fr/), [Marine Tondelier](https://twitter.com/marinetondelier), [Alain Coulombel](https://blogs.mediapart.fr/alain-coulombel) et, bien-sûr, [Stéphanie Stiernon](https://www.facebook.com/stephanie.stiernon.1).
+L’occasion pour moi de vous flécher vers le site Internet de quelques personnes dont j’aime les écrits : [David Cormand](https://www.davidcormand.fr/), [Alain Coulombel](https://blogs.mediapart.fr/alain-coulombel) et, bien-sûr, [Stéphanie Stiernon](https://www.facebook.com/stephanie.stiernon.1).

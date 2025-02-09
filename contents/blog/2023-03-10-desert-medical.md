@@ -20,7 +20,7 @@ Problème : ce n’est pas le seul. Selon ce dernier, **cette année, à Douai,
 
 Autre problème : aujourd’hui, **à Douai, tout le monde, n’a pas de médecin traitant**. Pour preuve, lors de la dernière réunion de quartier, l’un d’entre nous expliquait déjà qu’il n’avait pas pu trouver de médecin traitant.
 
-Combien d’entre nous sont dans cette situation ? Difficile de le dire. On peut en revanche penser que ce phénomène risque de s’accentuer. On peut également citer la disparition programmée [du cabinet médical SNCF de Douai](https://www.change.org/p/pour-garder-le-cabinet-m%C3%A9dical-sncf-de-douai?recruiter=311500601&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition "Signer la pétition") qui risque de provoquer un afflux dû au report des patient⋅es de ce dernier.
+Combien d’entre nous sont dans cette situation ? Difficile de le dire. On peut en revanche penser que ce phénomène risque de s’accentuer. On peut également citer la disparition programmée [du cabinet médical SNCF de Douai](https://www.change.org/p/pour-garder-le-cabinet-m%C3%A9dical-sncf-de-douai?recruiter=311500601 "Signer la pétition") qui risque de provoquer un afflux dû au report des patient⋅es de ce dernier.
 
 ## Un problème qui n’est pas nouveau
 

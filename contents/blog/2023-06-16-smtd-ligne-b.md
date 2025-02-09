@@ -139,3 +139,22 @@ Le rond point de la place l’Hériller sera dans l’esprit d’un rond point �
 Je lui ai également demandé si il était possible de faire des campagnes de prévention pour expliquer l’utilisation de ce rond-point car ma crainte est que, le temps que les mentalités ne changent, il soit plus accidentogène.
 
 Je recommande aux cyclistes la prudence le temps que les automobilistes ne comprennent qu’ils ne sont plus prioritaires.
+
+---
+
+## Note rétrospective du 22 janvier 2025
+
+Suite à une réunion sur l’avancement des travaux, j’ai pu constater que les plans ont été modifiés pour prendre en compte notre demande concernant le fait que tout l’anneau cyclable soit de la même couleur.
+
+Ce ne sera, par contre, pas la même masse, mais le directeur de la voirie m’a assuré que la pose "à chaud" évitera les problèmes de nids de poule aux jonctions.
+
+Le projet avant/après :
+
+![Affichage du projet de rond point place l’Hériller](/public/illustrations/rond-point-place-l-heriller.jpg "🖼➡️")
+![Plans actualisés du rond point place l’Hériller](/public/illustrations/plans-place-l-heriller-rond-point-hollandaise.jpg "🖼➡️")
+
+J’ai aussi appris, lors de cette même réunion, que [mon idée pour Douai](./mes-idees-pour-douai#transformer-le-rond-point-porte-de-valenciennes-en-rond-point-a-la-hollandaise) de passer d’autres ronds points d’entrée de ville en rond point du même type pour les uniformiser serait mise en œuvre. Une preuve supplémentaire du fait que l’engagement politique écologiste paie.
+
+En revanche, malheureusement, l’itinéraire bis proposé aux cyclistes passera derrière la MJC emportant avec lui le jardin et le poulailler pédagogique. Une triste nouvelle qui met en perspective la dualité impossible entre la préservation du stationnement et celle de la transition écologique. Tout est affaire de choix.
+
+On constate, malheureusement, que ce que le bus gagne, le vélo le perd et que ce que le vélo gagne, l’éducation populaire au lien avec la nature le perd. Comme si, finalement, ce qui pourrait être un progrès, n’est qu’une reconfiguration de la place dors et déjà dédiée à l’écologie, sans l’accroître.

@@ -56,7 +56,7 @@ Pour ce faire, plusieurs pistes :
 
 ![Campagne contre les violences sexistes et sexuelles dans le métro de Lille](/public/illustrations/campagne-vss-metro.jpg)
 
-Malheureusement, les transports en commun on parfois mauvaise presse et des personnes ne les prennent pas car elles ont peur d’y être agressées.
+Malheureusement, les transports en commun ont parfois mauvaise presse et des personnes ne les prennent pas car elles ont peur d’y être agressées.
 
 Pour lutter contre ce sentiment, il faudrait mettre en place quelques mesures :
 

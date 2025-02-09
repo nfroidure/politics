@@ -7,7 +7,6 @@ import {
   LINKEDIN_ACCOUNT,
   MASTODON_ACCOUNT,
   MASTODON_SERVER,
-  TWITTER_ACCOUNT,
 } from "../utils/constants";
 
 export default function Social(): JSX.Element {
@@ -42,16 +41,6 @@ export default function Social(): JSX.Element {
             target="_blank"
           >
             <span>LinkedIn</span>
-          </a>
-        </li>
-        <li className={styles.twitter}>
-          <a
-            href={`https://twitter.com/${TWITTER_ACCOUNT}`}
-            rel="me"
-            title="Me suivre sur Twitter"
-            target="_blank"
-          >
-            <span>Twitter</span>
           </a>
         </li>
         <li className={styles.facebook}>
