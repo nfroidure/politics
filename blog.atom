@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2025-01-31T18:00:00.000Z</updated>
+  <updated>2025-02-15T09:08:28.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/qui-veut-etre-maire-de-douai</id>
+    <title>Qui veut être Maire de Douai ?</title>
+    <link href="https://nicolasfroidure.fr/blog/qui-veut-etre-maire-de-douai" rel="alternate" type="text/html" />
+    <updated>2025-02-15T09:08:28.000Z</updated>
+    <published>2025-02-15T09:08:28.000Z</published>
+    <summary>Alors que les municipales 2026 approchent, les ambitions et les egos enflent. Mais existe-t-il un autre chemin, plus collectif ?</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/une-presence-numerique-vertueuse-pour-douai</id>
     <title>Une présence numérique vertueuse pour Douai</title>
