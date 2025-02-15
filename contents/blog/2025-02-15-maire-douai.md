@@ -2,7 +2,7 @@
 title: "Qui veut être Maire de Douai ?"
 description: "Alors que les municipales 2026 approchent, les ambitions et les egos enflent. Mais existe-t-il un autre chemin, plus collectif ?"
 date: "2025-02-15T09:08:28.000Z"
-draft: true
+draft: false
 categories:
   - Douai
 tags:
