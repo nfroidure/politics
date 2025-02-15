@@ -23,7 +23,7 @@ En effet, **dans une démocratie fonctionnelle, avant de parler des personnes, o
 
 En France, les prérogatives associées à la fonction de Maire sont très étendues. Trop à mon avis. Pourtant, cela n’a pas toujours été le cas. Par exemple, au 13ème siècle, la ville de Douai était administrée par un collectif d’échevins (à ma connaissance uniquement des hommes).
 
-**Il y aurait bien des réformes du statut de Maire à faire pour que le système démocratique communal me convienne.** Lors d’une discussion avec la Mairesse de Seraing (ville belge jumelée avec Douai), j’ai appris qu’en Belgique, chaque électeur·ice peut votre nominativement pour un membre d’une liste, si bien que l’ordre des élu·es peut varier et la/le Maire n’est connu·e qu’à l’issue des élections (en France, iel est élu par le conseil municipal, cependant le résultat est généralement sans surprise).
+**Il y aurait bien des réformes du statut de Maire à faire pour que le système démocratique communal me convienne.** Lors d’une discussion avec la Mairesse de Seraing (ville belge jumelée avec Douai), j’ai appris qu’en Belgique, chaque électeur·ice peut voter nominativement pour un membre d’une liste, si bien que l’ordre des élu·es peut varier et la/le Maire n’est connu·e qu’à l’issue des élections (en France, iel est élu par le conseil municipal, cependant le résultat est généralement sans surprise).
 
 J’ai appris, aussi, en discutant avec son homologue de la ville de Harrow (ville anglaise jumelée à Douai elle aussi) que la/le Maire est élu·e pour un an au sein du conseil municipal et donc renouvelé·e plusieurs fois au cours du mandat.
 
