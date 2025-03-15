@@ -93,3 +93,11 @@ Celle d’Aurélien Le Coq, de la France Insoumise, venu aux corons verts à Dor
 Celle avec les [élu-es écologistes du département du Nord](https://eelv-douaisis.fr/actualite/rencontre-avec-les-elu-es-ecologistes-du-nord) très participative et enrichissante. L’Observateur du Douaisis a rapporté le contenu de celle-ci [dans ses colonnes](https://www.lobservateur.fr/douai-verts-nord-departement-christian-poiret/).
 
 De quoi continuer de forger ma conviction qu’ensemble, les partis du Nouveau Front Populaire, pourraient bien mieux faire 😉. Pour cela, l’impulsion de la société civile sera fondamentale, notamment localement. J’ai eu l’occasion de le redire récemment à l’occasion du [rassemblement place d’Armes suite au 49.3](https://www.lobservateur.fr/douai-gouvernement-barnier-49-3-rassemblement/) engagé par Michel Barnier.
+
+---
+
+## Note rétrospective du 3 mars 2025
+
+Conformément à mes craintes, cette réunion était effectivement un indice d’un revirement stratégique afin de mieux coller à la mode sécuritaire qui s’empare de notre pays.
+
+Alors que le PS était encore au fond du trou il y a peu, victime de ses multiples trahisons, Olivier Faure fore encore, reprenant à son compte la sémantique de l’extrême droite. [Se disant](https://www.liberation.fr/politique/debat-sur-lidentite-la-gauche-ne-doit-pas-tomber-dans-le-piege-20250208_X4LHO4S6TNDTRH3CHZHILG2MMU/) « ouvert à un débat sur l’identité nationale », il a renoncé à porter les valeurs de solidarité et d’universalisme qui ont toujours distingué la gauche. Dont acte…

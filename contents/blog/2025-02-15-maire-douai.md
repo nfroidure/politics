@@ -15,7 +15,7 @@ illustration:
 
 # Qui veut être Maire de Douai ?
 
-C’est la question qui est sur toutes les lèvres à Douai ces derniers temps. Entre les rumeurs improbables lancées sur le fait que Frédéric Chéreau ne se représente pas, sur le fait que Christian Poiret veut se présenter à Douai... et les égos surdimensionnés gonflés par quelque flagornerie, difficile de dire que la société est mature pour la démocratie, ni même qu’on l’encourage à le devenir.
+C’est la question qui est sur toutes les lèvres à Douai ces derniers temps. Entre les rumeurs improbables lancées sur le fait que Frédéric Chéreau ne se représente pas, sur le fait que Christian Poiret veut se présenter à Douai… et les égos surdimensionnés gonflés par quelque flagornerie, difficile de dire que la société est mature pour la démocratie, ni même qu’on l’encourage à le devenir.
 
 En effet, **dans une démocratie fonctionnelle, avant de parler des personnes, on devrait parler des projets**.
 
@@ -23,7 +23,7 @@ En effet, **dans une démocratie fonctionnelle, avant de parler des personnes, o
 
 En France, les prérogatives associées à la fonction de Maire sont très étendues. Trop à mon avis. Pourtant, cela n’a pas toujours été le cas. Par exemple, au 13ème siècle, la ville de Douai était administrée par un collectif d’échevins (à ma connaissance uniquement des hommes).
 
-**Il y aurait bien des réformes du statut de Maire à faire pour que le système démocratique communal me convienne.** Lors d’une discussion avec la Mairesse de Seraing (ville belge jumelée avec Douai), j’ai appris qu’en Belgique, chaque électeur·ice peut voter nominativement pour un membre d’une liste, si bien que l’ordre des élu·es peut varier et la/le Maire n’est connu·e qu’à l’issue des élections (en France, iel est élu par le conseil municipal, cependant le résultat est généralement sans surprise).
+**Il y aurait bien des réformes du statut de Maire à faire pour que le système démocratique communal me convienne.** Lors d’une discussion avec la Maire de Seraing (ville belge jumelée avec Douai), j’ai appris qu’en Belgique, chaque électeur·ice peut voter nominativement pour un membre d’une liste, si bien que l’ordre des élu·es peut varier et la/le Maire n’est connu·e qu’à l’issue des élections (en France, iel est élu par le conseil municipal, cependant le résultat est généralement sans surprise).
 
 J’ai appris, aussi, en discutant avec son homologue de la ville de Harrow (ville anglaise jumelée à Douai elle aussi) que la/le Maire est élu·e pour un an au sein du conseil municipal et donc renouvelé·e plusieurs fois au cours du mandat.
 
@@ -74,7 +74,7 @@ Enfin, des "points Maire/Adjoint·es" sont organisés régulièrement.
 
 Les services de la ville sont, sur le papier, subordonnés aux décisions politiques. Dans les faits, cependant, ce sont elleux qui détiennent la compétence technique et c’est alors un mélange de confiance, d’explication et de recherche qui permettent aux élu·es de s’assurer que les politiques impulsées sont réellement mises en œuvre.
 
-Comme toute organisation, la ville décline sa politique sur le domaine du recrutement, de la gestion des ressources humaines, de la formation etc... elle bénéficie de moyens que la/le Maire peut mettre en œuvre pour s’assurer de l’implication des services.
+Comme toute organisation, la ville décline sa politique sur le domaine du recrutement, de la gestion des ressources humaines, de la formation etc… elle bénéficie de moyens que la/le Maire peut mettre en œuvre pour s’assurer de l’implication des services.
 
 Dans cet équilibre, la ou le Directeur·ice Général·e des Services (DGS) occupe un rôle central et doit être entièrement acquis à la cause politique de la majorité. C’est pourquoi, chaque changement de majorité voit le changement de la personne occupant ce rôle. De ce point de vue, la ville de Douai est une bizarrerie puisque c’est la même personne occupe actuellement cette fonction que durant le mandat de Jacques Vernier.
 
@@ -116,9 +116,9 @@ D’ailleurs le contenu du conseil municipal pourrait être repensé afin d’ê
 
 ### Des services qui fonctionnent dans la transparence
 
-Un certain nombre de démarches peuvent être mises en œuvre assez facilement comme le fait de répondre systématiquement aux demandes CADA (Commission d'Accès aux Documents Administratifs), de publier le contenu de toutes les délibérations, de ne pas supprimer l’historique des comptes rendus de conseil de quartier, de publier dès que possible la liste des subventions aux associations etc...
+Un certain nombre de démarches peuvent être mises en œuvre assez facilement comme le fait de répondre systématiquement aux demandes CADA (Commission d'Accès aux Documents Administratifs), de publier le contenu de toutes les délibérations, de ne pas supprimer l’historique des comptes rendus de conseil de quartier, de publier dès que possible la liste des subventions aux associations etc…
 
-D’autres mesures demandent plus de temps et la mise en place d’outils comme le [système de ticket ouvert décrit sur ce blog](./un-systeme-de-ticket-ouvert-pour-les-collectivites), la publication en open data de tout ce qui peut l’être : usage et inventaire des équipements (salles de réunion, de sport, des fêtes, etc...), inventaire des biens de la ville et de leur plan d’entretien/rénovation, tableau de présence des élu·es en commissions/conseils etc...
+D’autres mesures demandent plus de temps et la mise en place d’outils comme le [système de ticket ouvert décrit sur ce blog](./un-systeme-de-ticket-ouvert-pour-les-collectivites), la publication en open data de tout ce qui peut l’être : usage et inventaire des équipements (salles de réunion, de sport, des fêtes, etc…), inventaire des biens de la ville et de leur plan d’entretien/rénovation, tableau de présence des élu·es en commissions/conseils etc…
 
 La forte défiance des habitant·es envers la politique nécessite de montrer pate blanche et de mettre à disposition des citoyen·nes les éléments pour juger avec pertinence l’exercice des responsabilités qu’iels ont confié aux élu·es.
 

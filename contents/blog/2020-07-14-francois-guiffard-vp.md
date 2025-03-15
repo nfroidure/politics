@@ -58,7 +58,7 @@ Ci-dessous, la page disparue du site de campagne de François Guiffard. Disparue
 ![Capture de la page avant suppression (page 1)](/public/illustrations/capture-site-ensemble-faisons-douai-avant-supression-1.jpg)
 ![Capture de la page avant suppression (page 2)](/public/illustrations/capture-site-ensemble-faisons-douai-avant-supression-2.jpg)
 
-**Note restrospective :**
+## Note rétrospective du 14 février 2022
 
 C’est donc un poste de Vice-Président à Douaisis Agglo (2 500€ chaque mois) et la présidence de l’Office de Tourisme du Douaisis (300€ par mois) qui viennent s’ajouter aux 300€ en tant que conseiller municipal s’ajoutant à la rémunération de son activité professionnelle à laquelle ce dernier n’a, bien-entendu, pas renoncé.
 

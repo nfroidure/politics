@@ -165,7 +165,7 @@ Suite à des échanges nourris, je complète cet article de quelques questions/r
 
 *L’énergie nucléaire, c’est 63% de la production d’électricité en France en 2023. L’éolien représente un peu plus de 10%, le solaire un peu plus de 4%. Il faut donc multiplier le solaire et l’éolien par un plus plus de 4 pour compenser le nucléaire à production constante. Or il est demandé une intensification des usages électriques : véhicules électriques voire véhicules autonomes (?), remplacement des chaudières à gaz par des pompes à chaleur, etc.*
 
-C’est un fait, si nous ne faisons rien, la consommation d’électricité va augmenter dans les décennies qui viennent. Cependant, ce n’est pas une fatalité. La France peut également agir autrement que par les moyens de production, notamment grâce à la sobriété énergétique (efficience énergétique, isolation thermique et développement des transports en commun et mobilités actives...). 
+C’est un fait, si nous ne faisons rien, la consommation d’électricité va augmenter dans les décennies qui viennent. Cependant, ce n’est pas une fatalité. La France peut également agir autrement que par les moyens de production, notamment grâce à la sobriété énergétique (efficience énergétique, isolation thermique et développement des transports en commun et mobilités actives…). 
 
 En 2022, dans son [scénario nommé "M0"](https://assets.rte-france.com/prod/public/2022-02/BP50_Principaux%20re%CC%81sultats_fev2022_Chap5_scenarios%20mix%20production%20consommation.pdf), RTE (pour Réseau de Transport d’Électricité), dessine les plans d’un mix 100% renouvelable en 2050. Il n’est donc pas question de fermer toutes les centrales nucléaires françaises du jour au lendemain, nous avons 25 années pour le faire.
 
