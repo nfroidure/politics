@@ -1,23 +1,27 @@
 import React, { useEffect, useCallback, useRef, useState } from "react";
 
 export type UseOnClickOutsideHook = (
-  handler: (event: MouseEvent | TouchEvent) => void
-) => [Array<React.Ref<HTMLElement>>, Array<HTMLElement| null>];
+  handler: (event: MouseEvent | TouchEvent) => void,
+) => [Array<React.Ref<HTMLElement>>, Array<HTMLElement | null>];
 
 export default function createUseOnClickOutside(
-  nbRef = 1
+  nbRef = 1,
 ): UseOnClickOutsideHook {
   return function useOnClickOutside(
-    handler: Parameters<UseOnClickOutsideHook>[0]
+    handler: Parameters<UseOnClickOutsideHook>[0],
   ): ReturnType<UseOnClickOutsideHook> {
     const arrayNode: Array<
-      [HTMLElement | null, React.Dispatch<React.SetStateAction<HTMLElement | null>>]
+      [
+        HTMLElement | null,
+        React.Dispatch<React.SetStateAction<HTMLElement | null>>,
+      ]
+      // eslint-disable-next-line react-hooks/rules-of-hooks
     > = new Array(nbRef).fill("").map(() => useState<HTMLElement | null>(null));
-    const arrayNodeRef: Array<React.MutableRefObject<HTMLElement | null>> = new Array(
-      nbRef
-    )
-      .fill("")
-      .map((_, index) => useRef(arrayNode[index][0]));
+    const arrayNodeRef: Array<React.MutableRefObject<HTMLElement | null>> =
+      new Array(nbRef)
+        .fill("")
+        // eslint-disable-next-line react-hooks/rules-of-hooks
+        .map((_, index) => useRef(arrayNode[index][0]));
     const arrayRef: Array<(node: HTMLElement) => void> = new Array(nbRef)
       .fill("")
       .map((_, index) => {
@@ -28,6 +32,7 @@ export default function createUseOnClickOutside(
           setNode(node);
         };
 
+        // eslint-disable-next-line react-hooks/rules-of-hooks
         const ref = useCallback((node: HTMLElement | null) => {
           _setNode(node);
         }, []);

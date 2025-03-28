@@ -7,7 +7,7 @@ export default function ContentBlock({
 }: {
   children: ReactNode;
   className?: string;
-}): JSX.Element {
+}) {
   return (
     <section className={styles.root + (className ? " " + className : "")}>
       {children}

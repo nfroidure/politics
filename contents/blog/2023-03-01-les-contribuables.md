@@ -25,6 +25,7 @@ Au delà de la forme, peu engageante, d’une association dont les fondateurs so
 ## D’anciens candidats devenus apolitiques ?
 
 **Peut-on être juge et partie ?** C’est toute la question que pose la composition des membres fondateurs de cette association, tous plus ou moins impliqués (avec plus ou moins de succès) dans la politique locale :
+
 - Thierry Tesson candidat aux municipales 2020 à Douai (liste Douai Capitale),
 - Jean-Luc Frydman, candidat aux municipales 2020 (Douai Pour Tous puis Douai Capitale) puis aux législatives 2022,
 - Jacques Brenot candidat aux municipales 2020 à Douai (liste Vision d’avenir, Douai Géant),

@@ -25,6 +25,7 @@ Le fait est que je ne ressens pas le besoin de changer, une connexion ADSL 8Mb/s
 ## Un changement écologique ?
 
 Il s’avère que le passage au tout fibre pourrait bien être écologique :
+
 - elle serait, selon l’ARCEP, moins énergivore: 0.5 Watts par ligne pour la fibre contre 1.8 pour le cuivre,
 - elle serait moins onéreuse à entretenir selon les opérateurs, surtout qu’aujourd’hui, il faut entretenir les deux réseaux,
 - la plupart des réseaux cuivre étant aériens, il devrait être aisé de les démonter et de récupérer le cuivre dont le prix est plutôt élevé actuellement (7370€ la tonne).
@@ -67,7 +68,7 @@ En fait, on joue sur les mots, ce n’est plus commercialisé, mais les lignes e
 
 Perdants dans le maintien des offres fibres et cuivre simultanément, les opérateurs forcent la main des usager·es avec un service Internet qui se dégrade, j’ai pu personnellement le constater : problèmes d’obtention d’adresse IP, débit limité… À chaque fois, il est alors nécessaire de passer par le support qui, bien-sûr, en remet une couche avec une publicité pour abonnement fibre pendant l’attente…
 
-Si elle n’est pas organisée, cette dégradation est à tout le moins le résultat d’un effort minimal (voire inexistant) dans la maintenance de ces infrastructures vieillissantes. 
+Si elle n’est pas organisée, cette dégradation est à tout le moins le résultat d’un effort minimal (voire inexistant) dans la maintenance de ces infrastructures vieillissantes.
 
 ## Quelles alternatives ?
 

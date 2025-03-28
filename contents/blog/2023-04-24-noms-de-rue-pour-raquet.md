@@ -51,6 +51,7 @@ Des femmes que je ne connaissais pas mais qui gagnent à être connues : [Madel
 Et des personnalités qui ont un lien particulier avec Douai : [Virginie Demont-Breton](https://fr.wikipedia.org/wiki/Virginie_Demont-Breton), [Martha Desrumaux](https://fr.wikipedia.org/wiki/Martha_Desrumaux) et [Albertine Patin-Eidenschenk](https://www.univ-lille.fr/universite/connaitre-les-engagements-qui-nous-guident/detail-portrait/albertine-eidenschenk-patin).
 
 Le choix est difficile, mais je me suis arrêté sur :
+
 - Rosa Parks pour l’international et la lutte contre le racisme dans un territoire où le Rassemblement National gagne du terrain,
 - Gisèle Halimi pour le national et sa lutte plus que d’actualité au moment de l’inscription du droit à l’avortement dans la constitution (et petit clien-d’œil à Mélanie Vogel, sénatrice écologiste qui a porté avec d’autres cette inscription),
 - Martha Desrumaux qui fût, entre autre, syndicaliste, en echo à [la réforme des retraites](./reforme-des-retraites-2023) (une rue des casseroles serait bienvenue…),

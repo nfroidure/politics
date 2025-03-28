@@ -9,7 +9,7 @@ export function useGridScroll(level: "grid" | "rhythm") {
   const vRhythmRatio = useCSSVar(
     "number",
     "--vRhythmRatio",
-    DEFAULT_V_RHYTHM_RATIO
+    DEFAULT_V_RHYTHM_RATIO,
   );
 
   useEffect(() => {

@@ -13,8 +13,8 @@ export default Page;
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
-    )
+      pathJoin(".", "contents", "blog"),
+    ),
   );
   const { title, description } = await generateMetadata({});
 
@@ -27,7 +27,7 @@ export async function generateStaticParams() {
       title: title as string,
       description: description as string,
     },
-    "/blog"
+    "/blog",
   );
 
   const paths = new Array(baseListingMetadata.pagesCount)

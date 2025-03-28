@@ -39,7 +39,7 @@ export async function generateMetadata() {
 export default async function Page() {
   const entries = (
     await readEntries<FAQItemFrontmatterMetadata>(
-      pathJoin(".", "contents", "faq")
+      pathJoin(".", "contents", "faq"),
     )
   )
     .map((entry) => ({
@@ -70,8 +70,8 @@ export default async function Page() {
         lien vers celles-ci à la suite des commentaires sur les réseaux sociaux.
       </Paragraph>
       <Paragraph>
-        Ces questions pourront parfois vous paraitre farfelues, je n'en suis pas
-        l'auteur, seules les réponses sont de mon fait.
+        Ces questions pourront parfois vous paraitre farfelues, je n’en suis pas
+        l’auteur, seules les réponses sont de mon fait.
       </Paragraph>
       <Paragraph>
         Une manière simple, d’illustrer mon approche bienveillante envers nos

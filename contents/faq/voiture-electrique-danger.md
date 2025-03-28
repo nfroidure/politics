@@ -9,6 +9,7 @@ Sur les réseaux sociaux, de nombreuses personnes dénoncent la dangerosité des
 La réalité est toute autre selon cet [assureur américain](https://www.autoinsuranceez.com/gas-vs-electric-car-fires/) : **un véhicule électrique a 60 fois moins de chances de prendre feu** qu'un diesel/essence.
 
 À cela plusieurs raisons :
+
 - il n'y a aucune partie mécanique dans une batterie ce qui limite les risques,
 - les courbes de charge / décharge permettent de détecter les défauts plus efficacement que les problèmes de combustion,
 - le processus industriel de fabrication des batteries est très rôdé est contrôlé : nous avons quasiment toutes et tous une batterie sur nous en permanence dans notre téléphone.

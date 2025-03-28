@@ -3,7 +3,7 @@ import { pathJoin, readDir, readFile } from "./files";
 import type { FrontMatterResult } from "front-matter";
 
 export async function readEntry<T>(
-  filePath: string
+  filePath: string,
 ): Promise<FrontMatterResult<T>> {
   const content = await readFile(filePath);
 
@@ -11,11 +11,11 @@ export async function readEntry<T>(
 }
 
 export async function readEntries<T>(
-  dirPath: string
+  dirPath: string,
 ): Promise<FrontMatterResult<T>[]> {
   const files = await readDir(dirPath);
 
   return await Promise.all(
-    files.map((file) => readEntry<T>(pathJoin(dirPath, file)))
+    files.map((file) => readEntry<T>(pathJoin(dirPath, file))),
   );
 }

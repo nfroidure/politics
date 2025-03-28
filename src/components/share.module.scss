@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 span.icon {
   display: inline-block;
@@ -9,10 +9,12 @@ span.icon {
   mask-size: calc(var(--vRhythm) * 0.6);
   -webkit-mask-size: calc(var(--vRhythm) * 0.6);
   mask-position: left bottom;
-  mask-image: url("/images/icons/mail.svg");
 }
 span.icon.facebook {
   mask-image: url("/images/icons/facebook.svg");
+}
+span.icon.bluesky {
+  mask-image: url("/images/icons/bluesky.svg");
 }
 span.icon.mail {
   mask-image: url("/images/icons/mail.svg");

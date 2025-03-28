@@ -46,9 +46,7 @@ export default async function buildMetadata({
         : {
             ...image,
             url:
-              ASSET_PREFIX +
-              (image.url.startsWith("/") ? "" : "/") +
-              image.url,
+              ASSET_PREFIX + (image.url.startsWith("/") ? "" : "/") + image.url,
           }
       : {
           alt: "Bannière du site",

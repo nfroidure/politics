@@ -75,7 +75,7 @@ export default function Menu() {
           <Button
             type="link"
             href={`mailto:${ORGANISATION_CONTACT}?subject=Abonnement&body=${encodeURIComponent(
-              "Je souhaite m’abonner à votre lettre d’information."
+              "Je souhaite m’abonner à votre lettre d’information.",
             )}`}
             label="S’inscrire"
             icon="mail"

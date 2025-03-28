@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .entries .entry_title {
   margin-top: 0 !important;
@@ -24,7 +24,7 @@
   padding: var(--vRhythm) 0 0 0;
 }
 
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
   .clear {
     clear: left;
   }

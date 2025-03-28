@@ -17,9 +17,9 @@ export default function BlogEntries({
       <Heading1>Blog</Heading1>
       <Paragraph>
         Retrouvez mes billets politiques sur cette page. Les propos que je tiens
-        sur ce blog ne sont pas le reflet des positions prises par Europe
-        Écologie-Les Verts, ni celles du groupe local du Douaisis et n'engagent
-        que moi.
+        sur ce blog ne sont pas le reflet des positions prises par Les
+        Écologistes, ni celles du groupe local du Douaisis et n’engagent que
+        moi.
       </Paragraph>
 
       <Items entries={entries} base={"/blog/"} />

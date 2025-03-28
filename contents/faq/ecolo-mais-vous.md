@@ -5,6 +5,7 @@ draft: false
 ---
 
 L’argument frappant régulièrement utilisé est le “Vous dîtes que vous êtes écolo mais vous…”, suivi, au choix, de :
+
 - mangez de la viande,
 - travaillez dans le numérique,
 - avez été vu au supermarché,

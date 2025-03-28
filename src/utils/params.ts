@@ -27,7 +27,7 @@ export type BuildQueryParamsType<T extends QueryParamDefinition> = {
     : QueryParamCastedTypes[T[P]["type"]];
 };
 type ParamStringifyer = (
-  queryValue: undefined | QueryParamType
+  queryValue: undefined | QueryParamType,
 ) => string | undefined;
 
 const QUERY_PARAMS_TYPE_CASTERS: Record<
@@ -49,8 +49,8 @@ const QUERY_PARAMS_TYPE_STRINGIFYERS: Record<QueryParamType, ParamStringifyer> =
       typeof queryValue === "undefined"
         ? undefined
         : queryValue === true
-        ? "true"
-        : "false") as unknown as ParamStringifyer,
+          ? "true"
+          : "false") as unknown as ParamStringifyer,
     string: (queryValue: string | undefined): string | undefined =>
       typeof queryValue === "string" ? queryValue : undefined,
     number: ((queryValue: number | undefined): string | undefined =>
@@ -61,22 +61,22 @@ const QUERY_PARAMS_TYPE_STRINGIFYERS: Record<QueryParamType, ParamStringifyer> =
 
 export function readParams<T extends CastedQueryParams>(
   definitions: QueryParamDefinition,
-  query: NextRouter["query"]
+  query: NextRouter["query"],
 ): T {
   return Object.keys(definitions).reduce((castedQuery, definitionName) => {
     const values: string[] =
       typeof query[definitionName] === "undefined"
         ? []
         : typeof query[definitionName] === "string"
-        ? [query[definitionName] as string]
-        : (query[definitionName] as string[]);
+          ? [query[definitionName] as string]
+          : (query[definitionName] as string[]);
     let castedValue: CastedQueryParam | undefined;
 
     if (definitions[definitionName].mode === "collection") {
       castedValue = values
         .map(QUERY_PARAMS_TYPE_CASTERS[definitions[definitionName].type])
         .filter(
-          (value) => typeof value !== "undefined"
+          (value) => typeof value !== "undefined",
         ) as CastedQueryParamCollection;
 
       if (castedValue.length !== values.length) {
@@ -84,7 +84,7 @@ export function readParams<T extends CastedQueryParams>(
       }
     } else {
       castedValue = QUERY_PARAMS_TYPE_CASTERS[definitions[definitionName].type](
-        values.length === 1 ? values[0] : undefined
+        values.length === 1 ? values[0] : undefined,
       );
 
       if (values.length && typeof castedValue === "undefined") {
@@ -106,14 +106,14 @@ export function readParams<T extends CastedQueryParams>(
 export function buildPath<T extends CastedQueryParams>(
   definitions: QueryParamDefinition,
   router: Pick<NextRouter, "basePath" | "pathname" | "query">,
-  addedParams: Partial<T>
+  addedParams: Partial<T>,
 ): string {
   const currentParams: CastedQueryParams = readParams(
     definitions,
-    router.query
+    router.query,
   );
   const parts = Array.from(
-    new Set([...Object.keys(addedParams), ...Object.keys(currentParams)])
+    new Set([...Object.keys(addedParams), ...Object.keys(currentParams)]),
   )
     .sort()
     .reduce((parts: string[], paramKey) => {
@@ -132,10 +132,10 @@ export function buildPath<T extends CastedQueryParams>(
             ).map<string>(
               (castedValue: CastedQueryParamItem): string =>
                 QUERY_PARAMS_TYPE_STRINGIFYERS[definition.type](
-                  castedValue as QueryParamType
-                ) as string
+                  castedValue as QueryParamType,
+                ) as string,
             ),
-          ])
+          ]),
         );
       } else {
         const actualValue =
@@ -147,7 +147,7 @@ export function buildPath<T extends CastedQueryParams>(
           typeof actualValue !== "undefined"
             ? [
                 QUERY_PARAMS_TYPE_STRINGIFYERS[definition.type](
-                  actualValue as QueryParamType
+                  actualValue as QueryParamType,
                 ) as string,
               ]
             : [];
@@ -155,7 +155,7 @@ export function buildPath<T extends CastedQueryParams>(
       return [
         ...parts,
         ...addedParts.map(
-          (value) => paramKey + "=" + encodeURIComponent(value)
+          (value) => paramKey + "=" + encodeURIComponent(value),
         ),
       ];
     }, [] as string[]);

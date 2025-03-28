@@ -23,6 +23,7 @@ illustration:
 Plusieurs militant·es ont exprimé récemment dans une tribune leur souhait de transcender EÉLV pour créer un nouveau parti autour du pôle écologiste.
 
 Regrouper les forces écologistes me semble être une excellente idée mais il y a de nombreux points d’attention à surveiller de très près :
+
 - la démocratie interne : EÉLV est un parti bénéficiant de statuts et d’un règlement intérieur très clairs, centrés autour de la subsidiarité et la démocratie interne. Je suis profondément attaché à ce mode de fonctionnement qui est une des raisons pour lesquelles j’ai rejoint ce parti. Qui dit nouvelle instance dit nouveaux statuts et ces déclarations de bonnes intentions ne disent rien des modalités de constitution de ces derniers ni de leur contenu ;
 - l’organisation du parti et surtout ses outils : j’ai eu l’occasion de [parler des outils numériques d’EÉLV](./quels-outils-numeriques-pour-eelv) et de la nécessité de les refondre pour améliorer l’efficacité du parti, son inclusivité et sa démocratie interne : c’est clairement une opportunité pour bien faire, mais le risque est de faire cela dans la précipitation sans faire un diagnostic précis de chaque SI pour ne garder que le meilleur, le plus viable à long terme. Voir de partir sur de nouvelles bases plus saines.
 
@@ -37,6 +38,7 @@ Il faut bien sûr considérer nos partenaires potentiels pour la suite. EÉLV n�
 Je suis, en revanche, toujours [favorable à l’union](./l-union-pour-quoi-faire) quand elle a du sens, quand elle est équilibrée. C’est donc toute la question des années à venir : déterminer les scrutins pour lesquels l’union maximise la possibilité de mettre en œuvre une politique écologique.
 
 Cela dépend donc :
+
 - de la nature du scrutin : aux européennes, il est inutile de faire liste commune puisque [c’est un scrutin proportionnel](https://fr.wikipedia.org/wiki/%C3%89lections_du_Parlement_europ%C3%A9en),
 - de la nature des partenaires : leur propension à accepter d’intégrer des mesures écologiques au programme commun, puis, à les respecter. En cas de leadership d’une formation, sa capacité à respecter ses partenaires… les scrutins municipaux, présidentiels et législatifs s’y prêtent certainement,
 - de l’attrait des propositions portées par chaque formation : il va de soi que le poids de chaque formation dans les urnes doit être pris en compte lors des unions pour que chaque formation puisse obtenir la juste représentation qu’elle mérite aux yeux des électeurices.
@@ -46,6 +48,7 @@ Il serait facile de qualifier tout cela de tambouille électorale, mais ceci est
 C’est pour cette raison que l’union des gauches est nécessairement tactique puisqu’il s’agit d’établir un socle de changements commun entre chaque formation, de négocier les termes des désaccords et d’en faire enfin une politique globalement cohérente pour éviter qu’elle ne soit plus qu’un patchwork d’idée sans ligne directrice.
 
 Tout ceci ne peut plus se faire dans la désorganisation la plus totale, au dernier moment, comme cela a pu être le cas pour la NUPES. Il faut un cadre solide qui garantisse plusieurs points cruciaux :
+
 - la prise en compte des aspirations des citoyen·nes : car c’est bien notre responsabilité d’offrir aux citoyen·nes la politique qu’iels souhaitent,
 - la consultation des militant·es de terrain : car ce sont elleux qui au final font le travail qui permet la victoire,
 - la prise en compte du contexte local : tous les territoires se sont pas équivalentes,

@@ -80,6 +80,7 @@ C’est le sens de ce texte : la **conquête d’une nouvelle représentation p
 #### Une dynamique à ré-enclencher
 
 Notre groupe local, après une phase de croissance se sclérose. Nous devons susciter de nouvelles adhésions et pour ce faire, nous proposons de mettre en œuvre les actions suivantes :
+
 - remise en place de la lettre aux adhérent·es et sympathisant·es
 - ré-ouverture de la plupart des réunions aux sympathisant·es
 - mis en place de cafés débats (avec tractage et affichage préalable)
@@ -132,10 +133,12 @@ Bien-sûr, ces objectifs stratégiques seront pondérés par les forces vives de
 Avant le printemps, un calendrier sera établi pour l’année 2023 et des jalons pour toute la durée du mandat.
 
 Les pierres angulaires de ce calendrier seront, pour toutes les communes :
+
 - phase d’analyse stratégique, de prise de contact et de consultation des habitant·es (jusque janvier 2024)
 - phase de constitution de groupes et d’un calendrier (2025)
 
 Pour Douai spécifiquement :
+
 - phase programmatique et bilan, construction de nos demandes/exigences en matière programmatique, de gouvernance (2024),
 - phase d’introspection et de discussion autour de ce bilan avec nos partenaires, les sympathisant·es de notre mouvement et négociation de changements si nécessaire (2025).
 

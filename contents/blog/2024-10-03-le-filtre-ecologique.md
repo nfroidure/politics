@@ -61,6 +61,7 @@ Via ce bref aperçu, on peut mesurer les convergences possibles. Mais encore fau
 ## Ce qui ne passe pas
 
 Le filtre écologique ne permet pas à certaines mesures de passer. Dans le Douaisis, les suivantes n’auraient jamais vu le jour :
+
 - stades synthétiques (j’ai développé les raisons dans mon [article sur le stade synthétique de Douai](./douai-les-terrains-synthetiques-en-question)),
 - les projets routier (dans le Douaisis la [RD500](#) ou l’[échangeur de Lambres-lez-Douai](./echangeur-de-lambres-contribution-et-reflexions)) : il faut un moratoire sur la création de nouvelles routes de toute urgence,
 - les entrepôts logistiques sur des terres agricoles ou de nature ([comme récemment Primelog](./zac-barrois-a-pecquencourt-non-a-primelog)) ou les nouvelles ZAC (le Carrefour Market de Sin-le-Noble),
@@ -70,15 +71,17 @@ Le filtre écologique ne permet pas à certaines mesures de passer. Dans le Doua
 ## Ce qui passe mais autrement
 
 Certains projet de l’agglomération ne sont pas mauvais en soi, mais mal exécutés :
+
 - la ligne B permet de développer les transports en commun, mais [a rogné sur la cyclabilité](./ligne-b-du-bhns-et-le-velo) plutôt que sur le stationnement,
 - la [passerelle d’Euradouai](./euradouai-contribution-a-l-enquete-publique) part d’un bon sentiment, mais ne prévoit de cyclabilité et ne dessert pas les voies,
-- les équipements sportifs ne sont pas tabous dans une politique écologique, mais ils doivent intégrer les contraintes de la transition écologiques : infiltration, espace de nature, réduction des déplacements etc… 
+- les équipements sportifs ne sont pas tabous dans une politique écologique, mais ils doivent intégrer les contraintes de la transition écologiques : infiltration, espace de nature, réduction des déplacements etc…
 
 Les grands projets qui passent au filtre de la transition écologiques sont moins nombreux, mais plus qualitatifs. Une passerelle cyclable et desservant les voies sans boulodrome géant au Raquet, c’est possible et plus utile à budget constant.
 
 ## À faire à la place
 
 Mais faire la transition écologique c’est aussi d’autres projets, autrement plus essentiels :
+
 - un réseau cyclable dense et sécurisé, pas uniquement orienté vers le tourisme, mais aussi pour la vie quotidienne. À ce titre, rendre chaque pont de l’agglomération adéquat pour la pratique du vélo représente un budget conséquent (1M€ selon Claude Hégo rien que pour le pont de Cambrai),
 - le développement de l’agriculture biologique et la création de filières de transformation/distribution : la conserverie communautaire ou encore le [développement de la consigne](./une-consigne-communale-a-douai),
 - le développement de filières économiques écoresponsables : coopératives, industrie verte, artisanat…

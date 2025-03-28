@@ -33,6 +33,7 @@ Sachant qu’au premier tour, [le RN faisait déjà plus de 12.5% des inscrit·e
 ## Faire face au risque RN
 
 On le voit, et c’est un crève cœur, le RN est en position de remporter les deux circonscriptions du Douaisis. Dans ce contexte, quelques points me semblent importants :
+
 - **aller au contact :** nous devons absolument nous rapprocher au maximum des gens à l’image de notre campagne où nous sommes allé·es dans des territoires de conquête électorale, parfois largement favorables au RN. J’ai d’ores et déjà pris des contacts pour des réunions publiques dans ces communes car j’ai la conviction qu’il faut écouter nos concitoyen·nes plutôt que de leur asséner des discours descendants et moralisateurs,
 - **effectuer une campagne républicaine :** nous ne devons pas manquer à nos devoirs républicains et effectuer une campagne de débats contradictoires sur des sujets de fond. J’espère de tout cœur que les candidatures retenues en cas d’accord à gauche seront celles qui permettront de nourrir le débat dans le respect des interlocuteurices et de leur diversité d’opinion. Évitons donc les retournements de veste qui ont tendance, au mieux, à dégoûter les électeurices de s’intéresser à la politique, au pire, à les pousser au vote contestataire.
 - **ne pas attendre le second tour pour faire barrage :** dans cette campagne législative, la lutte contre le RN doit commencer dès le premier tour en sillonnant les communes où ses scores sont les plus élevés. Une semaine pour lutter contre les extrêmes, c’est trop court. C’est toute l’année, voire tout un mandat que cela doit avoir lieu. L’exemple de Marine Tondelier nous trace la voie et donne à voir ce que cela signifie que d’avoir des élu·es RN. Il faut nous en prémunir de toutes nos forces.
@@ -49,7 +50,6 @@ Bien-sûr, aucune intervention féminine, non plus. Bref, un républicanisme de 
 
 ## Le plagiat pour couronner le tout
 
-
 ![Photo affiches EÉLV](/public/illustrations/affiches-eelv.jpg "🖼⬅️▮")
 
 Le lendemain, nous apprenions via la Voix Du Nord que des parties substancielles du discours de Dimitri Houbron n’étaient en fait qu’[un plagiat de diverses coupures de presses](https://www.lavoixdunord.fr/1171973/article/2022-04-27/douai-des-extraits-particulierement-inspires-dans-le-discours-du-depute-dimitri)… À la lecture de cet article, on apprend que c’est bien-sûr de la faute du collaborateur parlementaire (on a pas idée d’écrire ses discours soi-même…). Et notre député de se plaindre que pointer ce plagiat "fasse le jeu des extrêmes". Se dédouaner d’un manque d’exemplarité sous couvert du risque RN n’est pas de nature à enrichir le débat.
@@ -59,5 +59,6 @@ Le jeu des extrêmes, c’est bien entendu la majorité présidentielle qui l’
 Bref, pour ces législatives, évitons d’affliger plus encore les habitant·es du Douaisis. De mon côté, je compte bien continuer à peser pour l’exemplarité en politique.
 
 **Sources :**
+
 - [Données du Gouvernement 2022](https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-10-et-24-avril-2022-resultats-du-second-tour/)
 - [Données du Gouvernement 2017](https://www.data.gouv.fr/fr/datasets/election-presidentielle-des-23-avril-et-7-mai-2017-resultats-du-2eme-tour-1/)

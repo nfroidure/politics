@@ -9,7 +9,7 @@ import {
   MASTODON_SERVER,
 } from "../utils/constants";
 
-export default function Social(): JSX.Element {
+export default function Social() {
   return (
     <nav className={styles.root}>
       <ul>

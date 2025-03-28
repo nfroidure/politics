@@ -42,7 +42,7 @@ L’éthique dans le numérique, c’est aussi faire preuve d’inclusivité : 
 
 Et enfin, la conception même de ces services/interfaces se doit d’être éthique, exit donc les solutions biaisées à base de [dark patterns](https://fr.wikipedia.org/wiki/Dark_pattern), exit, d’une certaine manière, l’intelligence artificielle à base de réseaux de neurone dont l’explicabilité est relative à ce jour.
 
-Les interfaces des logiciels restreignent les actions possibles dans les interactions entre ses utilisateurices. Il est donc nécessaire que ces restrictions soient transparentes et décidées de façon démocratique. 
+Les interfaces des logiciels restreignent les actions possibles dans les interactions entre ses utilisateurices. Il est donc nécessaire que ces restrictions soient transparentes et décidées de façon démocratique.
 
 Bref, c’est loin d’être simple, et nous ne parlons ici que d’éthique. Ajoutons maintenant à cela les limites planétaires.
 

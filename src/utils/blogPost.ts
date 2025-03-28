@@ -34,7 +34,7 @@ export type BlogPost = {
 
 export const POSTS_PER_PAGE = 10;
 export const entriesToBaseListingMetadata = (
-  baseEntries: FrontMatterResult<BlogPostFrontmatterMetadata>[]
+  baseEntries: FrontMatterResult<BlogPostFrontmatterMetadata>[],
 ): BaseListingPageMetadata<BlogPost> => {
   const entries = baseEntries
     .map<BlogPost>((entry) => ({

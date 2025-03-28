@@ -25,7 +25,7 @@ D’ores et déjà, ce sont des centaines de mort·es et blessé·es provoqués 
 
 Face à cette agression, notre solidarité doit être sans faille. Non, l’Ukraine n’est pas une zone tampon ! **C’est un État démocratique autodéterminé, un lieu de vie où des femmes et des hommes aspirent simplement à la liberté et à la paix.**
 
-Aujourd’hui, elles et ils sont contraint·es de fuir ou de prendre les armes.  Ce n’est pas acceptable. Elle et ils se trouvent confronté·es à la réalité concrète et brutale que le totalitarisme provoque rappelant les heures les plus sombres de notre Histoire.
+Aujourd’hui, elles et ils sont contraint·es de fuir ou de prendre les armes. Ce n’est pas acceptable. Elle et ils se trouvent confronté·es à la réalité concrète et brutale que le totalitarisme provoque rappelant les heures les plus sombres de notre Histoire.
 
 Je souhaite une **condamnation ferme et unanime du régime totalitaire qui gouverne la Russie**, par toutes les formations politiques, et dans la durée, pour protéger les démocraties des discours insidieux et complaisants qui forment le terreau des extrêmes.
 

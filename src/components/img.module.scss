@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .root {
   clear: both;
@@ -27,7 +27,7 @@
         orientation and build boxes that respect the
         vertical rythm and horizontal dimensions of the
         layout avoiding layout shifting */
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
   .root.left {
     float: left;
     margin: 0 var(--gutter) var(--vRhythm) 0;

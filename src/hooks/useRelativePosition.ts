@@ -55,7 +55,7 @@ export type AbsolutePosition =
 export type UseRelativePositionHook = [
   (node: HTMLElement) => void,
   (node: HTMLElement) => void,
-  [AbsolutePosition, RelativePosition | "none"]
+  [AbsolutePosition, RelativePosition | "none"],
 ];
 
 //find the closest scrollable parent of the element
@@ -66,14 +66,14 @@ const scroll = (node: Element) =>
   regex.test(
     style(node, "overflow") +
       style(node, "overflow-y") +
-      style(node, "overflow-x")
+      style(node, "overflow-x"),
   );
 const getScrollParent = (node: Element): Element | null =>
   !node || node === document.body
     ? document.body
     : scroll(node)
-    ? node
-    : getScrollParent(node.parentNode as Element);
+      ? node
+      : getScrollParent(node.parentNode as Element);
 
 export default function useRelativePosition(
   {
@@ -83,15 +83,15 @@ export default function useRelativePosition(
     allowedPositions?: RelativePosition[];
     spacing: number;
   },
-  deps: Parameters<typeof useEffect>[1] = []
+  deps: Parameters<typeof useEffect>[1] = [],
 ): UseRelativePositionHook {
   const [baseElementRef, baseElementDimensions, baseNode] = useDimensions(
     { liveMeasure: true },
-    deps
+    deps,
   );
   const [popinElementRef, popinElementDimensions, popinNode] = useDimensions(
     { liveMeasure: true },
-    [...deps, baseElementDimensions]
+    [...deps, baseElementDimensions],
   );
   const [state, setState] = useState<
     [AbsolutePosition, RelativePosition | "none"]
@@ -115,11 +115,11 @@ export default function useRelativePosition(
       !allowedPositions?.some((allowedPosition) => {
         const baseAnchorTranslation = computeAnchorTranslation(
           baseElementDimensions,
-          allowedPosition.base
+          allowedPosition.base,
         );
         const popinAnchorTranslation = computeAnchorTranslation(
           popinElementDimensions,
-          allowedPosition.popin
+          allowedPosition.popin,
         );
         let verticalPosition: VerticalPosition;
         let horizontalPosition: HorizontalPosition;
@@ -249,7 +249,7 @@ export default function useRelativePosition(
 
 export function computeAnchorPoint(
   dimensions: DimensionObject,
-  anchor: ElementAnchor
+  anchor: ElementAnchor,
 ): Position {
   const translation = computeAnchorTranslation(dimensions, anchor);
 
@@ -260,7 +260,7 @@ export function computeAnchorPoint(
 }
 export function computeAnchorTranslation(
   dimensions: DimensionObject,
-  anchor: ElementAnchor
+  anchor: ElementAnchor,
 ): Position {
   let x: number;
 

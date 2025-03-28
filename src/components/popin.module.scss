@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .popin {
   position: fixed;
@@ -29,7 +29,7 @@
   min-height: var(--vRhythm);
   border-radius: var(--borderRadius);
 }
-@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+@media screen and (max-width: variables.$CSS_BREAKPOINT_END_S) {
   .popin {
     padding: 0;
     justify-content: stretch;
@@ -40,7 +40,7 @@
     height: 100%;
   }
 }
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
   .content {
     width: calc(calc(var(--block) * 2) + calc(var(--gutter) * 3));
     padding: var(--vRhythm) calc(var(--gutter) * 2);

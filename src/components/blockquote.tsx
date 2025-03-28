@@ -8,10 +8,12 @@ export default function Blockquote({
 }: {
   children: ReactNode;
 } & BlockquoteHTMLAttributes<HTMLElement>) {
-  return <blockquote
-    className={styles.root + (className ? " " + className : "")}
-    {...props}
-  >
-    {children}
-  </blockquote>;
+  return (
+    <blockquote
+      className={styles.root + (className ? " " + className : "")}
+      {...props}
+    >
+      {children}
+    </blockquote>
+  );
 }

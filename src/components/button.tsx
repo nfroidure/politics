@@ -2,7 +2,7 @@ import styles from "./button.module.scss";
 import Link from "next/link";
 import { prefix } from "inline-style-prefixer";
 import type { LinkProps } from "next/link";
-import type { ButtonHTMLAttributes } from "react";
+import type { ButtonHTMLAttributes, ReactNode } from "react";
 
 export const ICONS = [
   "arrow-down",
@@ -45,7 +45,7 @@ export default function Button({
   | ({ type: "button" } & BaseProps &
       Omit<ButtonHTMLAttributes<HTMLButtonElement>, "type">)
   | ({ type: "submit" } & BaseProps &
-      Omit<ButtonHTMLAttributes<HTMLButtonElement>, "type">)): JSX.Element {
+      Omit<ButtonHTMLAttributes<HTMLButtonElement>, "type">)): ReactNode {
   return (
     <span
       className={[

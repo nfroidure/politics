@@ -28,17 +28,17 @@ export default function ProvideGridContext({
   const vRhythmRatio = useCSSVar(
     "number",
     "--vRhythmRatio",
-    DEFAULT_V_RHYTHM_RATIO
+    DEFAULT_V_RHYTHM_RATIO,
   );
   const gutterRatio = useCSSVar(
     "number",
     "--gutterRatio",
-    DEFAULT_COLUMN_RATIO
+    DEFAULT_COLUMN_RATIO,
   );
   const columnRatio = useCSSVar(
     "number",
     "--columnRatio",
-    DEFAULT_GUTTER_RATIO
+    DEFAULT_GUTTER_RATIO,
   );
 
   return (

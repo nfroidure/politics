@@ -25,6 +25,7 @@ illustration:
 Le projet de RD 500 a fait l’objet de nombreux articles sur les diverses oppositions que ce soit au niveau du département ou de notre agglomération, principalement par des élu⋅es écologistes.
 
 Petite revue de presse :
+
 - [Douaisis : Le doublement des voies de la RD 500 ne fait pas l’unanimité](https://www.lobservateur.fr/douaisis-le-doublement-des-voies-de-la-rd-500-ne-fait-pas-lunanimite/)
 - [Doublement de la rocade est de Douai: une mauvaise solution pour les élus écolos de l’Agglo](https://www.lavoixdunord.fr/1272543/article/2022-12-30/doublement-de-la-rocade-est-de-douai-une-mauvaise-solution-pour-les-elus-ecolos)
 - [Dechy/Sin-le-Noble : les écolos opposés à la rocade Est en 2×2 voies](https://www.lobservateur.fr/dechy-sin-le-noble-les-ecolos-opposes-a-la-rocade-est-en-2x2-voies/)
@@ -38,6 +39,7 @@ La RD 500, encore appelée Rocade Est de Douai, assure la liaison entre la RD 64
 Cet axe supporte un trafic élevé : la campagne de comptages d’octobre 2008 a permis d’évaluer le trafic moyen journalier sur le RD 500 à 22 000 véhicules, dont 9.3% de poids lourds, pour le secteur entre l’A21 et la RD58 et à 24 500 véhicules pour le secteur de la ZA du Luc. La récente étude de trafic menée sur le territoire de Douaisis Agglo (cofinancée par Douaisis Agglo et le Département) par le bureau d’études ABTOO a notamment démontré la nécessité de doubler cette route départementale.
 
 Les objectifs de ce projet actuellement en étude par le Département du Nord qui en est maître d’ouvrage sont :
+
 1. de résorber la congestion de la RD 500,
 2. de desservir au mieux le centre hospitalier et le Parc du Luc, le secteur des Epis et sa zone commerciale ainsi que l’Écoquartier du Douaisis,
 3. de sécuriser l’itinéraire,
@@ -49,6 +51,7 @@ Le scénario préférentiel est celui d’un doublement à l’est entre l’A21
 Les études d’opportunité et de faisabilité ont débuté en mars 2021 pour alimenter la concertation qui sera lancée par le Département du Nord en début d’année 2023.
 
 Après cette concertation, le planning prévisionnel prévu à ce stade est le suivant :
+
 1. Etudes Maîtrise d’œuvre & réglementaires : 2023/2024
 2. Enquêtes Publiques : 2024
 3. Lancement Appels d’Offres Travaux : 2025
@@ -59,12 +62,13 @@ Le coût des travaux est estimé par le Département du Nord à 40 millions d’
 Ce projet représente un intérêt stratégique pour Douaisis Agglo, en ce qu’il améliore la desserte du Parc du Luc et de l’Écoquartier du Douaisis et intègre le développement de liaisons douces aux abords de son tracé. C’est la raison pour laquelle le Département a sollicité la participation financière de Douaisis Agglo à hauteur de 8 millions d’euros
 
 Aussi, il vous est proposé, après avis favorable du bureau :
+
 - d’approuver le principe de la participation financière de Douaisis Agglo au projet de requalification de la
-RD 500,
+  RD 500,
 - d’approuver le versement d’un fonds de concours de 8 millions d’euros au Département du Nord dans le
-cadre de la réalisation de cette opération,
+  cadre de la réalisation de cette opération,
 - d’autoriser le président ou son délégué à signer une convention de fonds de concours précisant les
-modalités de son versement.
+  modalités de son versement.
 
 ### Discussion
 
@@ -91,13 +95,13 @@ En réalité il s’agirait éventuellement d’un doublement dans le sens vers 
 
 J’aurais également pu aborder le questionnement autour du simple fait de pouvoir mettre son carburant dans la voiture, qu’il soit sur un moteur thermique, ou de pouvoir financer l’électricité pour recharger les batteries. On sent aujourd’hui qu’on est face à une véritable crise énergétique, nous ne sommes clairement pas sûr qu’il convienne d’entretenir ce modèle de déplacement individuel avec des voitures particulières. Nous pensons qu’il serait plus intéressant d’orienter les budgets vers la favorisation des transports en commun, et le covoiturage également, l’autopartage, ce genre de choses, mais en tout cas pas la voiture individuelle. Ce doublement de voie a clairement vocation ici à servir le modèle de la voiture individuelle en premier lieu, et l’aménagement du territoire en périphérie.
 
-Je vais jusqu’à proposer au-delà de notre vote, une possibilité de mise en place d’une commission de suivi, sur ce projet, et histoire de pouvoir suivre les évolutions, les impacts, et avoir des indicateurs sur les décisions qui seront prises en matière d’aménagement et sur leurs impacts sur le territoire, en matière d’aménagement, de fréquentation, mais également pensons-y, en matière d’indicateur de santé et de pollution générée. Je vous remercie. 
+Je vais jusqu’à proposer au-delà de notre vote, une possibilité de mise en place d’une commission de suivi, sur ce projet, et histoire de pouvoir suivre les évolutions, les impacts, et avoir des indicateurs sur les décisions qui seront prises en matière d’aménagement et sur leurs impacts sur le territoire, en matière d’aménagement, de fréquentation, mais également pensons-y, en matière d’indicateur de santé et de pollution générée. Je vous remercie.
 
-**- M. LEROY :** Sur la délibération il y a 5 objectifs recensés, éventuellement est-ce qu’on pourrait en rajouter un 6ème ? Ça concerne les convois exceptionnels. Ce n’est pas évoqué dans cette délibération, il y a un maximum de convois  exceptionnels, pas des plus hauts car ça engendrerait des travaux au niveau des ponts, mais tout au moins des convois exceptionnels supérieurs à 3 mètres, la limite actuelle sur cet axe, et en même temps ça permettrait de désengorger un peu, si on faisait passer ces convois sur la RD500, la rue de Cambrai et la rue de Tournai, car tous ces convois exceptionnels se dirigent par là, alors qu’on pourrait éventuellement les faire passer sur la RD500. C’est simplement une suggestion sur la délib.
+**- M. LEROY :** Sur la délibération il y a 5 objectifs recensés, éventuellement est-ce qu’on pourrait en rajouter un 6ème ? Ça concerne les convois exceptionnels. Ce n’est pas évoqué dans cette délibération, il y a un maximum de convois exceptionnels, pas des plus hauts car ça engendrerait des travaux au niveau des ponts, mais tout au moins des convois exceptionnels supérieurs à 3 mètres, la limite actuelle sur cet axe, et en même temps ça permettrait de désengorger un peu, si on faisait passer ces convois sur la RD500, la rue de Cambrai et la rue de Tournai, car tous ces convois exceptionnels se dirigent par là, alors qu’on pourrait éventuellement les faire passer sur la RD500. C’est simplement une suggestion sur la délib.
 
 **- M. VANDEVILLE :** En quelques points, après je laisserai la parole aux intervenants qui veulent prendre la parole, quand on parle ici de Douaisis, on a aussi une possibilité de rentrer dans Douai qui est quand même améliorée, car la circulation est extrêmement compliquée, donc Douai a aussi intérêt à avoir ce doublement de voie. Ensuite quand j’entends parler de transport en commun, je pense que notre agglomération n’a pas à se justifier là-dessus quand on a mis en place la gratuité, c’est quand même un coût important pour notre collectivité, donc nous agissons sur le transport en commun sur ce mode de transport en collectivités. D’autre part quand vous parlez de voie douce, les 5 axes, quand vous regardez l’axe 4, l’objectif c’est aussi de favoriser des modes de déplacement doux.
 
-Effectivement lorsqu’on parle aussi du déplacement des convois, le doublement va faciliter la circulation, c’est évident que ce point là pourra être ajouté en point n°6, ça ne changerait pas la délibération, le principe serait le même. 
+Effectivement lorsqu’on parle aussi du déplacement des convois, le doublement va faciliter la circulation, c’est évident que ce point là pourra être ajouté en point n°6, ça ne changerait pas la délibération, le principe serait le même.
 
 **- M. DUMONT :** Je voulais prendre la parole suite à votre présentation, en tant que maire de Sin le Noble, pour me réjouir de ce projet, qui est un véritable serpent de mer, car je pense qu’on avait trouvé dans les archives de la ville de Sin le Noble, déjà des projets de doublement, qui dataient de la fin des années 90. C’est un problème qui est important. Ça devait même relier Waziers à un moment donné, Jacques doit s’en souvenir.
 
@@ -111,7 +115,7 @@ S’ils y vont, peut être faut-il se poser des questions sur le sujet. Effectiv
 
 Jean-Luc Hallé développe la pratique du vélo, je crois qu’on va atteindre les 500 vélos à assistance électrique en location, qui permettent l’accessibilité à nos habitants du territoire, pour qui le prix d’un vélo à assistance électrique était prohibitif, de pouvoir accéder à ce service. On travaille sur le développement du covoiturage, de l’autopartage. Et évidemment le développement du vélo, car ce projet Bruno le précisait, à ce projet est également adossé un projet de mode doux et de piste cyclable. Donc on peut toujours prendre des leçons, avec humilité souvent on ne dit rien car on a envie d’avancer, mais il y a des moments parfois où il faudrait que l’on puisse répondre un peu plus je pense, et notamment sur le thème de la périphérie, dans lequel je sens un peu de dédain, qui commence à m’énerver beaucoup ici.
 
-**- M. VANDEVILLE :** Claude pour le SMTD. 
+**- M. VANDEVILLE :** Claude pour le SMTD.
 
 **- M. HEGO :** Christophe Dumont a déjà dit beaucoup de choses, je vais abonder dans son sens, je ne pense pas qu’il faille être extrémiste dans ce domaine des moyens de transport, je suis plutôt favorable à une conjugaison de ces différents moyens de transport, il ne faut pas oublier la voiture bien sûr. Dans ce beau projet il y a les modes doux qui sont bien sûr loin d’être oubliés car il y aura des modes doux tout le long, et non en parallèle. On envisage tout un programme d’aire de covoiturage sur le territoire. Je ne vais pas toutes les citer ici, ce n’est pas le lieu, mais notamment du côté de l’hôpital de Douai, car là c’est toute l’entrée de Cambrai, de l’Arleusis, de Sin le Noble, donc là on envisage une aire, c’est en cours de réflexion. Et au-delà de ça, aussi un parking relai, pour favoriser l’intermodalité, qui pourrait également se situer sur le parking de l’hôpital de Douai.
 

@@ -18,7 +18,7 @@ export type FeedItem = {
 
 export async function generateAtomFeed(
   informations: FeedDescription,
-  items: FeedItem[]
+  items: FeedItem[],
 ) {
   return `<?xml version="1.0" encoding="utf-8"?>
 
@@ -27,10 +27,10 @@ export async function generateAtomFeed(
   <title>${xmlEscape(informations.title)}</title>
   <subtitle>${xmlEscape(informations.description)}</subtitle>
   <link href="${xmlEscape(
-    informations.url
+    informations.url,
   )}" rel="self" type="application/atom+xml" />
   <link href="${xmlEscape(
-    informations.sourceURL
+    informations.sourceURL,
   )}" rel="alternate" type="text/html" />
   <updated>${xmlEscape(informations.updatedAt)}</updated>${items
     .map(
@@ -45,7 +45,7 @@ export async function generateAtomFeed(
     <author>
       <name>${xmlEscape(item.author.name)}</name>
     </author>
-  </entry>`
+  </entry>`,
     )
     .join("")}
 </feed>
@@ -54,7 +54,7 @@ export async function generateAtomFeed(
 
 export async function generateRSSFeed(
   informations: FeedDescription,
-  items: FeedItem[]
+  items: FeedItem[],
 ) {
   return `<?xml version="1.0" encoding="UTF-8" ?>
 
@@ -64,13 +64,13 @@ export async function generateRSSFeed(
     <description>${xmlEscape(informations.description)}</description>
     <link>${xmlEscape(informations.sourceURL)}</link>
     <atom:link href="${xmlEscape(
-      informations.url
+      informations.url,
     )}" rel="self" type="application/rss+xml" />
     <lastBuildDate>${xmlEscape(
-      new Date(informations.updatedAt).toUTCString()
+      new Date(informations.updatedAt).toUTCString(),
     )}</lastBuildDate>
     <pubDate>${xmlEscape(
-      new Date(informations.builtAt).toUTCString()
+      new Date(informations.builtAt).toUTCString(),
     )}</pubDate>
     <ttl>1800</ttl>${items
       .map(
@@ -81,9 +81,9 @@ export async function generateRSSFeed(
         <description>${xmlEscape(item.description)}</description>
         <link>${xmlEscape(item.url)}</link>
         <pubDate>${xmlEscape(
-          new Date(item.publishedAt).toUTCString()
+          new Date(item.publishedAt).toUTCString(),
         )}</pubDate>
-      </item>`
+      </item>`,
       )
       .join("")}
   </channel>

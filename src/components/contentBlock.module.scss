@@ -1,15 +1,15 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .root {
   background-color: var(--light);
   padding: calc(var(--vRhythm) * 2) var(--gutter);
 }
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
   .root {
     padding: calc(var(--vRhythm) * 2) calc(var(--gutter) * 2);
   }
 }
-@media screen and (min-width: $CSS_BREAKPOINT_START_XL) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_XL) {
   .root {
     padding: calc(var(--vRhythm) * 3) calc(var(--gutter) * 8);
   }

@@ -79,13 +79,13 @@ Suite à des discussions diverses, voici quelques réponses à des arguments sou
 
 ### Si les transports publics doivent bénéficier de la gratuité, au titre des biens de première nécessité, pourquoi pas d’abord les premiers m3 d’eau potable, les premiers KWh d’électricité, voire le logement ou certains produits alimentaires ?
 
-Bien que je sois favorable également à la gratuité des premiers m3 et kWH  pour récompenser les plus sobres d’entre nous (qui s’avèrent souvent être les plus défavorisé·es) ou à la sécurité sociale alimentaire, la réponse est que l’eau, l’électricité et la nourriture n’ont pas d’alternative.
+Bien que je sois favorable également à la gratuité des premiers m3 et kWH pour récompenser les plus sobres d’entre nous (qui s’avèrent souvent être les plus défavorisé·es) ou à la sécurité sociale alimentaire, la réponse est que l’eau, l’électricité et la nourriture n’ont pas d’alternative.
 
 Ce n’est pas le cas des transports en commun, d’autant plus que cette concurrence est déloyale : les automobiles bénéficient de la gratuité des routes, d’une perception du coût d’usage moins forte car indirecte (assurance mensualisée, coût de l’acquisition masqué… et même pour le carburant, quand on a fait le plein, on ne pense plus tant à ce qu’il nous a coûté en utilisant son automobile). De plus, les externalités négatives nombreuses de l’automobile sont supportées par toute la population, ce ne sont pas seulement les automobilistes qui en paient le coût.
 
 ### La gratuité totale met tout le monde au même tarif : est-ce bien équitable ?
 
-Oui, c’est équitable car  cela ne change pas fondamentalement la situation.
+Oui, c’est équitable car cela ne change pas fondamentalement la situation.
 
 Comme le vocifèrent les partisan·es du moindre impôt : “si c’est gratuit, c’est le contribuable qui paie”. Or l’impôt est progressif (les plus démuni·es en paient peu, sauf TVA…) ce qui équivaut à un tarif progressif (mais sans les coûts de billetterie / contrôle).
 
@@ -97,10 +97,9 @@ Mais même dans le cas d’un village qui ne serait pas aussi bien desservi que 
 
 ### La gratuité des transports est une mesure irréversible
 
-Difficile de l’affirmer catégoriquement aujourd’hui  étant donné que peu de collectivités l’ont mise en place et qu’aucune, à ce jour, n’a tenté de la défaire.
+Difficile de l’affirmer catégoriquement aujourd’hui étant donné que peu de collectivités l’ont mise en place et qu’aucune, à ce jour, n’a tenté de la défaire.
 
 Ceci dit, si elle l’est c’est que le service rendu est attendu et bénéfique. Aussi, comment ne pas se réjouir qu’une telle mesure, quand on a perçu tous ses avantages listés précédemment, soit difficile à défaire ? Si c’est une bonne mesure, alors, c’est une bonne nouvelle !
-
 
 ### Avec la gratuité des transports les gens marchent moins
 

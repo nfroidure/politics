@@ -8,7 +8,12 @@ export default function Code({
 }: {
   children: ReactNode;
 } & HTMLAttributes<HTMLElement>) {
-  return <code className={styles.root + (className ? " " + className : "")} {...props}>
-    {children}
-  </code>;
+  return (
+    <code
+      className={styles.root + (className ? " " + className : "")}
+      {...props}
+    >
+      {children}
+    </code>
+  );
 }

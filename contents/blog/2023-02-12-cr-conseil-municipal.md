@@ -58,7 +58,6 @@ Une idée pour 2025, mettre en valeur ces femmes qui investissent des métiers l
 **Note rétrospective :**
 ![Courrier reçu de la Ville de Douai](/public/illustrations/courrier-mairie-egalite-f-h.jpg "🖼➡️")En date du 9 mai 2023, les services de la ville de Douai m’ont transmis les chiffres manquants :
 
-
 - la rémunération moyenne sur tout l’effectif de la ville en fonction du genre : 26 070,02€ pour les hommes et 22 317,03€ pour les femmes (3 752,99€ de plus),
 - la rémunération moyenne par catégorie :
 - - catégorie A : 37 343€ pour les hommes et 34 204€ pour les femmes (3 139€ de plus),

@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .root {
   clear: both;
@@ -44,7 +44,7 @@
   height: 100%;
   cursor: pointer;
 }
-@media screen and (max-width: $CSS_BREAKPOINT_END_M) {
+@media screen and (max-width: variables.$CSS_BREAKPOINT_END_M) {
   .root p {
     height: calc(var(--vRhythm) * 12);
   }

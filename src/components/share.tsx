@@ -4,26 +4,29 @@ import Paragraph from "./p";
 import Anchor from "./a";
 import Heading2 from "./h2";
 
-export default function Share({
-  url,
-  title,
-}: {
-  url: string;
-  title: string;
-}): JSX.Element {
+export default function Share({ url, title }: { url: string; title: string }) {
   return (
     <aside className={styles.root}>
       <Heading2>Commenter et partager</Heading2>
       <Paragraph>
         <Anchor
           href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-            url
+            url,
           )}&t=${encodeURIComponent(title)}`}
           title="Commenter sur Facebook"
           target="_blank"
         >
           <span className={[styles.icon, styles.facebook].join(" ")} />
           Facebook
+        </Anchor>
+        {" - "}
+        <Anchor
+          href={`https://bsky.app/intent/compose?text=${encodeURIComponent(title)}`}
+          title="Commenter sur Bluesky"
+          target="_blank"
+        >
+          <span className={[styles.icon, styles.bluesky].join(" ")} />
+          Bluesky
         </Anchor>
         {" - "}
         <Anchor

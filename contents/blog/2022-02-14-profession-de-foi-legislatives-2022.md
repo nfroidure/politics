@@ -13,6 +13,7 @@ illustration:
 ---
 
 # Profession de foi
+
 **Élections législatives des 12 et 19 juin 2022, 17ème circonscription du Nord**
 
 ---
@@ -38,7 +39,8 @@ J’ai été secrétaire du groupe local du Douaisis, fonction à laquelle j’a
 **J’ai conscience du caractère atypique de mon profil :** en effet, je ne suis pas issu d’études politiques, ni même de l’enseignement supérieur, je ne suis pas un militant de longue date.
 
 Je pense pourtant que **je peux représenter EÉLV pour plusieurs raisons** :
-- j’ai une certaine *aisance pour la prise de parole* en public tout en ayant un fort intérêt pour de nombreux sujets et *une bonne capacité à apprendre* sur le tas,
+
+- j’ai une certaine _aisance pour la prise de parole_ en public tout en ayant un fort intérêt pour de nombreux sujets et _une bonne capacité à apprendre_ sur le tas,
 - je porte une **double expérience de ruralité et d’urbanité**, à l’image de la circonscription que je souhaite représenter, qui me permettra de m’adresser avec empathie à la majorité de ses habitant·es,
 - je souhaite la **fin de l’invisibilisation** : toutes les séquences électorales de notre circonscription sont trustées par le PS, suite aux processus d’union que nous avons choisi, et parfois subi, j’estime que ça suffit. L’union doit être équilibrée au gré des échéances électorales, sinon, cela aboutit à l’invisibilisation de notre mouvement,
 - non-cumul des mandats : à ce jour, je suis **libre de tout mandat**, prêt à m’engager à fond au service de nos concitoyen·nes.

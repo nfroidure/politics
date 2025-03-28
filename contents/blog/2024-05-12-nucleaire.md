@@ -163,9 +163,9 @@ Suite à des échanges nourris, je complète cet article de quelques questions/r
 
 ### De l’envol de la consommation
 
-*L’énergie nucléaire, c’est 63% de la production d’électricité en France en 2023. L’éolien représente un peu plus de 10%, le solaire un peu plus de 4%. Il faut donc multiplier le solaire et l’éolien par un plus plus de 4 pour compenser le nucléaire à production constante. Or il est demandé une intensification des usages électriques : véhicules électriques voire véhicules autonomes (?), remplacement des chaudières à gaz par des pompes à chaleur, etc.*
+_L’énergie nucléaire, c’est 63% de la production d’électricité en France en 2023. L’éolien représente un peu plus de 10%, le solaire un peu plus de 4%. Il faut donc multiplier le solaire et l’éolien par un plus plus de 4 pour compenser le nucléaire à production constante. Or il est demandé une intensification des usages électriques : véhicules électriques voire véhicules autonomes (?), remplacement des chaudières à gaz par des pompes à chaleur, etc._
 
-C’est un fait, si nous ne faisons rien, la consommation d’électricité va augmenter dans les décennies qui viennent. Cependant, ce n’est pas une fatalité. La France peut également agir autrement que par les moyens de production, notamment grâce à la sobriété énergétique (efficience énergétique, isolation thermique et développement des transports en commun et mobilités actives…). 
+C’est un fait, si nous ne faisons rien, la consommation d’électricité va augmenter dans les décennies qui viennent. Cependant, ce n’est pas une fatalité. La France peut également agir autrement que par les moyens de production, notamment grâce à la sobriété énergétique (efficience énergétique, isolation thermique et développement des transports en commun et mobilités actives…).
 
 En 2022, dans son [scénario nommé "M0"](https://assets.rte-france.com/prod/public/2022-02/BP50_Principaux%20re%CC%81sultats_fev2022_Chap5_scenarios%20mix%20production%20consommation.pdf), RTE (pour Réseau de Transport d’Électricité), dessine les plans d’un mix 100% renouvelable en 2050. Il n’est donc pas question de fermer toutes les centrales nucléaires françaises du jour au lendemain, nous avons 25 années pour le faire.
 
@@ -173,7 +173,7 @@ Dans ce laps de temps, développer massivement les énergies renouvelables est t
 
 ### L’Allemagne n’est pas un bon exemple
 
-*En arrêtant les centrales nucléaires, ils ont du ré-ouvrir ou conserver des centrales thermiques qui sont bien plus nocives pour le dérèglement climatique.*
+_En arrêtant les centrales nucléaires, ils ont du ré-ouvrir ou conserver des centrales thermiques qui sont bien plus nocives pour le dérèglement climatique._
 
 C’est vrai. D’ailleurs, sur la route de Recklinghausen (ville allemande jumelée à Douai), j’ai pu apercevoir une des plus grandes mines de charbon à ciel ouvert d’Europe.
 
@@ -205,14 +205,13 @@ Oui, mais, à ce jour, il n’est pas question de pénurie [pour l’Ademe](http
 
 ### Pourquoi mettre un gardien devant les stocks de déchets hautement radioactifs ?
 
-*Il doit bien y avoir d’autres méthodes de sécurisation et d’après JM Jancovici, leur empreinte en termes de surface serait très limitée.*
+_Il doit bien y avoir d’autres méthodes de sécurisation et d’après JM Jancovici, leur empreinte en termes de surface serait très limitée._
 
 D’abord, par précaution, mais aussi, de par la loi de Murphy. Des déchets d’une telle dangerosité ne peuvent pas échapper à une vigilance humaine constante à mon sens.
 
 ### La sobriété, ce n’est pas gagné
 
 Oui, et c’est là que le rôle des écologistes est le plus pregnant. Nous devons continuer à porter une culture différente de celle impulsée par la société de consommation. C’est le sens de mon combat contre la pub qui est bien résumée par ce café citoyen auquel j’ai récemment participé.
-
 
 [Émission de Radio Scarpe Sensée de novembre 2024 : Sommes-nous tous des fils de pub ?](https://radioscarpesensee.com/index/wp-content/uploads/audio/CAFE-CITOYEN-241109-Sommes-nous-des-fils-de-pub.mp3 "🎧 Écouter l’émission’")
 

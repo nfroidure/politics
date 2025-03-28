@@ -9,7 +9,7 @@ export default function Popin({
   popinIsVisible: boolean;
   setPopinIsVisible: Dispatch<SetStateAction<boolean>>;
   children: React.ReactNode;
-}): JSX.Element {
+}) {
   return (
     <div
       className={[

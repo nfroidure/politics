@@ -27,7 +27,7 @@ L’idée est d’entrer dans le jeu du lobbying économique, citoyen ou associa
 
 Le fait est que quelles que soient les idées que l’on défend, la somme des individus ou groupements épars les plus susceptibles d’être faiseurs de majorité n’a strictement aucune chance d’être alignée avec une vision politique quelconque.
 
-Ce qui satisfait l’un·e ennuie généralement l’autre, ce qui favorise l’un·e atténue l’autre. Le clientélisme, c’est, un peu comme une politique du hasard. 
+Ce qui satisfait l’un·e ennuie généralement l’autre, ce qui favorise l’un·e atténue l’autre. Le clientélisme, c’est, un peu comme une politique du hasard.
 
 ## Un pari perdant ?
 

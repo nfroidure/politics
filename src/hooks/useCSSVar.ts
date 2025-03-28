@@ -1,14 +1,14 @@
 export default function useCSSVar<T extends "string" | "number">(
   type: T,
   name: string,
-  fallback: T extends "number" ? number : string
+  fallback: T extends "number" ? number : string,
 ): T extends "number" ? number : string {
   if (typeof navigator === "undefined") {
     return fallback;
   }
 
   const cssValue = getComputedStyle(document.documentElement).getPropertyValue(
-    name
+    name,
   );
 
   if (type === "string") {

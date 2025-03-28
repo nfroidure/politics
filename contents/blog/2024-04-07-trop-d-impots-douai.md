@@ -117,7 +117,7 @@ Bref, tout un programme autrement plus réjouissant que de s’exciter sur un po
 
 ---
 
-**Addendum du 13 avril 2024** 
+**Addendum du 13 avril 2024**
 
 ## Quid de la «culture de la recette» ?
 
@@ -128,5 +128,5 @@ Mais alors, où les trouve-t-il ? C’est très simple, en en prenant un peu da
 Cela s’opère, tranquillement, en dégradant des services publics… Une petite vidéo pour illustrer cela ?
 
 [Vidéo de Sud / Département du Nord](https://www.youtube.com/watch?v=Lr1dHFyIaNM "📺 Voir la vidéo")
- 
+
 C’est donc la **répartition** et le **périmètre** qui évoluent ici, mais dans le mauvais sens, avec des répercussions claires sur la redistribution et donc, l’augmentation de la précarité sur notre territoire.

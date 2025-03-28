@@ -34,7 +34,7 @@ export default function Page() {
       </Paragraph>
       <Heading2>Édition</Heading2>
       <Paragraph>
-        Le site {DOMAIN_NAME} est édité par "{ORGANISATION_LEGAL_NAME}", sis{" "}
+        Le site {DOMAIN_NAME} est édité par “{ORGANISATION_LEGAL_NAME}”, sis{" "}
         {ORGANISATION_ADDRESS}. Le directeur de publication est {PUBLISHER}.
       </Paragraph>
       <Heading2>Propriété intellectuelle</Heading2>

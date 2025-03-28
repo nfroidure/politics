@@ -4,7 +4,7 @@ import {
   useLayoutEffect,
   useEffect,
   useRef,
-} from 'react';
+} from "react";
 
 export type DimensionObject = {
   width: number;
@@ -13,7 +13,7 @@ export type DimensionObject = {
   y: number;
 };
 
-export type UseDimensionResult = DimensionObject | 'none';
+export type UseDimensionResult = DimensionObject | "none";
 
 export type UseDimensionsHook = [
   (node: HTMLElement) => void,
@@ -29,7 +29,7 @@ function useDimensions(
   { liveMeasure = true }: UseDimensionsArgs = {},
   deps: Parameters<typeof useEffect>[1] = [],
 ): UseDimensionsHook {
-  const [dimensions, setDimensions] = useState<UseDimensionResult>('none');
+  const [dimensions, setDimensions] = useState<UseDimensionResult>("none");
   const [node, _setNode] = useState<HTMLElement | null>(null);
   const nodeRef = useRef(node);
   const setNode = (node: HTMLElement | null) => {
@@ -44,7 +44,7 @@ function useDimensions(
     window.requestAnimationFrame(() => {
       const dimensions = nodeRef.current
         ? getDimensionObject(nodeRef.current)
-        : 'none';
+        : "none";
       setDimensions(dimensions);
     });
   };
@@ -57,14 +57,14 @@ function useDimensions(
 
   useEffect(() => {
     if (liveMeasure) {
-      window.addEventListener('resize', measure);
-      window.addEventListener('click', measure);
-      window.addEventListener('scroll', measure, true);
+      window.addEventListener("resize", measure);
+      window.addEventListener("click", measure);
+      window.addEventListener("scroll", measure, true);
 
       return () => {
-        window.removeEventListener('resize', measure);
-        window.removeEventListener('click', measure);
-        window.removeEventListener('scroll', measure, true);
+        window.removeEventListener("resize", measure);
+        window.removeEventListener("click", measure);
+        window.removeEventListener("scroll", measure, true);
       };
     }
   }, [liveMeasure]);
@@ -81,11 +81,11 @@ function getDimensionObject(node: HTMLElement): DimensionObject {
     width: rect.width,
     height: rect.height,
     x:
-      'x' in rect
+      "x" in rect
         ? rect.x
         : (rect as unknown as { left: number; top: number }).left,
     y:
-      'y' in rect
+      "y" in rect
         ? rect.y
         : (rect as unknown as { left: number; top: number }).top,
   };

@@ -6,7 +6,7 @@ export default function Header() {
     <header className={styles.root}>
       <Link href="/">
         <span className={styles.slogan}>
-          L'écologie dans le Douaisis, avec et pour vous&nbsp;!
+          L’écologie dans le Douaisis, avec et pour vous&nbsp;!
         </span>
         <span className={styles.description}>Nicolas Froidure</span>
       </Link>

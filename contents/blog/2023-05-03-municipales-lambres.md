@@ -21,11 +21,13 @@ illustration:
 ![Photographie de l’entrée de Lambres-lez-Douai](/public/illustrations/entree-lambres-lez-douai.jpg "🖼➡️")
 
 Tout à commencé lors du vote du budget de la commune au conseil municipal du 5 avril. En effet, comme plusieurs communes du Douaisis, les finances ont été impactées :
+
 - par la crise de l’énergie (triplement de la facture, la portant à 400 000€),
 - par l’augmentation du point d’indice des fonctionnaires au 1er juillet 2022 (3.5%),
 - par le contexte inflationniste qui tire toutes les dépenses vers le haut.
 
 La question a été posée :
+
 - augmenter les impôts,
 - baisser les subventions,
 - ou renoncer à des projets prévus par la commune.

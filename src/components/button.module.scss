@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .root {
   display: block;
@@ -48,7 +48,7 @@ span.icon {
 .root.both span.icon {
   margin: 0 var(--hGrid) 0 0;
 }
-@media screen and (max-width: $CSS_BREAKPOINT_END_S) {
+@media screen and (max-width: variables.$CSS_BREAKPOINT_END_S) {
   .button {
     display: flex;
     max-width: 100%;

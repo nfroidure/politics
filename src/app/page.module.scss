@@ -1,4 +1,4 @@
-@import "../../styles/variables.scss";
+@use "../../styles/variables.scss";
 
 .signature {
   height: calc(var(--vRhythm) * 3);
@@ -8,7 +8,7 @@
   height: calc(var(--vRhythm) * 3);
   width: auto;
 }
-@media screen and (min-width: $CSS_BREAKPOINT_START_L) {
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
   .content {
     flex-direction: row;
   }

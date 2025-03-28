@@ -31,11 +31,10 @@ type Entry = {
   content: MarkdownRootNode;
 } & PageFrontmatterMetadata;
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { slug: string[] };
+export async function generateMetadata(props: {
+  params: Promise<{ slug: string[] }>;
 }) {
+  const params = await props.params;
   const entry = await parsePage(params.slug);
 
   return buildMetadata({
@@ -53,7 +52,10 @@ export async function generateMetadata({
   });
 }
 
-export default async function Page({ params }: { params: { slug: string[] } }) {
+export default async function Page(props: {
+  params: Promise<{ slug: string[] }>;
+}) {
+  const params = await props.params;
   const entry = await parsePage(params.slug);
 
   return (
@@ -79,7 +81,7 @@ async function parsePage(slug: string[] = []): Promise<Entry> {
 
   try {
     result = await readEntry<PageFrontmatterMetadata>(path + ".md");
-  } catch (err) {
+  } catch {
     result = await readEntry<PageFrontmatterMetadata>(path + "/index.md");
   }
 

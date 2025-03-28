@@ -30,7 +30,7 @@ export function parseYouTubeURL(url: string):
     }
 
     return undefined;
-  } catch (_err) {
+  } catch {
     return undefined;
   }
 }
