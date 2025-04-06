@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 15 Feb 2025 09:08:28 GMT</lastBuildDate>
-    <pubDate>Fri, 28 Mar 2025 15:58:31 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Mar 2025 09:19:00 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Apr 2025 07:32:37 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/discours-pour-la-justice-et-l-etat-de-droit</guid>
+        <title>Discours pour la Justice et l’État de droit</title>
+        <description>Discours prononcé à l’occasion du rassemblement contre l’extrême droite du 6 avril 2025 organisé à Douai face au Palais de Justice.</description>
+        <link>https://nicolasfroidure.fr/blog/discours-pour-la-justice-et-l-etat-de-droit</link>
+        <pubDate>Thu, 06 Mar 2025 09:19:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/qui-veut-etre-maire-de-douai</guid>
         <title>Qui veut être Maire de Douai ?</title>
