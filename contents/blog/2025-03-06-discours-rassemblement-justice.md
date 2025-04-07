@@ -9,8 +9,8 @@ tags:
   - Justice
   - Extrême droite
 illustration:
-  url: "/public/illustrations/tractage-anti-rn-nicolas-froidure.jpg"
-  alt: "Photo d’un tractage anti-RN à Lécluse"
+  url: "/public/illustrations/discours-justice.jpg"
+  alt: "Photo du rassemblement pendant le discours"
 ---
 
 # Discours pour la Justice et l’État de droit
@@ -39,6 +39,10 @@ Quand l’extrême droite a l’oreille attentive du 4ème pouvoir, les médias,
 
 Et enfin, quand l’extrême droite se pense aux portes du pouvoir, elle commence déjà à lorgner sur ce pouvoir dont l’indépendance est cruciale pour protéger les citoyen·nes l’influence de tous les autres : la Justice !
 
-Avec des ami·es comme les partisan·es de Marine Le Pen, la France n’a pas besoin d’ennemis ! D’ailleurs, les soutiens illibéraux internationaux ne s’y sont pas trompés : Trump, Bolsonaro, Orban, Musk... c’est carton plein de soutiens dont tout démocrates se passerait bien.
+Avec des ami·es comme les partisan·es de Marine Le Pen, la France n’a pas besoin d’ennemi·es ! D’ailleurs, ses soutiens illibéraux internationaux ne s’y sont pas trompés : Trump, Bolsonaro, Orban, Musk... c’est carton plein de soutiens dont tout démocrate se passerait bien.
 
-Alors aujourd’hui, redisons-le : vive l’État de Droit, vive l’indépandence de la Justice, vive la démocratie, vive la République et vive la France telle qu’on l’aime : libre, radieuse, émancipée, universelle : en un mot démocratique !
+Alors aujourd’hui, redisons-le : vive l’État de Droit, vive l’indépendance de la Justice, vive la démocratie, vive la République et vive la France telle qu’on l’aime : libre, radieuse, émancipée, universelle : en un mot démocratique !
+
+![Photo du rassemblement pendant le discours](/public/illustrations/discours-justice.jpg)
+![Vue d’ensemble du rassemblement devant le Palais de Justice](/public/illustrations/rassemblement-palais-justice-unitaire.jpeg)
+![Photo du groupe écologiste face au Palais de Justice de Douai pendant le rassemblement](/public/illustrations/rassemblement-palais-justice-ecologistes.jpeg)
