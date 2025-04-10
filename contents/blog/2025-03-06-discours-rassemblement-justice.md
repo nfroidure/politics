@@ -46,3 +46,17 @@ Alors aujourd’hui, redisons-le : vive l’État de Droit, vive l’indépenda
 ![Photo du rassemblement pendant le discours](/public/illustrations/discours-justice.jpg)
 ![Vue d’ensemble du rassemblement devant le Palais de Justice](/public/illustrations/rassemblement-palais-justice-unitaire.jpeg)
 ![Photo du groupe écologiste face au Palais de Justice de Douai pendant le rassemblement](/public/illustrations/rassemblement-palais-justice-ecologistes.jpeg)
+
+---
+
+## Note rétrospective du 10 avril 2025
+
+Un nouveau rassemblement a lieu ce **samedi 12 avril à 14h30 sur la place d’Armes de Douai** organisé cette fois par la société civile (ATTAC, CGT, FSU, UNEF, Solidaires, Amnesty International, le MRAP, Greenpeace, LDH…). Venez en nombre !
+
+Le rassemblement de dimanche a eu un bel echo médiatique avec les articles de :
+
+- [l’Observateur du Douaisis](https://www.lobservateur.fr/douai-gauche-tribunal-institution-judiciaire/),
+- [la Voix du Nord](https://www.lavoixdunord.fr/1573059/article/2025-04-06/condamnation-de-marine-le-pen-une-cinquantaine-de-personnes-manifestent-en) ([vidéo](https://video-streaming.orange.fr/actu-politique/condamnation-de-marine-le-pen-manifestation-en-soutien-a-la-justice-devant-le-palais-de-justice-de-douai-CNT000002idlSr.html)),
+- [France 3 région Nord Pas-de-Calais Picardie](https://france3-regions.francetvinfo.fr/hauts-de-france/nord-0/douai/ineligibilite-de-marine-le-pen-deux-bus-nordistes-du-rn-se-rendent-a-paris-la-gauche-se-mobilise-pour-soutenir-la-justice-a-douai-3134440.html).
+
+**On continue de se mobiliser pour l’indépendance de la Justice !**
