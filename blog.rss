@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 06 Mar 2025 09:19:00 GMT</lastBuildDate>
-    <pubDate>Thu, 10 Apr 2025 17:12:17 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 12:25:00 GMT</lastBuildDate>
+    <pubDate>Sat, 24 May 2025 12:20:32 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/discours-pour-gaza</guid>
+        <title>Discours pour Gaza</title>
+        <description>Discours prononcé à l’occasion du rassemblement contre les massacres perpétrés à Gaza du 6 avril 2025 organisé à Douai par l’AFPS.</description>
+        <link>https://nicolasfroidure.fr/blog/discours-pour-gaza</link>
+        <pubDate>Thu, 24 Apr 2025 12:25:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/discours-pour-la-justice-et-l-etat-de-droit</guid>
         <title>Discours pour la Justice et l’État de droit</title>
