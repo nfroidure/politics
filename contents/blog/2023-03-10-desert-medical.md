@@ -80,9 +80,9 @@ Enfin, la création de centres de santé peut permettre d’offrir, en derniers 
 
 ## Des palliatifs décriés
 
-Toutes les idées pour faire face à cette pénurie ne sont pas vu d’un bon œil de la part des médecins et des usager⋅es.
+Toutes les idées pour faire face à cette pénurie ne sont pas vues d’un bon œil de la part des médecins et des usager⋅es.
 
-La première crainte, que je partage largement, est la création d’un prise en charge à deux vitesses : d’un côté des soins dispensés par un⋅e infirmier⋅e en pratique avancée (qui se substitueraient aux médecins), voire par téléconsultation et de l’autre, des [médecins déconventionnés](https://www.alternatives-economiques.fr/nicolas-da-silva/deconventionnement-medecins-liberaux-menace/00105915) accessibles uniquement aux nantis ou aux usager⋅es d’une mutuelle particulière.
+La première crainte, que je partage largement, est la création d’une prise en charge à deux vitesses : d’un côté des soins dispensés par un⋅e infirmier⋅e en pratique avancée (qui se substituerait aux médecins), voire par téléconsultation et de l’autre, des [médecins déconventionnés](https://www.alternatives-economiques.fr/nicolas-da-silva/deconventionnement-medecins-liberaux-menace/00105915) accessibles uniquement aux nantis ou aux usager⋅es d’une mutuelle particulière.
 
 Les maisons médicales ou de santé sont également décriées car le suivi ne serait pas aussi personnalisé qu’avec le modèle du médecin de famille.
 
@@ -106,9 +106,9 @@ C’est pourquoi, il faut probablement envisager de susciter les vocations parmi
 
 Pour cela, bien entendu, une véritable méritocratie doit exister plutôt que les phénomènes de reproduction sociale souvent observés.
 
-Il faut également prendre en compte les phénomènes de gentrification/paupérisation qui accompagnent la métropolisation des territoires. C’est principalement de cela qu’est victime le Douaisis. Je crains que les projets comme le RER en région au détriment du doublement de lignes entre les villes moyennes (on peut citer Douai-Cambrai) peut renforcer cet attrait pour la métropole.
+Il faut également prendre en compte les phénomènes de gentrification/paupérisation qui accompagnent la métropolisation des territoires. C’est principalement de cela qu’est victime le Douaisis. Je crains que les projets comme le RER en région au détriment du doublement de lignes entre les villes moyennes (on peut citer Douai-Cambrai, voir mon article sur le [projet SERM](./serm-etoile-ou-croissant-pour-les-hauts-de-france)) ne renforce cet attrait pour la métropole.
 
-Les solutions du type plus de certificats médicaux et/ou pas de certificats pour les licences sportives ne devraient pas perdurer une fois la situation revenue à la normale.
+Les solutions du type : plus de certificats médicaux et/ou pas de certificats pour les licences sportives ne devraient pas perdurer une fois la situation revenue à la normale.
 
 En effet, ces consultations, a priori anodines, sont parfois l’occasion du petit contrôle supplémentaire que l’on aurait pas fait en cas de pathologie à traiter.
 
