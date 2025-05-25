@@ -129,6 +129,8 @@ Or, factuellement, si l’on considère que les 50% de communication institution
 
 Alors, ce panneau annonce-t-il le renouvèlement du marché sous peu ? Si oui, une consultation du public sous forme de RIC serait de bon ton. Ne serait-ce que pour permettre une prise de conscience des enjeux tant la pub nous prépare, comme ici avec ce cas d’école, à la pub.
 
+---
+
 ## Note rétrospective du 9 janvier 2025
 
 Grâce aux élu·es écologistes de la ville, j’ai pu obtenir les détails du contrat conclut entre JCDecaux et la ville de Douai le 21 décembre 2012 (suite à une délibération en date du 19 octobre 2012) de la main de Jacques Vernier alors maire.
