@@ -17,7 +17,7 @@ illustration:
 
 ![Photographie de Stéphanie Stiernon demandant une étude sur la gratuité](/public/illustrations/citation-agglo-stephanie-stiernon-gratuite.jpg "🖼➡️")
 
-**Défendue lors du conseil communautaire de Douaisis Agglo par Stéphanie Stiernon, élue EÉLV de la ville de Douai**, la gratuité des transports en commun, [jugée compliquée par l’éxécutif en place](https://www.lobservateur.fr/douaisis/2020/08/04/transports-du-douaisis-pourquoi-la-gratuite-est-compliquee/) a fini par être instaurée à l’occasion de la campagne des départementales 2021.
+**Défendue lors du conseil communautaire de Douaisis Agglo par Stéphanie Stiernon, élue EÉLV de la ville de Douai**, la gratuité des transports en commun, [jugée compliquée par l’éxécutif en place](https://www.lobservateur.fr/transports-du-douaisis-pourquoi-la-gratuite-est-compliquee/) a fini par être instaurée à l’occasion de la campagne des départementales 2021.
 
 Malgré un certain soupçon de tentative d’influencer le résultat du vote (qui s’est finalement joué à [quelques centaines de voix](https://www.lobservateur.fr/canton-de-douai-le-ticket-caroline-sanchez-christian-poiret-lemporte-devant-katia-bittner-frederic-chereau/), cette proposition a bien entendu été votée par nos élu·es qui portent la gratuité d’autant plus qu’une motion régionale de EÉLV Nord Pas-de-Calais s’était déjà prononcée pour cette gratuité.
 

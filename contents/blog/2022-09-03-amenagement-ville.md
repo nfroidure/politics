@@ -154,7 +154,7 @@ C’est pour cela que je suis en faveur de l’application stricte du filtre éc
 
 Un excellent moyen d’éviter les effets de silos est de sortir des projets gigantesques où l’on part d’une feuille blanche pour créer une aire de jeu, une rue… De petites actions mélioratives me semblent préférables, même si elle sont moins visibles des citoyen·nes (et donc, ne sont pas mises au "crédit" des élu·es).
 
-Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pures visées électoraliste et/ou de postérité…
+Nous devons privilégier des petites impulsions qui font levier plutôt que des projets pharaoniques qui risquent de rater leur cible pour de pures visées électoralistes et/ou de postérité…
 
 Les silos idéologiques représentent également un danger pour notre avenir commun. Si chacun·e s’arc-boute sur sa verticale (l’écologie n’est d’ailleurs pas épargnée, du tout climat, à l’anthropomorphisme en passant par la mystification volontaire ou involontaire de la Nature), alors, il n’y a aucune chance d’advenir à une doctrine écologique qui fasse système, qui soit connectée à notre époque, ses enjeux et le contexte dans lequel la transition écologique doit prendre racine.
 
