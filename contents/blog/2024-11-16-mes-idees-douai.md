@@ -101,7 +101,7 @@ Cela va à l’encontre des efforts fait pour casser l’image de ville en voie 
 
 Il serait bon de remplacer ce panneau pour un message positif : "Douai ville, en transition", "Douai, la campagne en ville", "Douaisien·nes au premier regard"… pourquoi d’ailleurs ne pas lancer un appel à idées pour ce dernier.
 
-L'idée est de propager une bonne image de la ville et de sortir de la sinistrose d’un affichage qui a démontré son inefficacité.
+L’idée est de propager une bonne image de la ville et de sortir de la sinistrose d’un affichage qui a démontré son inefficacité.
 
 ### Des toilettes publiques rue de Bellain
 
@@ -128,3 +128,16 @@ D’autres idées ont été publiées, voici une petite sélection de mes coups 
 - bricothèque : mettre nos outils en commun est une très belle idée mise en œuvre dans de nombreuses villes écologistes,
 - kiosque place Saint-Amé : j’ai proposé la même idée pour le parc Bertin. Je trouve que les kiosques, autrefois présents, permettent de favoriser la rencontre et les activités de plein air. À favoriser dans une ville qui souhaite ouvrir le cœur de ses habitant·es vers plus de solidarité et de vivre ensemble,
 - plantation d’arbres fruitiers : j’ai eu l’occasion de m’exprimer à de nombreuses reprises sur ce sujet et je suis ravi de voir que les Douaisien·nes le souhaitent également.
+
+---
+
+## Note rétrospective du 10 juin 2025
+
+Finalement, 4 de ces idées ont été retenues et proposées au vote des Douaisien·nes :
+
+- le rond point à la Hollandaise porte de Valenciennes (estimé à 25 000€),
+- les panneaux solaires du parc Charles Fenain (estimé à 15 000€),
+- la rue aux écoles à Frais-Marais (estimé à 25 000€),
+- et les panneaux demandant l’arrêt des moteurs devant les écoles (estimé à 2 000€).
+
+Ne disposant que de 3 votes, j’ai choisi les trois premières, la quatrième pouvant être faite à peu de frais. Je vous incite donc à voter si vous avez envie de les voir advenir et vous donne rendez-vous pour les résultats.

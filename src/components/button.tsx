@@ -56,25 +56,24 @@ export default function Button({
       ].join(" ")}
     >
       {type === "link" ? (
-        <Link legacyBehavior {...(props as LinkProps)}>
-          <a
-            className={[
-              styles.button,
-              ...(disabled ? [styles.disabled] : []),
-            ].join(" ")}
-            onClick={(e) => disabled && e.preventDefault()}
-            title={title}
-          >
-            {icon ? (
-              <span
-                className={styles.icon}
-                style={prefix({
-                  maskImage: icon ? `url('/images/icons/${icon}.svg')` : "",
-                })}
-              ></span>
-            ) : null}
-            {label ? <span className={styles.label}>{label}</span> : null}
-          </a>
+        <Link
+          className={[
+            styles.button,
+            ...(disabled ? [styles.disabled] : []),
+          ].join(" ")}
+          onClick={(e) => disabled && e.preventDefault()}
+          title={title}
+          {...(props as LinkProps)}
+        >
+          {icon ? (
+            <span
+              className={styles.icon}
+              style={prefix({
+                maskImage: icon ? `url('/images/icons/${icon}.svg')` : "",
+              })}
+            ></span>
+          ) : null}
+          {label ? <span className={styles.label}>{label}</span> : null}
         </Link>
       ) : (
         <button

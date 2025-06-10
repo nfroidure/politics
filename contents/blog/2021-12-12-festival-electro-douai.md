@@ -58,7 +58,7 @@ Et pourtant, cet événement était loin d’être gratuit. Le prix d’entrée 
 
 À noter également qu’un policier municipal a été agressé par un festivalier comme le [rapporte l’Observateur du Douaisis](https://www.lobservateur.fr/douai-un-policier-municipal-agresse-en-marge-du-festival-plein-air/).
 
-Avec ses 7000 entrées en 2022, ce festival fait mieux que l’[Arkéos Rock Festival avec 2000 festivalier-es](https://www.lavoixdunord.fr/1224473/article/2022-09-05/douai-avec-moins-de-2-000-festivaliers-accueillis-quel-avenir-pour-l-arkeos-rock) mais sans toutefois s’inscrire comme un événement exceptionnel.
+Avec ses 7000 entrées en 2022, ce festival fait mieux que l’[Arkéos Rock Festival avec 2000 festivalierArkéos Rock Festival avec 2000 festivalier·es](https://www.lavoixdunord.fr/1224473/article/2022-09-05/douai-avec-moins-de-2-000-festivaliers-accueillis-quel-avenir-pour-l-arkeos-rock) mais sans toutefois s’inscrire comme un évènement exceptionnel.
 
 Un an et une seconde édition plus tard, je ne suis toujours pas d’accord pour que tant de subventions soient versées pour ce festival. Qu’il existe ne me dérange pas, qu’il grève le budget de la mairie d’une façon aussi conséquente me semble effarant.
 
