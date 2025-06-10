@@ -6,15 +6,22 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 24 Apr 2025 12:25:00 GMT</lastBuildDate>
-    <pubDate>Tue, 10 Jun 2025 05:50:43 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 17:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 10:38:22 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/commerce-a-douai-osons-les-communs</guid>
+        <title>Commerce à Douai : osons les communs !</title>
+        <description>Le commerce Douaisien est moribond malgré les efforts fournis par la municipalité, la désaffection du centre ville semble inéluctable. Pour inverser la tendance, il faudra innover !</description>
+        <link>https://nicolasfroidure.fr/blog/commerce-a-douai-osons-les-communs</link>
+        <pubDate>Tue, 10 Jun 2025 17:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/pour-la-palestine-justice-dignite-et-paix</guid>
         <title>Pour la Palestine, justice, dignité et paix</title>
-        <description>Discours prononcé à l’occasion du rassemblement contre les massacres perpétrés à Gaza du 6 avril 2025 organisé à Douai par l’AFPS.</description>
+        <description>Discours prononcé à l’occasion du rassemblement contre les massacres perpétrés à Gaza du 24 mai 2025 organisé à Douai par l’AFPS.</description>
         <link>https://nicolasfroidure.fr/blog/pour-la-palestine-justice-dignite-et-paix</link>
-        <pubDate>Thu, 24 Apr 2025 12:25:00 GMT</pubDate>
+        <pubDate>Sat, 24 May 2025 12:25:00 GMT</pubDate>
       </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/discours-pour-la-justice-et-l-etat-de-droit</guid>
