@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Jun 2025 17:00:00 GMT</lastBuildDate>
-    <pubDate>Wed, 18 Jun 2025 19:43:02 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 22:50:00 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 11:56:08 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/marche-pour-gaza</guid>
+        <title>Marche pour Gaza</title>
+        <description>Texte de mon intervention lors de la marche pour Gaza le 19 juin à Douai.</description>
+        <link>https://nicolasfroidure.fr/blog/marche-pour-gaza</link>
+        <pubDate>Wed, 18 Jun 2025 22:50:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/commerce-a-douai-osons-les-communs</guid>
         <title>Commerce à Douai : osons les communs !</title>
