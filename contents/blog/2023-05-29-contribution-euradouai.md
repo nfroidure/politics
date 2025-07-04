@@ -56,7 +56,7 @@ Une partie de ces observations ont également été relevées par l’associatio
 
 ## La ZAC
 
-Plus que de créer une nouvelle ZAC, il s’agit, surtout, de développer une zone pré-existante, crée il y a plus de dix ans, mais qui n’a pas rencontré le succès attendu.
+Plus que de créer une nouvelle ZAC, il s’agit, surtout, de développer une zone pré-existante, créée il y a plus de dix ans, mais qui n’a pas rencontré le succès attendu.
 
 Au delà du constat, on note que la création de nouvelles ZAC (notamment l’Ermitage 2) n’était pas forcément pertinent au regard des difficultés de remplissage de celles qui préexistaient.
 
@@ -68,7 +68,7 @@ Un hôtel 4 étoiles sera implanté à deux pas du Volubilis, espérons que cela
 
 ![Travaux de l’ancien Hôpital Général à Douai](/public/illustrations/ancien-hopital-general-travaux-douai.jpg)
 
-Un parking silo proposera 600 places au pied de la passerelle et deux autres parkings aériens sont prévus (pour 230 places). Des panneaux solaires sont prévus sur le dernier niveau du parking silo, mais la surface posée n’est pas précisée. Il faudrait que les parkings aériens soient également équipés d’ombrières afin de maximiser le bénéfice de l’occupation de l’espace de la ZAC.
+Un parking silo proposera 600 places au pied de la passerelle et deux autres parkings de surface sont prévus (pour 230 places). Des panneaux solaires sont prévus sur le dernier niveau du parking silo, mais la surface posée n’est pas précisée. Il faudrait que les parkings de surface soient également équipés d’ombrières afin de maximiser le bénéfice de l’occupation de l’espace de la ZAC.
 
 Une zone est prévue pour du logement ce qui est une bonne chose afin de mutualiser les stationnements, mais les stationnements ne sont pas à proximité immédiate de cette zone, tout comme la passerelle, limitant les bénéfices de cette mixité d’usage. Une mixité qui n’est d’ailleurs pas garantie, car, selon le plan de masse, du tertiaire y est également possible.
 
@@ -91,7 +91,9 @@ Au regard des bénéfices en matière de santé publique que l’usage du vélo 
 - on note aussi la présence de plantes comestibles : les noisetiers. Il serait prudent d’éviter ces derniers étant donnée la pollution relevée sur tout le site consécutive à son passé industriel (métaux, hydrocarbures…),
 - un espace d’animation est prévu, l’érection d’un kiosque à cet endroit permettrait des animations quel que soit le temps (protégé du vent et de la pluie) et procurerait de l’ombre aux personnes s’y promenant.
 
-**Note annexe : La scarpe**
+---
+
+## Note annexe : La Scarpe
 
 Le dossier comportait l’état chimique jugé mauvais de la Scarpe canalisée aval et autant dire que ça fait froid dans le dos : insecticides ([Lindane-HCH](https://fr.wikipedia.org/wiki/Lindane)), pesticides ([Diuron](https://fr.wikipedia.org/wiki/Diuron)) et autres résidus et substances industrielles ([Pentabromodiphenyl ether](https://en.wikipedia.org/wiki/Pentabromodiphenyl_ether), [HAP](https://fr.wikipedia.org/wiki/Hydrocarbure_aromatique_polycyclique)).
 
@@ -99,7 +101,9 @@ Amusant, ou pas, l’état chimique de la masse d’eau serait atteint sans subs
 
 Son état biologique serait moyen et son état écologique plutôt médiocre. “Selon le SAGE de la Scarpe aval du 21 avril 2021, l’atteinte du bon état écologique naturel ne pourra jamais être atteint, en raison de coûts disproportionnés et de la faisabilité technique. Le SDAGE a alors fixé des Objectifs Moins Stricts (OMS) pour le bon état écologique général de la masse d’eau.”
 
-**Note annexe 2 : La crèche**
+---
+
+## Note annexe 2 : La crèche
 
 Initialement, j’aurai proposé des plantes comestibles (un verger aurait pu être sympa), mais les résultats des sondages démontrent que c’est une très mauvaise idée…
 
@@ -111,10 +115,14 @@ Ces analyses devront être étendues aux composés trouvés dans les gaz de sol 
 
 ---
 
-**Note rétrospective du 21 septembre 2024 :**
+## Note rétrospective du 21 septembre 2024
 
 ![Ascenseur d’Euradouai encore en construction](/public/illustrations/ascenseur-euradouai.jpg)
 
 Il s’avère que finalement, un ascenseur est prévu pour desservir la voie 4. Difficile de dire, faute de réponse à ma contribution, si cette dernière a pesé dans cet ajout.
 
 Même si une seule voie est concernée, c’est tout de même mieux que rien. Si un escalier n’est pas ajouté, il risque d’y avoir des embouteillages le matin (étant donnée sa capacité, surtout si le pari du report de stationnement est réussi). Aussi, attention, une fois encore, à la maintenance des ascenseurs qui n’est pas la force de l’agglomération comme en témoigne celui de Gayant Expo en rade depuis des années.
+
+---
+
+## Note rétrospective du 21 septembre 2024

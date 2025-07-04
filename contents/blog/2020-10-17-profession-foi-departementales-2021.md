@@ -19,18 +19,6 @@ Dans ce billet, je vous livre, simplement, le contenu de ma profession de foi po
 
 ---
 
-**Note rétrospective :**
-
-Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux départementales sous la bannière exclusive d’Europe Écologie - Les Verts dans le canton de Douai.
-
-J’avais plaidé en ce sens lors de notre AG de désignation avec insuccès. Notre groupe local ayant retenu l’option de l’union avec le Parti Socialiste, Génération·s et le Parti Communiste.
-
-J’ai cependant été désigné afin de prendre part à la campagne pour le binôme d’union Katia Bittner et Frédéric Chéreau du "Nord en Commun" en tant que co-directeur de campagne.
-
-Malheureusement, cette union n’a pas suffit, Christian Poiret et Caroline Sanchez ayant remporté le canton avec 51.38% des voix.
-
----
-
 ## Profession de foi Nicolas Froidure
 
 **Candidature pour le canton de Douai**
@@ -63,3 +51,15 @@ Enfin, **la compétence départementale est idéale** pour nous permettre de dé
 Pour toutes ces raisons, et **pour porter le choix de l’autonomie** au vote des militant·es de notre groupe local, **j’ai l’honneur de me proposer à vos suffrages pour faire campagne dans le canton de Douai** afin de porter les couleurs de l’écologie dans le Douaisis pour les départementales.
 
 **J’encourage vivement également celleux qui hésiteraient encore à se porter candidat·es**, bien-sûr, nous ne sommes pas des professionnels de la politique, bien-sûr, nous ferons des erreurs, mais comme le soulignait Nelson Mandela : “Je ne perds jamais, soit je gagne, soit j’apprends”. J’ajouterai : “dans tous les cas, je participe à la lutte !” Soyons fièr·es de **lutter ensemble pour mettre nos valeurs en avant !**
+
+---
+
+## Note rétrospective
+
+Cette profession de foi a été proposée pour accompagner ma candidature pour participer aux départementales sous la bannière exclusive d’Europe Écologie - Les Verts dans le canton de Douai.
+
+J’avais plaidé en ce sens lors de notre AG de désignation avec insuccès. Notre groupe local ayant retenu l’option de l’union avec le Parti Socialiste, Génération·s et le Parti Communiste.
+
+J’ai cependant été désigné afin de prendre part à la campagne pour le binôme d’union Katia Bittner et Frédéric Chéreau du "Nord en Commun" en tant que co-directeur de campagne.
+
+Malheureusement, cette union n’a pas suffit, Christian Poiret et Caroline Sanchez ayant remporté le canton avec 51.38% des voix.

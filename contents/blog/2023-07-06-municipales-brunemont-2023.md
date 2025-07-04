@@ -69,7 +69,9 @@ Finalement, les petites communes ont été livrées sans grande résistance aux 
 
 ![Plan du camping de Brunémont](/public/illustrations/brunemont-plan-camping.jpg)
 
-**Note rétrospective :**
+---
+
+## Note rétrospective du 15 juillet 2023
 
 Alain Dupont [l’a emporté haut la main](https://www.lobservateur.fr/brunemont-la-liste-du-maire-lemporte-aux-elections-municipales-partielles/), selon l’Observateur du Douaisis avec 150 voix contre 93 pour Clément Locquet.
 

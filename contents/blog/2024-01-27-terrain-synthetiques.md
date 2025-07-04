@@ -71,7 +71,9 @@ Ce défaut de représentativité mène à des aberrations et un effet de “culb
 
 Je documente ces évolutions en relayant très souvent les avancées faites par les écologistes dans ces territoires sur ce blog, dans ma lettre d’information ou sur les médias sociaux, il faut dire que cela donne envie. Un souhait, donc, pour terminer ce billet : puisse la bascule se faire dans le bon sens, et au plus vite, pour aborder plus sereinement les changements induits par le réchauffement climatique global et l’effondrement de la biodiversité.
 
-**Note rétrospective du 20 mai 2024 :**
+---
+
+## Note rétrospective du 20 mai 2024
 
 Suite au conseil municipal de ce vendredi 17 mai, nos élu·es ont pu exprimer leur position sur ce sujet sans le parasitage des modalités de vote arbitrairement définies par Frédéric Chéreau au conseil précédent.
 

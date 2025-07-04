@@ -20,7 +20,9 @@ illustration:
 
 ![Citation de Stéphanie Stiernon à Douaisis Agglo](/public/illustrations/citation-agglo-stephanie-stiernon-rd500.png)
 
-**Note rétrospective :**
+---
+
+## Note rétrospective
 
 Le projet de RD 500 a fait l’objet de nombreux articles sur les diverses oppositions que ce soit au niveau du département ou de notre agglomération, principalement par des élu⋅es écologistes.
 

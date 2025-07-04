@@ -103,7 +103,9 @@ Des bancs pour les personnes âgées, des agrès pour les enfants, de l’art…
 
 Étant donné la longue liste d’amendements proposés dans cette contribution, **je tiens à approuver la présence dans ce PLU d’une forte volonté de préserver l’identité de la ville, son patrimoine (au travers des OAP) et sa beauté/biodiversité** au travers le l’application stricte du 0 artificialisation nette et des 6Ha rendus à la nature.
 
-**Note rétrospective :**
+---
+
+## Note rétrospective
 
 Le nouveau PLU a été adopté par le conseil municipal de Douai le vendredi 17 mars 2023.
 

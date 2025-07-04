@@ -81,7 +81,7 @@ Bref, je me joins aux autres avis :
 
 ---
 
-**Note rétrospective du 7 avril 2024 :**
+## Note rétrospective du 7 avril 2024
 
 L’envers du décor. J’ai fait une petite ballade dominicale pour mettre une image sur ce qu’est ce projet, concrètement. Cela sentait encore l’humus malgré la disparition rapide des souches (toutes les zones brunes dans les vues ci-après étaient le bois dont parlais ma contribution). Demain, cela sentira le goudron et les gaz d’échappement. Les 200 camions supplémentaires par jour venus livrer [Envision AESC](./projet-d-usine-de-batterie-envision-douai) à l’idée d’utiliser le rail et le fluvial pourtant à quelques mètres de là.
 

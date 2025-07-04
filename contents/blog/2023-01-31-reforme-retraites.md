@@ -73,7 +73,7 @@ En attendant, poursuivons la mobilisation !
 
 ---
 
-**Note rétrospective :**
+## Note rétrospective du 31 janvier 2023
 
 Ce sont 5000 personnes (contre 4000 le 19 janvier) qui se sont réunies à Douai ce 31 janvier 2023. La contestation s’amplifie !
 

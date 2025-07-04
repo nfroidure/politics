@@ -44,7 +44,9 @@ Pour terminer, hasard du calendrier, le 8 mars prochain ce sera la Journée Inte
 
 En lieu et place, on a des affiches pour un boulodrome qui ne nous évoque rien d’autre qu’un gigantesque gâchis d’argent public.
 
-**Note rétrospective :**
+---
+
+## Note rétrospective du 09 mars 2022
 
 ![boulodrome](/public/illustrations/boulodrome-visiteurs.jpg "🖼➡️")
 
@@ -52,4 +54,15 @@ Finalement, ce sont 4000 personnes qui auront fait le déplacement pour cette in
 
 En donnant directement 10€ aux gens pour venir, on aurait eu quatre fois plus de monde… C’est un usage bien dommageable de l’argent public.
 
-Le journal en ligne, Daily Nord, a très justement titré son article sur le sujet [Douaisis : Une inauguration qui « fout les boules »](https://dailynord.fr/2022/03/douaisis-une-inauguration-qui-fout-les-boules/).
+Le journal en ligne, [Daily Nord](https://fr.wikipedia.org/wiki/DailyNord), a très justement titré son article sur le sujet «Douaisis : Une inauguration qui fout les boules ».
+
+---
+
+## Note rétrospective du 22 juin 2025
+
+Le site Daily Nord ayant cessé son activité, je reproduis le contenu de cette brève ici :
+
+Douaisis : Une inauguration qui fout les boules
+Lu, vu, entendu Par DailyNord | 09 mars 2022
+
+Le plus grand boulodrome de France est à Sin-le-Noble, qu’on se le dise ! Un gros investissement de 9,5 millions d’euros payés par le conseil départemental du Nord et Douaisis agglomération. Mais c’est la campagne de promotion et l’inauguration de l’équipement qui chiffonne l’élu EE-LV du Douaisis Nicolas Froidure. Sur sa page Facebook, il a calculé que les 150 000 euros dépensés pour annoncer la bonne parole du grand événement avec feu d’artifice en prime suivi par 4000 personnes le 4 mars dernier, a coûté 37,5 euros par tête de fan de boules. Tu tires ou tu pointes ? Les deux, mon président !

@@ -68,7 +68,9 @@ Bref, bien qu’il n’y ait probablement pas de liste à gauche, je pense qu’
 
 **La commune de Lambres-lez-Douai mérite qu’on lui fasse d’autres propositions !** N’hésitez pas à me contacter si vous avez d’autres informations sur le sujet.
 
-**Note rétrospective :**
+---
+
+## Note rétrospective du 15 juillet 2023
 
 ![Salle comble pour le depouillement des élections de Lambres-lez-Douai](/public/illustrations/election-depouillement-lambres.jpg "🖼➡️")
 
