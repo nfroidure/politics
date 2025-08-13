@@ -141,3 +141,21 @@ Finalement, 4 de ces idées ont été retenues et proposées au vote des Douaisi
 - et les panneaux demandant l’arrêt des moteurs devant les écoles (estimé à 2 000€).
 
 Ne disposant que de 3 votes, j’ai choisi les trois premières, la quatrième pouvant être faite à peu de frais. Je vous incite donc à voter si vous avez envie de les voir advenir et vous donne rendez-vous pour les résultats.
+---
+
+## Note rétrospective du 13 août 2025
+
+Malheureusement, ces projets, à quelques votes d’être réalisés, n’ont pas été retenus. Le classement est le suivant :
+- micro-oasis en centre-ville (235 voix),
+- cour conviviale au centre social du Faubourg de Béthune (169 voix),
+- parcours pour découvrir le patrimoine (158 voix),
+- un caniparc pour nos amis à 4 pattes (155 voix),
+- Douai en lettres géantes (107 voix).
+
+Du côté de mes propositions :
+- sécurisation du rond-point de la porte de Valenciennes (99 voix),
+- panneaux solaires au parc Charles Fenain (83 voix),
+- une rue aux écoliers (78 voix),
+- panneaux « à l’arrêt coupez votre moteur » devant les écoles (52 voix).
+
+Une déception, mais ces propositions ont été ajoutées au [programme des écologistes pour les élections municipales de 2026 pour Douai et les communes du Douaisis](https://drive.google.com/file/d/1k7kcU7axwzPrBpL2jeRF3PPtuga5FeNM/view?usp=sharing) !
