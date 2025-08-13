@@ -72,3 +72,36 @@ Mais il n’est point de compromission sans remerciements, c’est à la surpris
 ![Le nouvel office de tourisme aux couleurs de l’agglomération du Douaisis](/public/illustrations/nouvel-office-tourisme-douai.jpg)
 
 On imagine bien que ce lieu deviendra la base arrière de la campagne municipale 2026 de ce dernier. Une situation idéale à deux pas du beffroi, au milieu de la rue piétonne, que demander de plus ? Bref, des affaires qui roulent…
+
+---
+
+## Note rétrospective du 21 juillet 2025
+
+À l’approche des élections municipales 2026, François Guiffard m’a interpelé.
+
+En effet, en conseil municipal, ce dernier a critiqué la ressourcerie située rue de Bellain dont l’emplacement ne correspond pas, selon lui, à la [« gamme »](https://fr.wikipedia.org/wiki/Gamme_de_produits) de cette rue.
+
+Position que je trouve méprisante à l’égard des usager·es de cette ressourcerie et que j’ai associé [dans une vidéo](https://www.youtube.com/watch?v=T4TTVnEVNoQ) reprenant cet extrait à la chanson « c’est beau la _petite_ bourgeoisie » pour souligner ce mépris de classe manifeste.
+
+Non seulement, les classes populaires ont le droit d’avoir pignon sur rue dans le centre ville, mais de surcroit, les ressourceries ne leur sont pas réservées, un grand nombre de personnes n’y vont pas par nécessité mais par soucis de consommer autrement et mieux.
+
+Je n’ai donc pas donné suite à cette invective, notamment parce que l’idée était de me disqualifier en utilisant cette parodie taquine, et peut-être, aussi, de se resituer sur le jeu politique dont il s’est exclu de lui-même par ses choix hasardeux décrits dans cet article. La ficelle était bien trop grosse pour que je tire dessus.
+
+Car les vrais sujets sont, bien-sûr, les faits que j’ai rapporté ici et qui sont d’une gravité bien plus manifeste. Cela le gêne aux entournures pour parvenir à ses fins, c’est à dire, conserver son siège et la vice présidence si mal acquise qui l’accompagne.
+
+![Petit train avec moteur thermique](/public/illustrations/petit-train-touristique-douai.jpg "🖼️➡️")
+
+Là où cela devient ridicule, c’est quand on se penche sur le bilan de ce dernier à la vice présidence de Douaisis Tourisme.
+
+Du côté du positif, offrir, pour le demi de Gayant, une boisson sans alcool pour celles et ceux qui voudraient y participer sans boire de la bière avant midi.
+
+En revanche, dans cette même rue de Bellain, deux verrues dégradent sérieusement, cette fois, réellement, la rue de Bellain.
+
+Le petit train et son nuage de fumée bien grasse de tracteur tondeuse dans une rue dont on a précisément viré les bagnoles... Il existe pourtant l’équivalent en électrique comme à Rouen où il est en service depuis 2019.
+
+Mais aussi, le nouvel office de tourisme aux allures de peep show complètement ceinturé de panneaux d’affichage led à la gloire de Douaisis Agglo.
+
+![Affichage led de l’Office de Tourisme de Douai 2](/public/illustrations/office-de-tourisme-douai-led-2.jpg "🖼️➡️")
+![Affichage led de l’Office de Tourisme de Douai](/public/illustrations/office-de-tourisme-douai-led.jpg "🖼️➡️")
+
+Bref, une définition bien particulière de la « gamme » qui convient à la rue de Bellain…
