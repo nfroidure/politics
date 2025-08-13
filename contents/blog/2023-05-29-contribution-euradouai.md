@@ -122,7 +122,3 @@ Ces analyses devront être étendues aux composés trouvés dans les gaz de sol 
 Il s’avère que finalement, un ascenseur est prévu pour desservir la voie 4. Difficile de dire, faute de réponse à ma contribution, si cette dernière a pesé dans cet ajout.
 
 Même si une seule voie est concernée, c’est tout de même mieux que rien. Si un escalier n’est pas ajouté, il risque d’y avoir des embouteillages le matin (étant donnée sa capacité, surtout si le pari du report de stationnement est réussi). Aussi, attention, une fois encore, à la maintenance des ascenseurs qui n’est pas la force de l’agglomération comme en témoigne celui de Gayant Expo en rade depuis des années.
-
----
-
-## Note rétrospective du 21 septembre 2024

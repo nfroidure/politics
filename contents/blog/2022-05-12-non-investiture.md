@@ -52,7 +52,7 @@ Pour ce faire, il faut des élu·es que la division ne permet pas d’obtenir da
 
 ---
 
-## Note rétrospective (1er tour) :
+## Note rétrospective (1er tour)
 
 Sur la 16ème circonscription, à la surprise générale, Matthieu Marchio (inconnu de la vie politique locale, mais investi par le Rassemblement National) est en tête au premier tour avec 37,77% des voix face au deputé sortant, Alain Bruneel (PCF soutenu par la NUPES) qui réuni que 34,03% des voix. Chantal Rybak (pour Ensemble, ex-LReM) est largement distancée puisqu’elle ne réunit que 13,19% des voix.
 
@@ -62,7 +62,7 @@ Difficile ne ne pas mettre en cause la déconnexion des négociations nationales
 
 ---
 
-## Note rétrospective (2nd tour) :
+## Note rétrospective (2nd tour)
 
 Sur la 16ème circonscription, Matthieu Marchio (RN) l’emporte avec 50,77% des voix face au deputé sortant, Alain Bruneel (NUPES) qui ne réuni que 49,23% des voix. Une terrible nouvelle pour ce territoire qui perd un député sérieux et engagé.
 

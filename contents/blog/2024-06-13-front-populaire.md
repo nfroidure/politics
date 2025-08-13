@@ -48,13 +48,13 @@ N’hésitez pas à vous inscrire à ma lettre d’information pour vous impliqu
 
 ---
 
-**Addendum du 13 juin :**
+## Addendum du 13 juin
 
 C’est finalement pour le Parti Socialiste que revient la 17ème circonscription du Nord. La question est donc de déterminer si Frédéric Chéreau sera candidat à la députation comme il le laissait entendre plus tôt dans la semaine.
 
 ---
 
-**Addendum du 14 juin :**
+## Addendum du 14 juin
 
 Ce sera donc bien Frédéric Chéreau qui sera le candidat du [Nouveau Front Populaire](https://www.nouveaufrontpopulaire.fr/) sur la 17ème circonscription du Nord. Je lui souhaite de l’emporter, il fera certainement un bon député.
 
@@ -66,7 +66,7 @@ Pour l’occasion de l’attribution définitive des circonscriptions, le logo e
 
 ---
 
-**Addendum du 15 juin :**
+## Addendum du 15 juin
 
 Un rassemblement contre l’extrême droite a eu lieu avec une très large présence intersyndicale pour mobiliser les travaileur⋅euses contre l’extrême droite. Malgré la [tentative de troubler cet évènement](https://www.lobservateur.fr/nord-extreme-droite-front-populaire-douai/) de la part de quelques militants d’extrême droite, la manifestation s’est déroulée avec gravité au vu des circonstances, mais aussi avec l’espoir d’un renouveau politique qu’incarne le Nouveau Front Populaire.
 

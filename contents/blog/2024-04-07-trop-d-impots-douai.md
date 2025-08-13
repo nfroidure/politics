@@ -117,7 +117,7 @@ Bref, tout un programme autrement plus réjouissant que de s’exciter sur un po
 
 ---
 
-**Addendum du 13 avril 2024**
+## Addendum du 13 avril 2024
 
 ## Quid de la «culture de la recette» ?
 

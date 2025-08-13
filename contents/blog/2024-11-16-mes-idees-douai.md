@@ -141,6 +141,7 @@ Finalement, 4 de ces idées ont été retenues et proposées au vote des Douaisi
 - et les panneaux demandant l’arrêt des moteurs devant les écoles (estimé à 2 000€).
 
 Ne disposant que de 3 votes, j’ai choisi les trois premières, la quatrième pouvant être faite à peu de frais. Je vous incite donc à voter si vous avez envie de les voir advenir et vous donne rendez-vous pour les résultats.
+
 ---
 
 ## Note rétrospective du 13 août 2025
