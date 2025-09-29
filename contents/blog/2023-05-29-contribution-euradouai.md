@@ -122,3 +122,14 @@ Ces analyses devront être étendues aux composés trouvés dans les gaz de sol 
 Il s’avère que finalement, un ascenseur est prévu pour desservir la voie 4. Difficile de dire, faute de réponse à ma contribution, si cette dernière a pesé dans cet ajout.
 
 Même si une seule voie est concernée, c’est tout de même mieux que rien. Si un escalier n’est pas ajouté, il risque d’y avoir des embouteillages le matin (étant donnée sa capacité, surtout si le pari du report de stationnement est réussi). Aussi, attention, une fois encore, à la maintenance des ascenseurs qui n’est pas la force de l’agglomération comme en témoigne celui de Gayant Expo en rade depuis des années.
+
+---
+
+## Note rétrospective du 29 septembre 2025
+
+Ce qui devait arriver arriva, même si je ne pensais pas que cela interviendrait si tôt. L’ascenseur installé côté gare est en panne depuis plusieurs mois. Tant et si bien que la ballade d’automne à travers les jardins ouvriers de Droit d’Vélo organisée le 20 septembre a provoqué un moment plutôt cocasse de descente des vélos à plusieurs mains pour contenir ceux qui étaient chargés, de croisement périlleux et de rires grinçants.
+
+![l’ascenseur en panne, déjà, encore](/public/illustrations/ballade-droit-d-velo-automne-2025-4.jpg)
+![Passage sur la passerelle Euradouai à vélo](/public/illustrations/ballade-droit-d-velo-automne-2025-1.jpg)
+![Embouteillage pour descendre l’escalier](/public/illustrations/ballade-droit-d-velo-automne-2025-2.jpg)
+![Difficultés de croisement dû à la présence d’une rampe d’un seul côté](/public/illustrations/ballade-droit-d-velo-automne-2025-3.jpg)
