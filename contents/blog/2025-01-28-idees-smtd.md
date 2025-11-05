@@ -65,3 +65,15 @@ Pour lutter contre ce sentiment, il faudrait mettre en place quelques mesures :
 - un bouton d’alerte sur l’application du SMTD en lien avec les forces de police nationale afin de permettre une intervention rapide et en toute discrétion de celles-ci en cas de danger.
 
 On le voit, il y a bien des améliorations possibles encore. Par un effet de vases communicants, les reports modaux vers le bus en lieu et place de la voiture permettront d’investir plus massivement dans les transports en commun. Et si pour 2025 on se donnait l’objectif de ne posséder qu’une seule voiture par foyer ? De quoi atteindre l’objectif de diviser le nombre de véhicules en circulation à la faveur du [passage à l’électrique](./quel-avenir-pour-l-automobile).
+
+---
+
+## Note rétrospective du 5 novembre 2025
+
+Je viens de signaler à Claude Hégo, président du SMTD, une belle opportunité avec un terrain à vendre à proximité immédiate du pont de Cambrai. Ce terrain de 1759m2 semble idéal pour être le receptacle d’une passerelle cyclable qui pourrait enfin résoudre le problème du difficile passage du pont de Cambrai à vélo et également être un parking relais très commode à l’entrée de Douai.
+
+![Photographie de l’annonce pour ce terrain](/public/illustrations/terrain-pont-de-cambrai.jpg)
+
+Espérons que cette opportunité sera saisie car en cas d’achat par un promoteur, il ne sera alors plus concevable de faire passer une passerelle à cet endroit.
+
+Étant donné le prix modeste du terrain, il me semble tout à fait possible de le préempter ou de l’acheter directement même si le projet n’advient pas immédiatement.
