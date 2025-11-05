@@ -7,6 +7,7 @@ tags:
   - Douai
 categories:
   - Commerce
+  - Économie
 illustration:
   url: "/public/illustrations/magasin-georges-vernez.jpg"
   alt: "Photographie du magasin de mes grands parents, Caroline et Georges Vernez."

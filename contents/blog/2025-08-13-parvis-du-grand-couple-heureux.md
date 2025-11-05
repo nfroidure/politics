@@ -41,7 +41,7 @@ Car, en réalité, l’objet de ce nettoyage par le vide était de répondre au 
 
 En effet, il y avait régulièrement des attroupements et parfois quelques disputes à cet endroit. Je n’ai cependant pas eu vent d’agression de passant·es. Les bancs étant sur les côtés, lorsqu’ils étaient occupés, les passant·es se trouvaient à bonne distance car il y avait précisément de la place pour toutes et tous.
 
-Ces personnes n’ont, évidemment, pas pour autant disparues, elles se réunissent un peu plus loin, assises sur le muret restant, dans les arrêts de bus a proximité ou sur les marches le long du magasin Match. Elles sont peut-être moins visibles, cela dépend pour qui.
+Ces personnes n’ont, évidemment, pas pour autant disparues, elles se réunissent un peu plus loin, assises sur le muret restant, dans les arrêts de bus à proximité ou sur les marches le long du magasin Match. Elles sont peut-être moins visibles, cela dépend pour qui.
 
 Je ne vais pas me faire que des ami·es, mais je trouve cela indigne. Je regrette que l’on chasse la misère plutôt que de tenter d’y répondre intelligemment. Certes, ces personnes pouvaient parfois causer de légers troubles, mais au moins, en cas de problèmes, elle étaient visibles et il y a eu régulièrement des interventions de passants pour aider une de ces personnes dans une situation difficile (coma éthylique, hypothermie…), cachées, seront-elles encore secourues ? Je pense notamment à la personne sans domicile qui dormait sur le banc derrière le panneau d’information et que j’ai réveillé une fois pendant un collage matinal, a-t-elle trouvé un nouvel endroit à l’abri des éléments ?
 
@@ -56,7 +56,8 @@ Mais ma surprise ne s’est pas arrêtée ici puisqu’ensuite, la place a été
 
 Un détail m’a également surpris, sur le panneau du projet, il était indiqué que le projet était "mené en concertation avec le conseil de quartier Barlet / Centre / Faubourg de Cambrai". Membre de ce dernier, je réfute cette assertion.
 
-Si nous avions pu donner notre avis sur cet aménagement, nous aurions évité un grand nombre de conflits d’usages nouveaux qu’il a créé :
+Si nous avions pu donner notre avis sur cet aménagement, nous aurions évité un grand nombre de conflits d’usages nouveaux qu’il a créé :
+
 - les couloirs étroits rendent difficile la traversée de la place sur son vélo (encore moins en vélo cargo ou tricycle), difficile, aussi, de se croiser en poussette (encore moins avec une poussette double) et ne parlons pas des fauteuils roulants,
 - la condamnation des marches a provoqué la chute d’une personne qui a tenté d’enjamber le muret,
 - les personnes qui ne se résignent pas à traverser la place au pas ou avec vélo ou trottinette à la main représentent un danger pour les piéton·nes,
@@ -64,7 +65,7 @@ Si nous avions pu donner notre avis sur cet aménagement, nous aurions évité u
 
 Le constat est déplorable, en chassant la misère (ce qui est bien triste en soi), on a fait d’autres dégâts humains collatéraux.
 
-Le chantier a causé d’autres problèmes, deux arbres ont été déracinés et mis en pot : l’un est mort, l’autre semble mal en point. Les plantes disposées sur le parvis semblent en pleine terre mais sont en réalité en pot, tant et si bien qu’un arrosage régulier est nécessaire.
+Le chantier a causé d’autres problèmes, deux arbres ont été déracinés et mis en pot : l’un est mort, l’autre semble mal en point. Les plantes disposées sur le parvis semblent en pleine terre mais sont en réalité en pot, tant et si bien qu’un arrosage régulier est nécessaire.
 
 Je suis parvenu, lors de la visite de la place avec le Maire et le conseil de quartier à faire rétablir une des deux sorties qui avait été condamnée pour une raison inconnue et qui créait des situations dangereuses pour les personnes qui devaient du coup enjamber le muret pour éviter un détour.
 
@@ -77,13 +78,13 @@ Je ne suis pas hostile à toute modification de cet endroit mais j’aurai aimé
 
 ## Une consultation biaisée
 
-J’ai donné aujourd’hui mon avis sur cet aménagement car, il faut acter que l’on ne part pas d’une feuille blanche. [Le formulaire est très orienté](https://drive.google.com/file/d/1xo2ggFaTOLc88cASCFCEpIqTQK5d7ZxX/view?usp=sharing) puisqu’il propose de se positionner par rapport à cet aménagement temporaire et de dire ce qu’il faudrait y "ajouter, améliorer ou retirer". De plus, les champs sont limités et impossible d’ajouter une image comme je l’ai fait sur ce blog.
+J’ai donné aujourd’hui mon avis sur cet aménagement car il faut acter que l’on ne part pas d’une feuille blanche. [Le formulaire est très orienté](https://drive.google.com/file/d/1xo2ggFaTOLc88cASCFCEpIqTQK5d7ZxX/view?usp=sharing) puisqu’il propose de se positionner par rapport à cet aménagement temporaire et de dire ce qu’il faudrait y "ajouter, améliorer ou retirer". De plus, les champs sont limités et impossible d’ajouter une image comme je l’ai fait sur ce blog.
 
 Alors, forcément, mon avis implique de défaire certaines choses que cet aménagement temporaire frayeux a mis en œuvre.
 
 Tout d’abord, je pense que plus de végétation est bien-sûr bienvenue. Mais cela peut se faire en bordure sans entraver la circulation, en laissant de grands espaces sur la place, des bancs en fonte plus nombreux à des endroits stratégiques pour maximiser l’ombre et la fraîcheur.
 
-Pour permettre aux cyclistes et piétons de circuler sans soucis, prévoir une piste cyclable bien signalée et marquer la pente douce comme une zone partagée en demandant aux cyclistes de rouler au pas (ou pourquoi pas, élargir celle-ci pour y différencier les cheminements aussi). Un marquage pour une piste le long des préaux pour aller jusque match serait aussi de bon ton. Aussi, casser la bordure qui mène au rond point et qui oblige aujourd’hui les vélos à faire un crochet dangereux en contre sens.
+Pour permettre aux cyclistes et piéton·nes de circuler sans soucis, prévoir une piste cyclable bien signalée et marquer la pente douce comme une zone partagée en demandant aux cyclistes de rouler au pas (ou pourquoi pas, élargir celle-ci pour y différencier les cheminements aussi). Un marquage pour une piste le long des préaux pour aller jusque match serait aussi de bon ton. Aussi, casser la bordure qui mène au rond point et qui oblige aujourd’hui les vélos à faire un crochet dangereux en contre sens.
 
 Tout cela mis bout à bout donnerait quelque chose comme ce que j’ai esquissé ci-dessous. Ce n’est pas un plan à l’échelle mais simplement une idée qui laisse plus d’espace piéton, crée une voie directe dédiée pour les cycles et redonne accès à un cadre de vie agréable, ombragé et reposant pour que les personnes qui la traversent puissent y rester, autant qu’iels le veulent.
 
@@ -97,8 +98,32 @@ Alors, concluons par un peu de poésie, **laissons flâner les grands couples he
 
 Lors de la visite du parvis, le maire m’a opposé le fait qu’il était possible de passer par les entrées / sorties du parking pour les voitures.
 
-Ce n’est pas une situation idéale pour plusieurs raisons, mais d’abord, la place permet des aménagements cyclables sûrs, dès lors, pourquoi s’en priver, pourquoi chercher à la soustraire aux cyclistes ?
+Ce n’est pas une situation idéale pour plusieurs raisons, mais d’abord, la place permet des aménagements cyclables sûrs, dès lors, pourquoi s’en priver, pourquoi chercher à la soustraire aux cyclistes ?
 
 Et puis, l’entrée a une bordure assez abrupte et lorsqu’on vient de la rue de Paris, on doit tourner à gauche et couper le trafic venu d’en face. Cela pose donc problème car on ne peut aller vite (à cause de la bordure) et en même temps, y aller lentement fait perdurer la situation de danger venu d’en face. A fortiori, avec des enfants, la situation est d’autant plus dangereuse que, l’entrée étant en pente, ils ont tendance à arriver vite sur le parking créant une situation dangereuse de part et d’autre.
 
 Pour la sortie, la pente pose de nouveau problème car elle implique un démarrage en côte, potentiellement chargé de ses courses, potentiellement avec des automobilistes fâchés de part et d’autre.
+
+---
+
+## Note rétrospective du 29 septembre 2025
+
+Une dernière réunion a eu lieu concernant cet aménagement. Nous avons appris que le budget prévu était de 250 000€ (aménagement temporaire compris).
+
+La réunion était très clivée avec d’un côté les personnes qui souhaitaient la suppression définitive des bancs (et donc la disparition, ou plutôt le report, des personnes qui y restaient). De l’autre, les partisan·es d’une ville où il fait bon vivre avec des espaces où l’on peut s’assoir quand bien même la misère y était visible.
+
+Une dame était même venue avec son propre siège pour le temps de la réunion illustrant avec simplicité le fait que tout le monde n’a pas la capacité de déambuler sans prendre des pauses.
+
+Une autre riveraine regrettait le fait qu’elle ne pourrait pas venir s’assoir le week-end si les bancs n’étaient pas réinstallés.
+
+Autre sujet de débat, le passage des cyclistes. J’ai insisté sur le fait que, justement, aménager un passage balisé pour les vélos était le meilleur moyen de régler les conflits d’usage potentiels car, dès lors, il suffit pour le cycliste d’emprunter la piste, pour le piéton, de ne pas marcher dessus.
+
+De toute manière, on n’efface pas la [ligne de désir](https://fr.wikipedia.org/wiki/Ligne_de_d%C3%A9sir) comme cela. Et notre présence sur cet aménagement temporaire pendant une heure nous a permis de le vérifier. Pas moins d’une dizaine de vélos et trottinettes sont passés par là le temps de ce rassemblement. Autant leur aménager un chemin dédié, il y a l’espace (puisque justement l’aménagement temporaire visait à nous en priver par le truchement de barrières).
+
+Un consensus a semblé émergé sur le fait de mettre peu de bancs, mais je pense que c’est une erreur. En effet, moins il y a de bancs, plus il y a de risques qu’un banc soit squatté.
+
+La profusion de banc permet de limiter les phénomènes d’enracinement sur un seul lieu, mais permet aussi, en cas de conflits, de séparer leurs occupant·es. Enfin, cela permet à celles et ceux qui en ont besoin pour marquer une pause d’en trouver un libre aisément. À couper la poire en deux, on risque de ne faire que des déçu·es.
+
+J’ai pris tout de même la peine de rappeler aux habitant·es vent debout contre les bancs que les aménagements sont là pour toutes et tous et qu’il n’y a pas de citoyen·nes de seconde zone. On aménage pas une ville en regardant son nombril. D’ailleurs, les usagèr·es de [la ligne B](./ligne-b-du-bhns-et-le-velo) en ont fait les frais également puisque les bancs dans les proches arrêts on été supprimés également, une dame a exprimé sa difficulté à rester debout pour attendre le bus, surtout en cas de retard ou de suppression.
+
+Ce n’est pas parce que l’on a pas besoin de banc que d’autres personnes n’en bénéficient pas. Pour conclure, je pense que ces instants de consultation devraient être un levier pour faire sortir les citoyen·nes du fameux [« Nimby »](https://fr.wikipedia.org/wiki/Nimby), pas une flagornerie à visée électoraliste.

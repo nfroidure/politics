@@ -147,6 +147,7 @@ Ne disposant que de 3 votes, j’ai choisi les trois premières, la quatrième p
 ## Note rétrospective du 13 août 2025
 
 Malheureusement, ces projets, à quelques votes d’être réalisés, n’ont pas été retenus. Le classement est le suivant :
+
 - micro-oasis en centre-ville (235 voix),
 - cour conviviale au centre social du Faubourg de Béthune (169 voix),
 - parcours pour découvrir le patrimoine (158 voix),
@@ -154,9 +155,52 @@ Malheureusement, ces projets, à quelques votes d’être réalisés, n’ont pa
 - Douai en lettres géantes (107 voix).
 
 Du côté de mes propositions :
+
 - sécurisation du rond-point de la porte de Valenciennes (99 voix),
 - panneaux solaires au parc Charles Fenain (83 voix),
 - une rue aux écoliers (78 voix),
 - panneaux « à l’arrêt coupez votre moteur » devant les écoles (52 voix).
 
 Une déception, mais ces propositions ont été ajoutées au [programme des écologistes pour les élections municipales de 2026 pour Douai et les communes du Douaisis](https://drive.google.com/file/d/1k7kcU7axwzPrBpL2jeRF3PPtuga5FeNM/view?usp=sharing) !
+
+---
+
+## Note rétrospective du 31 octobre 2025
+
+Le panneau Douai doit garder ses TGVs a été supprimé. Mon idée de le remplacer n’a pas été mise en œuvre mais je ne désespère pas.
+
+---
+
+## Note rétrospective du 5 novembre 2025
+
+Pour la deuxième édition du budget participatif, j’ai repris l’idée des panneaux solaires au parc Bertin et ajouté les idées suivantes.
+
+### Des préaux étape en bord de scarpe
+
+![Photographie d’un préau utilisé lors de mon dernier voyage à vélo](/public/illustrations/preau-pic-nic-etape-velo.jpg "🖼➡️")
+
+Lors de voyages à vélo, on a parfois la chance de tomber sur des aménagements exceptionnels. Un préau étape en bord de scarpe avec quelques tables de pique-nique comme sur l’illustration serait vraiment utile pour les vélotouristes ou les marcheurs. Pourquoi pas juste avant Arkéos par exemple.
+
+### Une flotte de vélos pour un collège / lycée
+
+Certaines écoles / lycées / collèges doivent payer des bus pour aller à la piscine / au stade. À pieds, cela prend beaucoup trop de temps sur la séance de sport. Mettre en œuvre une flottille de vélos pour leur permettre de s’y rendre ferait des économies, réduirait les émissions et permettrait également de faire aimer le vélo aux enfants. Attention, prévoir une alternative pour les personnes à mobilités réduites / qui ne savent pas rouler à vélo (partenariat vélo école Droit de Vélo, tricycles électrique…).
+
+## Un studio d’enregistrement de podcast / table ronde à la maison des associations
+
+![Photographie du studion de Radio Scarpe Sensée](/public/illustrations/studio-radio-scarpe-sensee.jpg "🖼➡️")
+
+La création d’un studio d’enregistrement/diffusion audio/video pour podcasts, émissions de débat etc… à la maison des associations.
+
+En effet, de nos jours, ce matériel est peu onéreux, tant et si bien que de nombreux amateur-euses en sont équipés.
+
+Ceci permettrait aux associations, mouvements politiques, écoles et même créateur-ices de contenus de bénéficier d’un lieu pour enregistrer des contenus de qualité.
+
+L’expression populaire en serait renforcée et de nouveaux médias citoyens pourraient y naître !
+
+La photo d’illustration est le studio de Radio Scarpe Sensée, radio locale bien connue du Douaisis.
+
+### Un mur d’escalade en extérieur au parc Jacques Vernier
+
+Cette une idée proposée par ma fille, grande fan d’escalade.
+
+L’air des salles d’escalades est pollué à cause des micro-plastiques, de l’usure des équipements de sports, de la magnésie en suspension… c’est pourquoi je voudrais avoir un mur d’escalade en extérieur au Parc Jacques Vernier qui est assez grand pour l’accueillir. Il faudrait un mur initiatique pas trop haut et un mur confirmé qui soit vraiment un challenge pour les personnes habitué-es.
