@@ -15,7 +15,7 @@ illustration:
 
 # Développer l’activité économique à Douai
 
-Développer l’activité économique, dans une France ou la compétition entre les territoires est encouragée, est une nécessité. Dans cet articles, je dessine quelques pistes pour concilier économie, écologie et solidarité à Douai.
+Développer l’activité économique, dans une France ou la compétition entre les territoires est encouragée, est une nécessité. Dans cet article, je dessine quelques pistes pour concilier économie, écologie et solidarité à Douai.
 
 ## Vue globale
 
@@ -25,7 +25,7 @@ Or, cette concentration financière s’accompagne d’une possession des moyens
 
 Toute personne qui a été un jour salarié·e d’une entreprise capitaliste a pu constater que le pouvoir n’est absolument pas partagé, il n’est d’ailleurs pas contesté, mais plutôt pondéré, par des contre-pouvoirs (droit du travail, syndicats…).
 
-Cette concentration s’étend au pouvoir médiatique qui sont, pour la plupart, des entreprises capitalistes comme les autres (selon Libération, rapporté par [Radio France](https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/medias-les-milliardaires-achetent-ils-de-l-influence-7017443), un groupe de dix milliardaires représente 90 % des ventes de quotidiens nationaux, 55 % de l’audience des télévisions et 40 % de celle des radios). Une concentration du [fameux 4ème pouvoir](https://fr.wikipedia.org/wiki/Quatri%C3%A8me_pouvoir) qui s’en prend directement aux fondements de notre démocratie (la médiatisation des affaires de Marine Le Pen ou de l’incarcération de Nicolas Sarkozy peuvent vous en convaincre).
+Cette concentration s’étend au pouvoir médiatique dont les entités sont, pour la plupart, des entreprises capitalistes comme les autres. Selon Libération, rapporté par [Radio France](https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/medias-les-milliardaires-achetent-ils-de-l-influence-7017443), un groupe de dix milliardaires représente 90 % des ventes de quotidiens nationaux, 55 % de l’audience des télévisions et 40 % de celle des radios. Une concentration du [fameux 4ème pouvoir](https://fr.wikipedia.org/wiki/Quatri%C3%A8me_pouvoir) qui s’en prend directement aux fondements de notre démocratie (la médiatisation des affaires de Marine Le Pen ou de l’incarcération de Nicolas Sarkozy peuvent vous en convaincre).
 
 La concentration du pouvoir économique a crée au passage une financiarisation de l’activité économique en décalage avec l’économie réelle. Avide de nouvelles possessions, cette financiarisation a entrainé un mouvement général qui est de faire basculer vers le privé des pans entiers de la gestion des infrastructures communes (transports, communications, santé, retraites, services publics…) via le consentement docile des gouvernements successifs. Parfois, pour contenter l’appetit capitaliste, on crée même des marchés de toute pièce (par exemple, dans les jeux vidéos) ou on considère comme des marchés classiques des marchés qui sont particuliers (marché de l’emploi, marché de l’électricité, de la connaissance, de la culture…).
 
@@ -50,6 +50,8 @@ En effet, les collectivités locales ont tout de même quelques compétences qui
 Tout d’abord, en tant qu’acheteuses, elles peuvent utiliser la commande publique pour développer le tissus économique local. Par exemple, via les clauses sociales et environnementales, il est possible, d’orienter la commande publique afin de privilégier le circuit court, le réemploi, la production locale, biologique.
 
 Ensuite, en tant qu’investisseuses, les collectivités peuvent privilégier des choix plus favorables aux acteurs locaux. Par exemple, en rénovant (comme pour la bibliothèque Cœur de Bellain), plutôt qu’en construisant du neuf (comme pour la maison des liens de Frais-Marais ou le Centre Social du Faubourg d’Esquerchin), il est plus simple de prendre la maîtrise d’œuvre en charge en régie et d’allotir les marchés de façon plus abordable pour les PMI/PME locales.
+
+Favoriser les entreprises gérées de manière collective permet également de s’assurer de la bonne redistribution des profits entre les différentes parties prenantes (et donc conserve la valeur ajoutée sur le territoire). Le modèle des SCICs (Sociétés Coopératives d’Intérêt Collectif) est de ce point de vue très intéressant car il ne donne pas seulement le pouvoir aux salarié·es, mais aussi aux consommateur·ices et les collectivités peuvent même participer à la décision et au capital de ces dernières. Un exemple à Douai est Citiz qui a récemment installé des véhicules partagés devant la gare (bien qu’à ce jour, ni la ville de Douai, ni l’agglomération ne semblent avoir participé à son capital, au contraire de la Métropole Européenne de Lille). Ces entreprises sont de surcroit reconnues pour être plus résistantes que leur homologues traditionnelles, probablement grâce à l’investissement continu dans l’outil de production et l’implication des usager·es/salarié·es dans les décisions prises.
 
 ### Via son pouvoir d’influence
 

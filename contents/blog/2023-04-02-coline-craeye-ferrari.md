@@ -39,6 +39,14 @@ Bref, comme bien d’autres élu⋅es LReM/Renaissance, Coline Craeye voit la pa
 
 Quand on pense aux accusations incessantes de dogmatisme envoyées au visage de nos élu⋅es écologistes… cela pourrait prêter à sourire, si ce spectacle déplorable ne renforçait pas les rangs du Rassemblement National…
 
-[Vidéo: Coline Craeye et les panneaux](https://youtu.be/QeAJ77ROWg8 "📺")
+---
 
-Ça méritait bien une petite vidéo.
+## Note rétrospective du 6 novembre 2025
+
+Le soutien de Christian Poiret à Coline Craeye pour la campagne des municipales 2026 à Douai semble bien acquis. Tant et si bien, qu’il se dit que son ancien acolyte, Franz Quatrebœuf, aurait été écarté de sa liste pour n’avoir pas été suffisamment complaisant avec la politique menée par ce dernier. Depuis, via l’Observateur du Douaisis, le représentant local du Modem a formulé un appel à l’union des droites contre le RN et le Maire, un repêchage de dernière minute est peut-être encore possible pour ce dernier.
+
+Suite à la débandade de la Macronie, Coline Craeye jure maintenant ne plus être cartée chez LReM/Renaissance, le parti d’Emmanuel Macron. Ses idées, elles semblent cependant toujours compatibles. Gageons que les Douaisien·nes sauront s’en souvenir à l’heure du choix.
+
+Pour l’instant, sa campagne semble être à l’image de son mandat : négative. Dénigrement et rejet total de la politique menée actuellement, discours sécuritaires qui chatouillent les peurs et, bien-sûr, catastrophisme sur la situation économique de la ville (rappelant le catastrophisme gouvernemental pour tenter de nous faire avaler un budget anti-social).
+
+La campagne promet donc d’être une nouvelle fois écœurante pour nombre de Douaisien·nes en traitant les sujets à la surface, sans aller sur le fond. Les écologistes refusent de prendre part à cela, nous avons fait des [propositions concrètes dans notre programme](https://eelv-douaisis.fr/actualite/municipales-2026-notre-programme-pour-douai), en toute transparence. Sur le sujet du développement économique, je vous propose de lire [cet article récent de mon blog](./developper-l-activite-economique-a-douai), la commune peut agir pour une économie locale florissante, mais cela demande plus que des incantations et un plan à rebours des politiques économiques qui nous asphyxient lentement.
