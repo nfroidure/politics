@@ -22,11 +22,11 @@ export async function generateMetadata(props: {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda")
-    )
+      pathJoin(".", "contents", "agenda"),
+    ),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as AgendaDate;
 
   return buildMetadata({
@@ -56,10 +56,10 @@ export async function generateMetadata(props: {
 export default async function Page(props: { params: Promise<{ id: string }> }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda"))
+    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda")),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as AgendaDate;
 
   return (
@@ -88,7 +88,7 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
           timeZone: TIME_ZONE,
           dateStyle: "full",
           timeStyle: "medium",
-        }).format(Date.parse(entry.date))}
+        }).format(Date.parse(entry.startDate))}
         <br />
         <br />
       </Paragraph>
@@ -118,8 +118,8 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda")
-    )
+      pathJoin(".", "contents", "agenda"),
+    ),
   );
   const paths = baseListingMetadata.entries.map((entry) => ({
     id: entry.id,

@@ -24,11 +24,11 @@ export async function generateMetadata(props: {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
-    )
+      pathJoin(".", "contents", "blog"),
+    ),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as BlogPost;
 
   return buildMetadata({
@@ -58,10 +58,10 @@ export async function generateMetadata(props: {
 export default async function Page(props: { params: Promise<{ id: string }> }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
+    await readEntries<BlogPost>(pathJoin(".", "contents", "blog")),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as BlogPost;
   const allLinkedEntries = baseListingMetadata.entries
     .filter(
@@ -70,16 +70,16 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
         !anEntry.draft &&
         entry.categories.some((category) =>
           anEntry.categories.some(
-            (actualCategory) => category === actualCategory
-          )
-        )
+            (actualCategory) => category === actualCategory,
+          ),
+        ),
     )
     .sort(datedPagesSorter);
   const pastEntries = allLinkedEntries.filter(
-    (anEntry) => Date.parse(anEntry.date) < Date.parse(entry.date)
+    (anEntry) => Date.parse(anEntry.date) < Date.parse(entry.date),
   );
   const recenterEntries = allLinkedEntries.filter(
-    (anEntry) => Date.parse(anEntry.date) > Date.parse(entry.date)
+    (anEntry) => Date.parse(anEntry.date) > Date.parse(entry.date),
   );
   const linkedEntries = pastEntries.concat(recenterEntries).slice(0, 3);
 
@@ -132,8 +132,8 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
-    )
+      pathJoin(".", "contents", "blog"),
+    ),
   );
   const paths = baseListingMetadata.entries.map((entry) => ({
     id: entry.id,

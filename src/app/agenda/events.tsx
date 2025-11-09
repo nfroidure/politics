@@ -65,7 +65,7 @@ export default function Events({
               timeZone: TIME_ZONE,
               dateStyle: "full",
               timeStyle: "medium",
-            }).format(Date.parse(entry.date))}
+            }).format(Date.parse(entry.startDate))}
             <br />
             <br />
             {entry.description}{" "}

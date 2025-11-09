@@ -13,8 +13,8 @@ export default Page;
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda")
-    )
+      pathJoin(".", "contents", "agenda"),
+    ),
   );
   const { title, description } = await generateMetadata({});
 
@@ -27,7 +27,7 @@ export async function generateStaticParams() {
       title: title as string,
       description: description as string,
     },
-    "/agenda"
+    "/agenda",
   );
   await buildICalendar(
     {
@@ -35,7 +35,7 @@ export async function generateStaticParams() {
       title: title as string,
       description: description as string,
     },
-    "/agenda"
+    "/agenda",
   );
 
   const paths = new Array(baseListingMetadata.pagesCount)

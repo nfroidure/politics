@@ -23,17 +23,18 @@ export type AgendaItem = {
 
 export async function generateICal(
   informations: AgendaDescription,
-  items: AgendaDate[]
+  items: AgendaDate[],
 ) {
   const { error, value } = createEvents(
     items.map((item) => ({
-      // TODO: use timezone
       created: convertTimestampToArray(Date.parse(item.date), ""),
       lastModified: convertTimestampToArray(Date.parse(item.date), ""),
       title: item.title,
       start: convertTimestampToArray(Date.parse(item.startDate), ""),
+      startInputType: "utc",
       duration: item.duration,
       location: item.location,
+      categories: item.categories,
       geo: item.geolocation
         ? {
             lat: item.geolocation.lat,
@@ -44,11 +45,12 @@ export async function generateICal(
         name: ORGANISATION_NAME,
         email: ORGANISATION_CONTACT,
       },
+      url: `${informations.sourceURL}/${item.id}`,
     })),
     {
       calName: `Agenda ${ORGANISATION_NAME}`,
       method: "PUBLISH",
-    }
+    },
   );
 
   if (error) {

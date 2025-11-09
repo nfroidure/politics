@@ -21,7 +21,7 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
     title: string;
     description: string;
   },
-  path: string
+  path: string,
 ) {
   await Promise.all([
     (async () => {
@@ -44,8 +44,8 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
           entries.reduce(
             (higherTimestamp, entry) =>
               Math.max(higherTimestamp, Date.parse(entry.date)),
-            0
-          )
+            0,
+          ),
         ).toISOString(),
         builtAt,
       };
@@ -61,38 +61,38 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
 async function buildAtomFeed(
   commonDescription: Omit<FeedDescription, "url">,
   feedItems: FeedItem[],
-  path: string
+  path: string,
 ) {
   const content = await generateAtomFeed(
     {
       ...commonDescription,
       url: `${ASSET_PREFIX}${path}.atom`,
     },
-    feedItems
+    feedItems,
   );
 
   await doWriteFile(
     joinPath(PROJECT_DIR, "public", `${path.slice(1)}.atom`),
-    content
+    content,
   );
 }
 
 async function buildRSSFeed(
   commonDescription: Omit<FeedDescription, "url">,
   feedItems: FeedItem[],
-  path: string
+  path: string,
 ) {
   const content = await generateRSSFeed(
     {
       ...commonDescription,
       url: `${ASSET_PREFIX}${path}.rss`,
     },
-    feedItems
+    feedItems,
   );
 
   await doWriteFile(
     joinPath(PROJECT_DIR, "public", `${path.slice(1)}.rss`),
-    content
+    content,
   );
 }
 
@@ -101,7 +101,7 @@ export async function buildICalendar(
     title: string;
     description: string;
   },
-  path: string
+  path: string,
 ) {
   const { title, description, entries } = props;
   const content = await generateICal(
@@ -113,20 +113,17 @@ export async function buildICalendar(
         entries.reduce(
           (higherTimestamp, entry) =>
             Math.max(higherTimestamp, Date.parse(entry.date)),
-          0
-        )
+          0,
+        ),
       ).toISOString(),
       builtAt,
       url: `${ASSET_PREFIX}${path}.ics`,
     },
-    entries.map((entry) => ({
-      ...entry,
-      startInputType: "utc",
-    }))
+    entries,
   );
 
   await doWriteFile(
     joinPath(PROJECT_DIR, "public", `${path.slice(1)}.ics`),
-    content
+    content,
   );
 }
