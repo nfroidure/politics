@@ -32,6 +32,11 @@ const MENU_ITEMS = [
     title: "Lire mes questions/réponses",
   },
   {
+    href: "/agenda",
+    label: "Agenda",
+    title: "Voir les prochain évènements importants",
+  },
+  {
     href: "#",
     label: "S’abonner",
     title: "S’abonner à ma lettre d’information",

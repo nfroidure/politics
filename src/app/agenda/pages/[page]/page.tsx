@@ -1,19 +1,19 @@
 import { join as pathJoin } from "path";
 import Page, { generateMetadata } from "../../page";
 import { readEntries } from "../../../../utils/frontmatter";
-import { buildAssets } from "../../../../utils/build";
+import { buildAssets, buildICalendar } from "../../../../utils/build";
 import {
   entriesToBaseListingMetadata,
-  type BlogPostFrontmatterMetadata,
-} from "../../../../utils/blogPost";
+  type AgendaDateFrontmatterMetadata,
+} from "../../../../utils/agendaDate";
 
 export { generateMetadata };
 export default Page;
 
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
+    await readEntries<AgendaDateFrontmatterMetadata>(
+      pathJoin(".", "contents", "agenda")
     )
   );
   const { title, description } = await generateMetadata({});
@@ -27,7 +27,15 @@ export async function generateStaticParams() {
       title: title as string,
       description: description as string,
     },
-    "/blog"
+    "/agenda"
+  );
+  await buildICalendar(
+    {
+      ...baseListingMetadata,
+      title: title as string,
+      description: description as string,
+    },
+    "/agenda"
   );
 
   const paths = new Array(baseListingMetadata.pagesCount)

@@ -1,21 +1,19 @@
-import { DOMAIN_NAME } from "../../../utils/constants";
-import styles from "./page.module.scss";
+import { DOMAIN_NAME, LOCALE, TIME_ZONE } from "../../../utils/constants";
 import { fixText } from "../../../utils/text";
 import { qualifyPath, renderMarkdown } from "../../../utils/markdown";
 import { pathJoin } from "../../../utils/files";
 import { readEntries } from "../../../utils/frontmatter";
 import buildMetadata from "../../../utils/metadata";
-import { datedPagesSorter } from "../../../utils/contents";
 import ContentBlock from "../../../components/contentBlock";
-import Heading2 from "../../../components/h2";
 import Paragraph from "../../../components/p";
 import Share from "../../../components/share";
-import Items from "../../../components/items";
 import {
   entriesToBaseListingMetadata,
-  type BlogPostFrontmatterMetadata,
-  type BlogPost,
-} from "../../../utils/blogPost";
+  type AgendaDateFrontmatterMetadata,
+  type AgendaDate,
+} from "../../../utils/agendaDate";
+import { Fragment } from "react/jsx-runtime";
+import Heading1 from "@/components/h1";
 import Anchor from "@/components/a";
 
 export async function generateMetadata(props: {
@@ -23,16 +21,16 @@ export async function generateMetadata(props: {
 }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
+    await readEntries<AgendaDateFrontmatterMetadata>(
+      pathJoin(".", "contents", "agenda")
     )
   );
   const entry = baseListingMetadata.entries.find(
     ({ id }) => id === (params || {}).id
-  ) as BlogPost;
+  ) as AgendaDate;
 
   return buildMetadata({
-    pathname: `/blog/${entry.id}`,
+    pathname: `/agenda/${entry.id}`,
     title: fixText(entry.title),
     description: fixText(entry.description),
     type: "article",
@@ -58,81 +56,69 @@ export async function generateMetadata(props: {
 export default async function Page(props: { params: Promise<{ id: string }> }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<BlogPost>(pathJoin(".", "contents", "blog"))
+    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda"))
   );
   const entry = baseListingMetadata.entries.find(
     ({ id }) => id === (params || {}).id
-  ) as BlogPost;
-  const allLinkedEntries = baseListingMetadata.entries
-    .filter(
-      (anEntry) =>
-        entry.id !== anEntry.id &&
-        !anEntry.draft &&
-        entry.categories.some((category) =>
-          anEntry.categories.some(
-            (actualCategory) => category === actualCategory
-          )
-        )
-    )
-    .sort(datedPagesSorter);
-  const pastEntries = allLinkedEntries.filter(
-    (anEntry) => Date.parse(anEntry.date) < Date.parse(entry.date)
-  );
-  const recenterEntries = allLinkedEntries.filter(
-    (anEntry) => Date.parse(anEntry.date) > Date.parse(entry.date)
-  );
-  const linkedEntries = pastEntries.concat(recenterEntries).slice(0, 3);
+  ) as AgendaDate;
 
   return (
     <ContentBlock>
+      <Heading1>{entry.title}</Heading1>
+      <Paragraph>
+        {entry.location ? (
+          <Fragment>
+            📍{" "}
+            {entry.geolocation ? (
+              <Anchor
+                href={`geo:${entry.geolocation.lat},${entry.geolocation.lng}`}
+                title="Voir sur un plan"
+                target="_blank"
+              >
+                {entry.location}
+              </Anchor>
+            ) : (
+              entry.location
+            )}
+            <br />
+          </Fragment>
+        ) : null}
+        📅{" "}
+        {new Intl.DateTimeFormat(LOCALE, {
+          timeZone: TIME_ZONE,
+          dateStyle: "full",
+          timeStyle: "medium",
+        }).format(Date.parse(entry.date))}
+        <br />
+        <br />
+      </Paragraph>
       {renderMarkdown({ index: 0 }, entry.content)}
       <Paragraph>
         Publié le{" "}
-        {new Intl.DateTimeFormat("fr-FR", {
-          timeZone: "Europe/Paris",
+        {new Intl.DateTimeFormat(LOCALE, {
+          timeZone: TIME_ZONE,
           dateStyle: "full",
           timeStyle: "medium",
         }).format(Date.parse(entry.date))}
         .
       </Paragraph>
       <Paragraph>
-        <Anchor href={"/blog"} title="Retour à la liste">
+        <Anchor href={"/agenda"} title="Retour à la liste">
           Retour
         </Anchor>
       </Paragraph>
       <Share
-        url={`https://${DOMAIN_NAME}/blog/${entry.id}`}
+        url={`https://${DOMAIN_NAME}/agenda/${entry.id}`}
         title={entry.title}
       />
-      {linkedEntries.length ? (
-        <aside className={styles.linkedEntries}>
-          <Heading2>
-            {linkedEntries.length === 1
-              ? "Article similaire"
-              : "Articles similaires"}
-          </Heading2>
-          <Paragraph>
-            {`Dans ${
-              linkedEntries.length === 1 ? "la catégorie" : "les catégories"
-            } `}
-            {linkedEntries.length === 1
-              ? entry.categories[0]
-              : `${entry.categories.slice(1).join(", ")} et ${
-                  entry.categories[0]
-                }`}
-            .
-          </Paragraph>
-          <Items entries={linkedEntries} base="./" />
-        </aside>
-      ) : null}
     </ContentBlock>
   );
 }
 
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<BlogPostFrontmatterMetadata>(
-      pathJoin(".", "contents", "blog")
+    await readEntries<AgendaDateFrontmatterMetadata>(
+      pathJoin(".", "contents", "agenda")
     )
   );
   const paths = baseListingMetadata.entries.map((entry) => ({

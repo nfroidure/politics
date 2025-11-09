@@ -32,7 +32,7 @@
   --column: calc(var(--hGrid) * var(--columnRatio));
   --block: calc(var(--column) * 3 + var(--gutter) * 2);
   --vGrid: #{variables.$CSS_GRID_V};
-  --vRhythmRatio: #{variables.$CSS_V_RYTHM_RATIO};
+  --vRhythmRatio: #{variables.$CSS_V_RHYTHM_RATIO};
   --vRhythm: calc(var(--vGrid) * var(--vRhythmRatio));
   --border: calc(var(--vGrid) / 2);
   --borderRadius: calc(var(--hGrid));

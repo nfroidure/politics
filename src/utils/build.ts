@@ -8,6 +8,8 @@ import type {
   BaseListingPageMetadata,
   BaseContentPageMetadata,
 } from "./contents";
+import { generateICal } from "./ical";
+import { AgendaDate } from "./agendaDate";
 
 const doWriteFile = promisify(writeFile);
 
@@ -19,7 +21,7 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
     title: string;
     description: string;
   },
-  path: string,
+  path: string
 ) {
   await Promise.all([
     (async () => {
@@ -42,8 +44,8 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
           entries.reduce(
             (higherTimestamp, entry) =>
               Math.max(higherTimestamp, Date.parse(entry.date)),
-            0,
-          ),
+            0
+          )
         ).toISOString(),
         builtAt,
       };
@@ -59,37 +61,72 @@ export async function buildAssets<T extends BaseContentPageMetadata>(
 async function buildAtomFeed(
   commonDescription: Omit<FeedDescription, "url">,
   feedItems: FeedItem[],
-  path: string,
+  path: string
 ) {
   const content = await generateAtomFeed(
     {
       ...commonDescription,
       url: `${ASSET_PREFIX}${path}.atom`,
     },
-    feedItems,
+    feedItems
   );
 
   await doWriteFile(
     joinPath(PROJECT_DIR, "public", `${path.slice(1)}.atom`),
-    content,
+    content
   );
 }
 
 async function buildRSSFeed(
   commonDescription: Omit<FeedDescription, "url">,
   feedItems: FeedItem[],
-  path: string,
+  path: string
 ) {
   const content = await generateRSSFeed(
     {
       ...commonDescription,
       url: `${ASSET_PREFIX}${path}.rss`,
     },
-    feedItems,
+    feedItems
   );
 
   await doWriteFile(
     joinPath(PROJECT_DIR, "public", `${path.slice(1)}.rss`),
-    content,
+    content
+  );
+}
+
+export async function buildICalendar(
+  props: BaseListingPageMetadata<AgendaDate> & {
+    title: string;
+    description: string;
+  },
+  path: string
+) {
+  const { title, description, entries } = props;
+  const content = await generateICal(
+    {
+      title,
+      description,
+      sourceURL: `${ASSET_PREFIX}${path}`,
+      updatedAt: new Date(
+        entries.reduce(
+          (higherTimestamp, entry) =>
+            Math.max(higherTimestamp, Date.parse(entry.date)),
+          0
+        )
+      ).toISOString(),
+      builtAt,
+      url: `${ASSET_PREFIX}${path}.ics`,
+    },
+    entries.map((entry) => ({
+      ...entry,
+      startInputType: "utc",
+    }))
+  );
+
+  await doWriteFile(
+    joinPath(PROJECT_DIR, "public", `${path.slice(1)}.ics`),
+    content
   );
 }

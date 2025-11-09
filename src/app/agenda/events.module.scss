@@ -1,0 +1,31 @@
+@use "../../../styles/variables.scss";
+
+.entries .entry_title {
+  margin-top: 0 !important;
+}
+.entries .no_underline {
+  text-decoration: none !important;
+}
+.entries .entry_illustration {
+  margin: 0 !important;
+}
+.entries .entry_description {
+  margin: 0 !important;
+}
+.entries .entry_item {
+  padding: var(--vRhythm) 0 calc(var(--vRhythm) - var(--border)) 0;
+  border-bottom: var(--border) solid var(--secondary);
+}
+.entries .entry_item:first-child {
+  padding: 0 0 calc(var(--vRhythm) - var(--border)) 0;
+}
+.entries .entry_item:last-child {
+  border: none;
+  padding: var(--vRhythm) 0 0 0;
+}
+
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
+  .clear {
+    clear: left;
+  }
+}

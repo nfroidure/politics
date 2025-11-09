@@ -1,7 +1,7 @@
 export default function useCSSVar<T extends "string" | "number">(
   type: T,
   name: string,
-  fallback: T extends "number" ? number : string
+  fallback: T extends "number" ? number : string,
 ): T extends "number" ? number : string {
   if (typeof window === "undefined") {
     return fallback;

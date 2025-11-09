@@ -128,6 +128,11 @@ next-env.d.ts
 # Built feeds
 blog.atom
 blog.rss
+agenda.atom
+agenda.rss
+
+# Built files
+agenda.ics
 
 # Private files
 private

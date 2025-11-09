@@ -1,6 +1,8 @@
 {
   "name": "politics",
   "version": "1.0.0",
+  "private": true,
+  "license": "SEE LICENSE.md",
   "scripts": {
     "dev": "next",
     "build": "next build && touch out/.nojekyll && echo 'nicolasfroidure.fr' > out/CNAME",
@@ -14,29 +16,29 @@
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.3",
     "front-matter": "^4.0.2",
-    "glob": "^11.0.2",
+    "glob": "^11.0.3",
+    "ics": "^3.8.1",
     "inline-style-prefixer": "^7.0.1",
-    "next": "15.3.2",
+    "next": "^16.0.1",
     "node-html-markdown": "^1.3.0",
-    "prettier": "^3.5.3",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "prettier": "^3.6.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "remark-parse": "^11.0.0",
-    "server-only": "0.0.1",
+    "sass": "^1.93.3",
     "unified": "11.0.5",
-    "yaml": "2.8.0",
+    "yaml": "2.8.1",
     "yerror": "^8.0.0"
   },
   "devDependencies": {
-    "tsx": "^4.19.4",
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.3.3",
-    "@eslint/eslintrc": "^3",
-    "sass": "^1.89.2"
-  },
-  "license": "SEE LICENSE.md"
+    "eslint-config-next": "16.0.1",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5"
+  }
 }
