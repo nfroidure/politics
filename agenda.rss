@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agenda politique - Nicolas Froidure - Nicolas Froidure</title>
+    <description>Découvrez les évènements militants importants du Douaisis.</description>
+    <link>https://nicolasfroidure.fr/agenda</link>
+    <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 05:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 18:20:20 GMT</pubDate>
+    <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-douai</guid>
+        <title>Marche organisée par Nous Toutes Douai</title>
+        <description>Marche contre les féminicides, les violences sexistes et sexuelles et toutes les violences de genre.</description>
+        <link>https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-douai</link>
+        <pubDate>Sun, 09 Nov 2025 05:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/visite-de-terrain-de-la-brayelle</guid>
+        <title>Visite de terrain de la Brayelle</title>
+        <description>Le collectif « Alerte La Brayelle » organise une visite de terrain pour (re)découvrir ce site menacé.</description>
+        <link>https://nicolasfroidure.fr/agenda/visite-de-terrain-de-la-brayelle</link>
+        <pubDate>Sun, 09 Nov 2025 04:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/hopital-public-a-quand-les-moyens</guid>
+        <title>Hôpital public : À quand les moyens ?</title>
+        <description>Rassemblement à l’initiative de l’association « Mon hôpital, ma santé, ma bataille ».</description>
+        <link>https://nicolasfroidure.fr/agenda/hopital-public-a-quand-les-moyens</link>
+        <pubDate>Sun, 09 Nov 2025 03:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/municipales-2026-douai-second-tour</guid>
+        <title>Municipales 2026 Douai - Second tour</title>
+        <description>Second tour des élections municipales 2026.</description>
+        <link>https://nicolasfroidure.fr/agenda/municipales-2026-douai-second-tour</link>
+        <pubDate>Sun, 09 Nov 2025 02:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/municipales-2026-douai-premier-tour</guid>
+        <title>Municipales 2026 Douai - Premier tour</title>
+        <description>Premier tour des élections municipales 2026.</description>
+        <link>https://nicolasfroidure.fr/agenda/municipales-2026-douai-premier-tour</link>
+        <pubDate>Sun, 09 Nov 2025 01:00:00 GMT</pubDate>
+      </item>
+  </channel>
+</rss>
