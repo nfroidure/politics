@@ -6,7 +6,29 @@
   <subtitle>Découvrez les évènements militants importants du Douaisis.</subtitle>
   <link href="https://nicolasfroidure.fr/agenda.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/agenda" rel="alternate" type="text/html" />
-  <updated>2025-11-09T05:00:00.000Z</updated>
+  <updated>2025-11-10T10:30:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-freche</id>
+    <title>Ciné-débat : « Les engagés » d’Emilie Frèche</title>
+    <link href="https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-freche" rel="alternate" type="text/html" />
+    <updated>2025-11-10T10:30:00.000Z</updated>
+    <published>2025-11-10T10:30:00.000Z</published>
+    <summary>Dans le cadre des Nuits de Philosophie, Amnesty International Douai nous donne rendez-vous au cinéma Majestic de Douai à l’occasion d’un ciné-débat autour du film « Les engagés », d’Emilie Frèche.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/agenda/decouvrir-le-futur-pole-alimentaire-de-douai</id>
+    <title>Découvrir le futur pôle alimentaire de Douai</title>
+    <link href="https://nicolasfroidure.fr/agenda/decouvrir-le-futur-pole-alimentaire-de-douai" rel="alternate" type="text/html" />
+    <updated>2025-11-10T10:00:00.000Z</updated>
+    <published>2025-11-10T10:00:00.000Z</published>
+    <summary>Une réunion publique est organisée par la commune de Douai pour découvrir le projet de pôle alimentaire de la commune de Douai.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-douai</id>
     <title>Marche organisée par Nous Toutes Douai</title>

@@ -6,9 +6,37 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Nicolas Froidure
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:99WDHkpo39S192GdLbYyQ
+UID:ufTuWPFuFIeaA7ut9VF9P
+SUMMARY:Ciné-débat : « Les engagés » d’Emilie Frèche
+DTSTAMP:20251110T101147Z
+DTSTART:20251121T180000Z
+URL:https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-frech
+	e
+GEO:50.3760054;3.0760572
+LOCATION:Majestic de Douai Boulevard de la République\, 59500 Douai
+ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
+CREATED:20251110T103000Z
+LAST-MODIFIED:20251110T103000Z
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:--4ADxbp9BinKiAKa_PIw
+SUMMARY:Découvrir le futur pôle alimentaire de Douai
+DTSTAMP:20251110T101147Z
+DTSTART:20251113T160000Z
+URL:https://nicolasfroidure.fr/agenda/decouvrir-le-futur-pole-alimentaire-d
+	e-douai
+GEO:50.3901141;3.0885736
+LOCATION:Salle des Corons Verts 436 rue des Trannois à Douai
+ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
+CREATED:20251110T100000Z
+LAST-MODIFIED:20251110T100000Z
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:lFv6c5zmmOH3wOV_zE_f6
 SUMMARY:Marche organisée par Nous Toutes Douai
-DTSTAMP:20251109T183825Z
+DTSTAMP:20251110T101147Z
 DTSTART:20251122T140000Z
 URL:https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-doua
 	i
@@ -20,9 +48,9 @@ LAST-MODIFIED:20251109T050000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:rnIZAeZAoDWKNi4SxcsTC
+UID:gRorjDGoSPUrVUEl_5VG9
 SUMMARY:Visite de terrain de la Brayelle
-DTSTAMP:20251109T183825Z
+DTSTAMP:20251110T101147Z
 DTSTART:20251115T133000Z
 URL:https://nicolasfroidure.fr/agenda/visite-de-terrain-de-la-brayelle
 GEO:50.3630177;3.0550499
@@ -33,9 +61,9 @@ LAST-MODIFIED:20251109T040000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:VDy9HPpMHvIQId1zd2v3t
+UID:NBw4tAxA1r52hq-K1bZGn
 SUMMARY:Hôpital public : À quand les moyens ?
-DTSTAMP:20251109T183825Z
+DTSTAMP:20251110T101147Z
 DTSTART:20251114T123000Z
 URL:https://nicolasfroidure.fr/agenda/hopital-public-a-quand-les-moyens
 GEO:50.3383519;3.1024968
@@ -46,9 +74,9 @@ LAST-MODIFIED:20251109T030000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:gNfck3Id0v8J0k8D0J5S0
+UID:hkIH9c6Zb_EdR2vUAghgX
 SUMMARY:Municipales 2026 Douai - Second tour
-DTSTAMP:20251109T183825Z
+DTSTAMP:20251110T101147Z
 DTSTART:20260321T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-second-tour
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
@@ -57,9 +85,9 @@ LAST-MODIFIED:20251109T020000Z
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:O9U9rsjBLk9GYY27ZrsFB
+UID:cs3NktzhMp2RhmtQ--A-2
 SUMMARY:Municipales 2026 Douai - Premier tour
-DTSTAMP:20251109T183825Z
+DTSTAMP:20251110T101147Z
 DTSTART:20260314T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-premier-tour
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
