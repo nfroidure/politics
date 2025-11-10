@@ -53,7 +53,8 @@ export default function AgendaEntries({
           target="_blank"
         >
           ou via une URL
-        </Anchor>.
+        </Anchor>
+        .
       </Paragraph>
       <Events entries={entries} base={"/agenda/"} />
 

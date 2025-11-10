@@ -37,6 +37,10 @@ export async function generateMetadata(props: {
     pathname: `/blog${page && page !== 1 ? `/pages/${page}` : ""}`,
     title,
     description,
+    image: {
+      url: "/images/blog.png",
+      alt: "Bannière du blog",
+    },
   });
 
   return {

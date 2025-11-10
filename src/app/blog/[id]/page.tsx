@@ -43,7 +43,12 @@ export async function generateMetadata(props: {
             alt: entry.illustration.alt,
           },
         }
-      : {}),
+      : {
+          image: {
+            url: "/images/blog.png",
+            alt: "Bannière du blog",
+          },
+        }),
     ...(typeof entry.audio !== "undefined"
       ? {
           audio: {

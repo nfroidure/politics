@@ -41,7 +41,12 @@ export async function generateMetadata(props: {
             alt: entry.illustration.alt,
           },
         }
-      : {}),
+      : {
+          image: {
+            url: "/images/agenda.png",
+            alt: "Bannière de la page agenda",
+          },
+        }),
     ...(typeof entry.audio !== "undefined"
       ? {
           audio: {

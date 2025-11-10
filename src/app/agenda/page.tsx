@@ -38,6 +38,10 @@ export async function generateMetadata(props: {
     pathname: `/agenda${page && page !== 1 ? `/pages/${page}` : ""}`,
     title,
     description,
+    image: {
+      url: "/images/agenda.png",
+      alt: "Bannière de la page agenda",
+    },
   });
 
   return {
