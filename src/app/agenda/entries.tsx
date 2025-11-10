@@ -6,6 +6,8 @@ import Events from "./events";
 import Paragraph from "../../components/p";
 import { type AgendaDate } from "../../utils/agendaDate";
 import { type BasePagingPageMetadata } from "../../utils/contents";
+import UnorderedList from "@/components/ul";
+import ListItem from "@/components/li";
 
 export default function AgendaEntries({
   entries,
@@ -22,15 +24,37 @@ export default function AgendaEntries({
         m’apercevez. Vous pouvez également ajouter ces derniers à votre propre
         agenda{" "}
         <Anchor
-          href={"/agenda.ics"}
-          title={"Ajouter cet agenda à votre calendrier"}
+          href={`https://calendar.google.com/calendar/u/0/r?cid=${encodeURIComponent("webcal://nicolasfroidure.fr/agenda.ics")}`}
+          title="Ajouter cet agenda sur votre agenda Google"
           target="_blank"
         >
-          via ce lien
+          via Google Agenda
         </Anchor>
-        .
+        ,{" "}
+        <Anchor
+          href={`https://outlook.office.com/calendar/0/addfromweb/?url=${encodeURIComponent("webcal://nicolasfroidure.fr/agenda.ics")}`}
+          title="Ajouter cet agenda sur votre calendrier Outlook"
+          target="_blank"
+        >
+          via Outlook
+        </Anchor>
+        ,{" "}
+        <Anchor
+          href={`webcal://nicolasfroidure.fr/agenda.ics`}
+          title="Utiliser Webcal pour ouvrir cet agenda"
+          target="_blank"
+        >
+          via Webcal
+        </Anchor>
+        ,{" "}
+        <Anchor
+          href={`https://nicolasfroidure.fr/agenda.ics`}
+          title="Visiter l'URL de cet agenda"
+          target="_blank"
+        >
+          ou via une URL
+        </Anchor>.
       </Paragraph>
-
       <Events entries={entries} base={"/agenda/"} />
 
       <nav className={styles.pagination}>
