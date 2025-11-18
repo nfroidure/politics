@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["https://nicolasfroidure.fr/_next/static/chunks/a2999102c0729e8c.js","https://nicolasfroidure.fr/_next/static/chunks/2fdd8267dca97db1.js"],"default"]
-3:I[37457,["https://nicolasfroidure.fr/_next/static/chunks/a2999102c0729e8c.js","https://nicolasfroidure.fr/_next/static/chunks/2fdd8267dca97db1.js"],"default"]
-0:{"buildId":"QoPYE_quPNn2YPoZvMXbx","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["https://nicolasfroidure.fr/_next/static/chunks/4b54de822b37542e.js","https://nicolasfroidure.fr/_next/static/chunks/e6534307e9139e9f.js"],"default"]
+3:I[37457,["https://nicolasfroidure.fr/_next/static/chunks/4b54de822b37542e.js","https://nicolasfroidure.fr/_next/static/chunks/e6534307e9139e9f.js"],"default"]
+0:{"buildId":"YR8r9lJWanlNEmIavndwD","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
