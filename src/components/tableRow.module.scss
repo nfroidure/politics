@@ -1,0 +1,7 @@
+.tr {
+  height: var(--vRythm);
+  border: var(--border) solid var(--lightgrey);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0 var(--gutter);
+}

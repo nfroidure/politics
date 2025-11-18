@@ -1,0 +1,14 @@
+.root {
+  width: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin: 0 0 var(--vRhythm) 0;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: auto;
+}

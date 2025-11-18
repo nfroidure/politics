@@ -1,0 +1,7 @@
+.td {
+  text-overflow: ellipsis;
+  padding: 0 calc(var(--gutter) / 2);
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+}

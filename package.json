@@ -24,6 +24,7 @@
     "prettier": "^3.6.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "remark-gfm": "^4.0.1",
     "remark-parse": "^11.0.0",
     "sass": "^1.93.3",
     "unified": "11.0.5",

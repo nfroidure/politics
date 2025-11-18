@@ -1,0 +1,65 @@
+.th {
+  font-family: 'Barlow', sans-serif;
+  font-size: var(--tableHeaderFontSize);
+  font-weight: 600;
+  text-transform: uppercase;
+  border: calc(var(--border) * 0.5) solid var(--grey);
+  background-color: var(--lightgrey);
+  text-align: left;
+  padding: 0 calc(var(--gutter) / 2);
+  color: var(--darkgrey);
+  position: relative;
+  max-width: calc(var(--gutter) * 10);
+}
+.th:not(.disabled) {
+  cursor: pointer;
+}
+
+.th:hover:not(.disabled)::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  border-bottom: calc(var(--border) * 2) solid var(--primary);
+}
+.th:hover:not(.disabled) {
+  color: var(--brandSecondary);
+}
+.th:last-child {
+  width: calc(var(--gutter) * 10);
+  text-align: center;
+  text-overflow: unset;
+}
+.icon {
+  display: inline-flex;
+  width: var(--gutter);
+  height: var(--vRythm);
+  mask-repeat: no-repeat;
+  mask-position: center center;
+  mask-size: 100%;
+  margin: 0 0 0 calc(var(--hGrid) * 2);
+  vertical-align: middle;
+}
+
+.disabled .icon {
+  display: none;
+}
+
+.not_set_asc .icon {
+  mask-image: url('/icons/arrow-up.svg');
+  background: var(--neutralblack40);
+}
+.not_set_desc .icon {
+  mask-image: url('/icons/arrow-down.svg');
+  background: var(--neutralblack40);
+}
+
+.desc .icon {
+  mask-image: url('/icons/arrow-down.svg');
+  background: var(--primary100);
+}
+.asc .icon {
+  mask-image: url('/icons/arrow-up.svg');
+  background: var(--primary100);
+}
