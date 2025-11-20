@@ -6,9 +6,16 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 10 Nov 2025 10:30:00 GMT</lastBuildDate>
-    <pubDate>Tue, 18 Nov 2025 21:56:56 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 16:20:00 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 21:14:19 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/assemblee-generale-de-mon-hopital-ma-sante-ma-bataille</guid>
+        <title>Assemblée générale de « Mon hôpital, ma santé, ma bataille »</title>
+        <description>L’association « Mon hôpital, ma santé, ma bataille » tient son assemblée générale à Lewarde le premier décembre.</description>
+        <link>https://nicolasfroidure.fr/agenda/assemblee-generale-de-mon-hopital-ma-sante-ma-bataille</link>
+        <pubDate>Thu, 20 Nov 2025 16:20:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-freche</guid>
         <title>Ciné-débat : « Les engagés » d’Emilie Frèche</title>
