@@ -78,8 +78,8 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
     location: {
       "@type": "Place",
       address: entry.location,
-      latitude: entry.geolocation.lat,
-      longitude: entry.geolocation.lng,
+      latitude: entry.geolocation?.lat,
+      longitude: entry.geolocation?.lng,
     },
   };
 
