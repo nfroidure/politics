@@ -15,6 +15,7 @@ import {
 import { Fragment } from "react/jsx-runtime";
 import Heading1 from "@/components/h1";
 import Anchor from "@/components/a";
+import { type Event, type WithContext } from "schema-dts";
 
 export async function generateMetadata(props: {
   params?: Promise<{ id: string }>;
@@ -22,11 +23,11 @@ export async function generateMetadata(props: {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda"),
-    ),
+      pathJoin(".", "contents", "agenda")
+    )
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id,
+    ({ id }) => id === (params || {}).id
   ) as AgendaDate;
 
   return buildMetadata({
@@ -61,11 +62,26 @@ export async function generateMetadata(props: {
 export default async function Page(props: { params: Promise<{ id: string }> }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda")),
+    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda"))
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id,
+    ({ id }) => id === (params || {}).id
   ) as AgendaDate;
+
+  const jsonLd: WithContext<Event> = {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    name: entry.title,
+    description: entry.description,
+    startDate: entry.startDate,
+    eventStatus: "https://schema.org/EventScheduled",
+    location: {
+      "@type": "Place",
+      address: entry.location,
+      latitude: entry.geolocation.lat,
+      longitude: entry.geolocation.lng,
+    },
+  };
 
   return (
     <ContentBlock>
@@ -107,6 +123,12 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
         }).format(Date.parse(entry.date))}
         .
       </Paragraph>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <Paragraph>
         <Anchor href={"/agenda"} title="Retour à la liste">
           Retour
@@ -123,8 +145,8 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda"),
-    ),
+      pathJoin(".", "contents", "agenda")
+    )
   );
   const paths = baseListingMetadata.entries.map((entry) => ({
     id: entry.id,

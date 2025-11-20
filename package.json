@@ -27,6 +27,7 @@
     "remark-gfm": "^4.0.1",
     "remark-parse": "^11.0.0",
     "sass": "^1.93.3",
+    "schema-dts": "^1.1.5",
     "unified": "11.0.5",
     "yaml": "2.8.1",
     "yerror": "^8.0.0"
