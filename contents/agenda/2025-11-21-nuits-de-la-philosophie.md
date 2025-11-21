@@ -1,11 +1,14 @@
 ---
 title: "Ciné-débat : « Les engagés » d’Emilie Frèche"
 description: Dans le cadre des Nuits de Philosophie, Amnesty International Douai nous donne rendez-vous au cinéma Majestic de Douai à l’occasion d’un ciné-débat autour du film « Les engagés », d’Emilie Frèche.
+organizer: Amnesty International Douai
 date: "2025-11-10T10:30:00.000Z"
 startDate: "2025-11-21T18:00:00.000Z"
 duration:
   hours: 1
-location: Majestic de Douai Boulevard de la République, 59500 Douai
+location:
+  name: Majestic de Douai
+  address: Boulevard de la République 59500 Douai
 geolocation:
   lat: 50.3760054
   lng: 3.0760572

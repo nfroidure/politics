@@ -1,11 +1,14 @@
 ---
 title: Visite de terrain de la Brayelle
 description: Le collectif « Alerte La Brayelle » organise une visite de terrain pour (re)découvrir ce site menacé.
+organizer: Collectif Alerte La Brayelle
 date: "2025-11-09T04:00:00.000Z"
 startDate: "2025-11-15T13:30:00.000Z"
 duration:
   hours: 2
-location: Chemin de l’Enfant Jésus 59552 Lambres-lez-Douai
+location:
+  name: Site de la Brayelle
+  address: Chemin de l’Enfant Jésus 59552 Lambres-lez-Douai
 geolocation:
   lat: 50.3630177
   lng: 3.0550499

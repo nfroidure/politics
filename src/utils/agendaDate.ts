@@ -7,19 +7,24 @@ import type {
   BaseListingPageMetadata,
 } from "./contents";
 
+export type AgendaDuration = {
+  weeks?: number;
+  days?: number;
+  hours?: number;
+  minutes?: number;
+  seconds?: number;
+};
 export type AgendaDateFrontmatterMetadata = {
   title: string;
   description: string;
+  organizer: string;
   date: string;
   startDate: string;
-  duration: {
-    weeks?: number;
-    days?: number;
-    hours?: number;
-    minutes?: number;
-    seconds?: number;
+  duration: AgendaDuration;
+  location: {
+    name: string;
+    address: string;
   };
-  location: string;
   geolocation: {
     lat: number;
     lng: number;
@@ -45,7 +50,7 @@ export type AgendaDate = {
 
 export const POSTS_PER_PAGE = 25;
 export const entriesToBaseListingMetadata = (
-  baseEntries: FrontMatterResult<AgendaDateFrontmatterMetadata>[],
+  baseEntries: FrontMatterResult<AgendaDateFrontmatterMetadata>[]
 ): BaseListingPageMetadata<AgendaDate> => {
   const entries = baseEntries
     .map<AgendaDate>((entry) => ({
@@ -69,3 +74,16 @@ export const entriesToBaseListingMetadata = (
     pagesCount: Math.ceil(entries.length / POSTS_PER_PAGE),
   };
 };
+
+export function durationToMilliseconds(duration: AgendaDuration): number {
+  return (
+    ((typeof duration.weeks === "number"
+      ? duration.weeks * 7 * 24 * 60 * 60
+      : 0) +
+      (typeof duration.days === "number" ? duration.days * 24 * 60 * 60 : 0) +
+      (typeof duration.hours === "number" ? duration.hours * 60 * 60 : 0) +
+      (typeof duration.minutes === "number" ? duration.minutes * 60 : 0) +
+      (typeof duration.seconds === "number" ? duration.seconds : 0)) *
+    1000
+  );
+}

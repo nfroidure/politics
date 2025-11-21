@@ -1,11 +1,14 @@
 ---
 title: "Assemblée générale de « Mon hôpital, ma santé, ma bataille »"
 description: L’association « Mon hôpital, ma santé, ma bataille » tient son assemblée générale à Lewarde le premier décembre.
+organizer: Association « Mon hôpital, ma santé, ma bataille »
 date: "2025-11-20T16:20:00.000Z"
 startDate: "2025-12-01T17:30:00.000Z"
 duration:
   hours: 2
-location: Salle des Fête de Lewarde
+location:
+  name: Salle des Fête
+  address: Lewarde
 geolocation:
   lat: 50.3419019
   lng: 3.1663995

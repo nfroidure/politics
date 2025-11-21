@@ -11,15 +11,17 @@ import {
   entriesToBaseListingMetadata,
   type AgendaDateFrontmatterMetadata,
   type AgendaDate,
+  durationToMilliseconds,
 } from "../../../utils/agendaDate";
 import { Fragment } from "react/jsx-runtime";
 import Heading1 from "@/components/h1";
 import Anchor from "@/components/a";
 import { type Event, type WithContext } from "schema-dts";
+import { type Metadata } from "next";
 
 export async function generateMetadata(props: {
   params?: Promise<{ id: string }>;
-}) {
+}): Promise<Metadata> {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
@@ -74,10 +76,15 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
     name: entry.title,
     description: entry.description,
     startDate: entry.startDate,
+    endDate: new Date(
+      durationToMilliseconds(entry.duration) + Date.parse(entry.startDate)
+    ).toISOString(),
     eventStatus: "https://schema.org/EventScheduled",
+    organizer: entry.organizer,
     location: {
       "@type": "Place",
-      address: entry.location,
+      name: entry.location.name,
+      address: entry.location.address,
       latitude: entry.geolocation?.lat,
       longitude: entry.geolocation?.lng,
     },
@@ -96,10 +103,10 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
                 title="Voir sur un plan"
                 target="_blank"
               >
-                {entry.location}
+                {entry.location.name} {entry.location.address}
               </Anchor>
             ) : (
-              entry.location
+              `${entry.location.name} ${entry.location.address}`
             )}
             <br />
           </Fragment>

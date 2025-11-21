@@ -1,11 +1,14 @@
 ---
 title: "Découvrir le futur pôle alimentaire de Douai"
 description: Une réunion publique est organisée par la commune de Douai pour découvrir le projet de pôle alimentaire de la commune de Douai.
+organizer: Commune de Douai
 date: "2025-11-10T10:00:00.000Z"
 startDate: "2025-11-13T16:00:00.000Z"
 duration:
   hours: 1
-location: Salle des Corons Verts 436 rue des Trannois à Douai
+location:
+  name: Salle des Corons Verts
+  address: 436 rue des Trannois à Douai
 geolocation:
   lat: 50.3901141
   lng: 3.0885736
