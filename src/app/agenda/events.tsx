@@ -52,10 +52,10 @@ export default function Events({
                     title="Voir sur un plan"
                     target="_blank"
                   >
-                    {entry.location}
+                    {entry.location.name} {entry.location.address}
                   </Anchor>
                 ) : (
-                  entry.location
+                  `${entry.location.name} ${entry.location.address}`
                 )}
                 <br />
               </Fragment>
