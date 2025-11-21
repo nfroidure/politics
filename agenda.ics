@@ -6,37 +6,37 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Nicolas Froidure
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UDi2pn5IDie3joSa5eZiX
+UID:HEVQyTYs0Rag42b0xwFyu
 SUMMARY:Assemblée générale de « Mon hôpital\, ma santé\, ma bataille »
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251201T173000Z
 URL:https://nicolasfroidure.fr/agenda/assemblee-generale-de-mon-hopital-ma-
 	sante-ma-bataille
 GEO:50.3419019;3.1663995
-LOCATION:Salle des Fête de Lewarde
+LOCATION:Salle des Fête Lewarde
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251120T162000Z
 LAST-MODIFIED:20251120T162000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:gU-B4AlqKF_z_cutYNc1N
+UID:dkihdiQuzIhrp0Nraw41H
 SUMMARY:Ciné-débat : « Les engagés » d’Emilie Frèche
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251121T180000Z
 URL:https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-frech
 	e
 GEO:50.3760054;3.0760572
-LOCATION:Majestic de Douai Boulevard de la République\, 59500 Douai
+LOCATION:Majestic de Douai Boulevard de la République 59500 Douai
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251110T103000Z
 LAST-MODIFIED:20251110T103000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:9hHrhzDyvjwHNrrejD9rB
+UID:6td0eZ22189cpelawWLr_
 SUMMARY:Découvrir le futur pôle alimentaire de Douai
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251113T160000Z
 URL:https://nicolasfroidure.fr/agenda/decouvrir-le-futur-pole-alimentaire-d
 	e-douai
@@ -48,36 +48,37 @@ LAST-MODIFIED:20251110T100000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:GKR-grgypMPihyAbvI2lf
+UID:9JAQIVds7i-RN6aw3hW9E
 SUMMARY:Marche organisée par Nous Toutes Douai
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251122T140000Z
 URL:https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-doua
 	i
 GEO:50.3678093;3.0828754
-LOCATION:Place d’Armes 59500 Douai
+LOCATION:Place d’Armes Place d’Armes 59500 Douai
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251109T050000Z
 LAST-MODIFIED:20251109T050000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:Lt2i_2n_AjFRWzZTZNZFB
+UID:QEzrhk5bVB8LE0gamOnEh
 SUMMARY:Visite de terrain de la Brayelle
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251115T133000Z
 URL:https://nicolasfroidure.fr/agenda/visite-de-terrain-de-la-brayelle
 GEO:50.3630177;3.0550499
-LOCATION:Chemin de l’Enfant Jésus 59552 Lambres-lez-Douai
+LOCATION:Site de la Brayelle Chemin de l’Enfant Jésus 59552 Lambres-lez-Dou
+	ai
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251109T040000Z
 LAST-MODIFIED:20251109T040000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ioI6zmdWRkRtoCMnlpysN
+UID:9ONxfeAje7ODWaxrKEetu
 SUMMARY:Hôpital public : À quand les moyens ?
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20251114T123000Z
 URL:https://nicolasfroidure.fr/agenda/hopital-public-a-quand-les-moyens
 GEO:50.3383519;3.1024968
@@ -88,22 +89,24 @@ LAST-MODIFIED:20251109T030000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:6gdbK7L2Sq3ZUxUKYzvlH
+UID:HFucdQ5J8HIw6IdSdJDIh
 SUMMARY:Municipales 2026 Douai - Second tour
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20260321T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-second-tour
+LOCATION:Ville de Douai 59500 Douai
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251109T020000Z
 LAST-MODIFIED:20251109T020000Z
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:QF3CLTdWmDk9wwx_9DsGu
+UID:oDlCTZe0iarm9pESxeS2O
 SUMMARY:Municipales 2026 Douai - Premier tour
-DTSTAMP:20251120T211420Z
+DTSTAMP:20251121T132707Z
 DTSTART:20260314T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-premier-tour
+LOCATION:Ville de Douai 59500 Douai
 ORGANIZER;CN="Nicolas Froidure":MAILTO:nicolas.froidure@gmail.com
 CREATED:20251109T010000Z
 LAST-MODIFIED:20251109T010000Z
