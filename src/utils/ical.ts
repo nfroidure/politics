@@ -33,7 +33,7 @@ export async function generateICal(
       start: convertTimestampToArray(Date.parse(item.startDate), ""),
       startInputType: "utc",
       duration: item.duration,
-      location: item.location,
+      location: `${item.location.name} ${item.location.address}`,
       categories: item.categories,
       geo: item.geolocation
         ? {
