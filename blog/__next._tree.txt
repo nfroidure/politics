@@ -10,4 +10,4 @@
 :HL["https://nicolasfroidure.fr/illustrations/discours-justice.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/farcebook.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/transport-gratuit-pub.jpg","image"]
-0:{"buildId":"rRwaBdxrUG_DYquZr5pbH","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"9g8A_YtV42OS1bbiON2UN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
