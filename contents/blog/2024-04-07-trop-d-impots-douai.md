@@ -130,3 +130,9 @@ Cela s’opère, tranquillement, en dégradant des services publics… Une petit
 [Vidéo de Sud / Département du Nord](https://www.youtube.com/watch?v=Lr1dHFyIaNM "📺 Voir la vidéo")
 
 C’est donc la **répartition** et le **périmètre** qui évoluent ici, mais dans le mauvais sens, avec des répercussions claires sur la redistribution et donc, l’augmentation de la précarité sur notre territoire.
+
+---
+
+## Note rétrospective du 23 novembre 2025
+
+Une autre manière, avec l’efficience de la dépense publique, de réduire le poids de la fiscalité pour toutes et tous, est de favoriser le développement des acteurs économiques locaux et augmenter mécaniquement les recettes des collectivités. Quelques propositions sont à retrouver sur mon dernier article concernant le [développement économique à Douai](./developper-l-activite-economique-a-douai).
