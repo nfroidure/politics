@@ -6,9 +6,16 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 20 Nov 2025 16:20:00 GMT</lastBuildDate>
-    <pubDate>Sun, 23 Nov 2025 12:38:25 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2025 18:20:00 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Nov 2025 18:20:44 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/conference-debat-defendre-l-environnement-a-quel-prix</guid>
+        <title>Conférence débat « Défendre l’environnement, à quel prix ? »</title>
+        <description>Amnesty International Douai organise une conférence sur le droit et la défense de l’environnement.</description>
+        <link>https://nicolasfroidure.fr/agenda/conference-debat-defendre-l-environnement-a-quel-prix</link>
+        <pubDate>Wed, 26 Nov 2025 18:20:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/assemblee-generale-de-mon-hopital-ma-sante-ma-bataille</guid>
         <title>Assemblée générale de « Mon hôpital, ma santé, ma bataille »</title>
