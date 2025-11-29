@@ -1,6 +1,7 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/794070fbcbdf4ca7.css","style"]
 :HL["https://nicolasfroidure.fr/_next/static/chunks/4f95aa817b58837b.css","style"]
 :HL["https://nicolasfroidure.fr/_next/static/chunks/6bda50a5b0810d8d.css","style"]
+:HL["https://nicolasfroidure.fr/illustrations/creche-antoinette-dumont.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/cours-greenit-enigma-school.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/mirlitons-de-la-foire-de-saint-cloud.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/douai-quartier-barlet-centre.svg","image"]
@@ -10,5 +11,4 @@
 :HL["https://nicolasfroidure.fr/illustrations/terrain-football-stade-demeny.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/zac-a-vendre.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/terminal-linux.png","image"]
-:HL["https://nicolasfroidure.fr/illustrations/greenwashing.jpg","image"]
-0:{"buildId":"bjX6rmFIz9RsV_AVf63kL","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"9","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"dwU6xkwntQlkjS6C3VlKG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"9","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
