@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Nicolas Froidure
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:kGNUhOZWsWlNVZInL6YwI
+UID:vr7sroEDpeiR87d3RvxIf
 SUMMARY:Grève\, rassemblement pour Jean-Paul Delescaut\, et manifestation
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251211T190000Z
 URL:https://nicolasfroidure.fr/agenda/greve-rassemblement-pour-jean-paul-de
 	lescaut-et-manifestation
@@ -20,9 +20,9 @@ LAST-MODIFIED:20251130T094000Z
 DURATION:PT7H
 END:VEVENT
 BEGIN:VEVENT
-UID:YDV6dQ_YYkPHMHaCKj5Vz
-SUMMARY:Ciné-débat « Debout les Femmes ! »”
-DTSTAMP:20251130T101443Z
+UID:zFAXD0O-h6tTHqVLBjonA
+SUMMARY:Ciné-débat « Debout les Femmes ! »
+DTSTAMP:20251130T175216Z
 DTSTART:20251211T190000Z
 URL:https://nicolasfroidure.fr/agenda/cine-debat-debout-les-femmes
 GEO:50.3518939;3.1409144
@@ -33,9 +33,9 @@ LAST-MODIFIED:20251130T040000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9QJTlyP0FA8h-WAMWcZ5A
+UID:A0frprb2RqSxAM_lQxJbu
 SUMMARY:Conférence débat « Défendre l’environnement\, à quel prix ? »
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251209T180000Z
 URL:https://nicolasfroidure.fr/agenda/conference-debat-defendre-l-environne
 	ment-a-quel-prix
@@ -47,9 +47,9 @@ LAST-MODIFIED:20251126T182000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:2R8DOePrS2VCn0zkeYKHy
+UID:HMfRr5jYV8dIH6-SqhJuD
 SUMMARY:Assemblée générale de « Mon hôpital\, ma santé\, ma bataille »
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251201T173000Z
 URL:https://nicolasfroidure.fr/agenda/assemblee-generale-de-mon-hopital-ma-
 	sante-ma-bataille
@@ -61,9 +61,9 @@ LAST-MODIFIED:20251120T162000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:0ldbmf2BobkA34JI6_Ovv
+UID:_-AXawTvb_MwsNZHMgo6P
 SUMMARY:Ciné-débat : « Les engagés » d’Emilie Frèche
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251121T180000Z
 URL:https://nicolasfroidure.fr/agenda/cine-debat-les-engages-d-emilie-frech
 	e
@@ -75,9 +75,9 @@ LAST-MODIFIED:20251110T103000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:kTphePKK6-MDNmXD7RQFg
+UID:XChWQRGuUihL1rrQ-gt3_
 SUMMARY:Découvrir le futur pôle alimentaire de Douai
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251113T160000Z
 URL:https://nicolasfroidure.fr/agenda/decouvrir-le-futur-pole-alimentaire-d
 	e-douai
@@ -89,9 +89,9 @@ LAST-MODIFIED:20251110T100000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:mY7x98ZgvoCWxylQlf8tf
+UID:SW45U4MKrY7vapemtC5vQ
 SUMMARY:Marche organisée par Nous Toutes Douai
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251122T140000Z
 URL:https://nicolasfroidure.fr/agenda/marche-organisee-par-nous-toutes-doua
 	i
@@ -103,9 +103,9 @@ LAST-MODIFIED:20251109T050000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:NQGRl2J0_54oAR_sulbIg
+UID:Y0ujNZBCUtJRoIwHXMjn5
 SUMMARY:Visite de terrain de la Brayelle
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175216Z
 DTSTART:20251115T133000Z
 URL:https://nicolasfroidure.fr/agenda/visite-de-terrain-de-la-brayelle
 GEO:50.3630177;3.0550499
@@ -117,9 +117,9 @@ LAST-MODIFIED:20251109T040000Z
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:EqkfhzVKeIkv0B-GERnzk
+UID:vXiseRLfahkosfJXPjPpZ
 SUMMARY:Hôpital public : À quand les moyens ?
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175217Z
 DTSTART:20251114T123000Z
 URL:https://nicolasfroidure.fr/agenda/hopital-public-a-quand-les-moyens
 GEO:50.3383519;3.1024968
@@ -130,9 +130,9 @@ LAST-MODIFIED:20251109T030000Z
 DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:8qmo73BC79XF0v-ypYXX-
+UID:l_rV4gMOfr01dw2S5BSOw
 SUMMARY:Municipales 2026 Douai - Second tour
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175217Z
 DTSTART:20260321T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-second-tour
 LOCATION:Ville de Douai 59500 Douai
@@ -142,9 +142,9 @@ LAST-MODIFIED:20251109T020000Z
 DURATION:P1DT
 END:VEVENT
 BEGIN:VEVENT
-UID:8q0w_Ufw2JTFNE4CsWKS9
+UID:y3MQLVtdDj8nRqZbfNtDV
 SUMMARY:Municipales 2026 Douai - Premier tour
-DTSTAMP:20251130T101443Z
+DTSTAMP:20251130T175217Z
 DTSTART:20260314T230000Z
 URL:https://nicolasfroidure.fr/agenda/municipales-2026-douai-premier-tour
 LOCATION:Ville de Douai 59500 Douai
