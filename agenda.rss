@@ -6,9 +6,23 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 26 Nov 2025 18:20:00 GMT</lastBuildDate>
-    <pubDate>Sat, 29 Nov 2025 07:53:49 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 09:40:00 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 10:14:43 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/greve-rassemblement-pour-jean-paul-delescaut-et-manifestation</guid>
+        <title>Grève, rassemblement pour Jean-Paul Delescaut, et manifestation</title>
+        <description>Les organisations syndicales prévoient une journée de mobilisation contre l’austérité et pour de meilleurs salaires à l’heure où se vote le budget.</description>
+        <link>https://nicolasfroidure.fr/agenda/greve-rassemblement-pour-jean-paul-delescaut-et-manifestation</link>
+        <pubDate>Sun, 30 Nov 2025 09:40:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/cine-debat-debout-les-femmes</guid>
+        <title>Ciné-débat « Debout les Femmes ! »”</title>
+        <description>Projection du film, suivie d’un échange et d’un débat citoyen autour des métiers du lien, du soin et de l’accompagnement.</description>
+        <link>https://nicolasfroidure.fr/agenda/cine-debat-debout-les-femmes</link>
+        <pubDate>Sun, 30 Nov 2025 04:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/conference-debat-defendre-l-environnement-a-quel-prix</guid>
         <title>Conférence débat « Défendre l’environnement, à quel prix ? »</title>
