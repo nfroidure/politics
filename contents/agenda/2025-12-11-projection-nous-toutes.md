@@ -1,5 +1,5 @@
 ---
-title: Ciné-débat « Debout les Femmes ! »”
+title: Ciné-débat « Debout les Femmes ! »
 description: Projection du film, suivie d’un échange et d’un débat citoyen autour des métiers du lien, du soin et de l’accompagnement.
 organizer: Nous Toutes Douai
 date: "2025-11-30T04:00:00.000Z"
