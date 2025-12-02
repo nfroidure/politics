@@ -3,7 +3,7 @@ title: Grève, rassemblement pour Jean-Paul Delescaut, et manifestation
 description: Les organisations syndicales prévoient une journée de mobilisation contre l’austérité et pour de meilleurs salaires à l’heure où se vote le budget.
 organizer: CGT, FSU et Solidaires
 date: "2025-11-30T09:40:00.000Z"
-startDate: "2025-12-11T19:00:00.000Z"
+startDate: "2025-12-02T08:00:00.000Z"
 duration:
   hours: 7
 location:
