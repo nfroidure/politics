@@ -18,3 +18,5 @@ draft: false
 La journée commencera par un rassemblement à 9h devant le tribunal de Douai afin de soutenir Jean-Paul Delescaut, secrétaire général de la CGT Nord, entendu en appel ce jour là. Une [pétition en ligne](https://www.change.org/p/tous-et-toutes-solidaires-de-la-cgt-nord-et-de-jean-paul-delescaut-son-secr%C3%A9taire-g%C3%A9n%C3%A9ral) permet de lui témoigner votre soutien.
 
 À 14h, début de la manifestation, toujours face au tribunal.
+
+[Lire mon intervention lors de ce rassemblement](/blog/intervention-en-soutien-de-jean-paul-delescaut).
