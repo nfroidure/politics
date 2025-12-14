@@ -1,3 +1,6 @@
+.root {
+  overflow-wrap: break-word;
+}
 .root > :global(:first-child:last-child) {
   margin: 0;
 }
