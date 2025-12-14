@@ -1,9 +1,9 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/794070fbcbdf4ca7.css","style"]
-:HL["https://nicolasfroidure.fr/_next/static/chunks/4f95aa817b58837b.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/0ec54b72c6c180bb.css","style"]
 :HL["https://nicolasfroidure.fr/_next/static/chunks/6bda50a5b0810d8d.css","style"]
 :HL["https://nicolasfroidure.fr/illustrations/miroir-publicite-voeux-chereau-poiret.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/publicite-alcool-exemples.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/stop-pub.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/skinhead-lecluse.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/big-money.jpg","image"]
-0:{"buildId":"v7hBEe3iUVkLy-v5tgYrZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"3615-code-qui-n-en-voeux","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"D-wlpMVYlfFpkI5eXkAj6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"3615-code-qui-n-en-voeux","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
