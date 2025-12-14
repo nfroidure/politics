@@ -1,5 +1,5 @@
 .th {
-  font-family: 'Barlow', sans-serif;
+  font-family: "Barlow", sans-serif;
   font-size: var(--tableHeaderFontSize);
   font-weight: 600;
   text-transform: uppercase;
@@ -16,7 +16,7 @@
 }
 
 .th:hover:not(.disabled)::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 100%;
   bottom: 0;
@@ -47,19 +47,19 @@
 }
 
 .not_set_asc .icon {
-  mask-image: url('/icons/arrow-up.svg');
+  mask-image: url("/icons/arrow-up.svg");
   background: var(--neutralblack40);
 }
 .not_set_desc .icon {
-  mask-image: url('/icons/arrow-down.svg');
+  mask-image: url("/icons/arrow-down.svg");
   background: var(--neutralblack40);
 }
 
 .desc .icon {
-  mask-image: url('/icons/arrow-down.svg');
+  mask-image: url("/icons/arrow-down.svg");
   background: var(--primary100);
 }
 .asc .icon {
-  mask-image: url('/icons/arrow-up.svg');
+  mask-image: url("/icons/arrow-up.svg");
   background: var(--primary100);
 }

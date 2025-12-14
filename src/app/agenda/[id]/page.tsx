@@ -25,11 +25,11 @@ export async function generateMetadata(props: {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda")
-    )
+      pathJoin(".", "contents", "agenda"),
+    ),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as AgendaDate;
 
   return buildMetadata({
@@ -64,10 +64,10 @@ export async function generateMetadata(props: {
 export default async function Page(props: { params: Promise<{ id: string }> }) {
   const params = await props.params;
   const baseListingMetadata = entriesToBaseListingMetadata(
-    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda"))
+    await readEntries<AgendaDate>(pathJoin(".", "contents", "agenda")),
   );
   const entry = baseListingMetadata.entries.find(
-    ({ id }) => id === (params || {}).id
+    ({ id }) => id === (params || {}).id,
   ) as AgendaDate;
 
   const jsonLd: WithContext<Event> = {
@@ -77,7 +77,7 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
     description: entry.description,
     startDate: entry.startDate,
     endDate: new Date(
-      durationToMilliseconds(entry.duration) + Date.parse(entry.startDate)
+      durationToMilliseconds(entry.duration) + Date.parse(entry.startDate),
     ).toISOString(),
     eventStatus: "https://schema.org/EventScheduled",
     organizer: entry.organizer,
@@ -152,8 +152,8 @@ export default async function Page(props: { params: Promise<{ id: string }> }) {
 export async function generateStaticParams() {
   const baseListingMetadata = entriesToBaseListingMetadata(
     await readEntries<AgendaDateFrontmatterMetadata>(
-      pathJoin(".", "contents", "agenda")
-    )
+      pathJoin(".", "contents", "agenda"),
+    ),
   );
   const paths = baseListingMetadata.entries.map((entry) => ({
     id: entry.id,

@@ -19,9 +19,11 @@ illustration:
 
 ![François Guiffard avant et après sa compromission](/public/illustrations/francois-guiffard.jpg "🖼➡️")
 
-La colère passée, je tiens à revenir sur l’élection de Douaisis Agglo qui, comme certain·es s’en sont rendu·es compte, a crée une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
+La colère passée, je tiens à revenir sur l’élection de Douaisis Agglo qui, comme certain·es s’en sont rendu·es compte, a créé une polémique sur la composition du bureau et, notamment, la candidature de François Guiffard au poste de Vice Président.
 
-Je dois avouer que j’ai toujours été dubitatif sur le comportement populiste et les méthodes parfois limites de ce candidat aux élections municipales de Douai. Pourtant, avec EÉLV Douaisis, nous avons tout de même décidé de le rencontrer. Et ceci malgré son refus de travailler de concert avec toutes les forces de gauches (notamment son refus catégorique de discuter avec la majorité en place de Frédéric Chéreau).
+Passé par le Front de Gauche, puis La France Insoumise, pour en fin se présenter “sans étiquette” (mais soutenu par LFI), je dois avouer que j’ai toujours été dubitatif sur le comportement populiste et les méthodes parfois limites de ce candidat aux élections municipales de Douai et ses penchants mégalos.
+
+Pourtant, avec EÉLV Douaisis, nous avons tout de même décidé de le rencontrer. Et ceci malgré son refus de travailler de concert avec toutes les forces de gauches (notamment son refus catégorique de discuter avec la majorité en place de Frédéric Chéreau, Parti Socialiste).
 
 Après des discussions bilatérales, nous avons décidé que ce n’était pas souhaitable de fusionner avec la liste Ensemble Faisons Douai que ce dernier portait. Nous étions loin de nous douter du choix judicieux que nous venions de faire.
 

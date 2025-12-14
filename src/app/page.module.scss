@@ -1,5 +1,21 @@
 @use "../../styles/variables.scss";
 
+.douai_collectif {
+  margin-top: calc(var(--vRhythm) * -1);
+  margin-bottom: var(--vRhythm);
+  padding: calc(var(--vRhythm) / 2) var(--gutter);
+  background-color: var(--lightgrey);
+}
+.douai_collectif img {
+  float: left;
+  margin: 0 var(--gutter) 0 0;
+  width: calc(var(--vRhythm) * 7);
+  height: calc(var(--vRhythm) * 7);
+}
+.douai_collectif_p {
+  text-align: right;
+}
+
 .signature {
   height: calc(var(--vRhythm) * 3);
   text-align: center;

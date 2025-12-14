@@ -1,6 +1,6 @@
-import styles from './tableCell.module.scss';
+import styles from "./tableCell.module.scss";
 
-import { type HTMLAttributes, type ReactNode } from 'react';
+import { type HTMLAttributes, type ReactNode } from "react";
 
 export default function TableCell({
   children,
@@ -13,7 +13,7 @@ export default function TableCell({
 } & HTMLAttributes<HTMLTableCellElement>): ReactNode {
   return (
     <td
-      className={[styles.td, ...(className ? [className] : [])].join(' ')}
+      className={[styles.td, ...(className ? [className] : [])].join(" ")}
       colSpan={colSpan}
       {...props}
     >

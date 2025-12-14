@@ -1,3 +1,5 @@
+"use client";
+
 import styles from "./button.module.scss";
 import Link from "next/link";
 import { prefix } from "inline-style-prefixer";

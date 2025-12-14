@@ -7,7 +7,6 @@ import {
 import buildMetadata from "../utils/metadata";
 import { Fragment } from "react";
 import ContentBlock from "../components/contentBlock";
-import Heading1 from "../components/h1";
 import Heading2 from "../components/h2";
 import Paragraph from "../components/p";
 import Strong from "../components/strong";
@@ -19,10 +18,13 @@ import HorizontalRule from "../components/hr";
 import { NodeHtmlMarkdown } from "node-html-markdown";
 import { parseMarkdown, renderMarkdown } from "../utils/markdown";
 import type { MarkdownRootNode } from "../utils/markdown";
+import Button from "@/components/button";
+import { Metadata } from "next";
+import Heading1 from "@/components/h1";
 
 const htmlToMarkdown = new NodeHtmlMarkdown({});
 
-export async function generateMetadata() {
+export async function generateMetadata(): Promise<Metadata> {
   return buildMetadata({
     pathname: "/",
     title: "Blog politique d’un écologiste Douaisien",
@@ -41,7 +43,7 @@ export default async function Page() {
         }),
         mode: "cors",
         cache: "default",
-      },
+      }
     )
   ).json()) as Status[];
   const toots = body
@@ -49,7 +51,7 @@ export default async function Page() {
     .filter((toot) => toot.content)
     .map((toot) => {
       const text = parseMarkdown(
-        htmlToMarkdown.translate(toot.content),
+        htmlToMarkdown.translate(toot.content)
       ) as MarkdownRootNode;
 
       return {
@@ -63,33 +65,54 @@ export default async function Page() {
 
   return (
     <ContentBlock>
-      <Heading1>
-        Bienvenue sur le site Internet de
-        <br /> Nicolas Froidure
-      </Heading1>
+      <div className={styles.douai_collectif}>
+        <Heading2>
+          <img
+            src="https://douai-collectif.fr/images/header.svg"
+            alt="Logo Douai Collectif !"
+          />
+          Découvrez Douai Collectif
+        </Heading2>
+        <Paragraph>
+          Les prochaines municipales auront lieu en mars 2026. À Douai, nous
+          avons constitué un groupe composé d’élu·es, militant·es et citoyen·nes
+          concerné·es par la justice sociale et climatique. Ce groupe, c’est
+          Douai Collectif&nbsp;! pour une ville citoyenne, écologique et
+          solidaire.
+        </Paragraph>
+        <Paragraph className={styles.douai_collectif_p}>
+          <Button
+            type="link"
+            href={"https://douai-collectif.fr"}
+            label="Rejoignez-nous !"
+            title="Suivez les municipales 2026 à Douai"
+          />
+        </Paragraph>
+      </div>
+      <Heading1>Site de Nicolas Froidure</Heading1>
       <Paragraph>
-        Lassé de constater l’inaction des personnalités politiques classiques,
-        j’ai décidé de ne plus être spectateur de la vie politique, mais au
-        contraire de m’engager{" "}
-        <Strong>pour que l’écologie soit enfin mise en oeuvre&nbsp;!</Strong>
+        Bienvenue sur ce site qui me sert d’aide mémoire, de tribune, d’espace
+        de réflexion et de documentation de mes diverses activités militantes.
       </Paragraph>
       <Paragraph>
-        C’est donc naturellement que j’ai créé ce site pour vous permettre de
-        mieux connaître mon engagement et vous tenir informé·es de mon
-        actualité.
+        C’est aussi un espace de formation pour toute personne qui souhaite en
+        savoir plus sur la vie locale. J’essaie d’être le plus objectif,
+        exhaustif et pédagogue possible car je suis convaincu que la
+        transparence et l’ouverture d’esprit sont les clés d’un engagement
+        politique réussi.
       </Paragraph>
-      <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
+      <Paragraph>Sur ce site, retrouvez&nbsp;:</Paragraph>
       <UnorderedList>
         <ListItem>
           <Anchor href="/blog" title="Lire mes billets de blog">
-            Un blog politique&nbsp;:
+            un blog politique&nbsp;:
           </Anchor>{" "}
           j’y parle de politique locale, nationale mais aussi de sujet plus
           globaux,
         </ListItem>
         <ListItem>
           <Anchor href="/biographie" title="Lire la biographie">
-            Ma biographie&nbsp;:
+            ma biographie&nbsp;:
           </Anchor>{" "}
           pour vous permettre de découvrir qui je suis et en quoi je porte une
           expérience différente des personnalités politiques usuelles,
@@ -99,9 +122,15 @@ export default async function Page() {
             href="/faq"
             title="Voir les réponses aux question fréquemment posées"
           >
-            Une FAQ&nbsp;:
+            une <abbr></abbr>FAQ&nbsp;:
           </Anchor>{" "}
-          pour répondre aux questions que vous me posez.
+          pour répondre aux questions que vous me posez,
+        </ListItem>
+        <ListItem>
+          <Anchor href="/agenda" title="Voir les dates de mon agenda">
+            un agenda&nbsp;:
+          </Anchor>{" "}
+          pour connaitre les dates des divers évènements auxquels je participe.
         </ListItem>
       </UnorderedList>
       <Heading2>Rejoindre la dynamique&nbsp;!</Heading2>
@@ -119,7 +148,7 @@ export default async function Page() {
       </Paragraph>
       <Blockquote>
         <Paragraph>
-          Ensemble, remettons le réel au coeur de la politique !
+          Ensemble, remettons le réel au cœur de la politique&nbsp;!
         </Paragraph>
       </Blockquote>
       <Blockquote>

@@ -1,6 +1,6 @@
-import styles from './tableRow.module.scss';
+import styles from "./tableRow.module.scss";
 
-import { type HTMLAttributes, type ReactNode } from 'react';
+import { type HTMLAttributes, type ReactNode } from "react";
 
 export default function TableRow({
   children,
@@ -11,7 +11,7 @@ export default function TableRow({
 } & HTMLAttributes<HTMLTableRowElement>): ReactNode {
   return (
     <tr
-      className={[styles.tr, ...(className ? [className] : [])].join(' ')}
+      className={[styles.tr, ...(className ? [className] : [])].join(" ")}
       {...props}
     >
       {children}

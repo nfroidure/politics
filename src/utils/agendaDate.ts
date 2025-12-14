@@ -50,7 +50,7 @@ export type AgendaDate = {
 
 export const POSTS_PER_PAGE = 25;
 export const entriesToBaseListingMetadata = (
-  baseEntries: FrontMatterResult<AgendaDateFrontmatterMetadata>[]
+  baseEntries: FrontMatterResult<AgendaDateFrontmatterMetadata>[],
 ): BaseListingPageMetadata<AgendaDate> => {
   const entries = baseEntries
     .map<AgendaDate>((entry) => ({
