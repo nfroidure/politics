@@ -66,7 +66,7 @@ export default async function Page() {
   return (
     <ContentBlock>
       <div className={styles.douai_collectif}>
-        <Heading2>
+        <Heading2 className={styles.douai_collectif_h2}>
           <img
             src="https://douai-collectif.fr/images/header.svg"
             alt="Logo Douai Collectif !"
