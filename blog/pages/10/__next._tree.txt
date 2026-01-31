@@ -1,5 +1,6 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/513067e65ee8ab50.css","style"]
 :HL["https://nicolasfroidure.fr/_next/static/chunks/48fe9ab2b08486f4.css","style"]
+:HL["https://nicolasfroidure.fr/illustrations/zac-a-vendre.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/terminal-linux.png","image"]
 :HL["https://nicolasfroidure.fr/illustrations/greenwashing.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/francois-guiffard.jpg","image"]
@@ -8,5 +9,4 @@
 :HL["https://nicolasfroidure.fr/illustrations/codeurs.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/poste-de-transformation-danger-de-mort.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/stop-effet-de-serre.jpg","image"]
-:HL["https://nicolasfroidure.fr/illustrations/eelv-au-debat-europeenes.jpg","image"]
-0:{"buildId":"b4gUUPUxeMOcDf7bhM1Lc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"10","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"hm2FklPs4BypC5xEL71fQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"10","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
