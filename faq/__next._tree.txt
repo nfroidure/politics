@@ -2,4 +2,4 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/48fe9ab2b08486f4.css","style"]
 :HL["https://nicolasfroidure.fr//illustrations/article-jean-christophe-leclerq.png","image"]
 :HL["https://fr.statista.com/graphique/1/513052/accidents-circulation-nombre-de-tues-france.jpg","image"]
-0:{"buildId":"IgacLsnxgfAvn0Y845QRQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"faq","paramType":null,"paramKey":"faq","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"lhM8LFTNjC4BrhzGZLKnk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"faq","paramType":null,"paramKey":"faq","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -3,4 +3,4 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/9d49b6587b17b305.css","style"]
 :HL["https://douai-collectif.fr/images/header.svg","image"]
 :HL["/images/signature.svg","image"]
-0:{"buildId":"IgacLsnxgfAvn0Y845QRQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"lhM8LFTNjC4BrhzGZLKnk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
