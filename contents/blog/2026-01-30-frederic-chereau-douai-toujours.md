@@ -126,18 +126,16 @@ Elle semble incomplète, probablement dû aux défections exprimées sur Faceboo
 31. Malek HAMROUNI
 32. Sophie GILOT
 33. Adam STIVALA
-34.Karine VEYNACHTER
+34. Karine VEYNACHTER
 35. Louis DEBRABANT
 36. Avida OULHACENE
 37. Emmanuel BEAUMONT
 38. Séverine DUEZ
 39. Samuel MEKA
-40. 
-41. 
+40. ?
+41. ?
 42. Fabienne WINNE
 43. Francis FREMAUX
 44. Bernadette PORA
 45. Daniel SELLIER
 42. Fabienne WINNE
-
----
