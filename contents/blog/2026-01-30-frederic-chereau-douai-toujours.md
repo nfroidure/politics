@@ -27,11 +27,11 @@ C’est par un article dans l’Observateur du Douaisis que le secret de polichi
 
 ## Des vœux surprenants
 
-L’avant veille, Frédéric Chéreau présentait ses vœux à la population. Des vœux em forme de satisfécit, vantant un bilan réel et classant les oppositions à ce dernier dans la cas des « ronchons ».
+L’avant veille, Frédéric Chéreau présentait ses [vœux à la population](https://www.lavoixdunord.fr/1670161/article/2026-01-30/ses-voeux-frederic-chereau-vante-la-douceur-de-vivre-douai-et-rembarre-les). Des vœux en forme de satisfécit, vantant un bilan réel et classant les oppositions à ce dernier dans la case des « ronchons ».
 
 J’ai déploré ce manichéisme inversé. Oui, il y a des opposant·es qui dressent un tableau noir de la ville de Douai qui ne correspond pas à la réalité, mais tomber dans le travers inverse n’est pas propice à un débat serein. Si la campagne des municipales se résume à une guerre de tranchée entre les béats et les ronchons, elle risque de ne pas être très intéressante.
 
-à la fin de sa prise de parole, les soutiens de ce dernier ont tenté une standing ovation sans succès, seuls les trois premiers rangs de l’aile droite de la salle des fêtes, en clair, la claque organisée, se sont levés, le reste de la salle restant désespérément assis.
+À la fin de sa prise de parole, les soutiens de ce dernier ont tenté une standing ovation sans succès, seuls les trois premiers rangs de l’aile droite de la salle des fêtes, en clair, la claque organisée, se sont levés, le reste de la salle restant désespérément assis.
 
 ## Un démarrage tardif
 
@@ -47,15 +47,15 @@ Au moment de l’annonce de sa candidature, le site Internet de Douai Toujours �
 
 ## Une liste alliée à la droite dès le premier tour
 
-Alors que Frédéric Chéreau communique sur une liste « ancrée à gauche », si l’on en croit la très brève publication de la liste des candidat·es de la Douai Toujours de Frédéric Chéreau (voir à la fin de l’article), Maryse Carlier, conseillère régionale UDI, membre de la majorité de Xavier Bertrand, figurera en sixième position sur sa liste (ainsi qu’un autre UDI en position quasiment non éligible).
+Alors que Frédéric Chéreau communique sur une liste « ancrée à gauche », si l’on en croit la très brève publication des candidat·es de la liste Douai Toujours de Frédéric Chéreau (voir à la fin de l’article), Maryse Carlier, conseillère régionale UDI, membre de la majorité de Xavier Bertrand, figurera en sixième position sur sa liste (ainsi qu’un autre UDI en position quasiment non éligible).
 
-Un ralliement de premier tour qui est plus qu’étonnant, quand on sait qu’au conseil régional, elle vote toutes les destructions des services publics, l’ouverture à la concurrence des TER, la baisse des budgets de la culture, la baisse du budget de fonctionnement des lycées… D’ailleurs, les lycéen·nes et leurs enseignant·es avaient manifesté ce vote à la région en septembre.
+Un ralliement de premier tour qui est plus qu’étonnant, quand on sait qu’au conseil régional, elle vote toutes les destructions des services publics, l’ouverture à la concurrence des TER, la baisse des budgets de la culture, la baisse du budget de fonctionnement des lycées… D’ailleurs, les lycéen·nes et leurs enseignant·es avaient manifesté suite à ce vote à la région en septembre.
 
-Elle était également la numéro 2 de la liste de Thierry Tesson en 2020 (qui depuis est devenu le candidat du Rassemblement National pour les municipales à Douai). Bien qu’elle ne puisse être tenue pour responsable du basculement de ce dernier vers l’extrême droite, on peut tout de même supposer un ancrage à droite fort.
+Elle était également la numéro 2 de la liste de Thierry Tesson en 2020 (qui depuis est devenu le candidat du Rassemblement National pour les municipales à Douai). Bien qu’elle ne puisse être tenue pour responsable du basculement de ce dernier vers l’extrême droite, on peut tout de même supposer un ancrage à droite assez fort.
 
 ## Une attaque en règle contre Douai Collectif
 
-Autre grief, le premier acte de campagne de Frédéric Chéreau, le fameux article dans l’Observateur du Douaisis, aura commencé par une attaque en règle contre [Stéphanie Stiernon](https://stephaniestiernon.fr), signe de frilosité face à une candidate appréciée pour son sérieux et sa persévérance.
+Autre grief, le premier acte de campagne de Frédéric Chéreau, le fameux [article dans l’Observateur du Douaisis](https://www.lobservateur.fr/douai-maire-frederic-chereau-troisieme-mandat/), aura commencé par une attaque en règle contre [Stéphanie Stiernon](https://stephaniestiernon.fr), signe de frilosité face à une candidate appréciée pour son sérieux et sa persévérance.
 
 Frédéric Chéreau a caricaturé le positionnement de cette dernière en lui adressant deux attaques ciblées :
 
