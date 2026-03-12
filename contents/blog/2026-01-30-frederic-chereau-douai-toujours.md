@@ -39,7 +39,7 @@ De son propre aveu, Frédéric Chéreau « préfère un campagne courte et inte
 
 ## Un nom de liste étrange
 
-Après deux mandats à la tête de la ville, Douai Toujours résonne étrangement, s'agit-t-il de subconsciemment installer Frédéric Chéreau comme un maire pour toujours ? Je ne suis pas fan du tout. Je préférai Douai au Cœur, le nom de liste de 2020.
+Après deux mandats à la tête de la ville, Douai Toujours résonne étrangement, s’agit-t-il de subconsciemment installer Frédéric Chéreau comme un maire pour toujours ? Je ne suis pas fan du tout. Je préférai Douai au Cœur, le nom de liste de 2020.
 
 ## Un gros couac sur la communication
 
@@ -91,11 +91,11 @@ Douai Collectif a toujours proposé cette union de second tour au ratio des vote
 
 ## Liste telle que découverte sur le site de Douai Toujours
 
-Elle semble incomplète, probablement dû aux défections exprimées sur Facebook de deux personnes déçues de ne pas être éligible. Je la mettrai à jour quand elle sera de nouveau visible.
+Elle semble incomplète, probablement dû aux défections exprimées sur Facebook de deux personnes déçues de ne pas être éligible. Je la mettrai à jour quand elle sera de nouveau visible (la liste a été mise à jour avec celle déposée, on note l’absence au final de Malek HAMROUNI remplacé par Matteo ROSSI).
 
 1. Frédéric CHEREAU
 2. Agnès De BEUKELAER
-3. Mohamed KHERAKI
+3. Mohamed KHÉRAKI
 4. Auriane DELBARRE
 5. Hocine MAZY
 6. Maryse CARLIER
@@ -111,31 +111,30 @@ Elle semble incomplète, probablement dû aux défections exprimées sur Faceboo
 16. Carolle DIVRECHY
 17. Michaël DOZIERE
 18. Mélanie DECUPPER-LAUD
-19. Sebastien LENCLU
+19. Sebastien LANCLU
 20. Christine DERICQ
 21. Mohamed FELOUKI
-22. Céline VASSEUR
+22. Céline VASSEUR DUHIN
 23. Yves PIQUOT
-24. Maëlys RODICQ-TOUCHON
+24. Maëlys RODICQ TOUCHON
 25. Jimmy BIA
 26. Meïssa LEGRAND-REZGUI
 27. Théo IBERRAKENE
-28. Maelys RODICQ TOUCHON
+28. Sophie GILLOT
 29. Guy LAGACHE
-30. Sylvie FERON
-31. Malek HAMROUNI
-32. Sophie GILOT
+30. Sylvie FÉRON
+31. Matteo ROSSI
+32. Fabienne WINNE
 33. Adam STIVALA
 34. Karine VEYNACHTER
 35. Louis DEBRABANT
-36. Avida OULHACENE
+36. Émilie DENUDT
 37. Emmanuel BEAUMONT
 38. Séverine DUEZ
 39. Samuel MEKA
-40. ?
-41. ?
-42. Fabienne WINNE
+40. Avida OULAHCENE
+41. Alain MERIAUX
+42. Bernadette GWIZDEK
 43. Francis FREMAUX
-44. Bernadette PORA
+44. Denise LEBEAU
 45. Daniel SELLIER
-42. Fabienne WINNE
