@@ -6,9 +6,23 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 30 Nov 2025 09:40:00 GMT</lastBuildDate>
-    <pubDate>Thu, 12 Mar 2026 07:44:41 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 12:03:07 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/manifestation-a-la-brayelle</guid>
+        <title>Manifestation à la Brayelle</title>
+        <description>Appel à manifester le 25/4 à 15h à la Brayelle.</description>
+        <link>https://nicolasfroidure.fr/agenda/manifestation-a-la-brayelle</link>
+        <pubDate>Sat, 04 Apr 2026 11:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/journee-verte-de-douai</guid>
+        <title>Journée Verte de Douai</title>
+        <description>Une journée pour célébrer l&apos;écologie à Douai.</description>
+        <link>https://nicolasfroidure.fr/agenda/journee-verte-de-douai</link>
+        <pubDate>Sat, 04 Apr 2026 11:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/greve-rassemblement-pour-jean-paul-delescaut-et-manifestation</guid>
         <title>Grève, rassemblement pour Jean-Paul Delescaut, et manifestation</title>
