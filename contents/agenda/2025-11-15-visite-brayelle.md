@@ -20,3 +20,5 @@ Comme vous le savez sûrement, Douaisis Agglo s’apprête à détruire 80ha sup
 Un collectif constitué d’associations, de riverain·es et de citoyen·nes s’est constitué pour lutter contre ces nouvelles destructions de terres agricoles et naturelles.
 
 Rendez-vous le samedi 15 novembre à 14h30 pour découvrir cet espace sur le point d’être livré aux appétits féroces des bétonnières.
+
+Pour en savoir plus, lisez [mon article au sujet de La Brayelle](/blog/la-brayelle-en-danger-un-collectif-en-alerte).
