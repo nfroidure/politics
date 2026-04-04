@@ -4,7 +4,8 @@ description: Une journée pour célébrer l'écologie à Douai.
 organizer: Ville de Douai
 date: "2026-04-04T11:00:00.000Z"
 startDate: "2026-04-12T08:00:00.000Z"
-endDate: "2026-04-12T16:00:00.000Z"
+duration:
+  hours: 8
 location:
   name: Place Saint-Amé
   address: Place Saint-Amé 59500 Douai
