@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2026-01-30T14:30:00.000Z</updated>
+  <updated>2026-04-06T13:30:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/municipales-2026-resultats-analyses-et-perspectives</id>
+    <title>Municipales 2026 : résultats, analyses et perspectives</title>
+    <link href="https://nicolasfroidure.fr/blog/municipales-2026-resultats-analyses-et-perspectives" rel="alternate" type="text/html" />
+    <updated>2026-04-06T13:30:00.000Z</updated>
+    <published>2026-04-06T13:30:00.000Z</published>
+    <summary>Décevants et inquiétants, les résultats des élections municipales interrogent sur l’avenir de Douai. Faisons le bilan et dessinons les perspectives futures.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/frederic-chereau-maire-de-douai-toujours</id>
     <title>Frédéric Chéreau Maire de Douai Toujours ?</title>
