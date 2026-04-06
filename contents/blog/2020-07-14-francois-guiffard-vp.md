@@ -107,3 +107,9 @@ Mais aussi, le nouvel office de tourisme aux allures de peep show complètement 
 ![Affichage led de l’Office de Tourisme de Douai](/public/illustrations/office-de-tourisme-douai-led.jpg "🖼️➡️")
 
 Bref, une définition bien particulière de la « gamme » qui convient à la rue de Bellain…
+
+---
+
+## Note rétrospective du 6 avril 2026
+
+Finalement, après son virage à droite pour une Vice Présidence à l’agglo aux côtés de Christian POIRET, François GUIFFARD se retrouve à collaborer, [au terme des élections municipales 2026](./municipales-2026-resultats-analyses-et-perspectives), avec le Parti Socialiste pour un poste d’Adjoint au Maire. Parti qu’il dénigrait encore il y a peu aux côtés de la France Insoumise. La souplesse de ce dernier m’étonne à chaque élection.

@@ -89,6 +89,12 @@ Douai Collectif a toujours proposé cette union de second tour au ratio des vote
 
 ---
 
+## Note rétrospective du 6 avril 2026
+
+La liste Douai Toujours [a finalement remporté de justesse](./municipales-2026-resultats-analyses-et-perspectives "Lire mon article à ce propos") (à 154 voix) la mairie de Douai après s’être de nouveau diluée avec une liste de droite. Frédéric CHÉREAU réussit l’exploit d’emmener sur sa liste de second tour ses concurrents de la droite de l’échiquier politique du Douaisis aux élections municipales de 2020 et départementales de 2021. Le pari du barrage est réussi mais la dilution est forte. Difficile aujourd’hui de classer cette liste autrement qu’au centre, si cela a encore un sens de la classer tant l’écart entre ses composantes est grand.
+
+---
+
 ## Liste telle que découverte sur le site de Douai Toujours
 
 Elle semble incomplète, probablement dû aux défections exprimées sur Facebook de deux personnes déçues de ne pas être éligible. Je la mettrai à jour quand elle sera de nouveau visible (la liste a été mise à jour avec celle déposée, on note l’absence au final de Malek HAMROUNI remplacé par Matteo ROSSI).
