@@ -6,7 +6,29 @@
   <subtitle>Découvrez les évènements militants importants du Douaisis.</subtitle>
   <link href="https://nicolasfroidure.fr/agenda.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/agenda" rel="alternate" type="text/html" />
-  <updated>2026-04-04T11:00:00.000Z</updated>
+  <updated>2026-07-08T16:10:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/agenda/village-mega-canal-non-merci</id>
+    <title>Village Mega Canal Non-Merci !</title>
+    <link href="https://nicolasfroidure.fr/agenda/village-mega-canal-non-merci" rel="alternate" type="text/html" />
+    <updated>2026-07-08T16:10:00.000Z</updated>
+    <published>2026-07-08T16:10:00.000Z</published>
+    <summary>Un village associatif s’installe à Villers-au-Tertre contre le projet de canal Seine-Nord.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
+  <entry>
+    <id>https://nicolasfroidure.fr/agenda/manifestation-mega-canal-non-merci</id>
+    <title>Manifestation Mega Canal Non-Merci !</title>
+    <link href="https://nicolasfroidure.fr/agenda/manifestation-mega-canal-non-merci" rel="alternate" type="text/html" />
+    <updated>2026-07-08T16:10:00.000Z</updated>
+    <published>2026-07-08T16:10:00.000Z</published>
+    <summary>Une manifestation est prévue à Oisy-le-Verger contre le projet de canal Seine-Nord.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/agenda/manifestation-a-la-brayelle</id>
     <title>Manifestation à la Brayelle</title>
@@ -24,7 +46,7 @@
     <link href="https://nicolasfroidure.fr/agenda/journee-verte-de-douai" rel="alternate" type="text/html" />
     <updated>2026-04-04T11:00:00.000Z</updated>
     <published>2026-04-04T11:00:00.000Z</published>
-    <summary>Une journée pour célébrer l&apos;écologie à Douai.</summary>
+    <summary>Une journée pour célébrer l’écologie à Douai.</summary>
     <author>
       <name>Nicolas Froidure</name>
     </author>

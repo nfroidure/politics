@@ -6,9 +6,23 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Apr 2026 11:00:00 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Apr 2026 13:32:18 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:10:00 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 15:16:57 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/village-mega-canal-non-merci</guid>
+        <title>Village Mega Canal Non-Merci !</title>
+        <description>Un village associatif s’installe à Villers-au-Tertre contre le projet de canal Seine-Nord.</description>
+        <link>https://nicolasfroidure.fr/agenda/village-mega-canal-non-merci</link>
+        <pubDate>Wed, 08 Jul 2026 16:10:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/manifestation-mega-canal-non-merci</guid>
+        <title>Manifestation Mega Canal Non-Merci !</title>
+        <description>Une manifestation est prévue à Oisy-le-Verger contre le projet de canal Seine-Nord.</description>
+        <link>https://nicolasfroidure.fr/agenda/manifestation-mega-canal-non-merci</link>
+        <pubDate>Wed, 08 Jul 2026 16:10:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/manifestation-a-la-brayelle</guid>
         <title>Manifestation à la Brayelle</title>
@@ -19,7 +33,7 @@
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/journee-verte-de-douai</guid>
         <title>Journée Verte de Douai</title>
-        <description>Une journée pour célébrer l&apos;écologie à Douai.</description>
+        <description>Une journée pour célébrer l’écologie à Douai.</description>
         <link>https://nicolasfroidure.fr/agenda/journee-verte-de-douai</link>
         <pubDate>Sat, 04 Apr 2026 11:00:00 GMT</pubDate>
       </item>
