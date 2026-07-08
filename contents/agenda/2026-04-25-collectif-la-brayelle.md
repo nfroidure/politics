@@ -17,6 +17,6 @@ draft: false
 
 Le collectif alerte la Brayelle organise un appel à se mobiliser le samedi 25 avril à 15h00 sur la Brayelle. 
 
-Ce sera l'occasion d'échanger avec les agriculteurs des ornithologues et connaître l'avancée de la procédure. Une animation est proposée par la compagnie Batucada. 
+Ce sera l’occasion d’échanger avec les agriculteurs des ornithologues et connaître l’avancée de la procédure. Une animation est proposée par la compagnie Batucada. 
 
 Pour en savoir plus, lisez [mon article au sujet de La Brayelle](/blog/la-brayelle-en-danger-un-collectif-en-alerte).

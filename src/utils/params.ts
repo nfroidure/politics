@@ -1,6 +1,6 @@
 import { YError } from "yerror";
-import type { NextRouter } from "next/router";
 
+export type RawQueryParams = Record<string, string | string[]>;
 export type CastedQueryParamItem = boolean | number | string;
 export type CastedQueryParamCollection = boolean[] | number[] | string[];
 export type CastedQueryParam =
@@ -61,7 +61,7 @@ const QUERY_PARAMS_TYPE_STRINGIFYERS: Record<QueryParamType, ParamStringifyer> =
 
 export function readParams<T extends CastedQueryParams>(
   definitions: QueryParamDefinition,
-  query: NextRouter["query"],
+  query: RawQueryParams,
 ): T {
   return Object.keys(definitions).reduce((castedQuery, definitionName) => {
     const values: string[] =
@@ -105,7 +105,7 @@ export function readParams<T extends CastedQueryParams>(
 
 export function buildPath<T extends CastedQueryParams>(
   definitions: QueryParamDefinition,
-  router: Pick<NextRouter, "basePath" | "pathname" | "query">,
+  router: { basePath: string; pathname: string; query: RawQueryParams },
   addedParams: Partial<T>,
 ): string {
   const currentParams: CastedQueryParams = readParams(
