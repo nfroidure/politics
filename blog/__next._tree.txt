@@ -1,5 +1,6 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/513067e65ee8ab50.css","style"]
 :HL["https://nicolasfroidure.fr/_next/static/chunks/48fe9ab2b08486f4.css","style"]
+:HL["https://nicolasfroidure.fr/illustrations/big-money.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/municipales-2026-douai-annonce-resultats.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/frederic-chereau-maire-douai-toujours.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/jean-paul-delescaut.jpg","image"]
@@ -9,5 +10,4 @@
 :HL["https://nicolasfroidure.fr/illustrations/dechets-en-refus-de-collecte.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/marche-pour-gaza.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/magasin-georges-vernez.jpg","image"]
-:HL["https://nicolasfroidure.fr/illustrations/rassemblement-palestine-douai.jpg","image"]
-0:{"buildId":"orZpsVh-19r8gT0akMnIS","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ITjxWVllxkWbKwjDQStip","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
