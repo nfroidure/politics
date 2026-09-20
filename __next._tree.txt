@@ -3,4 +3,4 @@
 :HL["https://nicolasfroidure.fr/_next/static/chunks/c76ec57337ff9f84.css","style"]
 :HL["/illustrations/pour-une-prosperite-ecologique.webp","image"]
 :HL["/images/signature.svg","image"]
-0:{"buildId":"ITjxWVllxkWbKwjDQStip","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"vDxreyAH8XA5kEOD7liTO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
