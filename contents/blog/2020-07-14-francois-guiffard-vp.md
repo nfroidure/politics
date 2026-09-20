@@ -99,7 +99,7 @@ Du côté du positif, offrir, pour le demi de Gayant, une boisson sans alcool po
 
 En revanche, dans cette même rue de Bellain, deux verrues dégradent sérieusement, cette fois, réellement, la rue de Bellain.
 
-Le petit train et son nuage de fumée bien grasse de tracteur tondeuse dans une rue dont on a précisément viré les bagnoles... Il existe pourtant l’équivalent en électrique comme à Rouen où il est en service depuis 2019.
+Le petit train et son nuage de fumée bien grasse de tracteur tondeuse dans une rue dont on a précisément viré les bagnoles… Il existe pourtant l’équivalent en électrique comme à Rouen où il est en service depuis 2019.
 
 Mais aussi, le nouvel office de tourisme aux allures de peep show complètement ceinturé de panneaux d’affichage led à la gloire de Douaisis Agglo.
 

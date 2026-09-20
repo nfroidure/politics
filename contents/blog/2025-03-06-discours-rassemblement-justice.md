@@ -39,7 +39,7 @@ Quand l’extrême droite a l’oreille attentive du 4ème pouvoir, les médias,
 
 Et enfin, quand l’extrême droite se pense aux portes du pouvoir, elle commence déjà à lorgner sur ce pouvoir dont l’indépendance est cruciale pour protéger les citoyen·nes l’influence de tous les autres : la Justice !
 
-Avec des ami·es comme les partisan·es de Marine Le Pen, la France n’a pas besoin d’ennemi·es ! D’ailleurs, ses soutiens illibéraux internationaux ne s’y sont pas trompés : Trump, Bolsonaro, Orban, Musk... c’est carton plein de soutiens dont tout démocrate se passerait bien.
+Avec des ami·es comme les partisan·es de Marine Le Pen, la France n’a pas besoin d’ennemi·es ! D’ailleurs, ses soutiens illibéraux internationaux ne s’y sont pas trompés : Trump, Bolsonaro, Orban, Musk… c’est carton plein de soutiens dont tout démocrate se passerait bien.
 
 Alors aujourd’hui, redisons-le : vive l’État de Droit, vive l’indépendance de la Justice, vive la démocratie, vive la République et vive la France telle qu’on l’aime : libre, radieuse, émancipée, universelle : en un mot démocratique !
 

@@ -127,3 +127,25 @@ La profusion de banc permet de limiter les phénomènes d’enracinement sur un 
 J’ai pris tout de même la peine de rappeler aux habitant·es vent debout contre les bancs que les aménagements sont là pour toutes et tous et qu’il n’y a pas de citoyen·nes de seconde zone. On aménage pas une ville en regardant son nombril. D’ailleurs, les usagèr·es de [la ligne B](./ligne-b-du-bhns-et-le-velo) en ont fait les frais également puisque les bancs dans les proches arrêts on été supprimés également, une dame a exprimé sa difficulté à rester debout pour attendre le bus, surtout en cas de retard ou de suppression.
 
 Ce n’est pas parce que l’on a pas besoin de banc que d’autres personnes n’en bénéficient pas. Pour conclure, je pense que ces instants de consultation devraient être un levier pour faire sortir les citoyen·nes du fameux [« Nimby »](https://fr.wikipedia.org/wiki/Nimby), pas une flagornerie à visée électoraliste.
+
+---
+
+## Note rétrospective du 19 septembre 2026
+
+Le conseil de quartier Faubourg de Cambrai - Barlet - Centre a reçu une présentation du projet, mais nous n’avions pas eu ce dernier avant la réunion. Difficile dans ces conditions d’émettre un avis pertinent.
+
+Malheureusement, comme je le craignais, le projet essaie de ménager la chèvre et le chou sans trancher clairement entre une ville accueillante qui s’ouvre à l’autre et qui ne considère pas que l’espace public doit n’être qu’un lieu de passage et une ville pensée avant tout pour limiter les peurs, pas toujours rationnelles, de personnes recroquevillées sur elles-mêmes.
+
+Il n’y aura donc pas de passage cyclable dédié comme je le suggérais, mais un élargissement que je peine à imaginer sur le plan fournit par la municipalité.
+
+![Plan de l’aménagement du parvis du Grand Couple Heureux](/public/illustrations/projet-amenagement-parvis-grand-couple-heureux-plan.png)
+
+En guise d’assise, pas de banc, mais des sièges individuels au nombre ridiculement anecdotique de 4, confirmant la [direction prise par la commune](./amenagement-de-la-ville-creons-les-possibles#controler-ou-rendre-possible) de supprimer les bancs pour et éviter les attroupements ou l’utilisation par les personnes sans domicile fixe sans aucun égard pour les personnes qui en ont une utilisation normale.
+
+Position assumée clairement pas la commune qui regroupe pourtant socialistes et communistes qui semblent avoir renoncé à une vision transformatrice et positive de l’espace public et de la vie en collectivité.
+
+Un sujet aussi avec les bordures métalliques qui pourraient être dangereuses en cas de chute et entraver la sécurité des cyclistes (surtout enfants).
+
+Bref, je ne m’attendais à rien mais je suis quand même déçu…
+
+![Mobilier de l’aménagement du parvis du Grand Couple Heureux](/public/illustrations/projet-amenagement-parvis-grand-couple-heureux.png)

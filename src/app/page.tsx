@@ -43,7 +43,7 @@ export default async function Page() {
         }),
         mode: "cors",
         cache: "default",
-      }
+      },
     )
   ).json()) as Status[];
   const toots = body
@@ -51,7 +51,7 @@ export default async function Page() {
     .filter((toot) => toot.content)
     .map((toot) => {
       const text = parseMarkdown(
-        htmlToMarkdown.translate(toot.content)
+        htmlToMarkdown.translate(toot.content),
       ) as MarkdownRootNode;
 
       return {
@@ -68,24 +68,24 @@ export default async function Page() {
       <div className={styles.douai_collectif}>
         <Heading2 className={styles.douai_collectif_h2}>
           <img
-            src="https://douai-collectif.fr/images/header.svg"
+            src="/illustrations/pour-une-prosperite-ecologique.webp"
             alt="Logo Douai Collectif !"
           />
-          Découvrez Douai Collectif
+          Découvrez le programme des Écologistes
         </Heading2>
         <Paragraph>
-          Les prochaines municipales auront lieu en mars 2026. À Douai, nous
-          avons constitué un groupe composé d’élu·es, militant·es et citoyen·nes
-          concerné·es par la justice sociale et climatique. Ce groupe, c’est
-          Douai Collectif&nbsp;! pour une ville citoyenne, écologique et
-          solidaire.
+          Les prochaines élections présidentielles auront lieu 2027. Notre
+          programme propose 557 mesures pour réparer et prendre soin des
+          humaines et de la nature.
         </Paragraph>
         <Paragraph className={styles.douai_collectif_p}>
           <Button
             type="link"
-            href={"https://douai-collectif.fr"}
-            label="Rejoignez-nous !"
-            title="Suivez les municipales 2026 à Douai"
+            href={
+              "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet"
+            }
+            label="Lire le programme"
+            title="Lire le programme des Écologistes"
           />
         </Paragraph>
       </div>
@@ -95,11 +95,11 @@ export default async function Page() {
         de réflexion et de documentation de mes diverses activités militantes.
       </Paragraph>
       <Paragraph>
-        C’est aussi un espace de formation pour toute personne qui souhaite en
-        savoir plus sur la vie locale. J’essaie d’être le plus objectif,
-        exhaustif et pédagogue possible car je suis convaincu que la
-        transparence et l’ouverture d’esprit sont les clés d’un engagement
-        politique réussi.
+        C’est aussi un espace de d’information et de formation pour toute
+        personne qui souhaite en savoir plus sur la vie locale. J’essaie d’être
+        le plus objectif, exhaustif et pédagogue possible car je suis convaincu
+        que la transparence et l’ouverture d’esprit sont les clés d’un
+        engagement politique sincère.
       </Paragraph>
       <Paragraph>Sur ce site, retrouvez&nbsp;:</Paragraph>
       <UnorderedList>
@@ -142,7 +142,7 @@ export default async function Page() {
         >
           à me contacter
         </Anchor>{" "}
-        pour construire, avec moi, le renouveau politique dans le Douaisis et
+        pour construire ensemble le renouveau politique dans le Douaisis et
         porter les enjeux climatiques et sociaux auxquels nous devons faire
         face.
       </Paragraph>
