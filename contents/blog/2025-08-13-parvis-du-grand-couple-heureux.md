@@ -148,4 +148,4 @@ Un sujet aussi avec les bordures métalliques qui pourraient être dangereuses e
 
 Bref, je ne m’attendais à rien mais je suis quand même déçu…
 
-![Mobilier de l’aménagement du parvis du Grand Couple Heureux](/public/illustrations/projet-amenagement-parvis-grand-couple-heureux.png)
+![Mobilier de l’aménagement du parvis du Grand Couple Heureux](/public/illustrations/projet-amenagement-parvis-grand-couple-heureux-mobilier.png)
