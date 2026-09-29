@@ -6,9 +6,16 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 10:17:00 GMT</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 08:00:49 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 11:11:11 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/braderie-d-octobre-a-douai</guid>
+        <title>Braderie d’Octobre à Douai</title>
+        <description>Je serais, avec les Écologistes du Douaisis, sur leur stand lors de la braderie du 4 octobre 2026 à Douai.</description>
+        <link>https://nicolasfroidure.fr/agenda/braderie-d-octobre-a-douai</link>
+        <pubDate>Tue, 29 Sep 2026 11:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/marche-pour-le-climat-du-26-septembre-a-douai</guid>
         <title>Marche pour le climat du 26 septembre à Douai</title>
