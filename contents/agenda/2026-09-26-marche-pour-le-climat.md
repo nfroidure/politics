@@ -40,3 +40,12 @@ Un vrai succès à concrétiser samedi !
 ![Conférence de presse](/public/illustrations/fete-terre-tous-interview-presse.jpg)
 ![Le stand tenu par Bernard Coquelle](/public/illustrations/fete-terre-tous-bernard-coquelle.jpg)
 ![Exemple de pancarte, inaction climatique interdite](/public/illustrations/fete-terre-tous-pancarte-inaction-climatique-interdite.jpg)
+
+
+---
+
+## Note rétrospective du 29 septembre 2026
+
+Cette marche fût un véritable succès. 300 personnes se sont rendues à la marche et ont scandé des slogans originaux dans la joie et la bonne humeur. Les témoignages d’un pompier, d’un infirmier, d’une enseignante et les prises de paroles de nombreux collectifs ont été nombreuses. Enfin l’agora citoyenne à la fonderie a été très suivie après la marche. [Jacques Vernier](https://nicolasfroidure.fr/blog/critique-des-livres-que-sais-je-de-jacques-vernier), maire honoraire de la ville était présent démontrant l’aspect universel de cette lutte.
+
+[Vidéo de la marche](https://www.youtube.com/watch?v=3rPZ32vLP-w "📺")
