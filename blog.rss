@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 14:30:00 GMT</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 11:11:11 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:30:00 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 11:27:34 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/manifestations-lyceennes-a-douai-recit-et-perspectives</guid>
+        <title>Manifestations lycéennes à Douai : récit et perspectives</title>
+        <description>Mobilisé·es depuis presque une semaine, les lycéen·nes manifestaient ce 6 octobre entouré·es de parents, enseignant·es, de syndicalistes et de militant·es politiques.</description>
+        <link>https://nicolasfroidure.fr/blog/manifestations-lyceennes-a-douai-recit-et-perspectives</link>
+        <pubDate>Thu, 08 Oct 2026 11:30:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/taxer-les-riches-et-arreter-de-flamber</guid>
         <title>Taxer les riches et arrêter de flamber</title>
