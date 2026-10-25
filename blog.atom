@@ -6,7 +6,18 @@
   <subtitle>Découvrez le blog d&apos;un militant écologiste de Douai.</subtitle>
   <link href="https://nicolasfroidure.fr/blog.atom" rel="self" type="application/atom+xml" />
   <link href="https://nicolasfroidure.fr/blog" rel="alternate" type="text/html" />
-  <updated>2026-10-08T11:30:00.000Z</updated>
+  <updated>2026-10-25T12:30:00.000Z</updated>
+  <entry>
+    <id>https://nicolasfroidure.fr/blog/logiciel-et-ia-de-la-propriete-au-bien-commun</id>
+    <title>Logiciel et IA : De la propriété au bien commun</title>
+    <link href="https://nicolasfroidure.fr/blog/logiciel-et-ia-de-la-propriete-au-bien-commun" rel="alternate" type="text/html" />
+    <updated>2026-10-25T12:30:00.000Z</updated>
+    <published>2026-10-25T12:30:00.000Z</published>
+    <summary>Pourquoi le logiciel propriétaire vit ses derniers moments. Analyse de la commoditisation du code par l’IA, du rôle de l’Open Source comme station d’épuration sanitaire du web, et de la nécessité d’un soutien public aux fondations et développeur·euses.</summary>
+    <author>
+      <name>Nicolas Froidure</name>
+    </author>
+  </entry>
   <entry>
     <id>https://nicolasfroidure.fr/blog/manifestations-lyceennes-a-douai-recit-et-perspectives</id>
     <title>Manifestations lycéennes à Douai : récit et perspectives</title>
