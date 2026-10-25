@@ -15,6 +15,8 @@ illustration:
 
 # De la propriété au bien commun : la grande transition du logiciel à l’ère de l’IA
 
+![Photographie de l’écran géant d’Euratechnologies avec une fenêtre de mise à jour en surimpression de la communication sensée être affichée.](/public/illustrations/euratech-mise-a-jour-windows.jpg)
+
 L’avènement de l’intelligence artificielle bouscule bien des domaines. Aujourd’hui je souhaite parler d’un domaine qui me concerne, le développement logiciel.
 
 En effet, en tant que professionnel du secteur, et enseignant occasionnel, **je suis directement touché par l’impact de l’intelligence artificielle** sur cette profession.
