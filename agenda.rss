@@ -6,9 +6,16 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 11:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 12:55:27 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 12:03:00 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/assemblee-pour-l-annulation-de-la-dette-de-l-hopital</guid>
+        <title>Assemblée pour l’annulation de la dette de l’hôpital</title>
+        <description>L’hôpital de Douai est endetté d’environ 30 millions d’Euros, l’association « Mon Hôpital, Ma Santé, Ma Bataille » demande l’annulation de cette dette et organise un rassemblement.</description>
+        <link>https://nicolasfroidure.fr/agenda/assemblee-pour-l-annulation-de-la-dette-de-l-hopital</link>
+        <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/braderie-d-octobre-a-douai</guid>
         <title>Braderie d’Octobre à Douai</title>
