@@ -481,7 +481,7 @@ function eventuallyConvertHTMLNodes(rootNode: MarkdownRootNode): MarkdownNode {
       }
 
       if (!correspondingHTMLNode) {
-        throw new YError("E_NO_CORRESPONDING_NODE", htmlType);
+        throw new YError("E_NO_CORRESPONDING_NODE", [htmlType]);
       }
 
       const correspondingHTMLNodeIndex = rootNode.children.indexOf(

@@ -80,7 +80,7 @@ export function readParams<T extends CastedQueryParams>(
         ) as CastedQueryParamCollection;
 
       if (castedValue.length !== values.length) {
-        throw new YError("E_BAD_QUERY_PARAMS_TYPE", definitionName);
+        throw new YError("E_BAD_QUERY_PARAMS_TYPE", [definitionName]);
       }
     } else {
       castedValue = QUERY_PARAMS_TYPE_CASTERS[definitions[definitionName].type](
@@ -88,7 +88,7 @@ export function readParams<T extends CastedQueryParams>(
       );
 
       if (values.length && typeof castedValue === "undefined") {
-        throw new YError("E_BAD_QUERY_PARAM_TYPE", definitionName);
+        throw new YError("E_BAD_QUERY_PARAM_TYPE", [definitionName]);
       }
     }
 
@@ -121,7 +121,7 @@ export function buildPath<T extends CastedQueryParams>(
       let addedParts: string[];
 
       if (!definition) {
-        throw new YError("E_UNDEFINED_QUERY_PARAM", paramKey);
+        throw new YError("E_UNDEFINED_QUERY_PARAM", [paramKey]);
       }
 
       if (definition.mode === "collection") {
