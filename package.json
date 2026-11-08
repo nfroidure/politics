@@ -16,31 +16,31 @@
   "dependencies": {
     "@types/inline-style-prefixer": "^5.0.3",
     "front-matter": "^4.0.2",
-    "glob": "^13.0.0",
-    "ics": "^3.8.1",
+    "glob": "^14.0.4",
+    "ics": "^3.12.1",
     "inline-style-prefixer": "^7.0.1",
-    "next": "^16.0.3",
+    "next": "^16.4.5",
     "node-html-markdown": "^2.0.0",
-    "prettier": "^3.6.2",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
+    "prettier": "^3.9.10",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "remark-gfm": "^4.0.1",
     "remark-parse": "^11.0.0",
-    "sass": "^1.94.2",
-    "schema-dts": "^1.1.5",
+    "sass": "^1.108.1",
+    "schema-dts": "^2.1.0",
     "unified": "11.0.5",
-    "yaml": "2.8.1",
-    "yerror": "^8.0.0"
+    "yaml": "2.9.1",
+    "yerror": "^11.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^22",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.3",
+    "eslint": "^10",
+    "eslint-config-next": "16.4.5",
     "prettier": "^3.6.2",
-    "tsx": "^4.20.6",
-    "typescript": "^5"
+    "tsx": "^4.23.15",
+    "typescript": "^6"
   }
 }
