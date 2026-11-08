@@ -1,5 +1,5 @@
 ---
-title: "1 million de signatures contre CNews : Et après ?"
+title: "Pétition contre CNews : 1 million de signatures, et après ?"
 description: "Une pétition déposée sur le site de l’Assemblée Nationale a réuni aujourd’hui plus d’un million de signatures. Au-delà du symbole, examinons comment assurer le pluralisme tout en stoppant l’influence des ploutocrates."
 date: "2026-11-08T12:30:00.000Z"
 draft: false
