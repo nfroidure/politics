@@ -1,5 +1,6 @@
-:HL["https://nicolasfroidure.fr/_next/static/chunks/513067e65ee8ab50.css","style"]
-:HL["https://nicolasfroidure.fr/_next/static/chunks/48fe9ab2b08486f4.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/0isj02-lif22c.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/3y3ldhm21eue8.css","style"]
+:HL["https://nicolasfroidure.fr/illustrations/petition-cnews-million-signatures.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/euratech-mise-a-jour-windows.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/chatelet-manifestation-batman.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/big-money.jpg","image"]
@@ -9,5 +10,6 @@
 :HL["https://nicolasfroidure.fr/illustrations/la-brayelle-visite-terrain.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/mairie-douai.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/parvis-du-grand-couple-heureux-avant.jpg","image"]
-:HL["https://nicolasfroidure.fr/illustrations/dechets-en-refus-de-collecte.jpg","image"]
-0:{"buildId":"94Ql64VJhDFD5n_CggL5N","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"blog","h":96,"c":"$Q2"}]]
+0:{"b":"XU-szlx80756OBCV_dJkZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,7 +1,10 @@
-:HL["https://nicolasfroidure.fr/_next/static/chunks/513067e65ee8ab50.css","style"]
-:HL["https://nicolasfroidure.fr/_next/static/chunks/48fe9ab2b08486f4.css","style"]
-:HL["https://nicolasfroidure.fr/_next/static/chunks/738d3363c4e34546.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/0isj02-lif22c.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/3y3ldhm21eue8.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/2waq3t9l1wf0c.css","style"]
 :HL["https://nicolasfroidure.fr/illustrations/racines-club.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/cours-greenit-enigma-school.jpg","image"]
 :HL["https://nicolasfroidure.fr/illustrations/terminal-linux.png","image"]
-0:{"buildId":"94Ql64VJhDFD5n_CggL5N","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"hebergement-ethique-et-ecologique-equation-insoluble","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"hebergement-ethique-et-ecologique-equation-insoluble","s":["pages"]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"blog","h":96,"c":"$Q2"}]]
+0:{"b":"XU-szlx80756OBCV_dJkZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

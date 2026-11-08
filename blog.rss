@@ -6,9 +6,16 @@
     <description>Découvrez le blog d&apos;un militant écologiste de Douai.</description>
     <link>https://nicolasfroidure.fr/blog</link>
     <atom:link href="https://nicolasfroidure.fr/blog.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 25 Oct 2026 12:30:00 GMT</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 12:03:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:30:00 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 19:13:43 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/blog/petition-contre-cnews-1-million-de-signatures-et-apres</guid>
+        <title>Pétition contre CNews : 1 million de signatures, et après ?</title>
+        <description>Une pétition déposée sur le site de l’Assemblée Nationale a réuni aujourd’hui plus d’un million de signatures. Au-delà du symbole, examinons comment assurer le pluralisme tout en stoppant l’influence des ploutocrates.</description>
+        <link>https://nicolasfroidure.fr/blog/petition-contre-cnews-1-million-de-signatures-et-apres</link>
+        <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/blog/logiciel-et-ia-de-la-propriete-au-bien-commun</guid>
         <title>Logiciel et IA : De la propriété au bien commun</title>
