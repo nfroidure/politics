@@ -6,9 +6,30 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 12:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 08 Nov 2026 19:13:43 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 11:35:20 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/conference-sur-l-avenir-des-mobilites</guid>
+        <title>Conférence sur l’avenir des mobilités</title>
+        <description>Pour ses 30 ans, l’association Droit d’Vélo organise une conférence sur les mobilités.</description>
+        <link>https://nicolasfroidure.fr/agenda/conference-sur-l-avenir-des-mobilites</link>
+        <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/rassemblement-pour-la-journee-du-souvenir-transgenre</guid>
+        <title>Rassemblement pour la journée du souvenir transgenre</title>
+        <description>Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l&apos;association LGBT du Douaisis.</description>
+        <link>https://nicolasfroidure.fr/agenda/rassemblement-pour-la-journee-du-souvenir-transgenre</link>
+        <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/casserolade-pour-la-brayelle</guid>
+        <title>Casserolade pour la Brayelle</title>
+        <description>À force de ne pas être entendu, le Collectif Alerte La Brayelle organise un concert de casseroles devant la Mairie de Lambres-lez-Douai</description>
+        <link>https://nicolasfroidure.fr/agenda/casserolade-pour-la-brayelle</link>
+        <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/assemblee-pour-l-annulation-de-la-dette-de-l-hopital</guid>
         <title>Assemblée pour l’annulation de la dette de l’hôpital</title>

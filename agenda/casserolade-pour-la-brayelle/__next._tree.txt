@@ -1,0 +1,6 @@
+:HL["https://nicolasfroidure.fr/_next/static/chunks/0isj02-lif22c.css","style"]
+:HL["https://nicolasfroidure.fr/_next/static/chunks/3y3ldhm21eue8.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"casserolade-pour-la-brayelle","s":["pages"]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"agenda","h":96,"c":"$Q2"}]]
+0:{"b":"MgZ4Q7GF7HmbSiLzPCQVx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
