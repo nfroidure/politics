@@ -90,3 +90,13 @@ C’est en tout cas un paramètre à prendre en compte pour une extension de la 
 Aujourd’hui, avec les réseaux sociaux, une grande partie de l’information échappe totalement aux médias traditionnels. L’argent injecté dans ces derniers par les milliardaires pourrait tout à fait l’être à la place dans les réseaux sociaux.
 
 Le fait est qu’il est probable que ce soit déjà le cas. Ceci dit, j’ai traité ce sujet dans [un autre article le sujet des réseaux sociaux](./reseaux-sociaux-vraiment) qui, je pense, nécessitent également une régulation, a fortiori face à l’avènement de l’intelligence artificielle.
+
+---
+
+## note rétrospective du 15/11/2026
+
+La commission chargée de statuer sur la pétition a décidé de la classer et d’éviter le débat à l’Assemblée Nationale. Parmi les député·es ayant voté contre le débat, Thierry Tesson, le député RN de la 17ème circonscription du Nord (incluant Douai).
+
+Ce faisant, il confirme son soutien à la sphère Bolloré dont les médias assènent à longueur de journée des propos racistes menant à des discriminations, des blessé-es et des morts comme nous avons pu le constater à Trappes.
+
+[Voir mon intervention au rassemblement contre le racisme](https://youtu.be/UM52QtATAN0 "📺")

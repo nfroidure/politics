@@ -8,7 +8,7 @@ duration:
   hours: 8
 location:
   name: Douai
-  address: Place d’Armes
+  address: Place d’Armes 59500 Douai
 geolocation:
   lat: 50.36774894253049
   lng: 3.08281483118158

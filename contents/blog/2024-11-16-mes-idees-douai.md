@@ -204,3 +204,28 @@ La photo d’illustration est le studio de Radio Scarpe Sensée, radio locale bi
 Cette une idée proposée par ma fille, grande fan d’escalade.
 
 L’air des salles d’escalades est pollué à cause des micro-plastiques, de l’usure des équipements de sports, de la magnésie en suspension… c’est pourquoi je voudrais avoir un mur d’escalade en extérieur au Parc Jacques Vernier qui est assez grand pour l’accueillir. Il faudrait un mur initiatique pas trop haut et un mur confirmé qui soit vraiment un challenge pour les personnes habitué-es.
+
+---
+
+## Note rétrospective du 15 novembre 2026
+
+Cette année encore, j’ai soumis quelques idées au budget participatif de la ville de Douai.
+
+J’ai de nouveau soumis l’idée de faire des campagnes d’affichage contre les VSS. Une idée qui n’a pas été plébiscitée par la population, montrant qu’il faudra sûrement plus que des mots, mais bien, un volonté politique. D’ailleurs, je trouve réellement dommage que cette idée de Douai Collectif n’ait pas été mise en œuvre par la municipalité. Le département du Nord et la Mél se sont saisis du sujet, une bonne nouvelle, pour contrebalancer l’immobilisme des communes sur ce sujet...
+
+![Panneau d’affichage du département du Nord contre les VSS](../../public/illustrations/panneau-affichage-vss-departement-nord.jpg)
+![Panneau d’affichage dde la Mél contre les VSS](../../public/illustrations/panneau-affichage-vss-mel.jpg)
+
+Grande nouveauté, j’ai également détourné le système de participation pour avoir de réels échanges avec les services de la ville.
+
+En effet, l’année dernière, plusieurs de mes propositions ont été refusées. Jusqu’ici pas de problème. Cependant, les justifications de refus sont parfois, même à chaque fois, complètement lacunaires. Une simple phrase expliquant selon quel critère de la charte l’idée n’a pas été acceptée sans autre forme de procès ou d’explication.
+
+J’ai donc de nouveau proposé l’idée de faire un studio d’enregistrement pour podcasts et/ou live vidéo dans la maison des associations. Faute de dialogue, j’ai essayé d’anticiper les raisons qui ont pu pousser les services à penser que le budget serait supérieur à 25 000 € et génèrerait des frais récurrents.
+
+En effet, selon ma vision, le budget ne peut pas dépasser 25 000 € et ne génère pas de frais récurrents. Le matériel semi-professionnel est aujourd’hui très accessible (de nombreux podcasters/youtubers exerçant en amateur en possèdent) et les salles mises à disposition par la Mairie le sont déjà via les concierges donc le studio peut tout à fait être ouvert et fermé après usage par cette personne. On peut également imaginer la ou le concierge donner des consignes d’utilisation et aider à la première utilisation via une mini formation.
+
+J’ai également soumis une idée qui avait été acceptée l’année dernière, mais qui sera malheureusement exécutée dans des termes qui en sont très éloignés.
+
+La proposition de mur d’escalade sera, selon toute vraisemblance, faite au parc Charles Fenain avec uniquement des blocs, alors que la demande était pour le parc Parc Jacques Vernier avec des blocs, mais aussi un véritable mur d’escalade. La raison pour laquelle la demande était au parc Vernier est qu’il y a déjà des animateur·ices formé·es pour l’accrobranche et donc plus à même de gérer un véritable mur. C’est aussi un parc plus facilement accessible à vélo.
+
+C’est assez dommage de devoir attendre une année pour soumettre à nouveau une idée alors qu’avec un peu de dialogue en amont, ces idées auraient probablement pu être votées dès l’année dernière. Espérons du changement avant les prochaines élections municipales…

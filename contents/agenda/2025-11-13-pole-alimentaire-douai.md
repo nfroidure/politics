@@ -8,7 +8,7 @@ duration:
   hours: 1
 location:
   name: Salle des Corons Verts
-  address: 436 rue des Trannois à Douai
+  address: 436 rue des Trannois 59500 Douai
 geolocation:
   lat: 50.3901141
   lng: 3.0885736

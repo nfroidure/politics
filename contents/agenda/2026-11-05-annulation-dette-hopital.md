@@ -8,7 +8,7 @@ duration:
   hours: 2
 location:
   name: Douai
-  address: Avenue des Potiers
+  address: Avenue des Potiers 59500 Douai
 geolocation:
   lat: 50.373205234774474
   lng: 3.077436448325503
