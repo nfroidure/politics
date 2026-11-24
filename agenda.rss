@@ -6,9 +6,16 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Nov 2026 12:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 11:35:20 GMT</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 12:57:52 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/manifestation-contre-les-violences-sexistes-sexuelles-de-genre-et-d-etat</guid>
+        <title>Manifestation contre les violences sexistes, sexuelles, de genre et d’État</title>
+        <description>Nous Toutes Douai vous appelle à manifester contre les violences sexistes, sexuelles, de genre et d’État.</description>
+        <link>https://nicolasfroidure.fr/agenda/manifestation-contre-les-violences-sexistes-sexuelles-de-genre-et-d-etat</link>
+        <pubDate>Tue, 24 Nov 2026 13:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/conference-sur-l-avenir-des-mobilites</guid>
         <title>Conférence sur l’avenir des mobilités</title>
@@ -19,7 +26,7 @@
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/rassemblement-pour-la-journee-du-souvenir-transgenre</guid>
         <title>Rassemblement pour la journée du souvenir transgenre</title>
-        <description>Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l&apos;association LGBT du Douaisis.</description>
+        <description>Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l’association LGBT du Douaisis.</description>
         <link>https://nicolasfroidure.fr/agenda/rassemblement-pour-la-journee-du-souvenir-transgenre</link>
         <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
       </item>
