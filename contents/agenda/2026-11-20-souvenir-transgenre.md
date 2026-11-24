@@ -1,6 +1,6 @@
 ---
 title: Rassemblement pour la journée du souvenir transgenre
-description: Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l'association LGBT du Douaisis.
+description: Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l’association LGBT du Douaisis.
 organizer: Association LGBT du Douaisis
 date: "2026-11-15T12:00:00.000Z"
 startDate: "2026-11-20T18:00:00.000Z"
@@ -15,4 +15,4 @@ geolocation:
 draft: false
 ---
 
-Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l'association LGBT du Douaisis.
+Pour se souvenir des victimes de la transphobie, un rassemblement et des prises de parole sont organisées par l’association LGBT du Douaisis.
