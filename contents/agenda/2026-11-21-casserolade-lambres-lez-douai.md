@@ -15,8 +15,16 @@ geolocation:
 draft: false
 ---
 
-On ne nous entend pas... 
+On ne nous entend pas...
 
 Depuis un an, un grand nombre de courriers et contributions aux consultations publiques relatifs au projet de ZAC de La Brayelle et de l’Ermitage 1 qui sont restés sans réponse.
 
 En conséquence, un concert de casseroles est organisé devant la mairie de Lambres-lez-Douai afin de nous faire entendre. Venez en nombre avec vos casseroles et cuillères en bois !
+
+---
+
+## Note rétrospective du 25 novembre 2026
+
+Vous pouvez retrouver la vidéo de mon intervention ci-dessous.
+
+[Intervention pour la Brayelle](https://www.youtube.com/watch?v=C12lmb7Edis "📺")

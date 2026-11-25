@@ -20,6 +20,7 @@ Ce samedi 28 novembre, le collectif Nous Toutes Douai vous appelle à manifester
 Rendez-vous à 14h30, place d’Armes à Douai.
 
 Au programme :
+
 - un rassemblement avec des prises de parole d’associations;
 - le départ d’un cortège revendicatif dans les rues de Douai;
 - un retour place d’Armes pour clôturer la manifestation.
@@ -32,3 +33,9 @@ Nous comptons sur vous !💜
 
 En sororité et solidarité,
 Le collectif Nous Toutes Douai
+
+---
+
+En attendant, vous pouvez lire mon message pour la journée internationale de lutte contre les violences faites aux femmes.
+
+[Voir la vidéo](https://youtu.be/pGtaECMenOg "📺")
