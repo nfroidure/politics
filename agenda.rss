@@ -6,9 +6,23 @@
     <description>Découvrez les évènements militants importants du Douaisis.</description>
     <link>https://nicolasfroidure.fr/agenda</link>
     <atom:link href="https://nicolasfroidure.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 13:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 12:57:52 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 20:52:32 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/intelligence-artificielle-et-data-centers-comprendre-les-enjeux</guid>
+        <title>Intelligence Artificielle et data centers : comprendre les enjeux</title>
+        <description>Table ronde pour mesurer les impacts et interroger nos choix de société.</description>
+        <link>https://nicolasfroidure.fr/agenda/intelligence-artificielle-et-data-centers-comprendre-les-enjeux</link>
+        <pubDate>Wed, 25 Nov 2026 18:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/rassemblement-en-solidarite-avec-le-peuple-palestinien</guid>
+        <title>Rassemblement en Solidarité avec le Peuple Palestinien</title>
+        <description>L’AFPS Douai organise un rassemblement pour la Journée Internationale en Solidarité avec le Peuple Palestinien.</description>
+        <link>https://nicolasfroidure.fr/agenda/rassemblement-en-solidarite-avec-le-peuple-palestinien</link>
+        <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://nicolasfroidure.fr/agenda/manifestation-contre-les-violences-sexistes-sexuelles-de-genre-et-d-etat</guid>
         <title>Manifestation contre les violences sexistes, sexuelles, de genre et d’État</title>
